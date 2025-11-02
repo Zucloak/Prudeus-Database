@@ -1,0 +1,412 @@
+{
+  "summary": {
+    "total_files": 9277,
+    "already_valid": 8904,
+    "fixed_count": 0,
+    "could_not_fix": 373,
+    "errors": 0
+  },
+  "fixed_cases": [],
+  "unfixed_cases": [
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1996/may/A_M__No__95.json",
+      "case_number": "A.M. No. 95",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1996/september/Supreme_Court_E_LibraryInformation_At_Your_Fingert.json",
+      "case_number": "Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/A_C__No__6943.json",
+      "case_number": "A.C. No. 6943",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/A_M__No__2796.json",
+      "case_number": "A.M. No. 2796",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/A_M__No__94.json",
+      "case_number": "A.M. No. 94",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_34340.json",
+      "case_number": "opt_case_34340",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_34345.json",
+      "case_number": "opt_case_34345",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_34415.json",
+      "case_number": "opt_case_34415",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_34945.json",
+      "case_number": "opt_case_34945",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_35050.json",
+      "case_number": "opt_case_35050",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_35055.json",
+      "case_number": "opt_case_35055",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_35060.json",
+      "case_number": "opt_case_35060",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_35095.json",
+      "case_number": "opt_case_35095",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_52000.json",
+      "case_number": "opt_case_52000",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/december/A_C__No__4349.json",
+      "case_number": "A.C. No. 4349",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/march/A_M__No__95.json",
+      "case_number": "A.M. No. 95",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/november/A_C__No__4369.json",
+      "case_number": "A.C. No. 4369",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/november/A_M__No__93.json",
+      "case_number": "A.M. No. 93",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/november/A_M__No__96.json",
+      "case_number": "A.M. No. 96",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/october/A_M__No__97.json",
+      "case_number": "A.M. No. 97",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/september/Supreme_Court_E_LibraryInformation_At_Your_Fingert.json",
+      "case_number": "Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/A_C__No__6943.json",
+      "case_number": "A.C. No. 6943",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/A_M__No__00.json",
+      "case_number": "A.M. No. 00",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/A_M__No__93.json",
+      "case_number": "A.M. No. 93",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/A_M__No__94.json",
+      "case_number": "A.M. No. 94",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_35449.json",
+      "case_number": "opt_case_35449",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_35920.json",
+      "case_number": "opt_case_35920",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_35940.json",
+      "case_number": "opt_case_35940",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_36005.json",
+      "case_number": "opt_case_36005",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_36055.json",
+      "case_number": "opt_case_36055",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_36100.json",
+      "case_number": "opt_case_36100",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_52000.json",
+      "case_number": "opt_case_52000",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/december/A_C__No__1037.json",
+      "case_number": "A.C. No. 1037",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/january/A_M__No__2351.json",
+      "case_number": "A.M. No. 2351",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/june/A_C__No__3405.json",
+      "case_number": "A.C. No. 3405",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/november/A_M__No__97.json",
+      "case_number": "A.M. No. 97",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/november/A_M__No__98.json",
+      "case_number": "A.M. No. 98",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/september/Supreme_Court_E_LibraryInformation_At_Your_Fingert.json",
+      "case_number": "Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/12/A_C__No__6943.json",
+      "case_number": "A.C. No. 6943",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/12/A_M__No__12.json",
+      "case_number": "A.M. No. 12",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/12/A_M__No__94.json",
+      "case_number": "A.M. No. 94",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/12/opt_case_52000.json",
+      "case_number": "opt_case_52000",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/april/A_C__No__4826.json",
+      "case_number": "A.C. No. 4826",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/august/GR_106632.json",
+      "case_number": "GR_106632",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/december/A_C__No__675.json",
+      "case_number": "A.C. No. 675",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/june/GR_50623.json",
+      "case_number": "GR_50623",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/november/A_C__No__5170.json",
+      "case_number": "A.C. No. 5170",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/november/A_M__No__99.json",
+      "case_number": "A.M. No. 99",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/october/A_M__No__98.json",
+      "case_number": "A.M. No. 98",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    },
+    {
+      "fixed": false,
+      "original_gr": null,
+      "new_gr": null,
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/october/Supreme_Court_E_LibraryInformation_At_Your_Fingert.json",
+      "case_number": "Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "reason": "Could not extract GR number (might be A.M., A.C., or other non-GR case)"
+    }
+  ]
+}

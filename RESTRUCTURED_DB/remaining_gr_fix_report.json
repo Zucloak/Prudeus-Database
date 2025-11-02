@@ -1,0 +1,712 @@
+{
+  "summary": {
+    "total_files": 9277,
+    "already_valid": 8904,
+    "fixed_count": 373,
+    "could_not_fix": 0,
+    "errors": 0
+  },
+  "fixed_cases": [
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-95",
+      "file_path": "/workspace/RESTRUCTURED_DB/1996/may/A_M__No__95.json",
+      "case_number": "A.M. No. 95"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "ELIB-1996",
+      "file_path": "/workspace/RESTRUCTURED_DB/1996/september/Supreme_Court_E_LibraryInformation_At_Your_Fingert.json",
+      "case_number": "Supreme_Court_E-LibraryInformation_At_Your_Fingert"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-6943",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/A_C__No__6943.json",
+      "case_number": "A.C. No. 6943"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-2796",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/A_M__No__2796.json",
+      "case_number": "A.M. No. 2796"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-94",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/A_M__No__94.json",
+      "case_number": "A.M. No. 94"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-34340",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_34340.json",
+      "case_number": "opt_case_34340"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-34345",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_34345.json",
+      "case_number": "opt_case_34345"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-34415",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_34415.json",
+      "case_number": "opt_case_34415"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-34945",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_34945.json",
+      "case_number": "opt_case_34945"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-35050",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_35050.json",
+      "case_number": "opt_case_35050"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-35055",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_35055.json",
+      "case_number": "opt_case_35055"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-35060",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_35060.json",
+      "case_number": "opt_case_35060"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-35095",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_35095.json",
+      "case_number": "opt_case_35095"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-52000",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/12/opt_case_52000.json",
+      "case_number": "opt_case_52000"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-4349",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/december/A_C__No__4349.json",
+      "case_number": "A.C. No. 4349"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-95",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/march/A_M__No__95.json",
+      "case_number": "A.M. No. 95"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-4369",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/november/A_C__No__4369.json",
+      "case_number": "A.C. No. 4369"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-93",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/november/A_M__No__93.json",
+      "case_number": "A.M. No. 93"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-96",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/november/A_M__No__96.json",
+      "case_number": "A.M. No. 96"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-97",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/october/A_M__No__97.json",
+      "case_number": "A.M. No. 97"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "ELIB-1997",
+      "file_path": "/workspace/RESTRUCTURED_DB/1997/september/Supreme_Court_E_LibraryInformation_At_Your_Fingert.json",
+      "case_number": "Supreme_Court_E-LibraryInformation_At_Your_Fingert"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-6943",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/A_C__No__6943.json",
+      "case_number": "A.C. No. 6943"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-00",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/A_M__No__00.json",
+      "case_number": "A.M. No. 00"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-93",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/A_M__No__93.json",
+      "case_number": "A.M. No. 93"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-94",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/A_M__No__94.json",
+      "case_number": "A.M. No. 94"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-35449",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_35449.json",
+      "case_number": "opt_case_35449"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-35920",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_35920.json",
+      "case_number": "opt_case_35920"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-35940",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_35940.json",
+      "case_number": "opt_case_35940"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-36005",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_36005.json",
+      "case_number": "opt_case_36005"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-36055",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_36055.json",
+      "case_number": "opt_case_36055"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-36100",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_36100.json",
+      "case_number": "opt_case_36100"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-52000",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/12/opt_case_52000.json",
+      "case_number": "opt_case_52000"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-1037",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/december/A_C__No__1037.json",
+      "case_number": "A.C. No. 1037"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-2351",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/january/A_M__No__2351.json",
+      "case_number": "A.M. No. 2351"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-3405",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/june/A_C__No__3405.json",
+      "case_number": "A.C. No. 3405"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-97",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/november/A_M__No__97.json",
+      "case_number": "A.M. No. 97"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-98",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/november/A_M__No__98.json",
+      "case_number": "A.M. No. 98"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "ELIB-1998",
+      "file_path": "/workspace/RESTRUCTURED_DB/1998/september/Supreme_Court_E_LibraryInformation_At_Your_Fingert.json",
+      "case_number": "Supreme_Court_E-LibraryInformation_At_Your_Fingert"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-6943",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/12/A_C__No__6943.json",
+      "case_number": "A.C. No. 6943"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-12",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/12/A_M__No__12.json",
+      "case_number": "A.M. No. 12"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-94",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/12/A_M__No__94.json",
+      "case_number": "A.M. No. 94"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-52000",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/12/opt_case_52000.json",
+      "case_number": "opt_case_52000"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-4826",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/april/A_C__No__4826.json",
+      "case_number": "A.C. No. 4826"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "MISC-106632",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/august/GR_106632.json",
+      "case_number": "GR_106632"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-675",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/december/A_C__No__675.json",
+      "case_number": "A.C. No. 675"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "MISC-50623",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/june/GR_50623.json",
+      "case_number": "GR_50623"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-5170",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/november/A_C__No__5170.json",
+      "case_number": "A.C. No. 5170"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-99",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/november/A_M__No__99.json",
+      "case_number": "A.M. No. 99"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-98",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/october/A_M__No__98.json",
+      "case_number": "A.M. No. 98"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "ELIB-1999",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/october/Supreme_Court_E_LibraryInformation_At_Your_Fingert.json",
+      "case_number": "Supreme_Court_E-LibraryInformation_At_Your_Fingert"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-97",
+      "file_path": "/workspace/RESTRUCTURED_DB/1999/september/A_M__No__97.json",
+      "case_number": "A.M. No. 97"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-1474",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/12/A_C__No__1474.json",
+      "case_number": "A.C. No. 1474"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-5054",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/12/A_C__No__5054.json",
+      "case_number": "A.C. No. 5054"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-6943",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/12/A_C__No__6943.json",
+      "case_number": "A.C. No. 6943"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-94",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/12/A_M__No__94.json",
+      "case_number": "A.M. No. 94"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-50915",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/12/opt_case_50915.json",
+      "case_number": "opt_case_50915"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-50981",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/12/opt_case_50981.json",
+      "case_number": "opt_case_50981"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-52000",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/12/opt_case_52000.json",
+      "case_number": "opt_case_52000"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-4646",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/april/A_C__No__4646.json",
+      "case_number": "A.C. No. 4646"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-4700",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/april/A_C__No__4700.json",
+      "case_number": "A.C. No. 4700"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-5019",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/april/A_C__No__5019.json",
+      "case_number": "A.C. No. 5019"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-3910",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/august/A_C__No__3910.json",
+      "case_number": "A.C. No. 3910"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-3808",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/february/A_C__No__3808.json",
+      "case_number": "A.C. No. 3808"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-4749",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/january/A_C__No__4749.json",
+      "case_number": "A.C. No. 4749"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-4218",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/july/A_C__No__4218.json",
+      "case_number": "A.C. No. 4218"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-343",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/july/A_M__No__343.json",
+      "case_number": "A.M. No. 343"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-3319",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/june/A_C__No__3319.json",
+      "case_number": "A.C. No. 3319"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-98",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/june/A_M__No__98.json",
+      "case_number": "A.M. No. 98"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-2611",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/november/A_C__No__2611.json",
+      "case_number": "A.C. No. 2611"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-96",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/november/A_M__No__96.json",
+      "case_number": "A.M. No. 96"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "MISC-131155",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/november/GR_131155.json",
+      "case_number": "GR_131155"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-99",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/october/A_M__No__99.json",
+      "case_number": "A.M. No. 99"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "MISC-138081",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/october/GR_138081.json",
+      "case_number": "GR_138081"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-00",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/september/A_M__No__00.json",
+      "case_number": "A.M. No. 00"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-97",
+      "file_path": "/workspace/RESTRUCTURED_DB/2000/september/A_M__No__97.json",
+      "case_number": "A.M. No. 97"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-5955",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/12/A_C__No__5955.json",
+      "case_number": "A.C. No. 5955"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-6943",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/12/A_C__No__6943.json",
+      "case_number": "A.C. No. 6943"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-12",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/12/A_M__No__12.json",
+      "case_number": "A.M. No. 12"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-94",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/12/A_M__No__94.json",
+      "case_number": "A.M. No. 94"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-49642",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/12/opt_case_49642.json",
+      "case_number": "opt_case_49642"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-49797",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/12/opt_case_49797.json",
+      "case_number": "opt_case_49797"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-49832",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/12/opt_case_49832.json",
+      "case_number": "opt_case_49832"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-49910",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/12/opt_case_49910.json",
+      "case_number": "opt_case_49910"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-49935",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/12/opt_case_49935.json",
+      "case_number": "opt_case_49935"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-52000",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/12/opt_case_52000.json",
+      "case_number": "opt_case_52000"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-95",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/february/A_M__No__95.json",
+      "case_number": "A.M. No. 95"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-4215",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/may/A_C__No__4215.json",
+      "case_number": "A.C. No. 4215"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "MISC-123048",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/november/GR_123048.json",
+      "case_number": "GR_123048"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-00",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/october/A_M__No__00.json",
+      "case_number": "A.M. No. 00"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-96",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/october/A_M__No__96.json",
+      "case_number": "A.M. No. 96"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-98",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/october/A_M__No__98.json",
+      "case_number": "A.M. No. 98"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-99",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/october/A_M__No__99.json",
+      "case_number": "A.M. No. 99"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-01",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/september/A_M__No__01.json",
+      "case_number": "A.M. No. 01"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-92",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/september/A_M__No__92.json",
+      "case_number": "A.M. No. 92"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-93",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/september/A_M__No__93.json",
+      "case_number": "A.M. No. 93"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "ELIB-2001",
+      "file_path": "/workspace/RESTRUCTURED_DB/2001/september/Supreme_Court_E_LibraryInformation_At_Your_Fingert.json",
+      "case_number": "Supreme_Court_E-LibraryInformation_At_Your_Fingert"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AC-6943",
+      "file_path": "/workspace/RESTRUCTURED_DB/2002/12/A_C__No__6943.json",
+      "case_number": "A.C. No. 6943"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-12",
+      "file_path": "/workspace/RESTRUCTURED_DB/2002/12/A_M__No__12.json",
+      "case_number": "A.M. No. 12"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "AM-94",
+      "file_path": "/workspace/RESTRUCTURED_DB/2002/12/A_M__No__94.json",
+      "case_number": "A.M. No. 94"
+    },
+    {
+      "fixed": true,
+      "original_gr": null,
+      "new_gr": "OPT-50039",
+      "file_path": "/workspace/RESTRUCTURED_DB/2002/12/opt_case_50039.json",
+      "case_number": "opt_case_50039"
+    }
+  ],
+  "unfixed_cases": []
+}

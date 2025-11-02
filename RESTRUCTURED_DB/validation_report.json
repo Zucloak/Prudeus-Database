@@ -1,0 +1,9584 @@
+{
+  "total_cases": 9277,
+  "valid_cases": 7681,
+  "cases_with_issues": 1596,
+  "total_warnings": 1596,
+  "issues": [
+    {
+      "case_id": "1996_G.R. No. 107119",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33693",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 67635",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33710",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 112046",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33727",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33729",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 114001",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33736",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33738",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33739",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33740",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33741",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33742",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33743",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33745",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33986",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34030",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34031",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34032",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 76180",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 79827",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 94547",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 86640",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 103631",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34321",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34340",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34343",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34344",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34345",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34346",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34347",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34348",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34349",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 97556",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 96287",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 93640",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33529",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33535",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 99263",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33550",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 101302",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 111758",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 11355",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 121234",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 90452",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33494",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33495",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33496",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33498",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33499",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 111523",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 115983",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33845",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33848",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33860",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33865",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33886",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33899",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 104234",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 89823",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 99258",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_115759",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 117327",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33829",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33833",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 93028",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 113793",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33598",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33610",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33615",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 106229",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 11",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 92755",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33629",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 104662",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 109783",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 32592",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33749",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 84332",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 122396",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33764",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33766",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_33771",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_A.M. No. 95",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 87479",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34224",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 108743",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 56219",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 116279",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_122359",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_34160",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 116600",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 74262",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 115155",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 114290",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1996_G.R. No. 97936",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_A.M. No. 97",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 86640",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_opt_case_34340",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_opt_case_34345",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_opt_case_34415",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_A.M. No. 2796",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 94237",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 149549",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_opt_case_34945",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 116695",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_opt_case_35050",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_opt_case_35055",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_opt_case_35060",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 76039",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 155506",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_opt_case_35095",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 135042",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 126096",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34646",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 87758",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 88937",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 13908",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 85468",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 97044",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 00452",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 13453",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 107699",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 109783",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_35101",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 94545",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 115216",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 82220",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_35124",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_126749",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_A.M. No. 93",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 109617",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 116748",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 122743",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_35447",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_35448",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_35449",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_A.C. No. 4349",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_A.M. No. 95",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34296",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 2558",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34468",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 105907",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34492",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 93028",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_119657",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 120351",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34229",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34387",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34406",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 100866",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 102781",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 103964",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34974",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34988",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 60364",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34997",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_GR_114396",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 119407",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 96251",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 99343",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 117323",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34846",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34849",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 87318",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34534",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34541",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 116727",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 112834",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 112529",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 117186",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 77459",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 97351",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34766",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 102062",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34771",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 117702",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34815",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 108613",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 112810",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 110833",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 101312",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 10207",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 114266",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 122980",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_35377",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_A.C. No. 4369",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_A.M. No. 96",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 113517",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34250",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34251",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_34252",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 109849",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 117399",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 120894",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 100285",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 95028",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 95939",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_35221",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 104513",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1997_G.R. No. 120381",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 122980",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_A.M. No. 93",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 166052",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 113517",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_35449",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_35459",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 105292",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_35494",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_35514",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_35920",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_35940",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_A.C. No. 3405",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_A.M. No. 97",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 108454",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 135042",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_36005",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_A.M. No. 00",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_36055",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_36100",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 126096",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35729",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35743",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35749",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 116727",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 121683",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_GR_110823",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_GR_124303",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 93076",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 129529",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 125044",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_36587",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_36595",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_A.C. No. 1037",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_GR_90301",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35603",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 118824",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35627",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35628",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35629",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 44712",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35459",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 104666",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35486",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35494",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35514",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 70144",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 94457",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 96675",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_A.M. No. 2351",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35952",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35968",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35972",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 121377",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_GR_100210",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_GR_117873",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 119220",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 94115",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_A.M. No. 98",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35855",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35856",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35865",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35939",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_GR_101829",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_GR_116528",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 118691",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 126175",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35643",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 117217",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 122478",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 118332",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 108858",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 125240",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 89070",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 99030",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35693",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 116071",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35786",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 56431",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35815",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_35836",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_36397",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_GR_108731",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 119292",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_36541",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 104654",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_GR_125792",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_36433",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 118314",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 112034",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_33236",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_36254",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 122246",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 114332",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 116311",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 53429",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1998_G.R. No. 81826",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 135042",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 126096",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_36649",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 124973",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 123115",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 126124",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 130491",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 41329",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_A.C. No. 4826",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_A.M. No. 99",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_36762",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 91999",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_36771",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_36779",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_36782",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_GR_106632",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 130612",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 13677",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_102604",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_36917",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 117692",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 132607",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 124374",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 125537",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 109279",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_GR_135362",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_A.C. No. 675",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 128096",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 127569",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_29806",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 115835",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_29816",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_29821",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_29829",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_29837",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_GR_109660",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_A.M. No. 98",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 76414",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 123979",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 111270",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 106977",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 111107",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 121562",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_37350",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_37355",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 127663",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 128619",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 127903",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 126575",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 113201",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 124441",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_GR_50623",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_37470",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_37490",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_37499",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_GR_124829",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 117323",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_37621",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 121906",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 124933",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_A.C. No. 5170",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_37726",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 130092",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 132216",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_37887",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 111651",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_37900",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 82895",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_37927",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 123162",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 128136",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 110029",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 110554",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 118498",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 126367",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 129058",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 135451",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 96333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_38084",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_38087",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 107984",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 114904",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 117565",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 124760",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_G.R. No. 128386",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "1999_A.M. No. 97",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 135042",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 126096",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 1474",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_opt_case_50915",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_opt_case_50921",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_opt_case_50975",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_opt_case_50981",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 123300",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 5054",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 155732",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_opt_case_51065",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 177211",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_opt_case_51100",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53425",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53426",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.M. No. 99",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53428",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 5019",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 39516",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 126955",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 130591",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 127122",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 4646",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53441",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53442",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53443",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.M. No. 97",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53446",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53447",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 4700",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 124453",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 126118",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_35916",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 127845",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 131592",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 3910",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 136082",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 115079",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.M. No. 00",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 131505",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36951",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36967",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 115192",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 129439",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 130332",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 131472",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 133509",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 133735",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 135634",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 20093",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 82272",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 95089",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_33687",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_34636",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_34726",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_35797",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 124212",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 110111",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36088",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 107799",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 122743",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 128888",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 132748",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 125059",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_141249",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_72420",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_51096",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 3808",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_51109",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.M. No. 96",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_51147",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 129298",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_51198",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.M. No. 98",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 105556",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 121039",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_51226",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 91483",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_51248",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 109767",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 103547",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 119987",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 126413",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 127356",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 127815",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_GR_129058",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_GR_129676",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_50321",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_50336",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_50439",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_50444",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_50445",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 113363",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 122297",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 125763",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 4749",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_50630",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_50631",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 101837",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 128074",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 108759",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 121906",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 128222",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 49757",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 4218",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 131116",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36990",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_37785",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_37853",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.M. No. 343",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 134084",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 115692",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 119594",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 127903",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 131457",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_33799",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_33801",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_33802",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_33805",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_33806",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 80906",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_34675",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 3319",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 122764",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53236",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53237",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 125537",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 130091",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 118971",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 134096",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53279",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_53280",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 105084",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 106213",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 121669",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 131290",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_GR_138081",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 118423",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 36270",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_33484",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 125330",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_54446",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_35872",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_35889",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 122770",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_35977",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 1277845",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 135330",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_A.C. No. 2611",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36149",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36222",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 133527",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 130609",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_GR_130845",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_GR_131155",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 133517",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 135855",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 130785",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 139890",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 53425",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_35795",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_35864",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_35907",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 129288",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36005",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36055",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_GR_115192",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 126199",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 127156",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 132058",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 117040",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_35826",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 123267",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_35920",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36011",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_109797",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36179",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 132025",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36312",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_36313",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 124895",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 07339",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 104865",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_GR_121572",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 123045",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2000_G.R. No. 134027",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_opt_case_49642",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 56218",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 171340",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.C. No. 5955",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 173588",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 130492",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 139844",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 99868",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_opt_case_49767",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_opt_case_49797",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_opt_case_49832",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_opt_case_49910",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_opt_case_49935",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 140519",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 146639",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.M. No. 95",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 134523",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 146738",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_51154",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52071",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52080",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 130603",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52086",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 109774",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 128112",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 140006",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 136149",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 129970",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52466",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.M. No. 99",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 134368",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52471",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 126468",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 129239",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52479",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 130965",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 93028",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 139834",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 137672",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 130425",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 135109",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 142261",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 146637",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 93805",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 95625",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.M. No. 00",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_35535",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 128721",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_53079",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 138306",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_53096",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_53100",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.M. No. 92",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 113265",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_53120",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_53122",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_53124",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_130653",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_53126",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 134056",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_53144",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 124892",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_126166",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 127570",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 131203",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 138646",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 96073",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_50081",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_50083",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_50087",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_50118",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 120646",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_50175",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_50180",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 128587",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 124215",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 124453",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 124832",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_125542",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 130408",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 130609",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 134084",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_134744",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 135517",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_49754",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_49755",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_49767",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_49769",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_49770",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 126148",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_49805",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_49811",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 130602",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 120283",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 121980",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 131942",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52358",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52366",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52369",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52372",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52374",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_104223",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52379",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52385",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52390",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_104383",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52399",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 129019",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 128114",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_101974",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_102313",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_102696",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_104802",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_105647",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_112590",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 113345",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_128108",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_131472",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 137609",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52213",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.M. No. 96",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52227",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52234",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52236",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52237",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52241",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 129534",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52257",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 134504",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 110547",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 122473",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 132696",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 132772",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 133872",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_50474",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 132446",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 135667",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 137481",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_50574",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_50589",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_50621",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 129742",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 117690",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 123541",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 124976",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 126048",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 126814",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 129208",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_129439",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 133477",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 133647",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_134122",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 135202",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 135775",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52143",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52167",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_130627",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52188",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52189",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52195",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52199",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.C. No. 4215",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 145851",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52910",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52911",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52915",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 133888",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 125306",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.M. No. 01",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 107799",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52947",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52949",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 126096",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52964",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52965",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 108743",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 111563",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_123048",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 137842",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 138887",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 22909",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 130630",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 119071",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 64276",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52780",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52787",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52790",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.M. No. 98",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 82585",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52805",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 117482",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_128514",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 130332",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_130609",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_137714",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 141843",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52598",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52605",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_A.M. No. 93",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 131532",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 119609",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52620",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 136094",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52625",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 129112",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52631",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52636",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52637",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52639",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 133859",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52643",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 37055",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_52652",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 116022",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 126050",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_GR_126253",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 130663",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 132289",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 133573",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 135201",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 137135",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 138943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2001_G.R. No. 80102",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 121980",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_opt_case_50024",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_opt_case_50039",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 136228",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_opt_case_50089",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_opt_case_50129",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 120646",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_opt_case_50139",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 172243",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_opt_case_50400",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_opt_case_50445",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 113363",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 132446",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.M. No. 95",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 151954",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_opt_case_50515",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 130523",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 154521",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50347",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50642",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 127158",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50649",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50650",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50651",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50667",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 133814",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50678",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50699",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50719",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50720",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50721",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50723",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50726",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50759",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 103302",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 122152",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 128046",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 142564",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 143030",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_Supreme_Court_E-LibraryInformation_At_Your_Fingert",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 117018",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 129070",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 139626",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 137842",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 128289",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51300",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51310",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 132725",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 130170",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 131736",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_134278",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 135557",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_135848",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_137842",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_139695",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 140604",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 142728",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 19533",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 77969",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50123",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50129",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50130",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50139",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50156",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50157",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50158",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50183",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50185",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 134004",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 131805",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50206",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 133026",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 125985",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50243",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.M. No. 99",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 102018",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 120280",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 124244",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 128768",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 133480",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 133583",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 136790",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 137647",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 139112",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 140823",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 139844",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_49750",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_49751",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.M. No. 00",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 133489",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_49776",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 117485",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 133922",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 102706",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_49785",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_49797",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 136137",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_49824",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_49832",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 129769",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_132170",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 132714",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_133695",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_133925",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 136757",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 93640",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51234",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51235",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51236",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.C. No. 2841",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51264",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 131806",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 137841",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 116279",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51892",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 141136",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 105248",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 120381",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 124686",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 127903",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 131203",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_132714",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 137672",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 137649",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_141782",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 148560",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51125",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51133",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51158",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51162",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 139961",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.C. No. 5713",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51196",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 137514",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 139329",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.M. No. 93",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51212",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 139552",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 125341",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.C. No. 1372",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_128285",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_137841",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_49855",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50365",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 133910",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 93707",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 118821",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50508",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50531",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50558",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50571",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_137696",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50915",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.M. No. 02",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50919",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50967",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50968",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50975",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_50993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 123300",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51024",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.C. No. 5054",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 145531",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 129285",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 123176",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 137843",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_148965",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.C. No. 2797",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.M. No. 01",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51571",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51572",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51574",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_A.M. No. 98",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51579",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51606",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51616",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_138838",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_142981",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 85823",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 116092",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 106826",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_51443",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 143755",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 107967",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 132321",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 137664",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_G.R. No. 138805",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2002_GR_143702",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_48024",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 139695",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 141881",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 102781",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_48064",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_48099",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 157568",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_A.M. No. 5831",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_48139",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_A.M. No. 01",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_48174",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_48440",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_48455",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 131889",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_A.C. No. 5925",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 133876",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_48545",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_A.C. No. 5305",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_A.C. No. 6490",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_A.M. No. 980",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_48585",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 94699",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_48600",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2003_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_A.M. No. 01",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 146569",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_A.M. No. 02",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_A.M. No. 99",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 117406",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_opt_case_46670",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 127400",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 147033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_A.C. No. 4219",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_opt_case_47030",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 138365",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_A.C. No. 5809",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 152884",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2004_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 235484",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_B.M. No. 3490",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_A.M. No. 02",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_A.C. No. 13675",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_opt_case_69092",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 152589",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_A.M. No. 21",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 229812",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 224163",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_A.M. No. 23",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_A.M. No. 22",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 232663",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 206844",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 232269",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2005_G.R. No. 259815",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 120351",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 169408",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 134441",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 147349",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 162187",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 166178",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 112314",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 75919",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 119794",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 155320",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 144699",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 80806",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 155193",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 141538",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 133709",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 115395",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 129015",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 159969",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_40465",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 111097",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 137447",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 85577",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 115902",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 91670",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 138478",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 71844",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 153867",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 157568",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 119990",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 155311",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 95703",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 129609",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 167693",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 133006",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 156786",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 170232",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 148318",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 109149",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 140519",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_40521",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_A.M. No. 01",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_A.M. No. 00",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_A.M. No. 2003",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_40531",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 142051",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 140232",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 149052",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 162780",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 72283",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_40546",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_40550",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 112050",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_40555",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_40556",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 146173",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 139609",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 139371",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 139526",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_40571",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 133519",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_40581",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 144689",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 132197",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 158495",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 130953",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 147950",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 152072",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2006_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 108936",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 97749",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_40738",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_40743",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 142944",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 140079",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_40758",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_A.C. No. 6490",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 129017",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 147372",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 118375",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 147575",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 161309",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_40793",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 148595",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 146630",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_40808",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 146527",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 111107",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 146762",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 141284",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 141855",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 167693",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 72119",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 50147",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 120915",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 94733",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 101680",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_40878",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 156522",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_A.M. No. 95",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 98111",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 104879",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 122778",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 109149",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 113930",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 133507",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 128636",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 35830",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 164171",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 149379",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 131127",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 102764",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_A.M. No. 03",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 142773",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 161882",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 149371",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 145995",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 82248",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_40970",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 112206",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 165751",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 152336",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 147812",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 142362",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 50260",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 162814",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 156339",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_A.C. No. 4552",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 146197",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 142888",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 112115",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_41045",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 151242",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_A.M. No. 05",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 123648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 164518",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 169838",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_41080",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_A.M. No. 02",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 128024",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_41095",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 59072",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2007_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 143275",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 149636",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 116807",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.M. No. 2006",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_opt_case_44496",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 108921",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_opt_case_44511",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 97906",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 72486",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 147962",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 132537",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 93365",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 132403",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 110478",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.M. No. 2005",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 140079",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.M. No. 04",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 161117",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 148105",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.M. No. 01",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_opt_case_44626",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.M. No. 05",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 159507",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_opt_case_44965",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.M. No. 2007",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.C. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.M. No. 08",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 103524",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2008_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_A.C. No. 5170",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_A.M. No. 06",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_opt_case_37709",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 130092",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 144573",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_opt_case_37854",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_A.M. No. 95",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_opt_case_37869",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_opt_case_37900",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_opt_case_37940",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_A.M. No. 98",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 129058",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 127845",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 126096",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 110029",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_opt_case_38030",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_A.M. No. 01",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_opt_case_38045",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_B.M. No. 914",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_opt_case_38055",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2009_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_G.R. No. 160991",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_opt_case_42000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_G.R. No. 149334",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_G.R. No. 157033",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_A.M. No. 94",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_A.C. No. 6943",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_opt_case_52000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_G.R. No. 137648",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_G.R. No. 145973",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_A.M. No. 02",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_A.M. No. 05",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_A.M. No. 2005",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_A.C. No. 6593",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_G.R. No. 147923",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_G.R. No. 146726",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_G.R. No. 180702",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_A.M. No. 04",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_opt_case_53935",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_G.R. No. 153144",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_opt_case_54005",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_A.M. No. 09",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_A.M. No. 03",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2010_A.M. No. 12",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_opt_case_34922",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_opt_case_34945",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_G.R. No. 116695",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_opt_case_34997",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_G.R. No. 99343",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_G.R. No. 179245",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_opt_case_35050",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_A.M. No. 95",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_opt_case_35055",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_opt_case_35060",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_G.R. No. 76039",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_G.R. No. 155506",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_opt_case_35095",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2011_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2012_G.R. No. 160718",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2012_G.R. No. 117040",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2012_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2012_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2012_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_opt_case_55461",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_G.R. No. 149462",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_A.C. No. 5325",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_G.R. No. 182426",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_G.R. No. 185721",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_opt_case_55591",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_opt_case_55900",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_G.R. No. 155555",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_A.C. No. 6664",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_G.R. No. 175542",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2013_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_A.C. No. 10043",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_G.R. No. 147328",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_G.R. No. 188197",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_A.M. No. 2011",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_A.C. No. 6622",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_G.R. No. 180141",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_G.R. No. 173333",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_G.R. No. 172458",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2014_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_opt_case_58857",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_G.R. No. 80845",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_G.R. No. 204944",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_G.R. No. 205956",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_G.R. No. 161882",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_G.R. No. 184091",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_opt_case_59045",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_opt_case_59050",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2015_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_opt_case_61706",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_A.C. No. 10945",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_A.M. No. 14",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_G.R. No. 194751",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_G.R. No. 112309",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_opt_case_61816",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_A.M. No. 15",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_A.C. No. 7447",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_A.C. No. 11246",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_A.C. No. 9574",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_G.R. No. 185857",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2016_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_G.R. No. 90643",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_opt_case_62747",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_A.M. No. 17",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_A.C. No. 10533",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_opt_case_62792",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_A.C. No. 7424",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_A.C. No. 5408",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_A.M. No. 16",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_A.M. No. 03",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_A.C. No. 8658",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_G.R. No. 188269",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_A.C. No. 10911",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2017_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.C. No. 11828",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.C. No. 11822",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.C. No. 11750",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.M. No. 03",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.C. No. 8560",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_opt_case_63766",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.M. No. 15",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.C. No. 5473",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_G.R. No. 206309",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_opt_case_63821",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_opt_case_63836",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_opt_case_63846",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.M. No. 02",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.M. No. 2016",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.M. No. 17",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_opt_case_64010",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.C. No. 11871",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.C. No. 10244",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_opt_case_64090",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2018_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_A.C. No. 12220",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_A.M. No. 02",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_opt_case_64889",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_A.C. No. 12063",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_G.R. No. 156364",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_G.R. No. 185806",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_A.C. No. 8124",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_G.R. No. 206958",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_G.R. No. 180845",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_A.M. No. 03",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_A.C. No. 12475",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2019_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 7231",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 12318",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_opt_case_65802",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_G.R. No. 157660",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_opt_case_65832",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 12018",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.M. No. 19",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 3086",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.M. No. 02",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 11583",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 12485",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 11639",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 10252",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_G.R. No. 224212",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_G.R. No. 243722",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 9197",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 9923",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 7428",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 12666",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2020_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_A.M. No. 14",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_A.M. No. 07",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_G.R. No. 251537",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_A.M. No. 2019",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_G.R. No. 232574",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_G.R. No. 224301",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_G.R. No. 228819",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_G.R. No. 201044",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2021_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_G.R. No. 237947",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_A.M. No. 21",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_G.R. No. 229204",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_A.C. No. 10294",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_G.R. No. 238676",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_G.R. No. 238014",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_A.M. No. 16",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_A.C. No. 6281",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_A.C. No. 9161",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2022_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_G.R. No. 216702",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_A.C. No. 13630",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_G.R. No. 249942",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_G.R. No. 208662",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_A.C. No. 12878",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_G.R. No. 238660",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_A.M. No. 22",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_A.M. No. 21",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_A.M. No. 23",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_G.R. No. 232663",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_G.R. No. 206844",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_G.R. No. 232269",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_A.M. No. 02",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_G.R. No. 259815",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_A.M. No. 18",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2023_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_A.M. No. 22",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_opt_case_69184",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_G.R. No. 237449",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_A.C. No. 13955",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_A.C. No. 11227",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_G.R. No. 261422",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_G.R. No. 214223",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_A.M. No. 21",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_A.M. No. 23",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_G.R. No. 232663",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_G.R. No. 206844",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_G.R. No. 232269",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_A.M. No. 02",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_G.R. No. 259815",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_A.M. No. 18",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2024_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_opt_case_61000",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_A.C. No. 9209",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_A.C. No. 14211",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_A.M. No. 21",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_G.R. No. 260983",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_G.R. No. 249241",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_G.R. No. 254957",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_G.R. No. 260148",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_A.M. No. 08",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_A.C. No. 13378",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_G.R. No. 239542",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_A.C. No. 11993",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_G.R. No. 255567",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_A.C. No. 7941",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    },
+    {
+      "case_id": "2025_A.C. No. 13998",
+      "issues": [
+        "Missing or empty gr_number"
+      ]
+    }
+  ]
+}

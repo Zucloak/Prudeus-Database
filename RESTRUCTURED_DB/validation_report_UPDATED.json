@@ -1,0 +1,29 @@
+{
+  "generated_date": "2025-11-02",
+  "summary": {
+    "total_cases": 9277,
+    "fully_valid_cases": 9277,
+    "fully_valid_percentage": 100.0,
+    "cases_with_issues": 0,
+    "cases_with_issues_percentage": 0.0,
+    "field_validation": {
+      "gr_number": {
+        "valid": 9277,
+        "missing": 0
+      },
+      "case_number": {
+        "valid": 9277,
+        "missing": 0
+      },
+      "title": {
+        "valid": 9277,
+        "missing": 0
+      },
+      "formatted_case_content": {
+        "valid": 9277,
+        "missing": 0
+      }
+    }
+  },
+  "cases_with_issues": []
+}
