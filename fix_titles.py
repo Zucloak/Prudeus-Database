@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import sys
 
 def extract_title(content):
     # More robust regex to handle variations in formatting
@@ -31,8 +32,8 @@ def process_file(filepath):
         with open(filepath, 'r+') as f:
             # handle empty files
             content = f.read()
-            if not content:
-                print(f"Skipping empty file: {filepath}")
+            if not content or content == '{}':
+                # print(f"Skipping empty or basic JSON file: {filepath}")
                 return
 
             f.seek(0)
@@ -50,8 +51,6 @@ def process_file(filepath):
                         f.truncate()
     except json.JSONDecodeError:
         print(f"Skipping invalid JSON file: {filepath}")
-
-import sys
 
 def main():
     if len(sys.argv) != 2:
