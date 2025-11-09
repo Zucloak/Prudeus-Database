@@ -3,8 +3,8 @@ import json
 import re
 
 def extract_title(content):
-    # Updated regex to be more specific and handle variations
-    match = re.search(r'\[\s*G\.R\. No\.\s*.*?\]\s*\n\n(.*?)\n\nD E C I S I O N', content, re.DOTALL)
+    # More robust regex to handle variations in formatting
+    match = re.search(r'.*\[\s*G\.R\. Nos?\.?\s*.*?\]\s*(.*?)\s*D E C I S I O N', content, re.DOTALL)
     if match:
         title = match.group(1).strip()
         # Remove the redundant title if it's repeated before the decision
@@ -14,6 +14,11 @@ def extract_title(content):
 
         # Remove extra newlines and create a clean, single-line title
         title = ' '.join(title.split())
+
+        # Additional check to remove repeated titles
+        half_len = len(title) // 2
+        if len(title) > 20 and title[:half_len].strip() == title[half_len:].strip():
+            title = title[:half_len].strip()
 
         summary = title
         if len(summary) > 100:
