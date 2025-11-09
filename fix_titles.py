@@ -2,6 +2,9 @@ import os
 import json
 import re
 import sys
+import logging
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def extract_title(content):
     # More robust regex to handle variations in formatting
@@ -33,24 +36,33 @@ def process_file(filepath):
             # handle empty files
             content = f.read()
             if not content or content == '{}':
-                # print(f"Skipping empty or basic JSON file: {filepath}")
+                logging.info(f"Skipping empty or basic JSON file: {filepath}")
                 return
 
             f.seek(0)
             data = json.loads(content)
 
             if not data.get('title'):
+                logging.info(f"Found file with missing title: {filepath}")
                 formatted_case_content = data.get('formatted_case_content', '')
                 if formatted_case_content:
                     title, summary = extract_title(formatted_case_content)
                     if title:
+                        logging.info(f"Extracted title: '{title}' from {filepath}")
                         data['title'] = title
                         data['title_summary'] = summary
                         f.seek(0)
                         json.dump(data, f, indent=2)
                         f.truncate()
+                    else:
+                        logging.warning(f"Could not extract title from {filepath}")
+                else:
+                    logging.warning(f"No 'formatted_case_content' in {filepath}")
+            else:
+                logging.info(f"File already has a title: {filepath}")
+
     except json.JSONDecodeError:
-        print(f"Skipping invalid JSON file: {filepath}")
+        logging.error(f"Skipping invalid JSON file: {filepath}")
 
 def main():
     if len(sys.argv) != 2:
