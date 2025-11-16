@@ -6487,3 +6487,1931 @@ Saved: RESTRUCTURED_DB/1954/july/gr_l-6407_1954.json
   [19/31] Processing gr_l-6327_1954.html
 Saved: RESTRUCTURED_DB/1954/july/gr_l-6327_1954.json
   [20/31] Processing gr_l-4301_1954.html
+Resuming from January 1954
+
+=== Batch Scraping Configuration ===
+Years: 1954 to 1959
+Starting from: January 1954
+Output directory: RESTRUCTURED_DB
+Progress file: scraping_progress_batch2.json
+
+This will take a long time. Press Ctrl+C to stop at any time.
+You can resume later using --resume flag.
+
+Required packages not installed. Run:
+pip install requests beautifulsoup4
+Resuming from January 1954
+
+=== Batch Scraping Configuration ===
+Years: 1954 to 1959
+Starting from: January 1954
+Output directory: RESTRUCTURED_DB
+Progress file: scraping_progress_batch2.json
+
+This will take a long time. Press Ctrl+C to stop at any time.
+You can resume later using --resume flag.
+
+
+=== Processing Year 1954 ===
+  Skipping January (already completed, 21 cases)
+  Skipping February (already completed, 34 cases)
+  Skipping March (already completed, 34 cases)
+  Skipping April (already completed, 39 cases)
+  Skipping May (already completed, 50 cases)
+  Skipping June (already completed, 22 cases)
+  Skipping July (already completed, 31 cases)
+
+  --- August 1954 ---
+
+=== Scraping Year 1954 ===
+
+--- Processing August 1954 ---
+Found 30 potential cases
+  [1/30] Processing gr_l-7424_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-7424_1954.json
+  [2/30] Processing gr_l-7196_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-7196_1954.json
+  [3/30] Processing gr_l-7116_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-7116_1954.json
+  [4/30] Processing gr_l-7089_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-7089_1954.json
+  [5/30] Processing gr_l-6924_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6924_1954.json
+  [6/30] Processing gr_l-6888_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6888_1954.json
+  [7/30] Processing gr_l-6770_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6770_1954.json
+  [8/30] Processing gr_l-6746_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6746_1954.json
+  [9/30] Processing gr_l-6745_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6745_1954.json
+  [10/30] Processing gr_l-6628_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6628_1954.json
+  [11/30] Processing gr_l-6430_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6430_1954.json
+  [12/30] Processing gr_l-6428_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6428_1954.json
+  [13/30] Processing gr_l-6259_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6259_1954.json
+  [14/30] Processing gr_l-6075-78_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6075-78_1954.json
+  [15/30] Processing gr_l-6008_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6008_1954.json
+  [16/30] Processing gr_l-5340_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-5340_1954.json
+  [17/30] Processing gr_l-6094_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6094_1954.json
+  [18/30] Processing gr_l-6802_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6802_1954.json
+  [19/30] Processing gr_l-6297_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6297_1954.json
+  [20/30] Processing gr_l-6738_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6738_1954.json
+  [21/30] Processing gr_l-6544_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6544_1954.json
+  [22/30] Processing gr_l-6422_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6422_1954.json
+  [23/30] Processing ac_109_1954.html
+Saved: RESTRUCTURED_DB/1954/august/G_R__No__109.json
+  [24/30] Processing gr_l-6505_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6505_1954.json
+  [25/30] Processing gr_l-5513_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-5513_1954.json
+  [26/30] Processing gr_l-6450_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6450_1954.json
+  [27/30] Processing gr_l-6338_1954.html
+Saved: RESTRUCTURED_DB/1954/august/G_R__No__5471.json
+  [28/30] Processing gr_l-7188_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-7188_1954.json
+  [29/30] Processing gr_l-6850_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6850_1954.json
+  [30/30] Processing gr_l-6636_1954.html
+Saved: RESTRUCTURED_DB/1954/august/gr_l-6636_1954.json
+  Completed August: 30 cases
+
+  --- September 1954 ---
+
+=== Scraping Year 1954 ===
+
+--- Processing September 1954 ---
+Found 30 potential cases
+  [1/30] Processing gr_L-6060_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6060_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6060_1954.html
+    Failed to parse case
+  [2/30] Processing gr_L-6425_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6425_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6425_1954.html
+    Failed to parse case
+  [3/30] Processing gr_L-6629_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6629_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6629_1954.html
+    Failed to parse case
+  [4/30] Processing gr_L-6637_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6637_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6637_1954.html
+    Failed to parse case
+  [5/30] Processing gr_L-6904_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6904_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6904_1954.html
+    Failed to parse case
+  [6/30] Processing gr_L-7199_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7199_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7199_1954.html
+    Failed to parse case
+  [7/30] Processing gr_L-5295_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-5295_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-5295_1954.html
+    Failed to parse case
+  [8/30] Processing gr_L-5828_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-5828_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-5828_1954.html
+    Failed to parse case
+  [9/30] Processing gr_L-6379_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6379_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6379_1954.html
+    Failed to parse case
+  [10/30] Processing gr_L-6606_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6606_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6606_1954.html
+    Failed to parse case
+  [11/30] Processing gr_L-5877_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-5877_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-5877_1954.html
+    Failed to parse case
+  [12/30] Processing gr_L-6205_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6205_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6205_1954.html
+    Failed to parse case
+  [13/30] Processing gr_L-6801_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6801_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6801_1954.html
+    Failed to parse case
+  [14/30] Processing gr_L-6866_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6866_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6866_1954.html
+    Failed to parse case
+  [15/30] Processing gr_L-6920_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6920_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6920_1954.html
+    Failed to parse case
+  [16/30] Processing gr_L-6760_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6760_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6760_1954.html
+    Failed to parse case
+  [17/30] Processing gr_L-7201_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7201_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7201_1954.html
+    Failed to parse case
+  [18/30] Processing gr_L-7201_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7201_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7201_1954.html
+    Failed to parse case
+  [19/30] Processing gr_L-6442_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6442_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6442_1954.html
+    Failed to parse case
+  [20/30] Processing gr_L-6711_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6711_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6711_1954.html
+    Failed to parse case
+  [21/30] Processing gr_L-7648_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7648_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7648_1954.html
+    Failed to parse case
+  [22/30] Processing gr_L-5585_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-5585_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-5585_1954.html
+    Failed to parse case
+  [23/30] Processing gr_L-6017_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6017_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6017_1954.html
+    Failed to parse case
+  [24/30] Processing gr_L-6074_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6074_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6074_1954.html
+    Failed to parse case
+  [25/30] Processing gr_L-6851_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6851_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6851_1954.html
+    Failed to parse case
+  [26/30] Processing gr_L-6902_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6902_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6902_1954.html
+    Failed to parse case
+  [27/30] Processing gr_L-7344_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7344_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7344_1954.html
+    Failed to parse case
+  [28/30] Processing gr_L-6312_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6312_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6312_1954.html
+    Failed to parse case
+  [29/30] Processing gr_L-7594_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7594_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-7594_1954.html
+    Failed to parse case
+  [30/30] Processing gr_L-6647_1954.html
+Error fetching https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6647_1954.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1954/sep1954/gr_L-6647_1954.html
+    Failed to parse case
+  Completed September: 0 cases
+
+  --- October 1954 ---
+
+=== Scraping Year 1954 ===
+
+--- Processing October 1954 ---
+Found 22 potential cases
+  [1/22] Processing gr_l-5767_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-5767_1954.json
+  [2/22] Processing gr_l-6114_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-6114_1954.json
+  [3/22] Processing gr_l-6301_1954.html
+Saved: RESTRUCTURED_DB/1954/october/G_R__No__4703.json
+  [4/22] Processing gr_l-6453_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-6453_1954.json
+  [5/22] Processing gr_l-6725_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-6725_1954.json
+  [6/22] Processing gr_l-6913_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-6913_1954.json
+  [7/22] Processing gr_l-7057_1954.html
+Saved: RESTRUCTURED_DB/1954/october/G_R__No__11248.json
+  [8/22] Processing gr_l-7189_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-7189_1954.json
+  [9/22] Processing gr_l-7198_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-7198_1954.json
+  [10/22] Processing gr_l-6295_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-6295_1954.json
+  [11/22] Processing gr_l-7084_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-7084_1954.json
+  [12/22] Processing gr_l-5572_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-5572_1954.json
+  [13/22] Processing gr_l-7079_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-7079_1954.json
+  [14/22] Processing gr_l-6305_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-6305_1954.json
+  [15/22] Processing gr_l-6317_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-6317_1954.json
+  [16/22] Processing gr_l-7154_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-7154_1954.json
+  [17/22] Processing gr_l-6491_1954.html
+Saved: RESTRUCTURED_DB/1954/october/G_R__No__5620.json
+  [18/22] Processing gr_l-6515_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-6515_1954.json
+  [19/22] Processing gr_l-7251_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-7251_1954.json
+  [20/22] Processing gr_l-6730_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-6730_1954.json
+  [21/22] Processing gr_l-5629_1954.html
+Saved: RESTRUCTURED_DB/1954/october/G_R__No__2903.json
+  [22/22] Processing gr_l-5805_1954.html
+Saved: RESTRUCTURED_DB/1954/october/gr_l-5805_1954.json
+  Completed October: 22 cases
+
+  --- November 1954 ---
+
+=== Scraping Year 1954 ===
+
+--- Processing November 1954 ---
+Found 16 potential cases
+  [1/16] Processing gr_l-5080_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-5080_1954.json
+  [2/16] Processing gr_l-5803_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-5803_1954.json
+  [3/16] Processing gr_l-5872_1954.html
+Saved: RESTRUCTURED_DB/1954/november/G_R__No__6734.json
+  [4/16] Processing gr_l-6189_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-6189_1954.json
+  [5/16] Processing gr_l-6389_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-6389_1954.json
+  [6/16] Processing gr_l-6454_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-6454_1954.json
+  [7/16] Processing gr_l-6517_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-6517_1954.json
+  [8/16] Processing gr_l-6614_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-6614_1954.json
+  [9/16] Processing gr_l-6968_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-6968_1954.json
+  [10/16] Processing gr_l-5538_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-5538_1954.json
+  [11/16] Processing gr_l-5944_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-5944_1954.json
+  [12/16] Processing gr_l-6310_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-6310_1954.json
+  [13/16] Processing gr_l-6410_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-6410_1954.json
+  [14/16] Processing gr_l-6494_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-6494_1954.json
+  [15/16] Processing gr_l-5619_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-5619_1954.json
+  [16/16] Processing gr_l-7075_1954.html
+Saved: RESTRUCTURED_DB/1954/november/gr_l-7075_1954.json
+  Completed November: 16 cases
+
+  --- December 1954 ---
+
+=== Scraping Year 1954 ===
+
+--- Processing December 1954 ---
+Found 14 potential cases
+  [1/14] Processing gr_l-7290_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-7290_1954.json
+  [2/14] Processing gr_l-6829_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-6829_1954.json
+  [3/14] Processing gr_l-6815_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-6815_1954.json
+  [4/14] Processing gr_l-5439_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-5439_1954.json
+  [5/14] Processing gr_l-5377_1954.html
+Saved: RESTRUCTURED_DB/1954/december/G_R__No__33507.json
+  [6/14] Processing gr_l-4722_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-4722_1954.json
+  [7/14] Processing gr_l-7481_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-7481_1954.json
+  [8/14] Processing gr_l-6705_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-6705_1954.json
+  [9/14] Processing gr_l-7373_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-7373_1954.json
+  [10/14] Processing gr_l-7178_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-7178_1954.json
+  [11/14] Processing gr_l-7068_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-7068_1954.json
+  [12/14] Processing gr_l-6908_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-6908_1954.json
+  [13/14] Processing gr_l-4983_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-4983_1954.json
+  [14/14] Processing gr_l-6091_1954.html
+Saved: RESTRUCTURED_DB/1954/december/gr_l-6091_1954.json
+  Completed December: 14 cases
+
+  Year 1954 completed: 313 total cases
+🧀 cheese
+
+=== Processing Year 1955 ===
+
+  --- January 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing January 1955 ---
+Found 15 potential cases
+  [1/15] Processing gr_l-7192_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-7192_1955.json
+  [2/15] Processing gr_l-7044_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-7044_1955.json
+  [3/15] Processing gr_l-6787_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-6787_1955.json
+  [4/15] Processing gr_l-6763_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-6763_1955.json
+  [5/15] Processing gr_l-6465_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-6465_1955.json
+  [6/15] Processing gr_l-6393_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-6393_1955.json
+  [7/15] Processing gr_l-6191_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-6191_1955.json
+  [8/15] Processing gr_l-5967_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-5967_1955.json
+  [9/15] Processing gr_l-5670_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-5670_1955.json
+  [10/15] Processing gr_l-3676_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-3676_1955.json
+  [11/15] Processing gr_l-5917_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-5917_1955.json
+  [12/15] Processing gr_l-4436_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-4436_1955.json
+  [13/15] Processing gr_l-4566_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-4566_1955.json
+  [14/15] Processing gr_l-5325-6_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-5325-6_1955.json
+  [15/15] Processing gr_l-6973_1955.html
+Saved: RESTRUCTURED_DB/1955/january/gr_l-6973_1955.json
+  Completed January: 15 cases
+
+  --- February 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing February 1955 ---
+Found 12 potential cases
+  [1/12] Processing gr_l-7651_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-7651_1955.json
+  [2/12] Processing gr_l-6762_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-6762_1955.json
+  [3/12] Processing gr_l-6311_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-6311_1955.json
+  [4/12] Processing gr_l-5208_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-5208_1955.json
+  [5/12] Processing gr_l-4818_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-4818_1955.json
+  [6/12] Processing gr_l-4445_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-4445_1955.json
+  [7/12] Processing gr_l-4370_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-4370_1955.json
+  [8/12] Processing gr_l-7972_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-7972_1955.json
+  [9/12] Processing gr_l-6207_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-6207_1955.json
+  [10/12] Processing gr_l-8408_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-8408_1955.json
+  [11/12] Processing gr_l-5977_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-5977_1955.json
+  [12/12] Processing gr_l-5910_1955.html
+Saved: RESTRUCTURED_DB/1955/february/gr_l-5910_1955.json
+  Completed February: 12 cases
+
+  --- March 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing March 1955 ---
+Found 15 potential cases
+  [1/15] Processing gr_l-8684_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-8684_1955.json
+  [2/15] Processing gr_l-6953_1955.html
+Saved: RESTRUCTURED_DB/1955/march/G_R__No__46853.json
+  [3/15] Processing gr_l-6793_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-6793_1955.json
+  [4/15] Processing gr_l-6652_1955.html
+Saved: RESTRUCTURED_DB/1955/march/G_R__No__6652.json
+  [5/15] Processing gr_l-6530_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-6530_1955.json
+  [6/15] Processing gr_l-6435_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-6435_1955.json
+  [7/15] Processing gr_l-6125_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-6125_1955.json
+  [8/15] Processing gr_l-5915_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-5915_1955.json
+  [9/15] Processing gr_l-5616_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-5616_1955.json
+  [10/15] Processing gr_l-7063_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-7063_1955.json
+  [11/15] Processing gr_l-6386_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-6386_1955.json
+  [12/15] Processing gr_l-7642_1955.html
+Saved: RESTRUCTURED_DB/1955/march/G_R__No__7642.json
+  [13/15] Processing gr_l-6235_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-6235_1955.json
+  [14/15] Processing gr_l-6038_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-6038_1955.json
+  [15/15] Processing gr_l-8014_1955.html
+Saved: RESTRUCTURED_DB/1955/march/gr_l-8014_1955.json
+  Completed March: 15 cases
+
+  --- April 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing April 1955 ---
+Found 36 potential cases
+  [1/36] Processing gr_l-8909_1955.html
+Saved: RESTRUCTURED_DB/1955/april/G_R__No__8909.json
+  [2/36] Processing gr_l-8332_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-8332_1955.json
+  [3/36] Processing gr_l-8278_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-8278_1955.json
+  [4/36] Processing gr_l-8017_1955.html
+Saved: RESTRUCTURED_DB/1955/april/G_R__No__34722.json
+  [5/36] Processing gr_l-7830_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7830_1955.json
+  [6/36] Processing gr_l-7680_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7680_1955.json
+  [7/36] Processing gr_l-7561_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7561_1955.json
+  [8/36] Processing gr_l-7390_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7390_1955.json
+  [9/36] Processing gr_l-7296_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7296_1955.json
+  [10/36] Processing gr_l-7236_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7236_1955.json
+  [11/36] Processing gr_l-6931_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-6931_1955.json
+  [12/36] Processing gr_l-8348_1955.html
+Saved: RESTRUCTURED_DB/1955/april/G_R__No__8348.json
+  [13/36] Processing gr_l-8107_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-8107_1955.json
+  [14/36] Processing gr_l-7692_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7692_1955.json
+  [15/36] Processing gr_l-7623_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7623_1955.json
+  [16/36] Processing gr_l-7550_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7550_1955.json
+  [17/36] Processing gr_l-7541_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7541_1955.json
+  [18/36] Processing gr_l-7054_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7054_1955.json
+  [19/36] Processing gr_l-6972_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-6972_1955.json
+  [20/36] Processing gr_l-6752_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-6752_1955.json
+  [21/36] Processing gr_l-6740_1955.html
+Saved: RESTRUCTURED_DB/1955/april/G_R__No__38255.json
+  [22/36] Processing gr_l-6469_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-6469_1955.json
+  [23/36] Processing gr_l-7076_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7076_1955.json
+  [24/36] Processing gr_l-6508_1955.html
+Saved: RESTRUCTURED_DB/1955/april/G_R__No__6508.json
+  [25/36] Processing gr_l-7318_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7318_1955.json
+  [26/36] Processing gr_l-7301_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7301_1955.json
+  [27/36] Processing gr_l-6871_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-6871_1955.json
+  [28/36] Processing gr_l-7791_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7791_1955.json
+  [29/36] Processing gr_l-7094_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7094_1955.json
+  [30/36] Processing gr_l-10288_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-10288_1955.json
+  [31/36] Processing gr_l-8316_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-8316_1955.json
+  [32/36] Processing gr_l-8183_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-8183_1955.json
+  [33/36] Processing gr_l-7851_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7851_1955.json
+  [34/36] Processing gr_l-7904_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7904_1955.json
+  [35/36] Processing gr_l-7784_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7784_1955.json
+  [36/36] Processing gr_l-7065_1955.html
+Saved: RESTRUCTURED_DB/1955/april/gr_l-7065_1955.json
+  Completed April: 36 cases
+
+  --- May 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing May 1955 ---
+Found 45 potential cases
+  [1/45] Processing gr_l-7887_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7887_1955.json
+  [2/45] Processing gr_l-7771-3_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7771-3_1955.json
+  [3/45] Processing gr_l-7614_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7614_1955.json
+  [4/45] Processing gr_l-7376_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7376_1955.json
+  [5/45] Processing gr_l-7358_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7358_1955.json
+  [6/45] Processing gr_l-7338_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7338_1955.json
+  [7/45] Processing gr_l-7144_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7144_1955.json
+  [8/45] Processing gr_l-7019_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7019_1955.json
+  [9/45] Processing gr_l-6707_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-6707_1955.json
+  [10/45] Processing gr_l-6707_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-6707_1955.json
+  [11/45] Processing gr_l-7738_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7738_1955.json
+  [12/45] Processing gr_l-7959_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7959_1955.json
+  [13/45] Processing gr_l-7708_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7708_1955.json
+  [14/45] Processing gr_l-8040_1955.html
+Saved: RESTRUCTURED_DB/1955/may/G_R__No__11436.json
+  [15/45] Processing gr_l-7248_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7248_1955.json
+  [16/45] Processing gr_l-7752_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7752_1955.json
+  [17/45] Processing gr_l-7622_1955.html
+Saved: RESTRUCTURED_DB/1955/may/G_R__No__3350.json
+  [18/45] Processing gr_l-7518_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7518_1955.json
+  [19/45] Processing gr_l-7383_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7383_1955.json
+  [20/45] Processing gr_l-7224_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7224_1955.json
+  [21/45] Processing gr_l-6869_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-6869_1955.json
+  [22/45] Processing gr_l-8806_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-8806_1955.json
+  [23/45] Processing gr_l-8238_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-8238_1955.json
+  [24/45] Processing gr_l-8114_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-8114_1955.json
+  [25/45] Processing gr_l-7918_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7918_1955.json
+  [26/45] Processing gr_l-7583_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7583_1955.json
+  [27/45] Processing gr_l-7926_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7926_1955.json
+  [28/45] Processing gr_l-7595_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7595_1955.json
+  [29/45] Processing gr_l-7234_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7234_1955.json
+  [30/45] Processing gr_l-7112_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7112_1955.json
+  [31/45] Processing gr_l-6776_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-6776_1955.json
+  [32/45] Processing gr_l-7385_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7385_1955.json
+  [33/45] Processing gr_l-7307_1955.html
+Saved: RESTRUCTURED_DB/1955/may/G_R__No__7691.json
+  [34/45] Processing gr_l-7083_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7083_1955.json
+  [35/45] Processing gr_l-7937_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7937_1955.json
+  [36/45] Processing gr_l-8276_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-8276_1955.json
+  [37/45] Processing gr_l-7894_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7894_1955.json
+  [38/45] Processing gr_l-7862_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7862_1955.json
+  [39/45] Processing gr_l-7574_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7574_1955.json
+  [40/45] Processing gr_l-6963_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-6963_1955.json
+  [41/45] Processing gr_l-8045_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-8045_1955.json
+  [42/45] Processing gr_l-7516_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7516_1955.json
+  [43/45] Processing gr_l-7616_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7616_1955.json
+  [44/45] Processing gr_l-7684_1955.html
+Saved: RESTRUCTURED_DB/1955/may/G_R__No__11833.json
+  [45/45] Processing gr_l-7331_1955.html
+Saved: RESTRUCTURED_DB/1955/may/gr_l-7331_1955.json
+  Completed May: 44 cases
+
+  --- June 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing June 1955 ---
+Found 17 potential cases
+  [1/17] Processing gr_l-8371_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-8371_1955.json
+  [2/17] Processing gr_l-8351_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-8351_1955.json
+  [3/17] Processing gr_l-8351_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-8351_1955.json
+  [4/17] Processing gr_l-8351_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-8351_1955.json
+  [5/17] Processing gr_l-7750_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-7750_1955.json
+  [6/17] Processing gr_l-7710_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-7710_1955.json
+  [7/17] Processing gr_l-7546_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-7546_1955.json
+  [8/17] Processing gr_l-7179_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-7179_1955.json
+  [9/17] Processing gr_l-6156_1955.html
+Saved: RESTRUCTURED_DB/1955/june/G_R__No__6156.json
+  [10/17] Processing gr_l-7382_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-7382_1955.json
+  [11/17] Processing gr_l-6799_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-6799_1955.json
+  [12/17] Processing gr_l-7401_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-7401_1955.json
+  [13/17] Processing gr_l-5541_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-5541_1955.json
+  [14/17] Processing gr_l-7899_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-7899_1955.json
+  [15/17] Processing gr_l-7459_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-7459_1955.json
+  [16/17] Processing gr_l-7123_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-7123_1955.json
+  [17/17] Processing gr_l-6961_1955.html
+Saved: RESTRUCTURED_DB/1955/june/gr_l-6961_1955.json
+  Completed June: 15 cases
+
+  --- July 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing July 1955 ---
+Found 19 potential cases
+  [1/19] Processing gr_l-9050_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-9050_1955.json
+  [2/19] Processing gr_l-9043_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-9043_1955.json
+  [3/19] Processing gr_l-7915_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-7915_1955.json
+  [4/19] Processing gr_l-7905_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-7905_1955.json
+  [5/19] Processing gr_l-7077_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-7077_1955.json
+  [6/19] Processing gr_l-6749_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-6749_1955.json
+  [7/19] Processing gr_l-5974_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-5974_1955.json
+  [8/19] Processing gr_l-5974_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-5974_1955.json
+  [9/19] Processing gr_l-6582_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-6582_1955.json
+  [10/19] Processing gr_l-6641_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-6641_1955.json
+  [11/19] Processing gr_l-8129_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-8129_1955.json
+  [12/19] Processing gr_l-7635_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-7635_1955.json
+  [13/19] Processing gr_l-7483_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-7483_1955.json
+  [14/19] Processing gr_l-6648_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-6648_1955.json
+  [15/19] Processing gr_l-7425_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-7425_1955.json
+  [16/19] Processing gr_l-6846_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-6846_1955.json
+  [17/19] Processing gr_l-7349_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-7349_1955.json
+  [18/19] Processing gr_l-8062_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-8062_1955.json
+  [19/19] Processing gr_l-6420_1955.html
+Saved: RESTRUCTURED_DB/1955/july/gr_l-6420_1955.json
+  Completed July: 18 cases
+
+  --- August 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing August 1955 ---
+Found 17 potential cases
+  [1/17] Processing gr_l-7554_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-7554_1955.json
+  [2/17] Processing gr_l-7185_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-7185_1955.json
+  [3/17] Processing gr_l-6969_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-6969_1955.json
+  [4/17] Processing gr_l-5896_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-5896_1955.json
+  [5/17] Processing gr_l-8162_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-8162_1955.json
+  [6/17] Processing gr_l-7912_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-7912_1955.json
+  [7/17] Processing gr_l-6976_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-6976_1955.json
+  [8/17] Processing gr_l-6698_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-6698_1955.json
+  [9/17] Processing gr_l-6933_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-6933_1955.json
+  [10/17] Processing gr_l-6397_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-6397_1955.json
+  [11/17] Processing gr_l-6244-5_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-6244-5_1955.json
+  [12/17] Processing gr_l-8768_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-8768_1955.json
+  [13/17] Processing gr_l-7761_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-7761_1955.json
+  [14/17] Processing gr_l-8354_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-8354_1955.json
+  [15/17] Processing gr_l-8138_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-8138_1955.json
+  [16/17] Processing gr_l-9298_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-9298_1955.json
+  [17/17] Processing gr_l-7491_1955.html
+Saved: RESTRUCTURED_DB/1955/august/gr_l-7491_1955.json
+  Completed August: 17 cases
+
+  --- September 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing September 1955 ---
+Found 24 potential cases
+  [1/24] Processing gr_L-6553_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-6553_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-6553_1955.html
+    Failed to parse case
+  [2/24] Processing gr_L-6758_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-6758_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-6758_1955.html
+    Failed to parse case
+  [3/24] Processing gr_L-7311_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7311_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7311_1955.html
+    Failed to parse case
+  [4/24] Processing gr_L-7495_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7495_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7495_1955.html
+    Failed to parse case
+  [5/24] Processing gr_L-7760_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7760_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7760_1955.html
+    Failed to parse case
+  [6/24] Processing gr_L-8474_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8474_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8474_1955.html
+    Failed to parse case
+  [7/24] Processing gr_L-7567_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7567_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7567_1955.html
+    Failed to parse case
+  [8/24] Processing gr_L-7679_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7679_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7679_1955.html
+    Failed to parse case
+  [9/24] Processing gr_L-7796_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7796_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7796_1955.html
+    Failed to parse case
+  [10/24] Processing gr_L-6371_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-6371_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-6371_1955.html
+    Failed to parse case
+  [11/24] Processing gr_L-7687_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7687_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7687_1955.html
+    Failed to parse case
+  [12/24] Processing gr_L-8060_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8060_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8060_1955.html
+    Failed to parse case
+  [13/24] Processing gr_L-8558_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8558_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8558_1955.html
+    Failed to parse case
+  [14/24] Processing gr_L-8559_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8559_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8559_1955.html
+    Failed to parse case
+  [15/24] Processing gr_L-3770_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-3770_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-3770_1955.html
+    Failed to parse case
+  [16/24] Processing gr_L-7412_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7412_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7412_1955.html
+    Failed to parse case
+  [17/24] Processing gr_L-7534_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7534_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7534_1955.html
+    Failed to parse case
+  [18/24] Processing gr_L-7559_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7559_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7559_1955.html
+    Failed to parse case
+  [19/24] Processing gr_L-7685_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7685_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7685_1955.html
+    Failed to parse case
+  [20/24] Processing gr_L-8158_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8158_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8158_1955.html
+    Failed to parse case
+  [21/24] Processing gr_L-7553_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7553_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7553_1955.html
+    Failed to parse case
+  [22/24] Processing gr_L-8446_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8446_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-8446_1955.html
+    Failed to parse case
+  [23/24] Processing gr_L-6363_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-6363_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-6363_1955.html
+    Failed to parse case
+  [24/24] Processing gr_L-7797_1955.html
+Error fetching https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7797_1955.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1955/sep1955/gr_L-7797_1955.html
+    Failed to parse case
+  Completed September: 0 cases
+
+  --- October 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing October 1955 ---
+Found 36 potential cases
+  [1/36] Processing gr_l-5279_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-5279_1955.json
+  [2/36] Processing gr_l-6923_1955.html
+Saved: RESTRUCTURED_DB/1955/october/G_R__No__46271.json
+  [3/36] Processing gr_l-7529_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7529_1955.json
+  [4/36] Processing gr_l-7713_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7713_1955.json
+  [5/36] Processing gr_l-7777_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7777_1955.json
+  [6/36] Processing gr_l-7813_1955.html
+Saved: RESTRUCTURED_DB/1955/october/G_R__No__2098.json
+  [7/36] Processing gr_l-7870_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7870_1955.json
+  [8/36] Processing gr_l-7913_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7913_1955.json
+  [9/36] Processing gr_l-7925_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7925_1955.json
+  [10/36] Processing gr_l-8224_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-8224_1955.json
+  [11/36] Processing gr_l-7612_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7612_1955.json
+  [12/36] Processing gr_l-7649_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7649_1955.json
+  [13/36] Processing gr_l-7871_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7871_1955.json
+  [14/36] Processing gr_l-8093_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-8093_1955.json
+  [15/36] Processing gr_l-8220_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-8220_1955.json
+  [16/36] Processing gr_l-7402_1955.html
+Saved: RESTRUCTURED_DB/1955/october/G_R__No__7329.json
+  [17/36] Processing gr_l-7487_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7487_1955.json
+  [18/36] Processing gr_l-8164_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-8164_1955.json
+  [19/36] Processing gr_l-7767_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7767_1955.json
+  [20/36] Processing gr_l-7858_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7858_1955.json
+  [21/36] Processing gr_l-8018_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-8018_1955.json
+  [22/36] Processing gr_l-5976_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-5976_1955.json
+  [23/36] Processing gr_l-7545_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7545_1955.json
+  [24/36] Processing gr_l-7836_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7836_1955.json
+  [25/36] Processing gr_l-8325_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-8325_1955.json
+  [26/36] Processing gr_l-7442_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7442_1955.json
+  [27/36] Processing gr_l-7464_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7464_1955.json
+  [28/36] Processing gr_l-7479_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7479_1955.json
+  [29/36] Processing gr_l-8139_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-8139_1955.json
+  [30/36] Processing gr_l-8273_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-8273_1955.json
+  [31/36] Processing gr_l-8326_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-8326_1955.json
+  [32/36] Processing gr_l-9725_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-9725_1955.json
+  [33/36] Processing gr_l-7521_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7521_1955.json
+  [34/36] Processing gr_l-7694_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-7694_1955.json
+  [35/36] Processing gr_l-6833_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-6833_1955.json
+  [36/36] Processing gr_l-8174_1955.html
+Saved: RESTRUCTURED_DB/1955/october/gr_l-8174_1955.json
+  Completed October: 36 cases
+
+  --- November 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing November 1955 ---
+Found 25 potential cases
+  [1/25] Processing gr_l-5746_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-5746_1955.json
+  [2/25] Processing gr_l-6989_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-6989_1955.json
+  [3/25] Processing gr_l-7033_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7033_1955.json
+  [4/25] Processing gr_l-7228_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7228_1955.json
+  [5/25] Processing gr_l-7323_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7323_1955.json
+  [6/25] Processing gr_l-7747_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7747_1955.json
+  [7/25] Processing gr_l-7766_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7766_1955.json
+  [8/25] Processing gr_l-7929_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7929_1955.json
+  [9/25] Processing gr_l-8024_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-8024_1955.json
+  [10/25] Processing gr_l-8042_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-8042_1955.json
+  [11/25] Processing gr_l-8088_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-8088_1955.json
+  [12/25] Processing gr_l-8262_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-8262_1955.json
+  [13/25] Processing gr_l-8380_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-8380_1955.json
+  [14/25] Processing gr_l-7667_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7667_1955.json
+  [15/25] Processing gr_l-8229_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-8229_1955.json
+  [16/25] Processing gr_l-9181_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-9181_1955.json
+  [17/25] Processing gr_l-7785_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7785_1955.json
+  [18/25] Processing gr_l-7742_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7742_1955.json
+  [19/25] Processing gr_l-7855_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7855_1955.json
+  [20/25] Processing gr_l-8543_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-8543_1955.json
+  [21/25] Processing gr_l-5949_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-5949_1955.json
+  [22/25] Processing gr_l-6476_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-6476_1955.json
+  [23/25] Processing gr_l-7745_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-7745_1955.json
+  [24/25] Processing gr_l-8030_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-8030_1955.json
+  [25/25] Processing gr_l-8034_1955.html
+Saved: RESTRUCTURED_DB/1955/november/gr_l-8034_1955.json
+  Completed November: 25 cases
+
+  --- December 1955 ---
+
+=== Scraping Year 1955 ===
+
+--- Processing December 1955 ---
+Found 24 potential cases
+  [1/24] Processing gr_l-8319_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8319_1955.json
+  [2/24] Processing gr_l-8271-72_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8271-72_1955.json
+  [3/24] Processing gr_l-3106_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-3106_1955.json
+  [4/24] Processing gr_l-8094_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8094_1955.json
+  [5/24] Processing gr_l-7859_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-7859_1955.json
+  [6/24] Processing gr_l-7795_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-7795_1955.json
+  [7/24] Processing gr_l-7778_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-7778_1955.json
+  [8/24] Processing gr_l-8555_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8555_1955.json
+  [9/24] Processing gr_l-8320_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8320_1955.json
+  [10/24] Processing gr_l-8223_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8223_1955.json
+  [11/24] Processing gr_l-8036-8037-8038_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8036-8037-8038_1955.json
+  [12/24] Processing gr_l-8013_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8013_1955.json
+  [13/24] Processing gr_l-7824_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-7824_1955.json
+  [14/24] Processing gr_l-7775_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-7775_1955.json
+  [15/24] Processing gr_l-7316-7317_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-7316-7317_1955.json
+  [16/24] Processing gr_l-8562-8563_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8562-8563_1955.json
+  [17/24] Processing gr_l-7852_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-7852_1955.json
+  [18/24] Processing gr_l-7140_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-7140_1955.json
+  [19/24] Processing gr_l-4611_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-4611_1955.json
+  [20/24] Processing gr_l-8151_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8151_1955.json
+  [21/24] Processing gr_l-8218_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8218_1955.json
+  [22/24] Processing gr_l-8327_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8327_1955.json
+  [23/24] Processing gr_l-8032-8033_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-8032-8033_1955.json
+  [24/24] Processing gr_l-43053_1955.html
+Saved: RESTRUCTURED_DB/1955/december/gr_l-43053_1955.json
+  Completed December: 24 cases
+
+  Year 1955 completed: 257 total cases
+🧀 cheese
+
+=== Processing Year 1956 ===
+
+  --- January 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing January 1956 ---
+Error fetching https://lawphil.net/judjuris/juri1956/jan1956/jan1956.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1956/jan1956/jan1956.html
+Could not fetch https://lawphil.net/judjuris/juri1956/jan1956/jan1956.html
+  Completed January: 0 cases
+
+  --- February 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing February 1956 ---
+Error fetching https://lawphil.net/judjuris/juri1956/feb1956/feb1956.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1956/feb1956/feb1956.html
+Could not fetch https://lawphil.net/judjuris/juri1956/feb1956/feb1956.html
+  Completed February: 0 cases
+
+  --- March 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing March 1956 ---
+Error fetching https://lawphil.net/judjuris/juri1956/mar1956/mar1956.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1956/mar1956/mar1956.html
+Could not fetch https://lawphil.net/judjuris/juri1956/mar1956/mar1956.html
+  Completed March: 0 cases
+
+  --- April 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing April 1956 ---
+Found 42 potential cases
+  [1/42] Processing ac_90_1956.html
+Saved: RESTRUCTURED_DB/1956/april/A_C__No__90.json
+  [2/42] Processing gr_l-9304_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-9304_1956.json
+  [3/42] Processing gr_l-9088_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-9088_1956.json
+  [4/42] Processing gr_l-8782_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8782_1956.json
+  [5/42] Processing gr_l-8702_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8702_1956.json
+  [6/42] Processing gr_l-8694_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8694_1956.json
+  [7/42] Processing gr_l-8654_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8654_1956.json
+  [8/42] Processing gr_l-8536_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8536_1956.json
+  [9/42] Processing gr_l-8219_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8219_1956.json
+  [10/42] Processing gr_l-8277_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8277_1956.json
+  [11/42] Processing gr_l-7059_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-7059_1956.json
+  [12/42] Processing gr_l-6202_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-6202_1956.json
+  [13/42] Processing gr_l-5510_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-5510_1956.json
+  [14/42] Processing gr_l-4837_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-4837_1956.json
+  [15/42] Processing gr_l-8772_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8772_1956.json
+  [16/42] Processing gr_l-8142_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8142_1956.json
+  [17/42] Processing gr_l-7717_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-7717_1956.json
+  [18/42] Processing gr_l-7643_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-7643_1956.json
+  [19/42] Processing gr_l-7175_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-7175_1956.json
+  [20/42] Processing gr_l-6848_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-6848_1956.json
+  [21/42] Processing gr_l-8496_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8496_1956.json
+  [22/42] Processing gr_l-7457_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-7457_1956.json
+  [23/42] Processing gr_l-6962_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-6962_1956.json
+  [24/42] Processing gr_l-8379_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8379_1956.json
+  [25/42] Processing gr_l-8369_1956.html
+Saved: RESTRUCTURED_DB/1956/april/G_R__No__42381.json
+  [26/42] Processing gr_l-8026_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8026_1956.json
+  [27/42] Processing gr_l-8546_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8546_1956.json
+  [28/42] Processing gr_l-7361_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-7361_1956.json
+  [29/42] Processing gr_l-6860_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-6860_1956.json
+  [30/42] Processing gr_l-5203_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-5203_1956.json
+  [31/42] Processing gr_l-9893_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-9893_1956.json
+  [32/42] Processing gr_l-9034_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-9034_1956.json
+  [33/42] Processing gr_l-8724_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8724_1956.json
+  [34/42] Processing gr_l-8667_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8667_1956.json
+  [35/42] Processing gr_l-8454_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8454_1956.json
+  [36/42] Processing gr_l-8257_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8257_1956.json
+  [37/42] Processing gr_l-7801_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-7801_1956.json
+  [38/42] Processing gr_l-9267_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-9267_1956.json
+  [39/42] Processing gr_l-9121_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-9121_1956.json
+  [40/42] Processing gr_l-8892_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8892_1956.json
+  [41/42] Processing gr_l-8020_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-8020_1956.json
+  [42/42] Processing gr_l-7448_1956.html
+Saved: RESTRUCTURED_DB/1956/april/gr_l-7448_1956.json
+  Completed April: 42 cases
+
+  --- May 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing May 1956 ---
+Found 1 potential cases
+  [1/1] Processing gr_l-6858_1956.html
+Saved: RESTRUCTURED_DB/1956/may/gr_l-6858_1956.json
+  Completed May: 1 cases
+
+  --- June 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing June 1956 ---
+Error fetching https://lawphil.net/judjuris/juri1956/jun1956/jun1956.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1956/jun1956/jun1956.html
+Could not fetch https://lawphil.net/judjuris/juri1956/jun1956/jun1956.html
+  Completed June: 0 cases
+
+  --- July 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing July 1956 ---
+Error fetching https://lawphil.net/judjuris/juri1956/jul1956/jul1956.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1956/jul1956/jul1956.html
+Could not fetch https://lawphil.net/judjuris/juri1956/jul1956/jul1956.html
+  Completed July: 0 cases
+
+  --- August 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing August 1956 ---
+Found 26 potential cases
+  [1/26] Processing gr_l-9137_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-9137_1956.json
+  [2/26] Processing gr_l-9115_1956.html
+Saved: RESTRUCTURED_DB/1956/august/G_R__No__9115.json
+  [3/26] Processing gr_l-8799_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-8799_1956.json
+  [4/26] Processing gr_l-8506_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-8506_1956.json
+  [5/26] Processing gr_l-7267_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-7267_1956.json
+  [6/26] Processing gr_l-10544_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-10544_1956.json
+  [7/26] Processing gr_l-9526_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-9526_1956.json
+  [8/26] Processing gr_l-8136_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-8136_1956.json
+  [9/26] Processing gr_l-8012_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-8012_1956.json
+  [10/26] Processing gr_l-10062_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-10062_1956.json
+  [11/26] Processing gr_l-9525_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-9525_1956.json
+  [12/26] Processing gr_l-9111-3_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-9111-3_1956.json
+  [13/26] Processing gr_l-8377_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-8377_1956.json
+  [14/26] Processing gr_l-9171_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-9171_1956.json
+  [15/26] Processing gr_l-7748_1956.html
+Saved: RESTRUCTURED_DB/1956/august/G_R__No__8551.json
+  [16/26] Processing gr_l-8116_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-8116_1956.json
+  [17/26] Processing gr_l-9447_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-9447_1956.json
+  [18/26] Processing gr_l-7485_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-7485_1956.json
+  [19/26] Processing gr_l-7328_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-7328_1956.json
+  [20/26] Processing gr_l-9396_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-9396_1956.json
+  [21/26] Processing gr_l-9385_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-9385_1956.json
+  [22/26] Processing gr_l-8171_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-8171_1956.json
+  [23/26] Processing gr_l-9598_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-9598_1956.json
+  [24/26] Processing gr_l-8622_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-8622_1956.json
+  [25/26] Processing gr_l-8790-97_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-8790-97_1956.json
+  [26/26] Processing gr_l-8777-9_1956.html
+Saved: RESTRUCTURED_DB/1956/august/gr_l-8777-9_1956.json
+  Completed August: 26 cases
+
+  --- September 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing September 1956 ---
+Error fetching https://lawphil.net/judjuris/juri1956/sep1956/sep1956.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1956/sep1956/sep1956.html
+Could not fetch https://lawphil.net/judjuris/juri1956/sep1956/sep1956.html
+  Completed September: 0 cases
+
+  --- October 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing October 1956 ---
+Error fetching https://lawphil.net/judjuris/juri1956/oct1956/oct1956.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1956/oct1956/oct1956.html
+Could not fetch https://lawphil.net/judjuris/juri1956/oct1956/oct1956.html
+  Completed October: 0 cases
+
+  --- November 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing November 1956 ---
+Error fetching https://lawphil.net/judjuris/juri1956/nov1956/nov1956.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1956/nov1956/nov1956.html
+Could not fetch https://lawphil.net/judjuris/juri1956/nov1956/nov1956.html
+  Completed November: 0 cases
+
+  --- December 1956 ---
+
+=== Scraping Year 1956 ===
+
+--- Processing December 1956 ---
+Found 29 potential cases
+  [1/29] Processing gr_l-9446_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9446_1956.json
+  [2/29] Processing gr_l-8809_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-8809_1956.json
+  [3/29] Processing gr_l-7637_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-7637_1956.json
+  [4/29] Processing gr_l-6601-02_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-6601-02_1956.json
+  [5/29] Processing am_145_1956.html
+Saved: RESTRUCTURED_DB/1956/december/A_M__No___145.json
+  [6/29] Processing gr_l-9152_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9152_1956.json
+  [7/29] Processing gr_l-8904-5_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-8904-5_1956.json
+  [8/29] Processing gr_l-8409_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-8409_1956.json
+  [9/29] Processing gr_l-10583_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-10583_1956.json
+  [10/29] Processing gr_l-10033_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-10033_1956.json
+  [11/29] Processing gr_l-9708_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9708_1956.json
+  [12/29] Processing gr_l-9404_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9404_1956.json
+  [13/29] Processing gr_l-8606_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-8606_1956.json
+  [14/29] Processing gr_l-9586_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9586_1956.json
+  [15/29] Processing gr_l-9953_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9953_1956.json
+  [16/29] Processing gr_l-9040_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9040_1956.json
+  [17/29] Processing gr_l-8699_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-8699_1956.json
+  [18/29] Processing gr_l-8917_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-8917_1956.json
+  [19/29] Processing gr_l-9672_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9672_1956.json
+  [20/29] Processing gr_l-9428_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9428_1956.json
+  [21/29] Processing gr_l-9003_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9003_1956.json
+  [22/29] Processing gr_l-8871_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-8871_1956.json
+  [23/29] Processing gr_l-10015_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-10015_1956.json
+  [24/29] Processing gr_l-10012_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-10012_1956.json
+  [25/29] Processing gr_l-9341_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-9341_1956.json
+  [26/29] Processing gr_l-8706_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-8706_1956.json
+  [27/29] Processing gr_l-8698_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-8698_1956.json
+  [28/29] Processing gr_l-11023_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-11023_1956.json
+  [29/29] Processing gr_l-10662_1956.html
+Saved: RESTRUCTURED_DB/1956/december/gr_l-10662_1956.json
+  Completed December: 29 cases
+
+  Year 1956 completed: 98 total cases
+🧀 cheese
+
+=== Processing Year 1957 ===
+
+  --- January 1957 ---
+
+=== Scraping Year 1957 ===
+
+--- Processing January 1957 ---
+Found 25 potential cases
+  [1/25] Processing gr_l-10998_1957.html
+Saved: RESTRUCTURED_DB/1957/january/G_R__No__46099.json
+  [2/25] Processing gr_l-10058_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-10058_1957.json
+  [3/25] Processing gr_l-9126_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9126_1957.json
+  [4/25] Processing gr_l-8960_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-8960_1957.json
+  [5/25] Processing gr_l-8685_1957.html
+Saved: RESTRUCTURED_DB/1957/january/G_R__No__42669.json
+  [6/25] Processing gr_l-7846_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-7846_1957.json
+  [7/25] Processing gr_l-7030_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-7030_1957.json
+  [8/25] Processing gr_l-9666_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9666_1957.json
+  [9/25] Processing gr_l-9621_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9621_1957.json
+  [10/25] Processing gr_l-9195_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9195_1957.json
+  [11/25] Processing gr_l-8613_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-8613_1957.json
+  [12/25] Processing gr_l-7586_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-7586_1957.json
+  [13/25] Processing gr_l-9633_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9633_1957.json
+  [14/25] Processing gr_l-9507_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9507_1957.json
+  [15/25] Processing gr_l-9044_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9044_1957.json
+  [16/25] Processing gr_l-8169_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-8169_1957.json
+  [17/25] Processing gr_l-9442_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9442_1957.json
+  [18/25] Processing gr_l-9660_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9660_1957.json
+  [19/25] Processing gr_l-8896_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-8896_1957.json
+  [20/25] Processing gr_l-8645_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-8645_1957.json
+  [21/25] Processing gr_l-8346_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-8346_1957.json
+  [22/25] Processing gr_l-9704_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9704_1957.json
+  [23/25] Processing gr_l-7909_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-7909_1957.json
+  [24/25] Processing gr_l-10360_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-10360_1957.json
+  [25/25] Processing gr_l-9542_1957.html
+Saved: RESTRUCTURED_DB/1957/january/gr_l-9542_1957.json
+  Completed January: 25 cases
+
+  --- February 1957 ---
+
+=== Scraping Year 1957 ===
+
+--- Processing February 1957 ---
+Found 25 potential cases
+  [1/25] Processing gr_l-10520_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-10520_1957.json
+  [2/25] Processing gr_l-10016_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-10016_1957.json
+  [3/25] Processing gr_l-9699_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-9699_1957.json
+  [4/25] Processing gr_l-9205_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-9205_1957.json
+  [5/25] Processing gr_l-8990_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-8990_1957.json
+  [6/25] Processing gr_l-8933_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-8933_1957.json
+  [7/25] Processing gr_l-8922-4_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-8922-4_1957.json
+  [8/25] Processing gr_l-8901-02_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-8901-02_1957.json
+  [9/25] Processing gr_l-8465_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-8465_1957.json
+  [10/25] Processing gr_l-8429_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-8429_1957.json
+  [11/25] Processing gr_l-8414_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-8414_1957.json
+  [12/25] Processing gr_l-8331_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-8331_1957.json
+  [13/25] Processing gr_l-11425_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-11425_1957.json
+  [14/25] Processing gr_l-10274_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-10274_1957.json
+  [15/25] Processing gr_l-8065_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-8065_1957.json
+  [16/25] Processing gr_l-7922_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-7922_1957.json
+  [17/25] Processing gr_l-7041_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-7041_1957.json
+  [18/25] Processing gr_l-9515_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-9515_1957.json
+  [19/25] Processing gr_l-8947_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-8947_1957.json
+  [20/25] Processing gr_l-10918_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-10918_1957.json
+  [21/25] Processing gr_l-9354_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-9354_1957.json
+  [22/25] Processing gr_l-8840_1957.html
+Saved: RESTRUCTURED_DB/1957/february/G_R__No__42669.json
+  [23/25] Processing gr_l-5835_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-5835_1957.json
+  [24/25] Processing gr_l-9566_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-9566_1957.json
+  [25/25] Processing gr_l-9274_1957.html
+Saved: RESTRUCTURED_DB/1957/february/gr_l-9274_1957.json
+  Completed February: 25 cases
+
+  --- March 1957 ---
+
+=== Scraping Year 1957 ===
+
+--- Processing March 1957 ---
+Found 14 potential cases
+  [1/14] Processing gr_l-10057_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-10057_1957.json
+  [2/14] Processing gr_l-9327_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-9327_1957.json
+  [3/14] Processing gr_l-9189_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-9189_1957.json
+  [4/14] Processing gr_l-8652_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-8652_1957.json
+  [5/14] Processing gr_l-11885_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-11885_1957.json
+  [6/14] Processing gr_l-9986_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-9986_1957.json
+  [7/14] Processing gr_l-9805-06_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-9805-06_1957.json
+  [8/14] Processing gr_l-9451_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-9451_1957.json
+  [9/14] Processing gr_l-9434_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-9434_1957.json
+  [10/14] Processing gr_l-9271_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-9271_1957.json
+  [11/14] Processing gr_l-8480_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-8480_1957.json
+  [12/14] Processing gr_l-11953_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-11953_1957.json
+  [13/14] Processing gr_l-9471_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-9471_1957.json
+  [14/14] Processing gr_l-8315_1957.html
+Saved: RESTRUCTURED_DB/1957/march/gr_l-8315_1957.json
+  Completed March: 14 cases
+
+  --- April 1957 ---
+
+=== Scraping Year 1957 ===
+
+--- Processing April 1957 ---
+Found 72 potential cases
+  [1/72] Processing gr_l-10771_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10771_1957.json
+  [2/72] Processing gr_l-10736_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10736_1957.json
+  [3/72] Processing gr_l-10338_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10338_1957.json
+  [4/72] Processing gr_l-10308_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10308_1957.json
+  [5/72] Processing gr_l-10153_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10153_1957.json
+  [6/72] Processing gr_l-10093_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10093_1957.json
+  [7/72] Processing gr_l-10080_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10080_1957.json
+  [8/72] Processing gr_l-10056_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10056_1957.json
+  [9/72] Processing gr_l-9900_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9900_1957.json
+  [10/72] Processing gr_l-9823_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9823_1957.json
+  [11/72] Processing gr_l-9638_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9638_1957.json
+  [12/72] Processing gr_l-9637_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9637_1957.json
+  [13/72] Processing gr_l-9540_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9540_1957.json
+  [14/72] Processing gr_l-9208-16_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9208-16_1957.json
+  [15/72] Processing gr_l-9160_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9160_1957.json
+  [16/72] Processing gr_l-9110_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9110_1957.json
+  [17/72] Processing gr_l-8907_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-8907_1957.json
+  [18/72] Processing gr_l-8895_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-8895_1957.json
+  [19/72] Processing gr_l-7820_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-7820_1957.json
+  [20/72] Processing gr_l-6239_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-6239_1957.json
+  [21/72] Processing ac_229_1957.html
+Saved: RESTRUCTURED_DB/1957/april/A_C__No__229.json
+  [22/72] Processing villasanta_1957.html
+Saved: RESTRUCTURED_DB/1957/april/villasanta_1957.json
+  [23/72] Processing gr_l-10688_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10688_1957.json
+  [24/72] Processing gr_l-10585_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10585_1957.json
+  [25/72] Processing gr_l-10573_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10573_1957.json
+  [26/72] Processing gr_l-9987_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9987_1957.json
+  [27/72] Processing gr_l-9855_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9855_1957.json
+  [28/72] Processing gr_l-9727_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9727_1957.json
+  [29/72] Processing gr_l-9694_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9694_1957.json
+  [30/72] Processing gr_l-9674_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9674_1957.json
+  [31/72] Processing gr_l-9265_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9265_1957.json
+  [32/72] Processing gr_l-9186_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9186_1957.json
+  [33/72] Processing gr_l-9156_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9156_1957.json
+  [34/72] Processing gr_l-9117-18_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9117-18_1957.json
+  [35/72] Processing gr_l-8957_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-8957_1957.json
+  [36/72] Processing gr_l-8752_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-8752_1957.json
+  [37/72] Processing gr_l-6713_1957.html
+Saved: RESTRUCTURED_DB/1957/april/G_R__No__28635.json
+  [38/72] Processing gr_l-9810_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9810_1957.json
+  [39/72] Processing gr_l-9712_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9712_1957.json
+  [40/72] Processing gr_l-4962_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-4962_1957.json
+  [41/72] Processing gr_l-10123_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10123_1957.json
+  [42/72] Processing gr_l-9782_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9782_1957.json
+  [43/72] Processing gr_l-10170_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10170_1957.json
+  [44/72] Processing gr_l-9602_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9602_1957.json
+  [45/72] Processing gr_l-9194_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9194_1957.json
+  [46/72] Processing gr_l-9729_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9729_1957.json
+  [47/72] Processing gr_l-8293_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-8293_1957.json
+  [48/72] Processing gr_l-10754_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10754_1957.json
+  [49/72] Processing gr_l-10064_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10064_1957.json
+  [50/72] Processing gr_l-9843_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9843_1957.json
+  [51/72] Processing gr_l-9682_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9682_1957.json
+  [52/72] Processing gr_l-9460_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9460_1957.json
+  [53/72] Processing gr_l-9292_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9292_1957.json
+  [54/72] Processing gr_l-11146_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-11146_1957.json
+  [55/72] Processing gr_l-10458_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10458_1957.json
+  [56/72] Processing gr_l-10129_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10129_1957.json
+  [57/72] Processing gr_l-10061_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10061_1957.json
+  [58/72] Processing gr_l-9983_1957.html
+Saved: RESTRUCTURED_DB/1957/april/G_R__No__5867.json
+  [59/72] Processing gr_l-9908_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9908_1957.json
+  [60/72] Processing gr_l-9840_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9840_1957.json
+  [61/72] Processing gr_l-9811_1957.html
+Saved: RESTRUCTURED_DB/1957/april/G_R__No__9131.json
+  [62/72] Processing gr_l-9601_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9601_1957.json
+  [63/72] Processing gr_l-9415_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9415_1957.json
+  [64/72] Processing gr_l-9230_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9230_1957.json
+  [65/72] Processing gr_l-8862_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-8862_1957.json
+  [66/72] Processing gr_l-10017_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10017_1957.json
+  [67/72] Processing gr_l-9807_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9807_1957.json
+  [68/72] Processing gr_l-9892_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9892_1957.json
+  [69/72] Processing gr_l-9519_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9519_1957.json
+  [70/72] Processing gr_l-10483_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-10483_1957.json
+  [71/72] Processing gr_l-9962_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9962_1957.json
+  [72/72] Processing gr_l-9543_1957.html
+Saved: RESTRUCTURED_DB/1957/april/gr_l-9543_1957.json
+  Completed April: 72 cases
+
+  --- May 1957 ---
+
+=== Scraping Year 1957 ===
+
+--- Processing May 1957 ---
+Found 47 potential cases
+  [1/47] Processing gr_l-11201_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-11201_1957.json
+  [2/47] Processing gr_l-10304_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10304_1957.json
+  [3/47] Processing gr_l-9738_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9738_1957.json
+  [4/47] Processing gr_l-9159_1957.html
+Saved: RESTRUCTURED_DB/1957/may/G_R__No__43262.json
+  [5/47] Processing gr_l-8894_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-8894_1957.json
+  [6/47] Processing gr_l-7995_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-7995_1957.json
+  [7/47] Processing gr_l-10807_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10807_1957.json
+  [8/47] Processing gr_l-9683_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9683_1957.json
+  [9/47] Processing gr_l-10710_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10710_1957.json
+  [10/47] Processing gr_l-10664_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10664_1957.json
+  [11/47] Processing gr_l-10594_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10594_1957.json
+  [12/47] Processing gr_l-10150_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10150_1957.json
+  [13/47] Processing gr_l-9960_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9960_1957.json
+  [14/47] Processing gr_l-9888_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9888_1957.json
+  [15/47] Processing gr_l-9858_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9858_1957.json
+  [16/47] Processing gr_l-9775_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9775_1957.json
+  [17/47] Processing gr_l-9659_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9659_1957.json
+  [18/47] Processing gr_l-9224_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9224_1957.json
+  [19/47] Processing gr_l-9193_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9193_1957.json
+  [20/47] Processing gr_l-9007_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9007_1957.json
+  [21/47] Processing gr_l-8298_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-8298_1957.json
+  [22/47] Processing gr_l-10823_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10823_1957.json
+  [23/47] Processing gr_l-10789_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10789_1957.json
+  [24/47] Processing gr_l-10427_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10427_1957.json
+  [25/47] Processing gr_l-10213_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10213_1957.json
+  [26/47] Processing gr_l-9625_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9625_1957.json
+  [27/47] Processing gr_l-9789_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9789_1957.json
+  [28/47] Processing gr_l-10793_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10793_1957.json
+  [29/47] Processing gr_l-9641_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9641_1957.json
+  [30/47] Processing gr_l-9558_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9558_1957.json
+  [31/47] Processing gr_l-9912_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9912_1957.json
+  [32/47] Processing gr_l-9656_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9656_1957.json
+  [33/47] Processing gr_l-9448_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9448_1957.json
+  [34/47] Processing gr_l-8987_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-8987_1957.json
+  [35/47] Processing gr_l-8848-58_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-8848-58_1957.json
+  [36/47] Processing gr_l-8721_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-8721_1957.json
+  [37/47] Processing gr_l-9997_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9997_1957.json
+  [38/47] Processing gr_l-9911_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9911_1957.json
+  [39/47] Processing gr_l-9626_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9626_1957.json
+  [40/47] Processing gr_l-8886_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-8886_1957.json
+  [41/47] Processing gr_l-9353_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9353_1957.json
+  [42/47] Processing gr_l-10759_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10759_1957.json
+  [43/47] Processing gr_l-9736_1957.html
+Saved: RESTRUCTURED_DB/1957/may/G_R__No__46843.json
+  [44/47] Processing gr_l-9350_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9350_1957.json
+  [45/47] Processing gr_l-9080_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9080_1957.json
+  [46/47] Processing gr_l-10760_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-10760_1957.json
+  [47/47] Processing gr_l-9439_1957.html
+Saved: RESTRUCTURED_DB/1957/may/gr_l-9439_1957.json
+  Completed May: 47 cases
+
+  --- June 1957 ---
+
+=== Scraping Year 1957 ===
+
+--- Processing June 1957 ---
+Found 21 potential cases
+  [1/21] Processing gr_l-10907_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-10907_1957.json
+  [2/21] Processing gr_l-10311_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-10311_1957.json
+  [3/21] Processing gr_l-10134_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-10134_1957.json
+  [4/21] Processing gr_l-10068-70_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-10068-70_1957.json
+  [5/21] Processing gr_l-9430_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-9430_1957.json
+  [6/21] Processing gr_l-9421_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-9421_1957.json
+  [7/21] Processing gr_l-9330_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-9330_1957.json
+  [8/21] Processing gr_l-9246_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-9246_1957.json
+  [9/21] Processing gr_l-8975_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-8975_1957.json
+  [10/21] Processing gr_l-8926_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-8926_1957.json
+  [11/21] Processing gr_l-8520_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-8520_1957.json
+  [12/21] Processing gr_l-10690_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-10690_1957.json
+  [13/21] Processing gr_l-10517_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-10517_1957.json
+  [14/21] Processing gr_l-10392_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-10392_1957.json
+  [15/21] Processing gr_l-9868_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-9868_1957.json
+  [16/21] Processing gr_l-9723_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-9723_1957.json
+  [17/21] Processing gr_l-9620_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-9620_1957.json
+  [18/21] Processing gr_l-8467_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-8467_1957.json
+  [19/21] Processing gr_l-7295_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-7295_1957.json
+  [20/21] Processing gr_l-9768_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-9768_1957.json
+  [21/21] Processing gr_l-10463_1957.html
+Saved: RESTRUCTURED_DB/1957/june/gr_l-10463_1957.json
+  Completed June: 21 cases
+
+  --- July 1957 ---
+
+=== Scraping Year 1957 ===
+
+--- Processing July 1957 ---
+Found 23 potential cases
+  [1/23] Processing gr_l-12083_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-12083_1957.json
+  [2/23] Processing gr_l-10794_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-10794_1957.json
+  [3/23] Processing gr_l-10289_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-10289_1957.json
+  [4/23] Processing gr_l-10089_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-10089_1957.json
+  [5/23] Processing gr_l-9903_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9903_1957.json
+  [6/23] Processing gr_l-9796_1957.html
+Saved: RESTRUCTURED_DB/1957/july/G_R__No__48177.json
+  [7/23] Processing gr_l-9776_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9776_1957.json
+  [8/23] Processing gr_l-9701_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9701_1957.json
+  [9/23] Processing gr_l-9664_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9664_1957.json
+  [10/23] Processing gr_l-9593_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9593_1957.json
+  [11/23] Processing gr_l-9555_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9555_1957.json
+  [12/23] Processing gr_l-9427_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9427_1957.json
+  [13/23] Processing gr_l-9331_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9331_1957.json
+  [14/23] Processing gr_l-6622_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-6622_1957.json
+  [15/23] Processing gr_l-9578_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9578_1957.json
+  [16/23] Processing gr_l-8679_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-8679_1957.json
+  [17/23] Processing gr_l-10333_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-10333_1957.json
+  [18/23] Processing gr_l-9109_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9109_1957.json
+  [19/23] Processing gr_l-11583_1957.html
+Saved: RESTRUCTURED_DB/1957/july/G_R__No__42579.json
+  [20/23] Processing gr_l-10132_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-10132_1957.json
+  [21/23] Processing gr_l-9462-3_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9462-3_1957.json
+  [22/23] Processing gr_l-9303_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-9303_1957.json
+  [23/23] Processing gr_l-8255_1957.html
+Saved: RESTRUCTURED_DB/1957/july/gr_l-8255_1957.json
+  Completed July: 23 cases
+
+  --- August 1957 ---
+
+=== Scraping Year 1957 ===
+
+--- Processing August 1957 ---
+Found 20 potential cases
+  [1/20] Processing gr_l-11196_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-11196_1957.json
+  [2/20] Processing gr_l-10448_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-10448_1957.json
+  [3/20] Processing gr_l-10295_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-10295_1957.json
+  [4/20] Processing gr_l-9901_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9901_1957.json
+  [5/20] Processing gr_l-9820_1957.html
+Saved: RESTRUCTURED_DB/1957/august/G_R__No__47065.json
+  [6/20] Processing gr_l-9769_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9769_1957.json
+  [7/20] Processing gr_l-9628_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9628_1957.json
+  [8/20] Processing gr_l-9336_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9336_1957.json
+  [9/20] Processing gr_l-9324_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9324_1957.json
+  [10/20] Processing gr_l-9234_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9234_1957.json
+  [11/20] Processing gr_l-8490_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-8490_1957.json
+  [12/20] Processing gr_l-7271_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-7271_1957.json
+  [13/20] Processing gr_l-5781_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-5781_1957.json
+  [14/20] Processing gr_l-10219_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-10219_1957.json
+  [15/20] Processing gr_l-9068_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9068_1957.json
+  [16/20] Processing gr_l-9671_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9671_1957.json
+  [17/20] Processing gr_l-9527_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9527_1957.json
+  [18/20] Processing gr_l-9225_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9225_1957.json
+  [19/20] Processing gr_l-11497_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-11497_1957.json
+  [20/20] Processing gr_l-9899_1957.html
+Saved: RESTRUCTURED_DB/1957/august/gr_l-9899_1957.json
+  Completed August: 20 cases
+
+  --- September 1957 ---
+
+=== Scraping Year 1957 ===
+
+--- Processing September 1957 ---
+Found 13 potential cases
+  [1/13] Processing gr_L-2701_1957.html
+Error fetching https://lawphil.net/judjuris/juri1957/sep1957/gr_L-2701_1957.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1957/sep1957/gr_L-2701_1957.html
+    Failed to parse case
+  [2/13] Processing gr_L-8556_1957.html
+Error fetching https://lawphil.net/judjuris/juri1957/sep1957/gr_L-8556_1957.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1957/sep1957/gr_L-8556_1957.html
+    Failed to parse case
+  [3/13] Processing gr_L-8580_1957.html
+Error fetching https://lawphil.net/judjuris/juri1957/sep1957/gr_L-8580_1957.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1957/sep1957/gr_L-8580_1957.html
+    Failed to parse case
+  [4/13] Processing gr_L-8801_1957.html
+Error fetching https://lawphil.net/judjuris/juri1957/sep1957/gr_L-8801_1957.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1957/sep1957/gr_L-8801_1957.html
+    Failed to parse case
+  [5/13] Processing gr_L-9552_1957.html
+Error fetching https://lawphil.net/judjuris/juri1957/sep1957/gr_L-9552_1957.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1957/sep1957/gr_L-9552_1957.html
+    Failed to parse case
+  [6/13] Processing gr_L-9569_1957.html
+Error fetching https://lawphil.net/judjuris/juri1957/sep1957/gr_L-9569_1957.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1957/sep1957/gr_L-9569_1957.html
+    Failed to parse case
+  [7/13] Processing gr_L-9605_1957.html
+Error fetching https://lawphil.net/judjuris/juri1957/sep1957/gr_L-9605_1957.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1957/sep1957/gr_L-9605_1957.html
+    Failed to parse case
+  [8/13] Processing gr_L-9990_1957.html
+Error fetching https://lawphil.net/judjuris/juri1957/sep1957/gr_L-9990_1957.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1957/sep1957/gr_L-9990_1957.html
+    Failed to parse case
+  [9/13] Processing gr_L-10131_1957.html
+Error fetching https://lawphil.net/judjuris/juri1957/sep1957/gr_L-10131_1957.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1957/sep1957/gr_L-10131_1957.html
+    Failed to parse case
+  [10/13] Processing gr_L-10716_1957.html
+Error fetching https://lawphil.net/judjuris/juri1957/sep1957/gr_L-10716_1957.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1957/sep1957/gr_L-10716_1957.html
+    Failed to parse case
+  [11/13] Processing gr_L-11035_1957.html
