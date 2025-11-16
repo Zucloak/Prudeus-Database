@@ -11,19 +11,14 @@
     1938,
     1939,
     1940,
-    1941
+    1941,
+    1942
   ],
-  "current_year": 1942,
+  "current_year": 1943,
   "completed_months": [
     "january",
-    "february",
-    "march",
-    "april",
-    "may",
-    "june",
-    "july",
-    "august"
+    "february"
   ],
-  "last_updated": "2025-11-16T16:06:43.924247",
-  "total_cases_scraped": 2705
+  "last_updated": "2025-11-16T16:36:23.631872",
+  "total_cases_scraped": 2776
 }
