@@ -94,6 +94,7 @@ def main():
     parser.add_argument('--resume', action='store_true', help='Resume from last position')
     parser.add_argument('--reset', action='store_true', help='Reset progress and start over')
     parser.add_argument('--status', action='store_true', help='Show current status')
+    parser.add_argument('--batch-name', type=str, help='Name of the current batch (e.g., "Batch 2")')
     
     args = parser.parse_args()
     
@@ -222,9 +223,15 @@ def main():
         # Mark year complete
         tracker.mark_year_complete(year)
         print(f"\n  Year {year} completed: {year_total_cases} total cases")
+        print("🧀 cheese")  # Status indicator after each year
     
     print("\n=== Batch Scraping Complete ===")
     print(f"Total cases scraped: {tracker.progress['total_cases_scraped']}")
+    
+    # Print batch completion message
+    if args.batch_name:
+        print(f"\n🍝 macaroni - {args.batch_name} COMPLETE!")
+    
     print("\nRun validation:")
     print(f"  python validate_cases.py --directory {output_dir} --start-year {args.start_year} --end-year {args.end_year}")
     

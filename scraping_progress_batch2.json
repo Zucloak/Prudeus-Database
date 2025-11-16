@@ -1,0 +1,22 @@
+{
+  "completed_years": [
+    1930,
+    1931,
+    1932,
+    1933,
+    1934,
+    1935,
+    1936
+  ],
+  "current_year": 1937,
+  "completed_months": [
+    "january",
+    "february",
+    "march",
+    "june",
+    "july",
+    "august"
+  ],
+  "last_updated": "2025-11-16T15:13:00.000Z",
+  "total_cases_scraped": 1491
+}
