@@ -12,20 +12,20 @@
     1939,
     1940,
     1941,
-    1942
+    1942,
+    1943,
+    1944,
+    1945,
+    1946,
+    1947,
+    1948,
+    1949
   ],
-  "current_year": 1943,
+  "current_year": 1950,
   "completed_months": [
     "january",
-    "february",
-    "march",
-    "april",
-    "may",
-    "june",
-    "july",
-    "august",
-    "september"
+    "february"
   ],
-  "last_updated": "2025-11-16T16:38:07.925706",
-  "total_cases_scraped": 2814
+  "last_updated": "2025-11-16T17:32:15.645041",
+  "total_cases_scraped": 3976
 }

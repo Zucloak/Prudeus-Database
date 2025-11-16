@@ -209,3 +209,16 @@ Saved: RESTRUCTURED_DB/1943/february/G_R__No__48560.json
   [5/11] Processing gr_48446_1943.html
 Saved: RESTRUCTURED_DB/1943/february/G_R__No__48446.json
   [6/11] Processing gr_48893_1943.html
+Resuming from January 1943
+
+=== Batch Scraping Configuration ===
+Years: 1943 to 1959
+Starting from: January 1943
+Output directory: RESTRUCTURED_DB
+Progress file: scraping_progress_batch2.json
+
+This will take a long time. Press Ctrl+C to stop at any time.
+You can resume later using --resume flag.
+
+Required packages not installed. Run:
+pip install requests beautifulsoup4
