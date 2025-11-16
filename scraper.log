@@ -1,3 +1,180 @@
 nohup: ignoring input
-Required packages not installed. Run:
-pip install requests beautifulsoup4
+
+=== Scraping Year 1928 ===
+
+--- Processing August 1928 ---
+Found 16 potential cases
+  [1/16] Processing gr_29241_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29241.json
+  [2/16] Processing gr_29842_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29842.json
+  [3/16] Processing gr_29242_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29242.json
+  [4/16] Processing gr_29918_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29918.json
+  [5/16] Processing gr_29865_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29865.json
+  [6/16] Processing gr_29316_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29316.json
+  [7/16] Processing gr_29191_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29191.json
+  [8/16] Processing gr_29221_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29221.json
+  [9/16] Processing gr_29167_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29167.json
+  [10/16] Processing gr_28450_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__28450.json
+  [11/16] Processing gr_28655_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__28655.json
+  [12/16] Processing gr_29373-75_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29373.json
+  [13/16] Processing gr_28995_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__28995.json
+  [14/16] Processing gr_28538_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__28538.json
+  [15/16] Processing gr_29837_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__29837.json
+  [16/16] Processing gr_28451_1928.html
+Saved: RESTRUCTURED_DB/1928/august/G_R__No__28451.json
+
+--- Processing September 1928 ---
+Found 13 potential cases
+  [1/13] Processing gr_28491_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28491.json
+  [2/13] Processing gr_28638_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28638.json
+  [3/13] Processing gr_28759_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28759.json
+  [4/13] Processing gr_28871_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28871.json
+  [5/13] Processing gr_28230_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28230.json
+  [6/13] Processing gr_28832_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28832.json
+  [7/13] Processing gr_28447_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28447.json
+  [8/13] Processing gr_30076_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__30076.json
+  [9/13] Processing gr_28629_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28629.json
+  [10/13] Processing gr_30243_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__30243.json
+  [11/13] Processing gr_28884_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28884.json
+  [12/13] Processing gr_28987_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28987.json
+  [13/13] Processing gr_28208_1928.html
+Saved: RESTRUCTURED_DB/1928/september/G_R__No__28208.json
+
+--- Processing October 1928 ---
+Found 38 potential cases
+  [1/38] Processing gr_29481_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29481.json
+  [2/38] Processing gr_28609_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28609.json
+  [3/38] Processing gr_27939_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__27939.json
+  [4/38] Processing gr_29416_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29416.json
+  [5/38] Processing gr_29077_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29077.json
+  [6/38] Processing gr_30364_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__30364.json
+  [7/38] Processing gr_29564_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29564.json
+  [8/38] Processing gr_29048-49_1928.html
+Saved: RESTRUCTURED_DB/1928/october/gr_29048-49_1928.json
+  [9/38] Processing gr_29027_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29027.json
+  [10/38] Processing gr_29182_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29182.json
+  [11/38] Processing gr_28920_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28920.json
+  [12/38] Processing gr_28847_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28847.json
+  [13/38] Processing gr_27694_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__27694.json
+  [14/38] Processing gr_27694_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__27694.json
+  [15/38] Processing gr_29295_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29295.json
+  [16/38] Processing gr_29179_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29179.json
+  [17/38] Processing gr_29166_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29166.json
+  [18/38] Processing gr_28394_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28394.json
+  [19/38] Processing gr_29268_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29268.json
+  [20/38] Processing gr_29197_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29197.json
+  [21/38] Processing gr_30270_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__30270.json
+  [22/38] Processing gr_28985_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28985.json
+  [23/38] Processing gr_28457_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28457.json
+  [24/38] Processing gr_28864_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28864.json
+  [25/38] Processing gr_28863_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28863.json
+  [26/38] Processing gr_29120_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29120.json
+  [27/38] Processing gr_28595_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28595.json
+  [28/38] Processing gr_28896_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28896.json
+  [29/38] Processing gr_28792_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28792.json
+  [30/38] Processing gr_28721_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28721.json
+  [31/38] Processing gr_28613_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28613.json
+  [32/38] Processing gr_29278_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29278.json
+  [33/38] Processing gr_29184_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29184.json
+  [34/38] Processing gr_30188_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__30188.json
+  [35/38] Processing gr_29075_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29075.json
+  [36/38] Processing gr_29044_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29044.json
+  [37/38] Processing gr_29010_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__29010.json
+  [38/38] Processing gr_28328_1928.html
+Saved: RESTRUCTURED_DB/1928/october/G_R__No__28328.json
+
+--- Processing November 1928 ---
+Found 22 potential cases
+  [1/22] Processing gr_29535-36_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__29535.json
+  [2/22] Processing gr_30185_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__30185.json
+  [3/22] Processing gr_29471_1928.html
+Saved: RESTRUCTURED_DB/1928/november/gr_29471_1928.json
+  [4/22] Processing gr_29147_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__29147.json
+  [5/22] Processing gr_29151_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__29151.json
+  [6/22] Processing gr_29474_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__29474.json
+  [7/22] Processing gr_30179_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__30179.json
+  [8/22] Processing gr_30187_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__30187.json
+  [9/22] Processing gr_30190_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__30190.json
+  [10/22] Processing gr_30167_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__30167.json
+  [11/22] Processing gr_30141_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__30141.json
+  [12/22] Processing gr_29487_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__29487.json
+  [13/22] Processing gr_30046_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__30046.json
+  [14/22] Processing gr_29396_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__29396.json
+  [15/22] Processing gr_28905_1928.html
+Saved: RESTRUCTURED_DB/1928/november/G_R__No__28905.json
+  [16/22] Processing gr_28497_1928.html
