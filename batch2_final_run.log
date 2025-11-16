@@ -2969,3 +2969,1760 @@ Saved: RESTRUCTURED_DB/1950/january/gr_l-1559_1950.json
 Saved: RESTRUCTURED_DB/1950/january/gr_l-3282_1950.json
   [19/34] Processing gr_l-2811_1950.html
 Saved: RESTRUCTURED_DB/1950/january/gr_l-2811_1950.json
+Resuming from January 1950
+
+=== Batch Scraping Configuration ===
+Years: 1950 to 1959
+Starting from: January 1950
+Output directory: RESTRUCTURED_DB
+Progress file: scraping_progress_batch2.json
+
+This will take a long time. Press Ctrl+C to stop at any time.
+You can resume later using --resume flag.
+
+
+=== Processing Year 1950 ===
+  Skipping January (already completed, 32 cases)
+  Skipping February (already completed, 28 cases)
+
+  --- March 1950 ---
+
+=== Scraping Year 1950 ===
+
+--- Processing March 1950 ---
+Found 41 potential cases
+  [1/41] Processing gr_l-2880_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2880_1950.json
+  [2/41] Processing gr_l-2801_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2801_1950.json
+  [3/41] Processing gr_l-2405_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2405_1950.json
+  [4/41] Processing gr_l-2318_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2318_1950.json
+  [5/41] Processing gr_l-2189_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2189_1950.json
+  [6/41] Processing gr_l-2175_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2175_1950.json
+  [7/41] Processing gr_l-2681_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2681_1950.json
+  [8/41] Processing gr_l-2647_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2647_1950.json
+  [9/41] Processing gr_l-2600_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2600_1950.json
+  [10/41] Processing gr_l-2288_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2288_1950.json
+  [11/41] Processing gr_l-2275_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2275_1950.json
+  [12/41] Processing gr_l-2239_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2239_1950.json
+  [13/41] Processing gr_l-1912_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-1912_1950.json
+  [14/41] Processing gr_l-836_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-836_1950.json
+  [15/41] Processing gr_l-2743_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2743_1950.json
+  [16/41] Processing gr_l-2856_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2856_1950.json
+  [17/41] Processing gr_l-2784_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2784_1950.json
+  [18/41] Processing gr_l-2636_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2636_1950.json
+  [19/41] Processing gr_l-2584_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2584_1950.json
+  [20/41] Processing gr_l-2434_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2434_1950.json
+  [21/41] Processing gr_l-2981_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2981_1950.json
+  [22/41] Processing gr_l-2582_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2582_1950.json
+  [23/41] Processing gr_l-2217_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2217_1950.json
+  [24/41] Processing gr_l-3580_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-3580_1950.json
+  [25/41] Processing gr_l-3022_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-3022_1950.json
+  [26/41] Processing gr_l-2809_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2809_1950.json
+  [27/41] Processing gr_l-1990_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-1990_1950.json
+  [28/41] Processing gr_l-2269_1950.html
+Saved: RESTRUCTURED_DB/1950/march/G_R__No__48480.json
+  [29/41] Processing gr_l-3643_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-3643_1950.json
+  [30/41] Processing gr_l-2335_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2335_1950.json
+  [31/41] Processing gr_l-3463_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-3463_1950.json
+  [32/41] Processing gr_l-2996_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2996_1950.json
+  [33/41] Processing gr_l-2665_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2665_1950.json
+  [34/41] Processing gr_l-2462_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2462_1950.json
+  [35/41] Processing gr_l-1546_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-1546_1950.json
+  [36/41] Processing gr_l-1296_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-1296_1950.json
+  [37/41] Processing gr_l-2447_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2447_1950.json
+  [38/41] Processing gr_l-2407_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2407_1950.json
+  [39/41] Processing gr_l-2171_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2171_1950.json
+  [40/41] Processing gr_l-2038_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-2038_1950.json
+  [41/41] Processing gr_l-1720_1950.html
+Saved: RESTRUCTURED_DB/1950/march/gr_l-1720_1950.json
+  Completed March: 41 cases
+
+  --- April 1950 ---
+
+=== Scraping Year 1950 ===
+
+--- Processing April 1950 ---
+Found 39 potential cases
+  [1/39] Processing gr_l-2771_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2771_1950.json
+  [2/39] Processing gr_l-2604_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2604_1950.json
+  [3/39] Processing gr_l-2185_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2185_1950.json
+  [4/39] Processing gr_l-2080_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2080_1950.json
+  [5/39] Processing gr_l-2054_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2054_1950.json
+  [6/39] Processing gr_l-1914_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-1914_1950.json
+  [7/39] Processing gr_l-1733_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-1733_1950.json
+  [8/39] Processing gr_l-2866_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2866_1950.json
+  [9/39] Processing gr_l-2649_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2649_1950.json
+  [10/39] Processing gr_l-2623_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2623_1950.json
+  [11/39] Processing gr_l-2279_1950.html
+Saved: RESTRUCTURED_DB/1950/april/G_R__No__45629.json
+  [12/39] Processing gr_l-2154_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2154_1950.json
+  [13/39] Processing gr_l-2082_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2082_1950.json
+  [14/39] Processing gr_l-222_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-222_1950.json
+  [15/39] Processing gr_l-2233_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2233_1950.json
+  [16/39] Processing gr_l-2232_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2232_1950.json
+  [17/39] Processing gr_l-2833_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2833_1950.json
+  [18/39] Processing gr_l-2523_1950.html
+Saved: RESTRUCTURED_DB/1950/april/G_R__No__46698.json
+  [19/39] Processing gr_l-2390_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2390_1950.json
+  [20/39] Processing gr_l-2879_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2879_1950.json
+  [21/39] Processing gr_l-2325_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2325_1950.json
+  [22/39] Processing gr_l-333_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-333_1950.json
+  [23/39] Processing gr_l-2433_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2433_1950.json
+  [24/39] Processing gr_l-2254_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2254_1950.json
+  [25/39] Processing gr_l-2205_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2205_1950.json
+  [26/39] Processing gr_l-1807_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-1807_1950.json
+  [27/39] Processing gr_l-2858_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2858_1950.json
+  [28/39] Processing gr_l-2255_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2255_1950.json
+  [29/39] Processing gr_l-2438_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2438_1950.json
+  [30/39] Processing gr_l-2266_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2266_1950.json
+  [31/39] Processing gr_l-1717_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-1717_1950.json
+  [32/39] Processing gr_l-2489_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2489_1950.json
+  [33/39] Processing gr_l-1753_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-1753_1950.json
+  [34/39] Processing gr_l-820_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-820_1950.json
+  [35/39] Processing gr_l-1867_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-1867_1950.json
+  [36/39] Processing gr_l-1698_1950.html
+Saved: RESTRUCTURED_DB/1950/april/G_R__No__48.json
+  [37/39] Processing gr_l-3024_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-3024_1950.json
+  [38/39] Processing gr_l-2618_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2618_1950.json
+  [39/39] Processing gr_l-2265_1950.html
+Saved: RESTRUCTURED_DB/1950/april/gr_l-2265_1950.json
+  Completed April: 39 cases
+
+  --- May 1950 ---
+
+=== Scraping Year 1950 ===
+
+--- Processing May 1950 ---
+Found 37 potential cases
+  [1/37] Processing gr_l-3541_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-3541_1950.json
+  [2/37] Processing gr_l-3343_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-3343_1950.json
+  [3/37] Processing gr_l-2816_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2816_1950.json
+  [4/37] Processing gr_l-2408_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2408_1950.json
+  [5/37] Processing gr_l-2408_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2408_1950.json
+  [6/37] Processing gr_l-3211_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-3211_1950.json
+  [7/37] Processing gr_l-2800_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2800_1950.json
+  [8/37] Processing gr_l-2744_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2744_1950.json
+  [9/37] Processing gr_l-2660_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2660_1950.json
+  [10/37] Processing gr_l-3451_1950.html
+Saved: RESTRUCTURED_DB/1950/may/G_R__No__3451.json
+  [11/37] Processing gr_l-3271_1950.html
+Saved: RESTRUCTURED_DB/1950/may/G_R__No__3271.json
+  [12/37] Processing gr_l-3071_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-3071_1950.json
+  [13/37] Processing gr_l-2365_1950.html
+Saved: RESTRUCTURED_DB/1950/may/G_R__No__47473.json
+  [14/37] Processing gr_l-1601_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-1601_1950.json
+  [15/37] Processing gr_l-3443_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-3443_1950.json
+  [16/37] Processing gr_l-2181_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2181_1950.json
+  [17/37] Processing gr_l-3049_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-3049_1950.json
+  [18/37] Processing gr_l-2792_1950.html
+Saved: RESTRUCTURED_DB/1950/may/G_R__No__2792.json
+  [19/37] Processing gr_l-3595_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-3595_1950.json
+  [20/37] Processing gr_l-3103_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-3103_1950.json
+  [21/37] Processing gr_l-3066_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-3066_1950.json
+  [22/37] Processing gr_l-2835_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2835_1950.json
+  [23/37] Processing gr_l-2823_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2823_1950.json
+  [24/37] Processing gr_l-2798_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2798_1950.json
+  [25/37] Processing gr_l-2777_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2777_1950.json
+  [26/37] Processing gr_l-2731-32_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2731-32_1950.json
+  [27/37] Processing gr_l-2231_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2231_1950.json
+  [28/37] Processing gr_l-2188_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2188_1950.json
+  [29/37] Processing gr_l-1721_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-1721_1950.json
+  [30/37] Processing gr_l-2487_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2487_1950.json
+  [31/37] Processing gr_l-2400_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2400_1950.json
+  [32/37] Processing gr_l-2640_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2640_1950.json
+  [33/37] Processing gr_l-2860_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2860_1950.json
+  [34/37] Processing gr_l-2124_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2124_1950.json
+  [35/37] Processing gr_l-2628_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2628_1950.json
+  [36/37] Processing gr_l-2029_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-2029_1950.json
+  [37/37] Processing gr_l-1597_1950.html
+Saved: RESTRUCTURED_DB/1950/may/gr_l-1597_1950.json
+  Completed May: 36 cases
+
+  --- June 1950 ---
+
+=== Scraping Year 1950 ===
+
+--- Processing June 1950 ---
+Found 15 potential cases
+  [1/15] Processing gr_l-3485_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-3485_1950.json
+  [2/15] Processing gr_l-2907_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-2907_1950.json
+  [3/15] Processing gr_l-2751_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-2751_1950.json
+  [4/15] Processing gr_l-2544_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-2544_1950.json
+  [5/15] Processing gr_l-2329_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-2329_1950.json
+  [6/15] Processing gr_l-2598_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-2598_1950.json
+  [7/15] Processing gr_l-3749_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-3749_1950.json
+  [8/15] Processing gr_l-2922-3_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-2922-3_1950.json
+  [9/15] Processing gr_l-3250_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-3250_1950.json
+  [10/15] Processing gr_l-2530_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-2530_1950.json
+  [11/15] Processing gr_l-2289_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-2289_1950.json
+  [12/15] Processing gr_l-3001_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-3001_1950.json
+  [13/15] Processing gr_l-2613_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-2613_1950.json
+  [14/15] Processing gr_l-3352_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-3352_1950.json
+  [15/15] Processing gr_l-2084-5_1950.html
+Saved: RESTRUCTURED_DB/1950/june/gr_l-2084-5_1950.json
+  Completed June: 15 cases
+
+  --- July 1950 ---
+
+=== Scraping Year 1950 ===
+
+--- Processing July 1950 ---
+Found 16 potential cases
+  [1/16] Processing gr_l-2415_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-2415_1950.json
+  [2/16] Processing gr_l-3883_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-3883_1950.json
+  [3/16] Processing gr_l-3693_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-3693_1950.json
+  [4/16] Processing gr_l-2478_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-2478_1950.json
+  [5/16] Processing gr_l-2429_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-2429_1950.json
+  [6/16] Processing gr_l-3779_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-3779_1950.json
+  [7/16] Processing gr_l-3029_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-3029_1950.json
+  [8/16] Processing gr_l-2588_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-2588_1950.json
+  [9/16] Processing gr_l-2554_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-2554_1950.json
+  [10/16] Processing gr_l-2150_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-2150_1950.json
+  [11/16] Processing gr_l-3820_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-3820_1950.json
+  [12/16] Processing gr_l-3028_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-3028_1950.json
+  [13/16] Processing gr_l-2825_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-2825_1950.json
+  [14/16] Processing gr_l-3021_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-3021_1950.json
+  [15/16] Processing gr_l-3875_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-3875_1950.json
+  [16/16] Processing gr_l-2256_1950.html
+Saved: RESTRUCTURED_DB/1950/july/gr_l-2256_1950.json
+  Completed July: 16 cases
+
+  --- August 1950 ---
+
+=== Scraping Year 1950 ===
+
+--- Processing August 1950 ---
+Found 27 potential cases
+  [1/27] Processing gr_l-3881_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3881_1950.json
+  [2/27] Processing gr_l-3045_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3045_1950.json
+  [3/27] Processing gr_l-2202_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-2202_1950.json
+  [4/27] Processing gr_l-2042_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-2042_1950.json
+  [5/27] Processing gr_l-1931_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-1931_1950.json
+  [6/27] Processing gr_l-1669_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-1669_1950.json
+  [7/27] Processing gr_l-1669_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-1669_1950.json
+  [8/27] Processing gr_l-3942_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3942_1950.json
+  [9/27] Processing gr_l-3280_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3280_1950.json
+  [10/27] Processing gr_l-2671_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-2671_1950.json
+  [11/27] Processing gr_l-49180_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-49180_1950.json
+  [12/27] Processing gr_l-49180_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-49180_1950.json
+  [13/27] Processing gr_l-3661_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3661_1950.json
+  [14/27] Processing gr_l-3274_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3274_1950.json
+  [15/27] Processing gr_l-2939_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-2939_1950.json
+  [16/27] Processing gr_l-3251_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3251_1950.json
+  [17/27] Processing gr_l-2724_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-2724_1950.json
+  [18/27] Processing gr_l-3887_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3887_1950.json
+  [19/27] Processing gr_l-3994_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3994_1950.json
+  [20/27] Processing gr_l-3224_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3224_1950.json
+  [21/27] Processing gr_l-3734_1950.html
+Saved: RESTRUCTURED_DB/1950/august/G_R__No__3221.json
+  [22/27] Processing gr_l-3395_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3395_1950.json
+  [23/27] Processing gr_l-3236_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3236_1950.json
+  [24/27] Processing gr_l-2397_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-2397_1950.json
+  [25/27] Processing gr_l-3951_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-3951_1950.json
+  [26/27] Processing gr_l-2837_1950.html
+Saved: RESTRUCTURED_DB/1950/august/gr_l-2837_1950.json
+  [27/27] Processing gr_l-2200_1950.html
+Saved: RESTRUCTURED_DB/1950/august/G_R__No__1627.json
+  Completed August: 25 cases
+
+  --- September 1950 ---
+
+=== Scraping Year 1950 ===
+
+--- Processing September 1950 ---
+Found 25 potential cases
+  [1/25] Processing gr_L-2668_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2668_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2668_1950.html
+    Failed to parse case
+  [2/25] Processing gr_L-2362_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2362_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2362_1950.html
+    Failed to parse case
+  [3/25] Processing gr_L-2467_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2467_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2467_1950.html
+    Failed to parse case
+  [4/25] Processing gr_L-2670_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2670_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2670_1950.html
+    Failed to parse case
+  [5/25] Processing gr_L-2726_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2726_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2726_1950.html
+    Failed to parse case
+  [6/25] Processing gr_L-2516_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2516_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2516_1950.html
+    Failed to parse case
+  [7/25] Processing gr_L-3743_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-3743_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-3743_1950.html
+    Failed to parse case
+  [8/25] Processing gr_L-2295_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2295_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2295_1950.html
+    Failed to parse case
+  [9/25] Processing gr_L-1977_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-1977_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-1977_1950.html
+    Failed to parse case
+  [10/25] Processing gr_L-2374_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2374_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2374_1950.html
+    Failed to parse case
+  [11/25] Processing gr_L-2475_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2475_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2475_1950.html
+    Failed to parse case
+  [12/25] Processing gr_L-2526_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2526_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2526_1950.html
+    Failed to parse case
+  [13/25] Processing gr_L-3581_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-3581_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-3581_1950.html
+    Failed to parse case
+  [14/25] Processing gr_L-4033_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-4033_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-4033_1950.html
+    Failed to parse case
+  [15/25] Processing gr_L-1944_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-1944_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-1944_1950.html
+    Failed to parse case
+  [16/25] Processing gr_L-2127_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2127_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2127_1950.html
+    Failed to parse case
+  [17/25] Processing gr_L-2071_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2071_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2071_1950.html
+    Failed to parse case
+  [18/25] Processing gr_L-2412_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2412_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2412_1950.html
+    Failed to parse case
+  [19/25] Processing gr_L-2870_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2870_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2870_1950.html
+    Failed to parse case
+  [20/25] Processing gr_L-3450_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-3450_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-3450_1950.html
+    Failed to parse case
+  [21/25] Processing gr_L-2684_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2684_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2684_1950.html
+    Failed to parse case
+  [22/25] Processing gr_L-1415_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-1415_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-1415_1950.html
+    Failed to parse case
+  [23/25] Processing gr_L-4027_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-4027_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-4027_1950.html
+    Failed to parse case
+  [24/25] Processing gr_L-2134_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2134_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2134_1950.html
+    Failed to parse case
+  [25/25] Processing gr_L-2180_1950.html
+Error fetching https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2180_1950.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1950/sep1950/gr_L-2180_1950.html
+    Failed to parse case
+  Completed September: 0 cases
+
+  --- October 1950 ---
+
+=== Scraping Year 1950 ===
+
+--- Processing October 1950 ---
+Found 23 potential cases
+  [1/23] Processing gr_l-2650_1950.html
+Saved: RESTRUCTURED_DB/1950/october/G_R__No__2296.json
+  [2/23] Processing gr_l-2024_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2024_1950.json
+  [3/23] Processing gr_l-2508_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2508_1950.json
+  [4/23] Processing gr_l-2342_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2342_1950.json
+  [5/23] Processing gr_l-2712_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2712_1950.json
+  [6/23] Processing gr_l-2608_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2608_1950.json
+  [7/23] Processing gr_l-2575_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2575_1950.json
+  [8/23] Processing gr_l-2268_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2268_1950.json
+  [9/23] Processing gr_l-2779_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2779_1950.json
+  [10/23] Processing gr_l-2097_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2097_1950.json
+  [11/23] Processing gr_l-2306_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2306_1950.json
+  [12/23] Processing gr_l-2213_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2213_1950.json
+  [13/23] Processing gr_l-2027_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2027_1950.json
+  [14/23] Processing gr_l-3972_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-3972_1950.json
+  [15/23] Processing gr_l-2534_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2534_1950.json
+  [16/23] Processing gr_l-2659_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2659_1950.json
+  [17/23] Processing gr_l-1724_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-1724_1950.json
+  [18/23] Processing gr_l-3223_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-3223_1950.json
+  [19/23] Processing gr_l-3032_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-3032_1950.json
+  [20/23] Processing gr_l-2691_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2691_1950.json
+  [21/23] Processing gr_l-2533_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2533_1950.json
+  [22/23] Processing gr_l-2332_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-2332_1950.json
+  [23/23] Processing gr_l-3027_1950.html
+Saved: RESTRUCTURED_DB/1950/october/gr_l-3027_1950.json
+  Completed October: 23 cases
+
+  --- November 1950 ---
+
+=== Scraping Year 1950 ===
+
+--- Processing November 1950 ---
+Found 22 potential cases
+  [1/22] Processing gr_l-2402_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-2402_1950.json
+  [2/22] Processing gr_l-2783_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-2783_1950.json
+  [3/22] Processing gr_l-3246_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3246_1950.json
+  [4/22] Processing gr_l-3264_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3264_1950.json
+  [5/22] Processing gr_l-3265_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3265_1950.json
+  [6/22] Processing gr_l-3525_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3525_1950.json
+  [7/22] Processing gr_l-3582_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3582_1950.json
+  [8/22] Processing gr_l-3637_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3637_1950.json
+  [9/22] Processing gr_l-3791_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3791_1950.json
+  [10/22] Processing gr_l-4063_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-4063_1950.json
+  [11/22] Processing gr_l-2566_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-2566_1950.json
+  [12/22] Processing gr_l-3472_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3472_1950.json
+  [13/22] Processing gr_l-3488_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3488_1950.json
+  [14/22] Processing gr_l-3448_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3448_1950.json
+  [15/22] Processing gr_l-3860_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3860_1950.json
+  [16/22] Processing gr_l-1499_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-1499_1950.json
+  [17/22] Processing gr_l-3235_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-3235_1950.json
+  [18/22] Processing gr_l-2954_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-2954_1950.json
+  [19/22] Processing gr_l-4117_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-4117_1950.json
+  [20/22] Processing gr_l-2881_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-2881_1950.json
+  [21/22] Processing gr_l-4129_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-4129_1950.json
+  [22/22] Processing gr_l-1678_1950.html
+Saved: RESTRUCTURED_DB/1950/november/gr_l-1678_1950.json
+  Completed November: 22 cases
+
+  --- December 1950 ---
+
+=== Scraping Year 1950 ===
+
+--- Processing December 1950 ---
+Found 32 potential cases
+  [1/32] Processing gr_l-3936_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3936_1950.json
+  [2/32] Processing gr_l-3911_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3911_1950.json
+  [3/32] Processing gr_l-3612_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3612_1950.json
+  [4/32] Processing gr_l-3606_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3606_1950.json
+  [5/32] Processing gr_l-3545_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3545_1950.json
+  [6/32] Processing gr_l-3460_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3460_1950.json
+  [7/32] Processing gr_l-3385_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3385_1950.json
+  [8/32] Processing gr_l-3353_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3353_1950.json
+  [9/32] Processing gr_l-3297_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3297_1950.json
+  [10/32] Processing gr_l-2925_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2925_1950.json
+  [11/32] Processing gr_l-2728_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2728_1950.json
+  [12/32] Processing gr_l-2315_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2315_1950.json
+  [13/32] Processing gr_l-2277_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2277_1950.json
+  [14/32] Processing gr_l-2176_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2176_1950.json
+  [15/32] Processing gr_l-1570_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-1570_1950.json
+  [16/32] Processing gr_l-3048_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3048_1950.json
+  [17/32] Processing gr_l-3838_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3838_1950.json
+  [18/32] Processing gr_l-3737_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3737_1950.json
+  [19/32] Processing gr_l-2871_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2871_1950.json
+  [20/32] Processing gr_l-3658_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3658_1950.json
+  [21/32] Processing gr_l-3408_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3408_1950.json
+  [22/32] Processing gr_l-2898_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2898_1950.json
+  [23/32] Processing gr_l-4047-49_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-4047-49_1950.json
+  [24/32] Processing gr_l-3614_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3614_1950.json
+  [25/32] Processing gr_l-2928_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2928_1950.json
+  [26/32] Processing gr_l-2832_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2832_1950.json
+  [27/32] Processing gr_l-2733_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2733_1950.json
+  [28/32] Processing gr_l-2066_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2066_1950.json
+  [29/32] Processing gr_l-1975_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-1975_1950.json
+  [30/32] Processing gr_l-4327_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-4327_1950.json
+  [31/32] Processing gr_l-2396_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-2396_1950.json
+  [32/32] Processing gr_l-3576_1950.html
+Saved: RESTRUCTURED_DB/1950/december/gr_l-3576_1950.json
+  Completed December: 32 cases
+
+  Year 1950 completed: 309 total cases
+🧀 cheese
+
+=== Processing Year 1951 ===
+
+  --- January 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing January 1951 ---
+Found 24 potential cases
+  [1/24] Processing gr_l-3506_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3506_1951.json
+  [2/24] Processing gr_l-3038_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3038_1951.json
+  [3/24] Processing gr_l-2961_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-2961_1951.json
+  [4/24] Processing gr_l-2785_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-2785_1951.json
+  [5/24] Processing gr_l-2246_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-2246_1951.json
+  [6/24] Processing gr_l-1746_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-1746_1951.json
+  [7/24] Processing gr_l-3354_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3354_1951.json
+  [8/24] Processing gr_l-2920_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-2920_1951.json
+  [9/24] Processing gr_l-2207_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-2207_1951.json
+  [10/24] Processing gr_l-4268_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-4268_1951.json
+  [11/24] Processing gr_l-1854_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-1854_1951.json
+  [12/24] Processing gr_l-3500_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3500_1951.json
+  [13/24] Processing gr_l-3302_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3302_1951.json
+  [14/24] Processing gr_l-2947_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-2947_1951.json
+  [15/24] Processing gr_l-2537_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-2537_1951.json
+  [16/24] Processing gr_l-2313_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-2313_1951.json
+  [17/24] Processing gr_l-3459_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3459_1951.json
+  [18/24] Processing gr_l-3337_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3337_1951.json
+  [19/24] Processing gr_l-3289_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3289_1951.json
+  [20/24] Processing gr_l-3090_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3090_1951.json
+  [21/24] Processing gr_l-3012_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3012_1951.json
+  [22/24] Processing gr_l-2323_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-2323_1951.json
+  [23/24] Processing gr_l-1565_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-1565_1951.json
+  [24/24] Processing gr_l-3023_1951.html
+Saved: RESTRUCTURED_DB/1951/january/gr_l-3023_1951.json
+  Completed January: 24 cases
+
+  --- February 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing February 1951 ---
+Found 12 potential cases
+  [1/12] Processing gr_l-2582_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-2582_1951.json
+  [2/12] Processing gr_l-2531_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-2531_1951.json
+  [3/12] Processing gr_l-2338_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-2338_1951.json
+  [4/12] Processing gr_l-1527_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-1527_1951.json
+  [5/12] Processing gr_l-2927_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-2927_1951.json
+  [6/12] Processing gr_l-2885_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-2885_1951.json
+  [7/12] Processing gr_l-2861_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-2861_1951.json
+  [8/12] Processing gr_l-2987_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-2987_1951.json
+  [9/12] Processing gr_l-3384_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-3384_1951.json
+  [10/12] Processing gr_l-2667_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-2667_1951.json
+  [11/12] Processing gr_l-2096_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-2096_1951.json
+  [12/12] Processing gr_l-2729_1951.html
+Saved: RESTRUCTURED_DB/1951/february/gr_l-2729_1951.json
+  Completed February: 12 cases
+
+  --- March 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing March 1951 ---
+Found 24 potential cases
+  [1/24] Processing gr_l-2059_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-2059_1951.json
+  [2/24] Processing gr_l-3762_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3762_1951.json
+  [3/24] Processing gr_l-3563_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3563_1951.json
+  [4/24] Processing gr_l-1621_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-1621_1951.json
+  [5/24] Processing gr_l-4313_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-4313_1951.json
+  [6/24] Processing gr_l-4150_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-4150_1951.json
+  [7/24] Processing gr_l-3781_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3781_1951.json
+  [8/24] Processing gr_l-3629_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3629_1951.json
+  [9/24] Processing gr_l-3498_1951.html
+Saved: RESTRUCTURED_DB/1951/march/G_R__No__47920.json
+  [10/24] Processing gr_l-3477_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3477_1951.json
+  [11/24] Processing gr_l-3008_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3008_1951.json
+  [12/24] Processing gr_l-2543_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-2543_1951.json
+  [13/24] Processing gr_l-3399_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3399_1951.json
+  [14/24] Processing gr_l-2958_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-2958_1951.json
+  [15/24] Processing gr_l-3830_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3830_1951.json
+  [16/24] Processing gr_l-3031_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3031_1951.json
+  [17/24] Processing gr_l-3244_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3244_1951.json
+  [18/24] Processing gr_l-3410_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3410_1951.json
+  [19/24] Processing gr_l-3440_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3440_1951.json
+  [20/24] Processing gr_l-4108_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-4108_1951.json
+  [21/24] Processing gr_l-4069_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-4069_1951.json
+  [22/24] Processing gr_l-3097_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3097_1951.json
+  [23/24] Processing gr_l-2316_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-2316_1951.json
+  [24/24] Processing gr_l-3362_1951.html
+Saved: RESTRUCTURED_DB/1951/march/gr_l-3362_1951.json
+  Completed March: 24 cases
+
+  --- April 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing April 1951 ---
+Found 44 potential cases
+  [1/44] Processing gr_l-3655_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3655_1951.json
+  [2/44] Processing gr_l-3655_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3655_1951.json
+  [3/44] Processing gr_l-3642_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3642_1951.json
+  [4/44] Processing gr_l-3435_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3435_1951.json
+  [5/44] Processing gr_l-3405_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3405_1951.json
+  [6/44] Processing gr_l-2025_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-2025_1951.json
+  [7/44] Processing gr_l-4269_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-4269_1951.json
+  [8/44] Processing gr_l-3937_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3937_1951.json
+  [9/44] Processing gr_l-3879_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3879_1951.json
+  [10/44] Processing gr_l-3823_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3823_1951.json
+  [11/44] Processing gr_l-3723_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3723_1951.json
+  [12/44] Processing gr_l-3626_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3626_1951.json
+  [13/44] Processing gr_l-3366_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3366_1951.json
+  [14/44] Processing gr_l-3238_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3238_1951.json
+  [15/44] Processing gr_l-3225_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3225_1951.json
+  [16/44] Processing gr_l-2957_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-2957_1951.json
+  [17/44] Processing gr_l-2913_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-2913_1951.json
+  [18/44] Processing gr_l-2901_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-2901_1951.json
+  [19/44] Processing gr_l-2844_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-2844_1951.json
+  [20/44] Processing gr_l-2500_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-2500_1951.json
+  [21/44] Processing gr_l-2378_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-2378_1951.json
+  [22/44] Processing gr_l-1922_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-1922_1951.json
+  [23/44] Processing gr_l-2877_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-2877_1951.json
+  [24/44] Processing gr_l-3468_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3468_1951.json
+  [25/44] Processing gr_l-2807_1951.html
+Saved: RESTRUCTURED_DB/1951/april/G_R__No__38255.json
+  [26/44] Processing gr_l-3761_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3761_1951.json
+  [27/44] Processing gr_l-3731_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3731_1951.json
+  [28/44] Processing gr_l-3565_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3565_1951.json
+  [29/44] Processing gr_l-3507_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3507_1951.json
+  [30/44] Processing gr_l-3469_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3469_1951.json
+  [31/44] Processing gr_l-3269_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3269_1951.json
+  [32/44] Processing gr_l-3330_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3330_1951.json
+  [33/44] Processing gr_l-2971_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-2971_1951.json
+  [34/44] Processing gr_l-4209_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-4209_1951.json
+  [35/44] Processing gr_l-3487_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3487_1951.json
+  [36/44] Processing gr_l-3396_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3396_1951.json
+  [37/44] Processing gr_l-3342_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3342_1951.json
+  [38/44] Processing gr_l-3072_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3072_1951.json
+  [39/44] Processing gr_l-2174_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-2174_1951.json
+  [40/44] Processing gr_l-4036_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-4036_1951.json
+  [41/44] Processing gr_l-3414_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3414_1951.json
+  [42/44] Processing gr_l-3364_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3364_1951.json
+  [43/44] Processing gr_l-3304_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3304_1951.json
+  [44/44] Processing gr_l-3404_1951.html
+Saved: RESTRUCTURED_DB/1951/april/gr_l-3404_1951.json
+  Completed April: 43 cases
+
+  --- May 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing May 1951 ---
+Found 71 potential cases
+  [1/71] Processing gr_l-4670_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-4670_1951.json
+  [2/71] Processing gr_l-4663_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-4663_1951.json
+  [3/71] Processing gr_l-4663_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-4663_1951.json
+  [4/71] Processing gr_l-4179_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-4179_1951.json
+  [5/71] Processing gr_l-3510_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3510_1951.json
+  [6/71] Processing gr_l-3491_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3491_1951.json
+  [7/71] Processing gr_l-3411_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3411_1951.json
+  [8/71] Processing gr_l-3004_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3004_1951.json
+  [9/71] Processing gr_l-2872_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2872_1951.json
+  [10/71] Processing gr_l-2819_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2819_1951.json
+  [11/71] Processing gr_l-2715_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2715_1951.json
+  [12/71] Processing gr_l-2664_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2664_1951.json
+  [13/71] Processing gr_l-2586_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2586_1951.json
+  [14/71] Processing gr_l-2552_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2552_1951.json
+  [15/71] Processing gr_l-2474_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2474_1951.json
+  [16/71] Processing gr_l-2263_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2263_1951.json
+  [17/71] Processing gr_l-2100_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2100_1951.json
+  [18/71] Processing gr_l-1866_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-1866_1951.json
+  [19/71] Processing gr_l-1364_1951.html
+Saved: RESTRUCTURED_DB/1951/may/G_R__No__44148.json
+  [20/71] Processing gr_l-1162_1951.html
+Saved: RESTRUCTURED_DB/1951/may/G_R__No__37208.json
+  [21/71] Processing gr_l-1743_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-1743_1951.json
+  [22/71] Processing gr_l-4143_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-4143_1951.json
+  [23/71] Processing gr_l-4053-55_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-4053-55_1951.json
+  [24/71] Processing gr_l-3490_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3490_1951.json
+  [25/71] Processing gr_l-3339_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3339_1951.json
+  [26/71] Processing gr_l-3267-8_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3267-8_1951.json
+  [27/71] Processing gr_l-2959_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2959_1951.json
+  [28/71] Processing gr_l-2847_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2847_1951.json
+  [29/71] Processing gr_l-2841_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2841_1951.json
+  [30/71] Processing gr_l-2695_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2695_1951.json
+  [31/71] Processing gr_l-2645_1951.html
+Saved: RESTRUCTURED_DB/1951/may/G_R__No__2755.json
+  [32/71] Processing gr_l-1967_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-1967_1951.json
+  [33/71] Processing gr_l-1594_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-1594_1951.json
+  [34/71] Processing gr_l-2294_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2294_1951.json
+  [35/71] Processing gr_l-3694_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3694_1951.json
+  [36/71] Processing gr_l-3621_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3621_1951.json
+  [37/71] Processing gr_l-3561_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3561_1951.json
+  [38/71] Processing gr_l-3549_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3549_1951.json
+  [39/71] Processing gr_l-3495_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3495_1951.json
+  [40/71] Processing gr_l-3430_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3430_1951.json
+  [41/71] Processing gr_l-3430_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3430_1951.json
+  [42/71] Processing gr_l-3324_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3324_1951.json
+  [43/71] Processing gr_l-3002_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3002_1951.json
+  [44/71] Processing gr_l-2998_1951.html
+Saved: RESTRUCTURED_DB/1951/may/G_R__No__47616.json
+  [45/71] Processing gr_l-2956_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2956_1951.json
+  [46/71] Processing gr_l-2834_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2834_1951.json
+  [47/71] Processing gr_l-2155_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2155_1951.json
+  [48/71] Processing gr_l-1687_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-1687_1951.json
+  [49/71] Processing gr_l-3537_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3537_1951.json
+  [50/71] Processing gr_l-3325_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3325_1951.json
+  [51/71] Processing gr_l-3099_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3099_1951.json
+  [52/71] Processing gr_l-2525_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2525_1951.json
+  [53/71] Processing gr_l-2311_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2311_1951.json
+  [54/71] Processing gr_l-4459_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-4459_1951.json
+  [55/71] Processing gr_l-3987_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3987_1951.json
+  [56/71] Processing gr_l-3497_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3497_1951.json
+  [57/71] Processing gr_l-3386_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3386_1951.json
+  [58/71] Processing gr_l-3345_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3345_1951.json
+  [59/71] Processing gr_l-2755_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2755_1951.json
+  [60/71] Processing gr_l-2464_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2464_1951.json
+  [61/71] Processing gr_l-3824_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3824_1951.json
+  [62/71] Processing gr_l-3321_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3321_1951.json
+  [63/71] Processing gr_l-3248_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3248_1951.json
+  [64/71] Processing gr_l-3047_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3047_1951.json
+  [65/71] Processing gr_l-2236_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2236_1951.json
+  [66/71] Processing gr_l-3112_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3112_1951.json
+  [67/71] Processing gr_l-2843_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2843_1951.json
+  [68/71] Processing gr_l-2260_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2260_1951.json
+  [69/71] Processing gr_l-3254_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-3254_1951.json
+  [70/71] Processing gr_l-2926_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-2926_1951.json
+  [71/71] Processing gr_l-4638_1951.html
+Saved: RESTRUCTURED_DB/1951/may/gr_l-4638_1951.json
+  Completed May: 69 cases
+
+  --- June 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing June 1951 ---
+Found 27 potential cases
+  [1/27] Processing gr_l-2011_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2011_1951.json
+  [2/27] Processing gr_l-2011_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2011_1951.json
+  [3/27] Processing ca_8551_1951.html
+Saved: RESTRUCTURED_DB/1951/june/ca_8551_1951.json
+  [4/27] Processing gr_l-4158_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-4158_1951.json
+  [5/27] Processing gr_l-3754_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-3754_1951.json
+  [6/27] Processing gr_l-3635_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-3635_1951.json
+  [7/27] Processing gr_l-3409_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-3409_1951.json
+  [8/27] Processing gr_l-3407_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-3407_1951.json
+  [9/27] Processing gr_l-3374-75_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-3374-75_1951.json
+  [10/27] Processing gr_l-2997_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2997_1951.json
+  [11/27] Processing gr_l-2910_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2910_1951.json
+  [12/27] Processing gr_l-2504_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2504_1951.json
+  [13/27] Processing gr_l-516_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-516_1951.json
+  [14/27] Processing gr_l-3281_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-3281_1951.json
+  [15/27] Processing gr_l-2999_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2999_1951.json
+  [16/27] Processing gr_l-2411_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2411_1951.json
+  [17/27] Processing gr_l-3496_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-3496_1951.json
+  [18/27] Processing gr_l-2965_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2965_1951.json
+  [19/27] Processing gr_l-2921_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2921_1951.json
+  [20/27] Processing gr_l-2376_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2376_1951.json
+  [21/27] Processing gr_l-3412_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-3412_1951.json
+  [22/27] Processing gr_l-3765_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-3765_1951.json
+  [23/27] Processing gr_l-2820_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2820_1951.json
+  [24/27] Processing gr_l-2610_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2610_1951.json
+  [25/27] Processing gr_l-3415_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-3415_1951.json
+  [26/27] Processing gr_l-2826_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-2826_1951.json
+  [27/27] Processing gr_l-4495_1951.html
+Saved: RESTRUCTURED_DB/1951/june/gr_l-4495_1951.json
+  Completed June: 26 cases
+
+  --- July 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing July 1951 ---
+Found 41 potential cases
+  [1/41] Processing gr_l-4681_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-4681_1951.json
+  [2/41] Processing gr_l-4517_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-4517_1951.json
+  [3/41] Processing gr_l-4019_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-4019_1951.json
+  [4/41] Processing gr_l-3822_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3822_1951.json
+  [5/41] Processing gr_l-3775_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3775_1951.json
+  [6/41] Processing gr_l-3766_1951.html
+Saved: RESTRUCTURED_DB/1951/july/G_R__No__1109.json
+  [7/41] Processing gr_l-3601_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3601_1951.json
+  [8/41] Processing gr_l-3597_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3597_1951.json
+  [9/41] Processing gr_l-3519_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3519_1951.json
+  [10/41] Processing gr_l-3455_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3455_1951.json
+  [11/41] Processing gr_l-3439_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3439_1951.json
+  [12/41] Processing gr_l-2611_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-2611_1951.json
+  [13/41] Processing gr_l-2578_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-2578_1951.json
+  [14/41] Processing gr_l-2432_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-2432_1951.json
+  [15/41] Processing gr_l-2152-3_1951.html
+Saved: RESTRUCTURED_DB/1951/july/G_R__No__2151.json
+  [16/41] Processing gr_l-4583_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-4583_1951.json
+  [17/41] Processing gr_l-3981_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3981_1951.json
+  [18/41] Processing gr_l-3733_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3733_1951.json
+  [19/41] Processing gr_l-3540_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3540_1951.json
+  [20/41] Processing gr_l-3479_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3479_1951.json
+  [21/41] Processing gr_l-3467_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3467_1951.json
+  [22/41] Processing gr_l-4205_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-4205_1951.json
+  [23/41] Processing gr_l-3928_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3928_1951.json
+  [24/41] Processing gr_l-3397_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3397_1951.json
+  [25/41] Processing gr_l-2953_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-2953_1951.json
+  [26/41] Processing gr_l-3647_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3647_1951.json
+  [27/41] Processing gr_l-3622_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3622_1951.json
+  [28/41] Processing gr_l-4706_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-4706_1951.json
+  [29/41] Processing gr_l-3400_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3400_1951.json
+  [30/41] Processing gr_l-2654_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-2654_1951.json
+  [31/41] Processing gr_l-3278_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3278_1951.json
+  [32/41] Processing gr_l-3233_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3233_1951.json
+  [33/41] Processing gr_l-3900_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3900_1951.json
+  [34/41] Processing gr_l-3323_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3323_1951.json
+  [35/41] Processing gr_l-3018_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3018_1951.json
+  [36/41] Processing gr_l-4403_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-4403_1951.json
+  [37/41] Processing gr_l-3433_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3433_1951.json
+  [38/41] Processing gr_l-4465_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-4465_1951.json
+  [39/41] Processing gr_l-3757_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3757_1951.json
+  [40/41] Processing gr_l-3885_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3885_1951.json
+  [41/41] Processing gr_l-3084_1951.html
+Saved: RESTRUCTURED_DB/1951/july/gr_l-3084_1951.json
+  Completed July: 41 cases
+
+  --- August 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing August 1951 ---
+Found 19 potential cases
+  [1/19] Processing gr_l-4602_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-4602_1951.json
+  [2/19] Processing gr_l-4362_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-4362_1951.json
+  [3/19] Processing gr_l-3782_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-3782_1951.json
+  [4/19] Processing gr_l-2808_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-2808_1951.json
+  [5/19] Processing gr_l-4652_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-4652_1951.json
+  [6/19] Processing gr_l-4119_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-4119_1951.json
+  [7/19] Processing gr_l-4017_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-4017_1951.json
+  [8/19] Processing gr_l-3950_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-3950_1951.json
+  [9/19] Processing gr_l-3746_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-3746_1951.json
+  [10/19] Processing gr_l-3299_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-3299_1951.json
+  [11/19] Processing gr_l-3868_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-3868_1951.json
+  [12/19] Processing gr_l-4610_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-4610_1951.json
+  [13/19] Processing gr_l-3509_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-3509_1951.json
+  [14/19] Processing gr_l-3999_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-3999_1951.json
+  [15/19] Processing gr_l-3378_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-3378_1951.json
+  [16/19] Processing gr_l-2781_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-2781_1951.json
+  [17/19] Processing gr_l-3319_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-3319_1951.json
+  [18/19] Processing gr_l-4312_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-4312_1951.json
+  [19/19] Processing gr_l-3526_1951.html
+Saved: RESTRUCTURED_DB/1951/august/gr_l-3526_1951.json
+  Completed August: 19 cases
+
+  --- September 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing September 1951 ---
+Found 23 potential cases
+  [1/23] Processing gr_L-2624_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2624_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2624_1951.html
+    Failed to parse case
+  [2/23] Processing gr_L-2772_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2772_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2772_1951.html
+    Failed to parse case
+  [3/23] Processing gr_L-2846_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2846_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2846_1951.html
+    Failed to parse case
+  [4/23] Processing gr_L-3513_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3513_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3513_1951.html
+    Failed to parse case
+  [5/23] Processing gr_L-3591_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3591_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3591_1951.html
+    Failed to parse case
+  [6/23] Processing gr_L-3688_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3688_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3688_1951.html
+    Failed to parse case
+  [7/23] Processing gr_L-4526_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4526_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4526_1951.html
+    Failed to parse case
+  [8/23] Processing gr_L-5608_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-5608_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-5608_1951.html
+    Failed to parse case
+  [9/23] Processing gr_L-3062_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3062_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3062_1951.html
+    Failed to parse case
+  [10/23] Processing gr_L-3284_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3284_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3284_1951.html
+    Failed to parse case
+  [11/23] Processing gr_L-3331_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3331_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3331_1951.html
+    Failed to parse case
+  [12/23] Processing gr_L-3494_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3494_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3494_1951.html
+    Failed to parse case
+  [13/23] Processing gr_L-4352_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4352_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4352_1951.html
+    Failed to parse case
+  [14/23] Processing gr_L-4475_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4475_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4475_1951.html
+    Failed to parse case
+  [15/23] Processing gr_L-2666_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2666_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2666_1951.html
+    Failed to parse case
+  [16/23] Processing gr_L-2933_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2933_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2933_1951.html
+    Failed to parse case
+  [17/23] Processing gr_L-4254_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4254_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4254_1951.html
+    Failed to parse case
+  [18/23] Processing gr_L-4922_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4922_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4922_1951.html
+    Failed to parse case
+  [19/23] Processing gr_L-2538_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2538_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2538_1951.html
+    Failed to parse case
+  [20/23] Processing gr_L-2159_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2159_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-2159_1951.html
+    Failed to parse case
+  [21/23] Processing gr_L-3216_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3216_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3216_1951.html
+    Failed to parse case
+  [22/23] Processing gr_L-3522_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3522_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-3522_1951.html
+    Failed to parse case
+  [23/23] Processing gr_L-4014_1951.html
+Error fetching https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4014_1951.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1951/sep1951/gr_L-4014_1951.html
+    Failed to parse case
+  Completed September: 0 cases
+
+  --- October 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing October 1951 ---
+Found 33 potential cases
+  [1/33] Processing gr_l-2875_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-2875_1951.json
+  [2/33] Processing gr_l-3316_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3316_1951.json
+  [3/33] Processing gr_l-3457_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3457_1951.json
+  [4/33] Processing gr_l-3777_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3777_1951.json
+  [5/33] Processing gr_l-3777_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3777_1951.json
+  [6/33] Processing gr_l-3905_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3905_1951.json
+  [7/33] Processing gr_l-4253_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4253_1951.json
+  [8/33] Processing gr_l-4300_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4300_1951.json
+  [9/33] Processing gr_l-4917_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4917_1951.json
+  [10/33] Processing gr_l-4015_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4015_1951.json
+  [11/33] Processing gr_l-4369_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4369_1951.json
+  [12/33] Processing gr_l-4396_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4396_1951.json
+  [13/33] Processing gr_l-4408_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4408_1951.json
+  [14/33] Processing gr_l-3619_1951.html
+Saved: RESTRUCTURED_DB/1951/october/G_R__No__46448.json
+  [15/33] Processing gr_l-4006_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4006_1951.json
+  [16/33] Processing gr_l-3458_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3458_1951.json
+  [17/33] Processing gr_l-3369_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3369_1951.json
+  [18/33] Processing gr_l-3802_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3802_1951.json
+  [19/33] Processing gr_l-4183_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4183_1951.json
+  [20/33] Processing gr_l-3095_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3095_1951.json
+  [21/33] Processing gr_l-3465_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3465_1951.json
+  [22/33] Processing gr_l-3709_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3709_1951.json
+  [23/33] Processing gr_l-4120_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4120_1951.json
+  [24/33] Processing gr_l-4134_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4134_1951.json
+  [25/33] Processing gr_l-4059_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4059_1951.json
+  [26/33] Processing gr_l-3857_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3857_1951.json
+  [27/33] Processing gr_l-4201_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4201_1951.json
+  [28/33] Processing gr_l-4009_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4009_1951.json
+  [29/33] Processing gr_l-4178_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4178_1951.json
+  [30/33] Processing gr_l-4855_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4855_1951.json
+  [31/33] Processing gr_l-4855_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4855_1951.json
+  [32/33] Processing gr_l-4855_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-4855_1951.json
+  [33/33] Processing gr_l-3926_1951.html
+Saved: RESTRUCTURED_DB/1951/october/gr_l-3926_1951.json
+  Completed October: 30 cases
+
+  --- November 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing November 1951 ---
+Found 31 potential cases
+  [1/31] Processing gr_l-2934_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-2934_1951.json
+  [2/31] Processing gr_l-2978_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-2978_1951.json
+  [3/31] Processing gr_l-3272_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3272_1951.json
+  [4/31] Processing gr_l-3648_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3648_1951.json
+  [5/31] Processing gr_l-3677_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3677_1951.json
+  [6/31] Processing gr_l-3764_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3764_1951.json
+  [7/31] Processing gr_l-3884_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3884_1951.json
+  [8/31] Processing gr_l-4010_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4010_1951.json
+  [9/31] Processing gr_l-4037_1951.html
+Saved: RESTRUCTURED_DB/1951/november/G_R__No__41438.json
+  [10/31] Processing gr_l-4067_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4067_1951.json
+  [11/31] Processing gr_l-4094_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4094_1951.json
+  [12/31] Processing gr_l-4135_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4135_1951.json
+  [13/31] Processing gr_l-4199_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4199_1951.json
+  [14/31] Processing gr_l-4422_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4422_1951.json
+  [15/31] Processing gr_l-4443_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4443_1951.json
+  [16/31] Processing gr_l-4934_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4934_1951.json
+  [17/31] Processing gr_l-3470_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3470_1951.json
+  [18/31] Processing gr_l-3975_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3975_1951.json
+  [19/31] Processing gr_l-3740_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3740_1951.json
+  [20/31] Processing gr_l-3889_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3889_1951.json
+  [21/31] Processing gr_l-4374_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4374_1951.json
+  [22/31] Processing gr_l-2966_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-2966_1951.json
+  [23/31] Processing gr_l-3691_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3691_1951.json
+  [24/31] Processing ac_74_1951.html
+Saved: RESTRUCTURED_DB/1951/november/A_C__No__74.json
+  [25/31] Processing gr_l-3738_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3738_1951.json
+  [26/31] Processing gr_l-3920_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3920_1951.json
+  [27/31] Processing gr_l-4249_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4249_1951.json
+  [28/31] Processing gr_l-4615_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-4615_1951.json
+  [29/31] Processing gr_l-3835_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3835_1951.json
+  [30/31] Processing gr_l-3609_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-3609_1951.json
+  [31/31] Processing gr_l-5150_1951.html
+Saved: RESTRUCTURED_DB/1951/november/gr_l-5150_1951.json
+  Completed November: 31 cases
+
+  --- December 1951 ---
+
+=== Scraping Year 1951 ===
+
+--- Processing December 1951 ---
+Found 25 potential cases
+  [1/25] Processing gr_l-4337_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-4337_1951.json
+  [2/25] Processing gr_l-4140-4141_1951.html
+Saved: RESTRUCTURED_DB/1951/december/G_R__No__4264.json
+  [3/25] Processing gr_l-3569_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-3569_1951.json
+  [4/25] Processing gr_l-4461_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-4461_1951.json
+  [5/25] Processing gr_l-4224_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-4224_1951.json
+  [6/25] Processing gr_l-4159_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-4159_1951.json
+  [7/25] Processing gr_l-4013_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-4013_1951.json
+  [8/25] Processing gr_l-3934_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-3934_1951.json
+  [9/25] Processing gr_l-3624_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-3624_1951.json
+  [10/25] Processing gr_l-4791_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-4791_1951.json
+  [11/25] Processing gr_l-3863_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-3863_1951.json
+  [12/25] Processing gr_l-3616_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-3616_1951.json
+  [13/25] Processing gr_l-2963-4_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-2963-4_1951.json
+  [14/25] Processing gr_l-3935_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-3935_1951.json
+  [15/25] Processing gr_l-3846_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-3846_1951.json
+  [16/25] Processing gr_l-3587_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-3587_1951.json
+  [17/25] Processing gr_l-4187_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-4187_1951.json
+  [18/25] Processing gr_l-4276_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-4276_1951.json
+  [19/25] Processing gr_l-4169_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-4169_1951.json
+  [20/25] Processing gr_l-3885_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-3885_1951.json
+  [21/25] Processing gr_l-2990_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-2990_1951.json
+  [22/25] Processing gr_l-3925_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-3925_1951.json
+  [23/25] Processing gr_l-4414_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-4414_1951.json
+  [24/25] Processing gr_l-2317_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-2317_1951.json
+  [25/25] Processing gr_l-5153_1951.html
+Saved: RESTRUCTURED_DB/1951/december/gr_l-5153_1951.json
+  Completed December: 25 cases
+
+  Year 1951 completed: 344 total cases
+🧀 cheese
+
+=== Processing Year 1952 ===
+
+  --- January 1952 ---
+
+=== Scraping Year 1952 ===
+
+--- Processing January 1952 ---
+Found 27 potential cases
+  [1/27] Processing gr_l-5162_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-5162_1952.json
+  [2/27] Processing gr_l-4513_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4513_1952.json
+  [3/27] Processing gr_l-4299_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4299_1952.json
+  [4/27] Processing gr_l-4297_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4297_1952.json
+  [5/27] Processing gr_l-4294_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4294_1952.json
+  [6/27] Processing gr_l-4217_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4217_1952.json
+  [7/27] Processing gr_l-4206_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4206_1952.json
+  [8/27] Processing gr_l-4170_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4170_1952.json
+  [9/27] Processing gr_l-4090_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4090_1952.json
+  [10/27] Processing gr_l-4089_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4089_1952.json
+  [11/27] Processing gr_l-3869_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-3869_1952.json
+  [12/27] Processing gr_l-3686_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-3686_1952.json
+  [13/27] Processing gr_l-4380_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4380_1952.json
+  [14/27] Processing gr_l-4247_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4247_1952.json
+  [15/27] Processing gr_l-4487_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4487_1952.json
+  [16/27] Processing gr_l-4227_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4227_1952.json
+  [17/27] Processing gr_l-3783_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-3783_1952.json
+  [18/27] Processing gr_l-3739_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-3739_1952.json
+  [19/27] Processing gr_l-3872_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-3872_1952.json
+  [20/27] Processing gr_l-4228_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4228_1952.json
+  [21/27] Processing gr_l-4075_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4075_1952.json
+  [22/27] Processing gr_l-4007_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4007_1952.json
+  [23/27] Processing gr_l-3825_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-3825_1952.json
+  [24/27] Processing gr_l-3788_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-3788_1952.json
+  [25/27] Processing gr_l-4260_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-4260_1952.json
+  [26/27] Processing gr_l-3222_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-3222_1952.json
+  [27/27] Processing gr_l-2125_1952.html
+Saved: RESTRUCTURED_DB/1952/january/gr_l-2125_1952.json
+  Completed January: 27 cases
+
+  --- February 1952 ---
+
+=== Scraping Year 1952 ===
+
+--- Processing February 1952 ---
+Found 16 potential cases
+  [1/16] Processing gr_l-4782_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-4782_1952.json
+  [2/16] Processing gr_l-4410_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-4410_1952.json
+  [3/16] Processing gr_l-4136_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-4136_1952.json
+  [4/16] Processing gr_l-3932_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-3932_1952.json
+  [5/16] Processing gr_l-3871_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-3871_1952.json
+  [6/16] Processing gr_l-3678_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-3678_1952.json
+  [7/16] Processing gr_l-3518_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-3518_1952.json
+  [8/16] Processing gr_l-4600_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-4600_1952.json
+  [9/16] Processing gr_l-4768_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-4768_1952.json
+  [10/16] Processing gr_l-4448_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-4448_1952.json
+  [11/16] Processing gr_l-4877_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-4877_1952.json
+  [12/16] Processing gr_l-4070_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-4070_1952.json
+  [13/16] Processing gr_l-4296_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-4296_1952.json
+  [14/16] Processing gr_l-4803_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-4803_1952.json
+  [15/16] Processing gr_l-3668_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-3668_1952.json
+  [16/16] Processing gr_l-2603_1952.html
+Saved: RESTRUCTURED_DB/1952/february/gr_l-2603_1952.json
+  Completed February: 16 cases
+
+  --- March 1952 ---
+
+=== Scraping Year 1952 ===
+
+--- Processing March 1952 ---
+Found 22 potential cases
+  [1/22] Processing gr_l-5422_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-5422_1952.json
+  [2/22] Processing gr_l-4579_1952.html
+Saved: RESTRUCTURED_DB/1952/march/G_R__No__4674.json
+  [3/22] Processing gr_l-4423_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4423_1952.json
+  [4/22] Processing gr_l-4271_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4271_1952.json
+  [5/22] Processing gr_l-4111_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4111_1952.json
+  [6/22] Processing gr_l-4057_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4057_1952.json
+  [7/22] Processing gr_l-4834_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4834_1952.json
+  [8/22] Processing gr_l-4618_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4618_1952.json
+  [9/22] Processing gr_l-4604_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4604_1952.json
+  [10/22] Processing gr_l-4146_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4146_1952.json
+  [11/22] Processing gr_l-3217_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-3217_1952.json
+  [12/22] Processing gr_l-3526_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-3526_1952.json
+  [13/22] Processing gr_l-4594_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4594_1952.json
+  [14/22] Processing gr_l-3859_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-3859_1952.json
+  [15/22] Processing gr_l-4621_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4621_1952.json
+  [16/22] Processing gr_l-4330_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4330_1952.json
+  [17/22] Processing gr_l-4854_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4854_1952.json
+  [18/22] Processing gr_l-4833_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4833_1952.json
+  [19/22] Processing gr_l-4556_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4556_1952.json
+  [20/22] Processing gr_l-4197_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4197_1952.json
+  [21/22] Processing gr_l-3821_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-3821_1952.json
+  [22/22] Processing gr_l-4961_1952.html
+Saved: RESTRUCTURED_DB/1952/march/gr_l-4961_1952.json
+  Completed March: 22 cases
+
+  --- April 1952 ---
+
+=== Scraping Year 1952 ===
+
+--- Processing April 1952 ---
+Found 18 potential cases
+  [1/18] Processing gr_l-5122_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-5122_1952.json
+  [2/18] Processing gr_l-4286_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-4286_1952.json
+  [3/18] Processing gr_l-4259_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-4259_1952.json
+  [4/18] Processing gr_l-3745_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-3745_1952.json
+  [5/18] Processing gr_l-4634_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-4634_1952.json
+  [6/18] Processing gr_l-4450_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-4450_1952.json
+  [7/18] Processing gr_l-4393_1952.html
+Saved: RESTRUCTURED_DB/1952/april/G_R__No__46673.json
+  [8/18] Processing gr_l-4226_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-4226_1952.json
+  [9/18] Processing gr_l-4011_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-4011_1952.json
+  [10/18] Processing gr_l-3974_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-3974_1952.json
+  [11/18] Processing gr_l-3729_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-3729_1952.json
+  [12/18] Processing gr_l-3730_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-3730_1952.json
+  [13/18] Processing gr_l-4427_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-4427_1952.json
+  [14/18] Processing gr_l-3605_1952.html
+Saved: RESTRUCTURED_DB/1952/april/G_R__No__24449.json
+  [15/18] Processing gr_l-2862_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-2862_1952.json
+  [16/18] Processing gr_l-4624_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-4624_1952.json
+  [17/18] Processing gr_l-4429_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-4429_1952.json
+  [18/18] Processing gr_l-3544_1952.html
+Saved: RESTRUCTURED_DB/1952/april/gr_l-3544_1952.json
+  Completed April: 18 cases
+
+  --- May 1952 ---
+
+=== Scraping Year 1952 ===
+
+--- Processing May 1952 ---
+Found 45 potential cases
+  [1/45] Processing gr_l-4606_1952.html
