@@ -17,8 +17,15 @@
   "current_year": 1943,
   "completed_months": [
     "january",
-    "february"
+    "february",
+    "march",
+    "april",
+    "may",
+    "june",
+    "july",
+    "august",
+    "september"
   ],
-  "last_updated": "2025-11-16T16:36:23.631872",
-  "total_cases_scraped": 2776
+  "last_updated": "2025-11-16T16:38:07.925706",
+  "total_cases_scraped": 2814
 }
