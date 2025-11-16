@@ -6,17 +6,19 @@
     1933,
     1934,
     1935,
-    1936
+    1936,
+    1937,
+    1938,
+    1939
   ],
-  "current_year": 1937,
+  "current_year": 1940,
   "completed_months": [
     "january",
     "february",
     "march",
-    "june",
-    "july",
-    "august"
+    "april",
+    "may"
   ],
-  "last_updated": "2025-11-16T15:13:00.000Z",
-  "total_cases_scraped": 1491
+  "last_updated": "2025-11-16T15:43:35.161079",
+  "total_cases_scraped": 2140
 }
