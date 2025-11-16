@@ -1,14 +1,3 @@
 nohup: ignoring input
-Resuming from January 1916
-
-=== Batch Scraping Configuration ===
-Years: 1916 to 1995
-Starting from: January 1916
-Output directory: RESTRUCTURED_DB
-Progress file: scraping_progress.json
-
-This will take a long time. Press Ctrl+C to stop at any time.
-You can resume later using --resume flag.
-
 Required packages not installed. Run:
 pip install requests beautifulsoup4
