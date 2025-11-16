@@ -19,13 +19,29 @@ python validate_cases.py --directory RESTRUCTURED_DB --start-year 1901 --end-yea
 If validation passes, proceed to full scraping.
 
 ## Step 4: Run Full Scrape
+
+### Option A: Use Batch Scraper (Recommended)
+The batch scraper provides automatic progress tracking and resume capability:
+
+```bash
+# Start scraping (can be interrupted and resumed)
+python batch_scraper.py --start-year 1901 --end-year 1995 --output-dir RESTRUCTURED_DB
+
+# Check status
+python batch_scraper.py --status
+
+# Resume after interruption
+python batch_scraper.py --resume --start-year 1901 --end-year 1995
+```
+
+### Option B: Use Direct Scraper
 Scrape all historical cases from 1901-1995:
 ```bash
 # This will take 2-4 days to complete
 python scraper.py --start-year 1901 --end-year 1995 --start-month august --delay 2.0 --output-dir RESTRUCTURED_DB
 ```
 
-### Recommended: Scrape in Batches
+### Option C: Scrape in Batches (Manual)
 Instead of running all at once, scrape decade by decade:
 
 ```bash
