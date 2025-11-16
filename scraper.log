@@ -1,0 +1,378 @@
+nohup: ignoring input
+Resuming from January 1914
+
+=== Batch Scraping Configuration ===
+Years: 1914 to 1995
+Starting from: January 1914
+Output directory: RESTRUCTURED_DB
+Progress file: scraping_progress.json
+
+This will take a long time. Press Ctrl+C to stop at any time.
+You can resume later using --resume flag.
+
+
+=== Processing Year 1914 ===
+  Skipping January (already completed, 10 cases)
+  Skipping February (already completed, 7 cases)
+
+  --- March 1914 ---
+
+=== Scraping Year 1914 ===
+
+--- Processing March 1914 ---
+Found 71 potential cases
+  [1/71] Processing gr_l-9397_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9397_1914.json
+  [2/71] Processing gr_l-9329_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9329_1914.json
+  [3/71] Processing gr_l-9217_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9217_1914.json
+  [4/71] Processing gr_l-9294_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9294_1914.json
+  [5/71] Processing gr_l-8785_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8785_1914.json
+  [6/71] Processing gr_l-8781_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8781_1914.json
+  [7/71] Processing gr_l-8689_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8689_1914.json
+  [8/71] Processing gr_l-8654_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8654_1914.json
+  [9/71] Processing gr_l-8579_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8579_1914.json
+  [10/71] Processing gr_l-8527_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8527_1914.json
+  [11/71] Processing gr_l-8478_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8478_1914.json
+  [12/71] Processing gr_l-8375_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8375_1914.json
+  [13/71] Processing gr_l-8362_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8362_1914.json
+  [14/71] Processing gr_l-8313_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8313_1914.json
+  [15/71] Processing gr_l-7896_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-7896_1914.json
+  [16/71] Processing gr_l-7790_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-7790_1914.json
+  [17/71] Processing gr_l-9619_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9619_1914.json
+  [18/71] Processing gr_l-9010_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9010_1914.json
+  [19/71] Processing gr_l-8866_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8866_1914.json
+  [20/71] Processing gr_l-8051_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8051_1914.json
+  [21/71] Processing gr_l-7670_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-7670_1914.json
+  [22/71] Processing gr_l-7647_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-7647_1914.json
+  [23/71] Processing tirona_1914.html
+Saved: RESTRUCTURED_DB/1914/march/tirona_1914.json
+  [24/71] Processing gr_l-9124_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9124_1914.json
+  [25/71] Processing gr_l-8461_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8461_1914.json
+  [26/71] Processing gr_l-8314_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8314_1914.json
+  [27/71] Processing gr_l-7721_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-7721_1914.json
+  [28/71] Processing gr_l-8385_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8385_1914.json
+  [29/71] Processing gr_l-7909_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-7909_1914.json
+  [30/71] Processing gr_l-6960_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-6960_1914.json
+  [31/71] Processing delarosa_1914.html
+Saved: RESTRUCTURED_DB/1914/march/delarosa_1914.json
+  [32/71] Processing gr_l-9302_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9302_1914.json
+  [33/71] Processing gr_l-8937_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8937_1914.json
+  [34/71] Processing gr_l-9098_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9098_1914.json
+  [35/71] Processing gr_l-9307_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9307_1914.json
+  [36/71] Processing gr_l-8998_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8998_1914.json
+  [37/71] Processing gr_l-8414_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8414_1914.json
+  [38/71] Processing gr_l-8235_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8235_1914.json
+  [39/71] Processing gr_l-7790_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-7790_1914.json
+  [40/71] Processing delara_1914.html
+Saved: RESTRUCTURED_DB/1914/march/delara_1914.json
+  [41/71] Processing gr_l-8200_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8200_1914.json
+  [42/71] Processing gr_l-8851_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8851_1914.json
+  [43/71] Processing gr_l-8140_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8140_1914.json
+  [44/71] Processing gr_l-9348_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9348_1914.json
+  [45/71] Processing gr_l-9169_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9169_1914.json
+  [46/71] Processing gr_l-9099_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9099_1914.json
+  [47/71] Processing gr_l-9059_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9059_1914.json
+  [48/71] Processing gr_l-9006_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9006_1914.json
+  [49/71] Processing gr_l-8971_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8971_1914.json
+  [50/71] Processing gr_l-8931_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8931_1914.json
+  [51/71] Processing gr_l-8748_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8748_1914.json
+  [52/71] Processing gr_l-9471_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9471_1914.json
+  [53/71] Processing gr_l-8984_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8984_1914.json
+  [54/71] Processing gr_l-8603_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8603_1914.json
+  [55/71] Processing gr_l-9147_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9147_1914.json
+  [56/71] Processing gr_l-8927_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8927_1914.json
+  [57/71] Processing gr_l-8325_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8325_1914.json
+  [58/71] Processing gr_l-8227_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8227_1914.json
+  [59/71] Processing gr_l-7946_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-7946_1914.json
+  [60/71] Processing gr_l-9066_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9066_1914.json
+  [61/71] Processing gr_l-8983_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8983_1914.json
+  [62/71] Processing gr_l-8699_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8699_1914.json
+  [63/71] Processing gr_l-8662_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8662_1914.json
+  [64/71] Processing gr_l-8429_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8429_1914.json
+  [65/71] Processing gr_l-7657_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-7657_1914.json
+  [66/71] Processing gr_l-8223_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8223_1914.json
+  [67/71] Processing gr_l-9201_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9201_1914.json
+  [68/71] Processing gr_l-8913_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8913_1914.json
+  [69/71] Processing gr_l-8254_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-8254_1914.json
+  [70/71] Processing gr_l-9291_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9291_1914.json
+  [71/71] Processing gr_l-9267_1914.html
+Saved: RESTRUCTURED_DB/1914/march/gr_l-9267_1914.json
+  Completed March: 70 cases
+
+  --- April 1914 ---
+
+=== Scraping Year 1914 ===
+
+--- Processing April 1914 ---
+Error fetching https://lawphil.net/judjuris/juri1914/apr1914/apr1914.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1914/apr1914/apr1914.html
+Could not fetch https://lawphil.net/judjuris/juri1914/apr1914/apr1914.html
+  Completed April: 0 cases
+
+  --- May 1914 ---
+
+=== Scraping Year 1914 ===
+
+--- Processing May 1914 ---
+Error fetching https://lawphil.net/judjuris/juri1914/may1914/may1914.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1914/may1914/may1914.html
+Could not fetch https://lawphil.net/judjuris/juri1914/may1914/may1914.html
+  Completed May: 0 cases
+
+  --- June 1914 ---
+
+=== Scraping Year 1914 ===
+
+--- Processing June 1914 ---
+Error fetching https://lawphil.net/judjuris/juri1914/jun1914/jun1914.html: 404 Client Error: Not Found for url: https://lawphil.net/judjuris/juri1914/jun1914/jun1914.html
+Could not fetch https://lawphil.net/judjuris/juri1914/jun1914/jun1914.html
+  Completed June: 0 cases
+
+  --- July 1914 ---
+
+=== Scraping Year 1914 ===
+
+--- Processing July 1914 ---
+Found 5 potential cases
+  [1/5] Processing gr_l-9781_1914.html
+Saved: RESTRUCTURED_DB/1914/july/gr_l-9781_1914.json
+  [2/5] Processing gr_l-9243_1914.html
+Saved: RESTRUCTURED_DB/1914/july/gr_l-9243_1914.json
+  [3/5] Processing gr_l-9479_1914.html
+Saved: RESTRUCTURED_DB/1914/july/gr_l-9479_1914.json
+  [4/5] Processing gr_l-9483_1914.html
+Saved: RESTRUCTURED_DB/1914/july/gr_l-9483_1914.json
+  [5/5] Processing gr_l-9536_1914.html
+Saved: RESTRUCTURED_DB/1914/july/gr_l-9536_1914.json
+  Completed July: 5 cases
+
+  --- August 1914 ---
+
+=== Scraping Year 1914 ===
+
+--- Processing August 1914 ---
+Found 19 potential cases
+  [1/19] Processing gr_l-9198_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9198_1914.json
+  [2/19] Processing gr_l-9635_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9635_1914.json
+  [3/19] Processing gr_l-7353_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-7353_1914.json
+  [4/19] Processing gr_l-9103_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9103_1914.json
+  [5/19] Processing gr_l-9625_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9625_1914.json
+  [6/19] Processing gr_l-9398_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9398_1914.json
+  [7/19] Processing gr_l-8108_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-8108_1914.json
+  [8/19] Processing gr_l-9653_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9653_1914.json
+  [9/19] Processing gr_l-9808_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9808_1914.json
+  [10/19] Processing gr_l-9801_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9801_1914.json
+  [11/19] Processing gr_l-9656_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9656_1914.json
+  [12/19] Processing gr_l-9426_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9426_1914.json
+  [13/19] Processing gr_l-8435_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-8435_1914.json
+  [14/19] Processing gr_l-9341_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9341_1914.json
+  [15/19] Processing gr_l-9721_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9721_1914.json
+  [16/19] Processing gr_l-9603_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9603_1914.json
+  [17/19] Processing gr_l-9375_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9375_1914.json
+  [18/19] Processing gr_l-9192_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9192_1914.json
+  [19/19] Processing gr_l-9762_1914.html
+Saved: RESTRUCTURED_DB/1914/august/gr_l-9762_1914.json
+  Completed August: 19 cases
+
+  --- September 1914 ---
+
+=== Scraping Year 1914 ===
+
+--- Processing September 1914 ---
+Found 25 potential cases
+  [1/25] Processing gr_7890_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__7890.json
+  [2/25] Processing gr_9240_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9240.json
+  [3/25] Processing gr_9411_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9411.json
+  [4/25] Processing gr_9601_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9601.json
+  [5/25] Processing gr_9754_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9754.json
+  [6/25] Processing gr_10202_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__10202.json
+  [7/25] Processing gr_9016_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9016.json
+  [8/25] Processing gr_8421_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__8421.json
+  [9/25] Processing gr_9321_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9321.json
+  [10/25] Processing gr_9632_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9632.json
+  [11/25] Processing gr_9748_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9748.json
+  [12/25] Processing gr_9764_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9764.json
+  [13/25] Processing gr_9116_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9116.json
+  [14/25] Processing gr_9234_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9234.json
+  [15/25] Processing gr_9783_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9783.json
+  [16/25] Processing gr_8675_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__8675.json
+  [17/25] Processing gr_10173_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__10173.json
+  [18/25] Processing gr_9008_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9008.json
+  [19/25] Processing gr_9274_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9274.json
+  [20/25] Processing gr_9073_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9073.json
+  [21/25] Processing gr_9540_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__9540.json
+  [22/25] Processing gr_8834_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__8834.json
+  [23/25] Processing gr_7967_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__7967.json
+  [24/25] Processing gr_6845_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__6845.json
+  [25/25] Processing gr_7679_1914.html
+Saved: RESTRUCTURED_DB/1914/september/G_R__No__7679.json
+  Completed September: 25 cases
+
+  --- October 1914 ---
+
+=== Scraping Year 1914 ===
+
+--- Processing October 1914 ---
+Found 33 potential cases
+  [1/33] Processing gr_l-9915_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9915_1914.json
+  [2/33] Processing gr_l-9268_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9268_1914.json
+  [3/33] Processing gr_l-8746_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-8746_1914.json
+  [4/33] Processing gr_l-9537_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9537_1914.json
+  [5/33] Processing gr_l-9444_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9444_1914.json
+  [6/33] Processing gr_l-9737_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9737_1914.json
+  [7/33] Processing gr_l-9183_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9183_1914.json
+  [8/33] Processing gr_l-8147_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-8147_1914.json
+  [9/33] Processing gr_l-8938_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-8938_1914.json
+  [10/33] Processing gr_l-8715_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-8715_1914.json
+  [11/33] Processing gr_l-9197_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9197_1914.json
+  [12/33] Processing gr_l-9784_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9784_1914.json
+  [13/33] Processing gr_l-9459_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9459_1914.json
+  [14/33] Processing gr_l-9305_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9305_1914.json
+  [15/33] Processing gr_l-9772_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9772_1914.json
+  [16/33] Processing gr_l-9030_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9030_1914.json
+  [17/33] Processing gr_l-9247_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9247_1914.json
+  [18/33] Processing gr_l-9716_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9716_1914.json
+  [19/33] Processing gr_l-9415_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9415_1914.json
+  [20/33] Processing gr_l-9387_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9387_1914.json
+  [21/33] Processing gr_l-8611_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-8611_1914.json
+  [22/33] Processing gr_l-8727_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-8727_1914.json
+  [23/33] Processing gr_l-7944_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-7944_1914.json
+  [24/33] Processing gr_l-7690_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-7690_1914.json
+  [25/33] Processing gr_l-9855_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9855_1914.json
+  [26/33] Processing gr_l-9679_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9679_1914.json
+  [27/33] Processing gr_l-9475_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9475_1914.json
+  [28/33] Processing gr_l-9378_1914.html
+Saved: RESTRUCTURED_DB/1914/october/gr_l-9378_1914.json
