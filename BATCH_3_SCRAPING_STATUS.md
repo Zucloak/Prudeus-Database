@@ -2,8 +2,8 @@
 
 ## Status: ✅ RUNNING
 
-**Started:** November 17, 2025 at 03:04 UTC  
-**Process ID:** 3824  
+**Started:** November 17, 2025 at 06:52 UTC  
+**Process ID:** 3636  
 **Target:** Years 1960-1995 (36 years)  
 **Estimated Duration:** 6-8 hours
 
@@ -13,14 +13,14 @@
 
 ### Active Scraping
 - **Current Year:** 1960
-- **Completed Months:** January (49 cases)
-- **In Progress:** February 1960
-- **Total Cases Scraped:** 49+
+- **Completed Months:** January (49 cases), February (51 cases)
+- **In Progress:** March 1960
+- **Total Cases Scraped:** 100+
 
 ### Process Status
 ```
-PID: 3824
-Command: python batch_scraper.py --start-year 1960 --end-year 1995
+PID: 3636
+Command: python3 batch_scraper.py --start-year 1960 --end-year 1995 --batch-name "Batch 3"
 Output: batch3_scraper.log
 Status: Running ✅
 ```
@@ -176,6 +176,6 @@ Will provide updates at:
 
 ---
 
-**Last Updated:** November 17, 2025 at 03:07 UTC  
-**Status:** ✅ Running smoothly  
+**Last Updated:** November 17, 2025 at 06:53 UTC  
+**Status:** ✅ Running smoothly - scraper actively processing cases
 **Action Required:** None - monitoring automatically
