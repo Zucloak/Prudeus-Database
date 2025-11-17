@@ -1,17 +1,12 @@
 {
   "completed_years": [
-    1987
+    1987,
+    1988
   ],
-  "current_year": 1988,
+  "current_year": 1989,
   "completed_months": [
-    "january",
-    "february",
-    "march",
-    "april",
-    "may",
-    "june",
-    "july"
+    "january"
   ],
-  "last_updated": "2025-11-17T12:32:26.358301",
-  "total_cases_scraped": 1294
+  "last_updated": "2025-11-17T12:52:25.488539",
+  "total_cases_scraped": 1786
 }

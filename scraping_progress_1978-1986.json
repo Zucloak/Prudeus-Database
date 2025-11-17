@@ -7,8 +7,19 @@
     1982,
     1983
   ],
-  "current_year": null,
-  "completed_months": [],
-  "last_updated": "2025-11-17T12:32:57.786877",
-  "total_cases_scraped": 2894
+  "current_year": 1984,
+  "completed_months": [
+    "january",
+    "february",
+    "march",
+    "april",
+    "may",
+    "june",
+    "july",
+    "august",
+    "september",
+    "october"
+  ],
+  "last_updated": "2025-11-17T12:53:03.601866",
+  "total_cases_scraped": 3390
 }
