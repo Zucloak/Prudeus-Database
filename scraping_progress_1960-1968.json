@@ -15,8 +15,10 @@
     "june",
     "july",
     "august",
-    "september"
+    "september",
+    "october",
+    "november"
   ],
-  "last_updated": "2025-11-17T12:17:53.247993",
-  "total_cases_scraped": 2838
+  "last_updated": "2025-11-17T12:21:00.436873",
+  "total_cases_scraped": 2918
 }
