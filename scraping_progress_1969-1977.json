@@ -7,22 +7,11 @@
     1973,
     1974,
     1975,
-    1976
+    1976,
+    1977
   ],
-  "current_year": 1977,
-  "completed_months": [
-    "january",
-    "february",
-    "march",
-    "april",
-    "may",
-    "june",
-    "july",
-    "august",
-    "september",
-    "october",
-    "november"
-  ],
-  "last_updated": "2025-11-17T14:21:57.319277",
-  "total_cases_scraped": 3456
+  "current_year": null,
+  "completed_months": [],
+  "last_updated": "2025-11-17T14:28:49.596591",
+  "total_cases_scraped": 3479
 }
