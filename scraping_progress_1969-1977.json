@@ -1,20 +1,15 @@
 {
   "completed_years": [
     1969,
-    1970
+    1970,
+    1971
   ],
-  "current_year": 1971,
+  "current_year": 1972,
   "completed_months": [
     "january",
     "february",
-    "march",
-    "april",
-    "may",
-    "june",
-    "july",
-    "august",
-    "september"
+    "march"
   ],
-  "last_updated": "2025-11-17T12:19:41.249270",
-  "total_cases_scraped": 1184
+  "last_updated": "2025-11-17T12:32:43.006170",
+  "total_cases_scraped": 1356
 }
