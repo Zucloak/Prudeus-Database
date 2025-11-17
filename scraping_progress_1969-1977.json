@@ -5,13 +5,22 @@
     1971,
     1972,
     1973,
-    1974
+    1974,
+    1975
   ],
-  "current_year": 1975,
+  "current_year": 1976,
   "completed_months": [
     "january",
-    "february"
+    "february",
+    "march",
+    "april",
+    "may",
+    "june",
+    "july",
+    "august",
+    "september",
+    "october"
   ],
-  "last_updated": "2025-11-17T13:24:32.994834",
-  "total_cases_scraped": 2282
+  "last_updated": "2025-11-17T13:54:48.682639",
+  "total_cases_scraped": 3015
 }

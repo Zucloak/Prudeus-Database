@@ -6,19 +6,12 @@
     1981,
     1982,
     1983,
-    1984
+    1984,
+    1985,
+    1986
   ],
-  "current_year": 1985,
-  "completed_months": [
-    "january",
-    "february",
-    "march",
-    "april",
-    "may",
-    "june",
-    "july",
-    "august"
-  ],
-  "last_updated": "2025-11-17T13:24:04.426041",
-  "total_cases_scraped": 3804
+  "current_year": null,
+  "completed_months": [],
+  "last_updated": "2025-11-17T13:45:45.218944",
+  "total_cases_scraped": 4328
 }
