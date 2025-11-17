@@ -9,8 +9,13 @@
     1975,
     1976
   ],
-  "current_year": null,
-  "completed_months": [],
-  "last_updated": "2025-11-17T13:56:36.549386",
-  "total_cases_scraped": 3058
+  "current_year": 1977,
+  "completed_months": [
+    "january",
+    "february",
+    "march",
+    "april"
+  ],
+  "last_updated": "2025-11-17T14:10:36.092833",
+  "total_cases_scraped": 3171
 }
