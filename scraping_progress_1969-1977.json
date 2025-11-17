@@ -4,14 +4,14 @@
     1970,
     1971,
     1972,
-    1973
+    1973,
+    1974
   ],
-  "current_year": 1974,
+  "current_year": 1975,
   "completed_months": [
     "january",
-    "february",
-    "march"
+    "february"
   ],
-  "last_updated": "2025-11-17T12:55:33.871464",
-  "total_cases_scraped": 1896
+  "last_updated": "2025-11-17T13:24:32.994834",
+  "total_cases_scraped": 2282
 }

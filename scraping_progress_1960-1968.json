@@ -5,15 +5,11 @@
     1962,
     1963,
     1964,
-    1965
+    1965,
+    1966
   ],
-  "current_year": 1966,
-  "completed_months": [
-    "january",
-    "february",
-    "march",
-    "april"
-  ],
-  "last_updated": "2025-11-17T12:53:36.742388",
-  "total_cases_scraped": 3606
+  "current_year": null,
+  "completed_months": [],
+  "last_updated": "2025-11-17T13:24:32.723128",
+  "total_cases_scraped": 3990
 }

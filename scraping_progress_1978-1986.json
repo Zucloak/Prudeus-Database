@@ -5,9 +5,10 @@
     1980,
     1981,
     1982,
-    1983
+    1983,
+    1984
   ],
-  "current_year": 1984,
+  "current_year": 1985,
   "completed_months": [
     "january",
     "february",
@@ -16,11 +17,8 @@
     "may",
     "june",
     "july",
-    "august",
-    "september",
-    "october",
-    "november"
+    "august"
   ],
-  "last_updated": "2025-11-17T12:54:38.961565",
-  "total_cases_scraped": 3429
+  "last_updated": "2025-11-17T13:24:04.426041",
+  "total_cases_scraped": 3804
 }
