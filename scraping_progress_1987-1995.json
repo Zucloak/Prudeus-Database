@@ -7,8 +7,9 @@
   "current_year": 1990,
   "completed_months": [
     "january",
-    "february"
+    "february",
+    "march"
   ],
-  "last_updated": "2025-11-17T13:52:33.892633",
-  "total_cases_scraped": 2854
+  "last_updated": "2025-11-17T13:56:07.246640",
+  "total_cases_scraped": 2942
 }
