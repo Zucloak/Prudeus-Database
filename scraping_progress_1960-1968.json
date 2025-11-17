@@ -8,8 +8,16 @@
   "completed_months": [
     "january",
     "february",
-    "march"
+    "march",
+    "april",
+    "may",
+    "june",
+    "july",
+    "august",
+    "september",
+    "october",
+    "november"
   ],
-  "last_updated": "2025-11-17T11:50:45.650897",
-  "total_cases_scraped": 2159
+  "last_updated": "2025-11-17T12:03:28.415137",
+  "total_cases_scraped": 2475
 }

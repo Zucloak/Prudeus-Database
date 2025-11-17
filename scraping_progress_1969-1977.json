@@ -2,8 +2,16 @@
   "completed_years": [
     1969
   ],
-  "current_year": null,
-  "completed_months": [],
-  "last_updated": "2025-11-17T11:52:16.224050",
-  "total_cases_scraped": 505
+  "current_year": 1970,
+  "completed_months": [
+    "january",
+    "february",
+    "march",
+    "april",
+    "may",
+    "june",
+    "july"
+  ],
+  "last_updated": "2025-11-17T12:02:03.507098",
+  "total_cases_scraped": 748
 }
