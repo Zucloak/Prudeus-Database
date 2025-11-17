@@ -1,13 +1,9 @@
 {
-  "completed_years": [],
-  "current_year": 1969,
-  "completed_months": [
-    "january",
-    "february",
-    "march",
-    "april",
-    "may"
+  "completed_years": [
+    1969
   ],
-  "last_updated": "2025-11-17T11:40:54.263348",
-  "total_cases_scraped": 226
+  "current_year": null,
+  "completed_months": [],
+  "last_updated": "2025-11-17T11:52:16.224050",
+  "total_cases_scraped": 505
 }

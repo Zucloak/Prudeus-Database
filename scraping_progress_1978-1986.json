@@ -8,8 +8,14 @@
   "current_year": 1982,
   "completed_months": [
     "january",
-    "february"
+    "february",
+    "march",
+    "april",
+    "may",
+    "june",
+    "july",
+    "august"
   ],
-  "last_updated": "2025-11-17T11:40:09.205297",
-  "total_cases_scraped": 1781
+  "last_updated": "2025-11-17T11:52:43.214113",
+  "total_cases_scraped": 2041
 }
