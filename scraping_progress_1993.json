@@ -1,13 +1,9 @@
 {
-  "completed_years": [],
-  "current_year": 1993,
-  "completed_months": [
-    "january",
-    "february",
-    "march",
-    "april",
-    "may"
+  "completed_years": [
+    1993
   ],
-  "last_updated": "2025-11-17T16:34:30.537901",
-  "total_cases_scraped": 431
+  "current_year": null,
+  "completed_months": [],
+  "last_updated": "2025-11-17T16:53:33.946815",
+  "total_cases_scraped": 886
 }
