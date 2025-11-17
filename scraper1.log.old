@@ -1,0 +1,13 @@
+Resuming from January 1966
+
+=== Batch Scraping Configuration ===
+Years: 1966 to 1968
+Starting from: January 1966
+Output directory: RESTRUCTURED_DB
+Progress file: scraping_progress_1960-1968.json
+
+This will take a long time. Press Ctrl+C to stop at any time.
+You can resume later using --resume flag.
+
+Required packages not installed. Run:
+pip install requests beautifulsoup4
