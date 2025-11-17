@@ -2,8 +2,9 @@
   "completed_years": [],
   "current_year": 1994,
   "completed_months": [
-    "january"
+    "january",
+    "february"
   ],
-  "last_updated": "2025-11-17T16:13:59.960311",
-  "total_cases_scraped": 54
+  "last_updated": "2025-11-17T16:16:47.387599",
+  "total_cases_scraped": 124
 }
