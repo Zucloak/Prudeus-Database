@@ -10060,3 +10060,260 @@ Saved: RESTRUCTURED_DB/1959/august/gr_l-11378_1959.json
 Saved: RESTRUCTURED_DB/1959/august/gr_l-13833-34_1959.json
   [24/26] Processing gr_l-13113_1959.html
 Saved: RESTRUCTURED_DB/1959/august/gr_l-13113_1959.json
+Resuming from January 1959
+
+=== Batch Scraping Configuration ===
+Years: 1959 to 1959
+Starting from: January 1959
+Output directory: RESTRUCTURED_DB
+Progress file: scraping_progress_batch2.json
+
+This will take a long time. Press Ctrl+C to stop at any time.
+You can resume later using --resume flag.
+
+
+=== Processing Year 1959 ===
+  Skipping January (already completed, 28 cases)
+  Skipping February (already completed, 20 cases)
+  Skipping March (already completed, 32 cases)
+  Skipping April (already completed, 43 cases)
+  Skipping May (already completed, 55 cases)
+  Skipping June (already completed, 20 cases)
+  Skipping July (already completed, 25 cases)
+  Skipping August (already completed, 26 cases)
+  Skipping September (already completed, 31 cases)
+
+  --- October 1959 ---
+
+=== Scraping Year 1959 ===
+
+--- Processing October 1959 ---
+Found 28 potential cases
+  [1/28] Processing gr_l-10650_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-10650_1959.json
+  [2/28] Processing gr_l-11959_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-11959_1959.json
+  [3/28] Processing gr_l-13207_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-13207_1959.json
+  [4/28] Processing gr_l-13479_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-13479_1959.json
+  [5/28] Processing gr_l-11046_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-11046_1959.json
+  [6/28] Processing gr_l-11368_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-11368_1959.json
+  [7/28] Processing gr_l-11972_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-11972_1959.json
+  [8/28] Processing gr_l-12325_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12325_1959.json
+  [9/28] Processing gr_l-12705_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12705_1959.json
+  [10/28] Processing gr_l-12735_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12735_1959.json
+  [11/28] Processing gr_l-12875_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12875_1959.json
+  [12/28] Processing gr_l-13748_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-13748_1959.json
+  [13/28] Processing gr_l-14557_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-14557_1959.json
+  [14/28] Processing gr_l-12046_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12046_1959.json
+  [15/28] Processing gr_l-13098_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-13098_1959.json
+  [16/28] Processing gr_l-12367_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12367_1959.json
+  [17/28] Processing gr_l-12622_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12622_1959.json
+  [18/28] Processing gr_l-13679_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-13679_1959.json
+  [19/28] Processing gr_l-11175_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-11175_1959.json
+  [20/28] Processing gr_l-12010_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12010_1959.json
+  [21/28] Processing gr_l-12405_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12405_1959.json
+  [22/28] Processing gr_l-12466_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12466_1959.json
+  [23/28] Processing gr_l-12939_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-12939_1959.json
+  [24/28] Processing gr_l-13517_1959.html
+Saved: RESTRUCTURED_DB/1959/october/G_R__No__21313.json
+  [25/28] Processing gr_l-13785_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-13785_1959.json
+  [26/28] Processing gr_l-13106_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-13106_1959.json
+  [27/28] Processing gr_l-13211_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-13211_1959.json
+  [28/28] Processing gr_l-13657_1959.html
+Saved: RESTRUCTURED_DB/1959/october/gr_l-13657_1959.json
+  Completed October: 28 cases
+
+  --- November 1959 ---
+
+=== Scraping Year 1959 ===
+
+--- Processing November 1959 ---
+Found 33 potential cases
+  [1/33] Processing gr_l-9268_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-9268_1959.json
+  [2/33] Processing gr_l-9473_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-9473_1959.json
+  [3/33] Processing gr_l-9521_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-9521_1959.json
+  [4/33] Processing gr_l-9648_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-9648_1959.json
+  [5/33] Processing gr_l-10971_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-10971_1959.json
+  [6/33] Processing gr_l-11007_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-11007_1959.json
+  [7/33] Processing gr_l-11165_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-11165_1959.json
+  [8/33] Processing gr_l-11642_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-11642_1959.json
+  [9/33] Processing gr_l-11722_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-11722_1959.json
+  [10/33] Processing gr_l-12268_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-12268_1959.json
+  [11/33] Processing gr_l-12336_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-12336_1959.json
+  [12/33] Processing gr_l-12753_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-12753_1959.json
+  [13/33] Processing gr_l-12758_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-12758_1959.json
+  [14/33] Processing gr_l-12867_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-12867_1959.json
+  [15/33] Processing gr_l-13035_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13035_1959.json
+  [16/33] Processing gr_l-13225_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13225_1959.json
+  [17/33] Processing gr_l-13258_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13258_1959.json
+  [18/33] Processing gr_l-13310_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13310_1959.json
+  [19/33] Processing gr_l-13661_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13661_1959.json
+  [20/33] Processing gr_l-13829_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13829_1959.json
+  [21/33] Processing gr_l-14183_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-14183_1959.json
+  [22/33] Processing gr_l-10362_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-10362_1959.json
+  [23/33] Processing gr_l-12587_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-12587_1959.json
+  [24/33] Processing gr_l-13090_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13090_1959.json
+  [25/33] Processing gr_l-13428_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13428_1959.json
+  [26/33] Processing gr_l-13333_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13333_1959.json
+  [27/33] Processing gr_l-13431_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13431_1959.json
+  [28/33] Processing gr_l-11724_1959.html
+Saved: RESTRUCTURED_DB/1959/november/G_R__No__15902.json
+  [29/33] Processing gr_l-13230_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13230_1959.json
+  [30/33] Processing gr_l-13678_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-13678_1959.json
+  [31/33] Processing gr_l-9836_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-9836_1959.json
+  [32/33] Processing gr_l-12859_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-12859_1959.json
+  [33/33] Processing gr_l-12951_1959.html
+Saved: RESTRUCTURED_DB/1959/november/gr_l-12951_1959.json
+  Completed November: 33 cases
+
+  --- December 1959 ---
+
+=== Scraping Year 1959 ===
+
+--- Processing December 1959 ---
+Found 39 potential cases
+  [1/39] Processing gr_l-9343_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-9343_1959.json
+  [2/39] Processing gr_l-13926_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13926_1959.json
+  [3/39] Processing gr_l-13547_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13547_1959.json
+  [4/39] Processing gr_l-13433_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13433_1959.json
+  [5/39] Processing gr_l-13361_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13361_1959.json
+  [6/39] Processing gr_l-13354_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13354_1959.json
+  [7/39] Processing gr_l-13273_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13273_1959.json
+  [8/39] Processing gr_l-13126_1959.html
+Saved: RESTRUCTURED_DB/1959/december/G_R__No__16631.json
+  [9/39] Processing gr_l-13080_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13080_1959.json
+  [10/39] Processing gr_l-13067_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13067_1959.json
+  [11/39] Processing gr_l-13065_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13065_1959.json
+  [12/39] Processing gr_l-13025_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13025_1959.json
+  [13/39] Processing gr_l-12793_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12793_1959.json
+  [14/39] Processing gr_l-12357_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12357_1959.json
+  [15/39] Processing gr_l-12277_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12277_1959.json
+  [16/39] Processing gr_l-12231_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12231_1959.json
+  [17/39] Processing gr_l-11968_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-11968_1959.json
+  [18/39] Processing gr_l-11895_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-11895_1959.json
+  [19/39] Processing gr_l-10994-11012_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-10994-11012_1959.json
+  [20/39] Processing gr_l-14022_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-14022_1959.json
+  [21/39] Processing gr_l-13010_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13010_1959.json
+  [22/39] Processing gr_l-12408_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12408_1959.json
+  [23/39] Processing gr_l-13272_1959.html
+Saved: RESTRUCTURED_DB/1959/december/G_R__No__20872.json
+  [24/39] Processing gr_l-13932_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13932_1959.json
+  [25/39] Processing gr_l-13920_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13920_1959.json
+  [26/39] Processing gr_l-12207_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12207_1959.json
+  [27/39] Processing gr_l-11525_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-11525_1959.json
+  [28/39] Processing gr_l-14190_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-14190_1959.json
+  [29/39] Processing gr_l-13715_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13715_1959.json
+  [30/39] Processing gr_l-13017_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13017_1959.json
+  [31/39] Processing gr_l-12991_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12991_1959.json
+  [32/39] Processing gr_l-12948_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12948_1959.json
+  [33/39] Processing gr_l-12764_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12764_1959.json
+  [34/39] Processing gr_l-12707_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12707_1959.json
+  [35/39] Processing gr_l-12088_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12088_1959.json
+  [36/39] Processing gr_l-11855_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-11855_1959.json
+  [37/39] Processing gr_l-13303_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-13303_1959.json
+  [38/39] Processing gr_l-12950_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12950_1959.json
+  [39/39] Processing gr_l-12629_1959.html
+Saved: RESTRUCTURED_DB/1959/december/gr_l-12629_1959.json
+  Completed December: 39 cases
+
+  Year 1959 completed: 380 total cases
+🧀 cheese
+
+=== Batch Scraping Complete ===
+Total cases scraped: 6860
+
+🍝 macaroni - Batch 2 COMPLETE!
+
+Run validation:
+  python validate_cases.py --directory RESTRUCTURED_DB --start-year 1937 --end-year 1959
