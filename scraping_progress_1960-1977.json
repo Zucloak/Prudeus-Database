@@ -1,15 +1,15 @@
 {
   "completed_years": [
-    1960
+    1960,
+    1961
   ],
-  "current_year": 1961,
+  "current_year": 1962,
   "completed_months": [
     "january",
     "february",
     "march",
-    "april",
-    "may"
+    "april"
   ],
-  "last_updated": "2025-11-17T10:19:21.310662",
-  "total_cases_scraped": 1101
+  "last_updated": "2025-11-17T10:45:07.873136",
+  "total_cases_scraped": 1599
 }
