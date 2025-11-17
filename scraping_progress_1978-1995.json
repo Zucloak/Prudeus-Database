@@ -1,21 +1,17 @@
 {
   "completed_years": [
-    1978
+    1978,
+    1979
   ],
-  "current_year": 1979,
+  "current_year": 1980,
   "completed_months": [
     "january",
     "february",
     "march",
     "april",
     "may",
-    "june",
-    "july",
-    "august",
-    "september",
-    "october",
-    "november"
+    "june"
   ],
-  "last_updated": "2025-11-17T10:09:31.839592",
-  "total_cases_scraped": 833
+  "last_updated": "2025-11-17T10:20:22.311293",
+  "total_cases_scraped": 1098
 }
