@@ -26,9 +26,11 @@
     1953,
     1954,
     1955,
-    1956
+    1956,
+    1957,
+    1958
   ],
-  "current_year": 1957,
+  "current_year": 1959,
   "completed_months": [
     "january",
     "february",
@@ -40,6 +42,6 @@
     "august",
     "september"
   ],
-  "last_updated": "2025-11-16T19:19:33.429574",
-  "total_cases_scraped": 6017
+  "last_updated": "2025-11-17T02:16:37.254737",
+  "total_cases_scraped": 6760
 }
