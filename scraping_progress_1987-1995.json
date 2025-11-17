@@ -3,17 +3,11 @@
     1987,
     1988,
     1989,
-    1990
+    1990,
+    1991
   ],
-  "current_year": 1991,
-  "completed_months": [
-    "january",
-    "february",
-    "march",
-    "april",
-    "may",
-    "june"
-  ],
-  "last_updated": "2025-11-17T15:30:57.646195",
-  "total_cases_scraped": 3984
+  "current_year": null,
+  "completed_months": [],
+  "last_updated": "2025-11-17T15:51:08.919331",
+  "total_cases_scraped": 4448
 }
