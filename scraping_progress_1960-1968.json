@@ -14,8 +14,12 @@
     "january",
     "february",
     "march",
-    "april"
+    "april",
+    "may",
+    "june",
+    "july",
+    "august"
   ],
-  "last_updated": "2025-11-17T14:11:43.025072",
-  "total_cases_scraped": 4873
+  "last_updated": "2025-11-17T14:21:12.840468",
+  "total_cases_scraped": 5100
 }
