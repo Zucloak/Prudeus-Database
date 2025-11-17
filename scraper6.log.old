@@ -1,0 +1,12 @@
+
+=== Batch Scraping Configuration ===
+Years: 1993 to 1993
+Starting from: January 1993
+Output directory: RESTRUCTURED_DB
+Progress file: scraping_progress_1993.json
+
+This will take a long time. Press Ctrl+C to stop at any time.
+You can resume later using --resume flag.
+
+Required packages not installed. Run:
+pip install requests beautifulsoup4
