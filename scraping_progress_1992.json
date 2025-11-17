@@ -8,8 +8,10 @@
     "april",
     "may",
     "june",
-    "july"
+    "july",
+    "august",
+    "september"
   ],
-  "last_updated": "2025-11-17T16:22:47.742386",
-  "total_cases_scraped": 143
+  "last_updated": "2025-11-17T16:26:48.973000",
+  "total_cases_scraped": 239
 }

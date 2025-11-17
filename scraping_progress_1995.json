@@ -4,8 +4,10 @@
   "completed_months": [
     "january",
     "february",
-    "march"
+    "march",
+    "april",
+    "may"
   ],
-  "last_updated": "2025-11-17T16:23:34.945713",
-  "total_cases_scraped": 206
+  "last_updated": "2025-11-17T16:27:31.153578",
+  "total_cases_scraped": 300
 }
