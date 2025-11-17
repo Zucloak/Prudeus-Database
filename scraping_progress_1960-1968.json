@@ -7,21 +7,11 @@
     1964,
     1965,
     1966,
-    1967
+    1967,
+    1968
   ],
-  "current_year": 1968,
-  "completed_months": [
-    "january",
-    "february",
-    "march",
-    "april",
-    "may",
-    "june",
-    "july",
-    "august",
-    "september",
-    "october"
-  ],
-  "last_updated": "2025-11-17T14:32:45.943925",
-  "total_cases_scraped": 5219
+  "current_year": null,
+  "completed_months": [],
+  "last_updated": "2025-11-17T14:42:57.223950",
+  "total_cases_scraped": 5294
 }
