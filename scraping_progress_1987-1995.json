@@ -1,7 +1,10 @@
 {
   "completed_years": [],
-  "current_year": null,
-  "completed_months": [],
-  "last_updated": null,
-  "total_cases_scraped": 0
+  "current_year": 1987,
+  "completed_months": [
+    "january",
+    "february"
+  ],
+  "last_updated": "2025-11-17T11:35:14.492599",
+  "total_cases_scraped": 94
 }
