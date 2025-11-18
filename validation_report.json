@@ -1,0 +1,753 @@
+{
+  "total_cases": 41243,
+  "valid_cases": 41223,
+  "invalid_cases": 20,
+  "cases_by_year": {
+    "1901": {
+      "valid": 32,
+      "invalid": 0
+    },
+    "1902": {
+      "valid": 122,
+      "invalid": 0
+    },
+    "1903": {
+      "valid": 51,
+      "invalid": 0
+    },
+    "1904": {
+      "valid": 141,
+      "invalid": 0
+    },
+    "1905": {
+      "valid": 55,
+      "invalid": 0
+    },
+    "1906": {
+      "valid": 252,
+      "invalid": 0
+    },
+    "1907": {
+      "valid": 103,
+      "invalid": 0
+    },
+    "1908": {
+      "valid": 401,
+      "invalid": 0
+    },
+    "1909": {
+      "valid": 73,
+      "invalid": 0
+    },
+    "1910": {
+      "valid": 64,
+      "invalid": 0
+    },
+    "1911": {
+      "valid": 265,
+      "invalid": 0
+    },
+    "1912": {
+      "valid": 210,
+      "invalid": 0
+    },
+    "1913": {
+      "valid": 222,
+      "invalid": 0
+    },
+    "1914": {
+      "valid": 235,
+      "invalid": 0
+    },
+    "1915": {
+      "valid": 309,
+      "invalid": 0
+    },
+    "1916": {
+      "valid": 312,
+      "invalid": 0
+    },
+    "1917": {
+      "valid": 219,
+      "invalid": 0
+    },
+    "1918": {
+      "valid": 210,
+      "invalid": 0
+    },
+    "1919": {
+      "valid": 98,
+      "invalid": 0
+    },
+    "1920": {
+      "valid": 108,
+      "invalid": 0
+    },
+    "1921": {
+      "valid": 117,
+      "invalid": 0
+    },
+    "1922": {
+      "valid": 185,
+      "invalid": 0
+    },
+    "1923": {
+      "valid": 162,
+      "invalid": 0
+    },
+    "1924": {
+      "valid": 132,
+      "invalid": 0
+    },
+    "1925": {
+      "valid": 118,
+      "invalid": 0
+    },
+    "1926": {
+      "valid": 102,
+      "invalid": 0
+    },
+    "1927": {
+      "valid": 129,
+      "invalid": 0
+    },
+    "1928": {
+      "valid": 137,
+      "invalid": 0
+    },
+    "1929": {
+      "valid": 23,
+      "invalid": 0
+    },
+    "1930": {
+      "valid": 112,
+      "invalid": 0
+    },
+    "1931": {
+      "valid": 149,
+      "invalid": 0
+    },
+    "1932": {
+      "valid": 155,
+      "invalid": 0
+    },
+    "1933": {
+      "valid": 236,
+      "invalid": 0
+    },
+    "1934": {
+      "valid": 253,
+      "invalid": 0
+    },
+    "1935": {
+      "valid": 226,
+      "invalid": 0
+    },
+    "1936": {
+      "valid": 116,
+      "invalid": 0
+    },
+    "1937": {
+      "valid": 130,
+      "invalid": 0
+    },
+    "1938": {
+      "valid": 200,
+      "invalid": 0
+    },
+    "1939": {
+      "valid": 319,
+      "invalid": 0
+    },
+    "1940": {
+      "valid": 284,
+      "invalid": 0
+    },
+    "1941": {
+      "valid": 320,
+      "invalid": 0
+    },
+    "1942": {
+      "valid": 95,
+      "invalid": 0
+    },
+    "1943": {
+      "valid": 72,
+      "invalid": 0
+    },
+    "1944": {
+      "valid": 34,
+      "invalid": 0
+    },
+    "1945": {
+      "valid": 36,
+      "invalid": 0
+    },
+    "1946": {
+      "valid": 210,
+      "invalid": 0
+    },
+    "1947": {
+      "valid": 180,
+      "invalid": 0
+    },
+    "1948": {
+      "valid": 251,
+      "invalid": 0
+    },
+    "1949": {
+      "valid": 378,
+      "invalid": 0
+    },
+    "1950": {
+      "valid": 309,
+      "invalid": 0
+    },
+    "1951": {
+      "valid": 344,
+      "invalid": 0
+    },
+    "1952": {
+      "valid": 232,
+      "invalid": 0
+    },
+    "1953": {
+      "valid": 301,
+      "invalid": 0
+    },
+    "1954": {
+      "valid": 313,
+      "invalid": 0
+    },
+    "1955": {
+      "valid": 257,
+      "invalid": 0
+    },
+    "1956": {
+      "valid": 98,
+      "invalid": 0
+    },
+    "1957": {
+      "valid": 335,
+      "invalid": 0
+    },
+    "1958": {
+      "valid": 375,
+      "invalid": 0
+    },
+    "1959": {
+      "valid": 380,
+      "invalid": 0
+    },
+    "1960": {
+      "valid": 738,
+      "invalid": 0
+    },
+    "1961": {
+      "valid": 651,
+      "invalid": 0
+    },
+    "1962": {
+      "valid": 650,
+      "invalid": 0
+    },
+    "1963": {
+      "valid": 490,
+      "invalid": 0
+    },
+    "1964": {
+      "valid": 428,
+      "invalid": 0
+    },
+    "1965": {
+      "valid": 466,
+      "invalid": 0
+    },
+    "1966": {
+      "valid": 567,
+      "invalid": 0
+    },
+    "1967": {
+      "valid": 608,
+      "invalid": 0
+    },
+    "1968": {
+      "valid": 696,
+      "invalid": 0
+    },
+    "1969": {
+      "valid": 505,
+      "invalid": 0
+    },
+    "1970": {
+      "valid": 403,
+      "invalid": 0
+    },
+    "1971": {
+      "valid": 367,
+      "invalid": 0
+    },
+    "1972": {
+      "valid": 285,
+      "invalid": 0
+    },
+    "1973": {
+      "valid": 224,
+      "invalid": 0
+    },
+    "1974": {
+      "valid": 440,
+      "invalid": 0
+    },
+    "1975": {
+      "valid": 457,
+      "invalid": 0
+    },
+    "1976": {
+      "valid": 377,
+      "invalid": 0
+    },
+    "1977": {
+      "valid": 421,
+      "invalid": 0
+    },
+    "1978": {
+      "valid": 438,
+      "invalid": 0
+    },
+    "1979": {
+      "valid": 435,
+      "invalid": 0
+    },
+    "1980": {
+      "valid": 450,
+      "invalid": 0
+    },
+    "1981": {
+      "valid": 448,
+      "invalid": 0
+    },
+    "1982": {
+      "valid": 545,
+      "invalid": 0
+    },
+    "1983": {
+      "valid": 578,
+      "invalid": 0
+    },
+    "1984": {
+      "valid": 575,
+      "invalid": 0
+    },
+    "1985": {
+      "valid": 457,
+      "invalid": 0
+    },
+    "1986": {
+      "valid": 402,
+      "invalid": 0
+    },
+    "1987": {
+      "valid": 701,
+      "invalid": 0
+    },
+    "1988": {
+      "valid": 997,
+      "invalid": 0
+    },
+    "1989": {
+      "valid": 971,
+      "invalid": 0
+    },
+    "1990": {
+      "valid": 891,
+      "invalid": 0
+    },
+    "1991": {
+      "valid": 888,
+      "invalid": 0
+    },
+    "1992": {
+      "valid": 745,
+      "invalid": 0
+    },
+    "1993": {
+      "valid": 886,
+      "invalid": 0
+    },
+    "1994": {
+      "valid": 752,
+      "invalid": 0
+    },
+    "1995": {
+      "valid": 747,
+      "invalid": 0
+    },
+    "1996": {
+      "valid": 720,
+      "invalid": 1
+    },
+    "1997": {
+      "valid": 936,
+      "invalid": 1
+    },
+    "1998": {
+      "valid": 844,
+      "invalid": 0
+    },
+    "1999": {
+      "valid": 1079,
+      "invalid": 0
+    },
+    "2000": {
+      "valid": 1451,
+      "invalid": 2
+    },
+    "2001": {
+      "valid": 1316,
+      "invalid": 0
+    },
+    "2002": {
+      "valid": 962,
+      "invalid": 0
+    },
+    "2003": {
+      "valid": 99,
+      "invalid": 0
+    },
+    "2004": {
+      "valid": 90,
+      "invalid": 10
+    },
+    "2005": {
+      "valid": 96,
+      "invalid": 0
+    },
+    "2006": {
+      "valid": 99,
+      "invalid": 0
+    },
+    "2007": {
+      "valid": 100,
+      "invalid": 0
+    },
+    "2008": {
+      "valid": 99,
+      "invalid": 0
+    },
+    "2009": {
+      "valid": 100,
+      "invalid": 0
+    },
+    "2010": {
+      "valid": 100,
+      "invalid": 0
+    },
+    "2011": {
+      "valid": 93,
+      "invalid": 0
+    },
+    "2012": {
+      "valid": 15,
+      "invalid": 0
+    },
+    "2013": {
+      "valid": 87,
+      "invalid": 0
+    },
+    "2014": {
+      "valid": 69,
+      "invalid": 3
+    },
+    "2015": {
+      "valid": 41,
+      "invalid": 0
+    },
+    "2016": {
+      "valid": 89,
+      "invalid": 0
+    },
+    "2017": {
+      "valid": 88,
+      "invalid": 0
+    },
+    "2018": {
+      "valid": 88,
+      "invalid": 0
+    },
+    "2019": {
+      "valid": 90,
+      "invalid": 0
+    },
+    "2020": {
+      "valid": 81,
+      "invalid": 3
+    },
+    "2021": {
+      "valid": 89,
+      "invalid": 0
+    },
+    "2022": {
+      "valid": 92,
+      "invalid": 0
+    },
+    "2023": {
+      "valid": 86,
+      "invalid": 0
+    },
+    "2024": {
+      "valid": 86,
+      "invalid": 0
+    },
+    "2025": {
+      "valid": 72,
+      "invalid": 0
+    }
+  },
+  "errors": [
+    {
+      "file": "1996/april/101825.json",
+      "issues": [
+        "content_length mismatch: declared 13219, actual 13089"
+      ]
+    },
+    {
+      "file": "1997/august/102018.json",
+      "issues": [
+        "Field 'volume_page' is null but should have a value"
+      ]
+    },
+    {
+      "file": "2000/january/100518.json",
+      "issues": [
+        "Missing required field: categories",
+        "Missing required field: keywords",
+        "Missing required field: title_summary",
+        "Missing required field: metadata_extraction_date",
+        "Missing required field: extraction_version"
+      ]
+    },
+    {
+      "file": "2000/november/G_R__No__130609.json",
+      "issues": [
+        "Field 'volume_page' is null but should have a value"
+      ]
+    },
+    {
+      "file": "2004/12/A_C__No__4219.json",
+      "issues": [
+        "Missing required field: file_path",
+        "Missing required field: filename",
+        "Missing required field: year",
+        "Missing required field: month",
+        "Missing required field: case_number",
+        "Missing required field: gr_number",
+        "Missing required field: volume_page",
+        "Missing required field: decision_date",
+        "Missing required field: title",
+        "Missing required field: categories",
+        "Missing required field: keywords",
+        "Missing required field: title_summary",
+        "Missing required field: formatted_case_content",
+        "Missing required field: content_length",
+        "Missing required field: metadata_extraction_date",
+        "Missing required field: extraction_version"
+      ]
+    },
+    {
+      "file": "2004/12/A_C__No__5809.json",
+      "issues": [
+        "Missing required field: file_path",
+        "Missing required field: filename",
+        "Missing required field: year",
+        "Missing required field: month",
+        "Missing required field: case_number",
+        "Missing required field: gr_number",
+        "Missing required field: volume_page",
+        "Missing required field: decision_date",
+        "Missing required field: title",
+        "Missing required field: categories",
+        "Missing required field: keywords",
+        "Missing required field: title_summary",
+        "Missing required field: formatted_case_content",
+        "Missing required field: content_length",
+        "Missing required field: metadata_extraction_date",
+        "Missing required field: extraction_version"
+      ]
+    },
+    {
+      "file": "2004/12/A_C__No__6943.json",
+      "issues": [
+        "Missing required field: file_path",
+        "Missing required field: filename",
+        "Missing required field: year",
+        "Missing required field: month",
+        "Missing required field: case_number",
+        "Missing required field: gr_number",
+        "Missing required field: volume_page",
+        "Missing required field: decision_date",
+        "Missing required field: title",
+        "Missing required field: categories",
+        "Missing required field: keywords",
+        "Missing required field: title_summary",
+        "Missing required field: formatted_case_content",
+        "Missing required field: content_length",
+        "Missing required field: metadata_extraction_date",
+        "Missing required field: extraction_version"
+      ]
+    },
+    {
+      "file": "2004/12/A_M__No__01.json",
+      "issues": [
+        "Missing required field: file_path",
+        "Missing required field: filename",
+        "Missing required field: year",
+        "Missing required field: month",
+        "Missing required field: case_number",
+        "Missing required field: gr_number",
+        "Missing required field: volume_page",
+        "Missing required field: decision_date",
+        "Missing required field: title",
+        "Missing required field: categories",
+        "Missing required field: keywords",
+        "Missing required field: title_summary",
+        "Missing required field: formatted_case_content",
+        "Missing required field: content_length",
+        "Missing required field: metadata_extraction_date",
+        "Missing required field: extraction_version"
+      ]
+    },
+    {
+      "file": "2004/12/A_M__No__02.json",
+      "issues": [
+        "Missing required field: file_path",
+        "Missing required field: filename",
+        "Missing required field: year",
+        "Missing required field: month",
+        "Missing required field: case_number",
+        "Missing required field: gr_number",
+        "Missing required field: volume_page",
+        "Missing required field: decision_date",
+        "Missing required field: title",
+        "Missing required field: categories",
+        "Missing required field: keywords",
+        "Missing required field: title_summary",
+        "Missing required field: formatted_case_content",
+        "Missing required field: content_length",
+        "Missing required field: metadata_extraction_date",
+        "Missing required field: extraction_version"
+      ]
+    },
+    {
+      "file": "2004/12/A_M__No__12.json",
+      "issues": [
+        "Missing required field: file_path",
+        "Missing required field: filename",
+        "Missing required field: year",
+        "Missing required field: month",
+        "Missing required field: case_number",
+        "Missing required field: gr_number",
+        "Missing required field: volume_page",
+        "Missing required field: decision_date",
+        "Missing required field: title",
+        "Missing required field: categories",
+        "Missing required field: keywords",
+        "Missing required field: title_summary",
+        "Missing required field: formatted_case_content",
+        "Missing required field: content_length",
+        "Missing required field: metadata_extraction_date",
+        "Missing required field: extraction_version"
+      ]
+    },
+    {
+      "file": "2004/12/A_M__No__94.json",
+      "issues": [
+        "Missing required field: file_path",
+        "Missing required field: filename",
+        "Missing required field: year",
+        "Missing required field: month",
+        "Missing required field: case_number",
+        "Missing required field: gr_number",
+        "Missing required field: volume_page",
+        "Missing required field: decision_date",
+        "Missing required field: title",
+        "Missing required field: categories",
+        "Missing required field: keywords",
+        "Missing required field: title_summary",
+        "Missing required field: formatted_case_content",
+        "Missing required field: content_length",
+        "Missing required field: metadata_extraction_date",
+        "Missing required field: extraction_version"
+      ]
+    },
+    {
+      "file": "2004/12/A_M__No__99.json",
+      "issues": [
+        "Missing required field: file_path",
+        "Missing required field: filename",
+        "Missing required field: year",
+        "Missing required field: month",
+        "Missing required field: case_number",
+        "Missing required field: gr_number",
+        "Missing required field: volume_page",
+        "Missing required field: decision_date",
+        "Missing required field: title",
+        "Missing required field: categories",
+        "Missing required field: keywords",
+        "Missing required field: title_summary",
+        "Missing required field: formatted_case_content",
+        "Missing required field: content_length",
+        "Missing required field: metadata_extraction_date",
+        "Missing required field: extraction_version"
+      ]
+    },
+    {
+      "file": "2004/12/G_R__No__151198.json",
+      "issues": [
+        "Field 'volume_page' is null but should have a value"
+      ]
+    },
+    {
+      "file": "2004/12/G_R__No__155138.json",
+      "issues": [
+        "Field 'volume_page' is null but should have a value"
+      ]
+    },
+    {
+      "file": "2014/12/G_R__No__179031.json",
+      "issues": [
+        "Field 'volume_page' is null but should have a value"
+      ]
+    },
+    {
+      "file": "2014/12/G_R__No__197307.json",
+      "issues": [
+        "Field 'volume_page' is null but should have a value"
+      ]
+    },
+    {
+      "file": "2014/12/G_R__No__203161.json",
+      "issues": [
+        "Field 'volume_page' is null but should have a value"
+      ]
+    },
+    {
+      "file": "2020/12/A_C__No__10252.json",
+      "issues": [
+        "Invalid JSON: Expecting value: line 1 column 1 (char 0)"
+      ]
+    },
+    {
+      "file": "2020/12/A_C__No__11583.json",
+      "issues": [
+        "content_length mismatch: declared 19810, actual 19957"
+      ]
+    },
+    {
+      "file": "2020/12/A_C__No__11639.json",
+      "issues": [
+        "content_length mismatch: declared 9072, actual 9398"
+      ]
+    }
+  ]
+}
