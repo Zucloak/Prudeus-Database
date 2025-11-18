@@ -5,9 +5,10 @@ This repository contains Philippine Supreme Court case decisions from 1901-2025,
 ## Database Statistics
 
 - **Coverage**: 1901-2025 (125 years)
-- **Total Cases**: ~41,578 cases
+- **Total Cases**: 41,573 cases
 - **Format**: JSON files organized by year/month
 - **Source**: Various legal databases
+- **Index Updated**: 2025-11-18
 
 ## Features
 
