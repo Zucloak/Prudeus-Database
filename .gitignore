@@ -1,15 +1,3 @@
-# Samples directory
-SAMPLE_CASES/
-
-# Progress tracking (active scraping)
-scraping_progress.json
-
-# Log files
-*.log
-
-# PID files
-*.pid
-
 # Python cache
 __pycache__/
 *.pyc
