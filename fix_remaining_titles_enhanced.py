@@ -258,11 +258,60 @@ def extract_title_from_content_enhanced(content: str) -> Optional[str]:
                     party1 = re.sub(r',\s*$', '', party1_line).strip()
                     party2 = re.sub(r',\s*$', '', party2_line).strip()
                     
+                    # Truncate very long party names (often means the line includes extra info)
+                    if len(party1) > 200:
+                        # Try to find the first comma or semicolon and truncate there
+                        match = re.match(r'^([^,;]+)[,;]', party1)
+                        if match:
+                            party1 = match.group(1).strip()
+                    
+                    if len(party2) > 200:
+                        match = re.match(r'^([^,;]+)[,;]', party2)
+                        if match:
+                            party2 = match.group(1).strip()
+                    
                     # Skip if they look like headers
-                    skip_patterns = [r'^EN BANC$', r'^SUPREME COURT$', r'^\d+\s+Phil']
+                    skip_patterns = [r'^EN BANC$', r'^SUPREME COURT$', r'^\d+\s+Phil', r'^for (petitioners?|respondents?)']
                     if not any(re.match(pat, party1, re.IGNORECASE) for pat in skip_patterns):
                         if not any(re.match(pat, party2, re.IGNORECASE) for pat in skip_patterns):
-                            if len(party1) < 150 and len(party2) < 150:
+                            if len(party1) < 200 and len(party2) < 200 and len(party1) > 3 and len(party2) > 3:
+                                title = f"{party1} vs. {party2}"
+                                candidates.append((2, title))
+    
+    # Pattern 6: Administrative cases with format "PARTY, COMPLAINANT, VS. JUDGE..., RESPONDENT"
+    # But spread across one very long line (often line 6 or 7)
+    for i, line in enumerate(lines[:15]):
+        # Check if this is a very long line with COMPLAINANT/PETITIONER and RESPONDENT/DEFENDANT
+        if len(line) > 100 and re.search(r'\b(complainant|petitioner)', line, re.IGNORECASE):
+            if re.search(r'\b(respondent|defendant)', line, re.IGNORECASE):
+                if re.search(r',\s*vs\.?\s*', line, re.IGNORECASE):
+                    # Try to extract just the party names
+                    match = re.search(
+                        r'^(.+?),\s*(complainant|petitioner|plaintiff),?\s+vs\.?\s+(.+?),\s*(respondent|defendant)',
+                        line,
+                        re.IGNORECASE
+                    )
+                    if match:
+                        party1 = match.group(1).strip()
+                        party2 = match.group(3).strip()
+                        
+                        # Clean up - often has "JUDGE" or "HON." in party2
+                        party2 = re.sub(r'^(HON\.|JUDGE)\s+', '', party2, flags=re.IGNORECASE)
+                        
+                        # Truncate if needed
+                        if len(party1) > 150:
+                            match2 = re.match(r'^([^,;]+)', party1)
+                            if match2:
+                                party1 = match2.group(1).strip()
+                        
+                        if len(party2) > 150:
+                            # For respondents, often the first part before comma is the main party
+                            match2 = re.match(r'^([^,;]+)', party2)
+                            if match2:
+                                party2 = match2.group(1).strip()
+                        
+                        if len(party1) > 3 and len(party2) > 3:
+                            if not re.match(r'^\[', party1):  # Skip if starts with [
                                 title = f"{party1} vs. {party2}"
                                 candidates.append((2, title))
     
