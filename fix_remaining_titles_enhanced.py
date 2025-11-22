@@ -284,10 +284,10 @@ def extract_title_from_content_enhanced(content: str) -> Optional[str]:
         # Check if this is a very long line with COMPLAINANT/PETITIONER and RESPONDENT/DEFENDANT
         if len(line) > 100 and re.search(r'\b(complainant|petitioner)', line, re.IGNORECASE):
             if re.search(r'\b(respondent|defendant)', line, re.IGNORECASE):
-                if re.search(r',\s*vs\.?\s*', line, re.IGNORECASE):
+                if re.search(r',\s*vs?\.?\s*', line, re.IGNORECASE):
                     # Try to extract just the party names
                     match = re.search(
-                        r'^(.+?),\s*(complainant|petitioner|plaintiff),?\s+vs\.?\s+(.+?),\s*(respondent|defendant)',
+                        r'^(.+?),\s*(complainant|petitioner|plaintiff),?\s+vs?\.?\s+(.+?),\s*(respondent|defendant)',
                         line,
                         re.IGNORECASE
                     )
@@ -314,6 +314,62 @@ def extract_title_from_content_enhanced(content: str) -> Optional[str]:
                             if not re.match(r'^\[', party1):  # Skip if starts with [
                                 title = f"{party1} vs. {party2}"
                                 candidates.append((2, title))
+    
+    # Pattern 7: Single-line format using "V." instead of "VS."
+    # Example: "JUDGE GUILLERMO P. AGLORO, COMPLAINANT, V. COURT INTERPRETER LESLIE BURGOS..."
+    for i, line in enumerate(lines[:15]):
+        if len(line) > 50 and re.search(r',\s*V\.\s+', line):
+            # Match patterns with V. (short for versus)
+            match = re.search(
+                r'^(.+?),\s*(complainant|petitioner|plaintiff),?\s+V\.\s+(.+?)(?:,\s*(respondent|defendant|officer))?(?:\s*D\s+E\s+C\s+I\s+S\s+I\s+O\s+N)?\.?$',
+                line,
+                re.IGNORECASE
+            )
+            if match:
+                party1 = match.group(1).strip()
+                party2 = match.group(3).strip()
+                
+                # Clean up party2 - remove role descriptions at the end
+                party2 = re.sub(r',\s*(OFFICER-IN-CHARGE|CLERK|RESPONDENT|DEFENDANT).*$', '', party2, flags=re.IGNORECASE)
+                
+                if len(party1) > 3 and len(party2) > 3 and len(party1) < 200 and len(party2) < 200:
+                    title = f"{party1} vs. {party2}"
+                    candidates.append((1, title))
+    
+    # Pattern 8: "RE:" format for administrative cases
+    # Example: "RE: ADMINISTRATIVE CASE NO. 44 OF THE REGIONAL TRIAL COURT... AGAINST ATTY..."
+    for i, line in enumerate(lines[:15]):
+        if re.match(r'^RE:', line, re.IGNORECASE):
+            # This is often the title itself
+            title = line.strip()
+            # Clean up
+            title = re.sub(r'\s*D\s+E\s+C\s+I\s+S\s+I\s+O\s+N.*$', '', title, flags=re.IGNORECASE)
+            if len(title) > 10 and len(title) < 250:
+                candidates.append((1, title))
+    
+    # Pattern 9: Very long single line with parties, using "VS." (all caps) with periods
+    # Example: "PEOPLE OF THE PHILIPPINES, PLAINTIFF-APPELLEE VS. IRENEO FAJARDO..."
+    for i, line in enumerate(lines[:15]):
+        if len(line) > 80 and re.search(r'\sVS\.\s+', line):
+            match = re.search(
+                r'^(.+?),?\s+(PLAINTIFF|PETITIONER|COMPLAINANT)[\-\s]+(APPELLEE|APPELLANT),?\s+VS\.\s+(.+?)(?:\s*D\s+E\s+C\s+I\s+S\s+I\s+O\s+N)?\.?$',
+                line,
+                re.IGNORECASE
+            )
+            if match:
+                party1 = match.group(1).strip()
+                party2 = match.group(4).strip()
+                
+                # Truncate party2 if it's too long (often has multiple names)
+                if len(party2) > 150:
+                    # Take up to first comma or "AND" with more names
+                    match2 = re.match(r'^([^,]+)', party2)
+                    if match2:
+                        party2 = match2.group(1).strip() + ', ET AL.'
+                
+                if len(party1) > 3 and len(party2) > 3:
+                    title = f"{party1} vs. {party2}"
+                    candidates.append((1, title))
     
     # Return the best candidate (lowest priority number = highest quality)
     if candidates:
