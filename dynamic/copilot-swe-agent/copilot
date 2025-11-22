@@ -1,0 +1,87 @@
+name: Copilot SWE Agent - HTML Metadata Processing
+
+# This workflow is for GitHub Copilot SWE agents to process HTML metadata
+# Reference: Job 56105745944, Commit 345be85e7675ce5fe25b3aef5fe0c74bae445096
+
+on:
+  workflow_dispatch:
+    inputs:
+      task:
+        description: 'Task for the agent'
+        required: false
+        default: 'process-html-metadata'
+
+jobs:
+  copilot-agent:
+    name: Copilot Agent Task
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "copilot-swe-agent[bot]"
+          git config --global user.email "198982749+Copilot@users.noreply.github.com"
+          git config --global core.pager cat
+          export GIT_PAGER=cat
+      
+      - name: Run Agent Task
+        env:
+          BRANCH: ${{ github.ref_name }}
+          BATCH_SIZE: 500
+          COMMIT_MSG: "Agent task: ${{ inputs.task }}"
+        run: |
+          echo "Running agent task: ${{ inputs.task }}"
+          
+          # Ensure scripts are executable
+          chmod +x scripts/batch-commit.sh
+          chmod +x scripts/extract_and_remove_html_metadata.py
+          
+          # Agent tasks should use the batch commit infrastructure
+          # to avoid git operation failures with large file counts
+          
+          case "${{ inputs.task }}" in
+            process-html-metadata)
+              echo "Processing HTML metadata..."
+              # Only run if HTML files exist
+              if find . -name "*.html" -type f | grep -q .; then
+                python3 scripts/extract_and_remove_html_metadata.py .
+                
+                # Use batch commit script if there are changes
+                if [[ -n $(git status -s) ]]; then
+                  bash scripts/batch-commit.sh
+                fi
+              else
+                echo "No HTML files found, skipping metadata processing"
+              fi
+              ;;
+            *)
+              echo "Unknown task: ${{ inputs.task }}"
+              echo "Available tasks: process-html-metadata"
+              exit 1
+              ;;
+          esac
+      
+      - name: Summary
+        run: |
+          echo "## Agent Task Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Task:** ${{ inputs.task }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Branch:** ${{ github.ref_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Status:** ✅ Completed" >> $GITHUB_STEP_SUMMARY
