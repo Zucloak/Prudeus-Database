@@ -1,0 +1,97 @@
+name: Process HTML Metadata with Batch Commits
+
+on:
+  workflow_dispatch:
+    inputs:
+      directory:
+        description: 'Directory containing HTML files to process'
+        required: false
+        default: 'RESTRUCTURED_DB'
+      batch_size:
+        description: 'Number of files per commit batch'
+        required: false
+        default: '500'
+      dry_run:
+        description: 'Dry run mode (preview changes without modifying)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  process-metadata:
+    name: Extract and Remove HTML Metadata
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pull-requests: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global core.pager cat
+          export GIT_PAGER=cat
+      
+      - name: Extract and Remove HTML Metadata
+        run: |
+          echo "Processing directory: ${{ inputs.directory }}"
+          echo "Dry run mode: ${{ inputs.dry_run }}"
+          
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python3 scripts/extract_and_remove_html_metadata.py \
+              --dry-run \
+              "${{ inputs.directory }}"
+          else
+            python3 scripts/extract_and_remove_html_metadata.py \
+              "${{ inputs.directory }}"
+          fi
+      
+      - name: Batch Commit Changes
+        if: ${{ inputs.dry_run == false }}
+        env:
+          BRANCH: ${{ github.ref_name }}
+          BATCH_SIZE: ${{ inputs.batch_size }}
+          COMMIT_MSG: "Extract and remove HTML metadata"
+        run: |
+          echo "Starting batch commit process..."
+          echo "Branch: ${BRANCH}"
+          echo "Batch size: ${BATCH_SIZE}"
+          
+          # Check if there are any changes
+          if [[ -z $(git status -s) ]]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          # Run batch commit script
+          bash scripts/batch-commit.sh
+      
+      - name: Summary
+        run: |
+          echo "## Workflow Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Directory processed:** ${{ inputs.directory }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Batch size:** ${{ inputs.batch_size }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Dry run:** ${{ inputs.dry_run }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Branch:** ${{ github.ref_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ inputs.dry_run }}" = "false" ]; then
+            echo "✅ Metadata extraction and batch commits completed" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ Dry run completed (no changes made)" >> $GITHUB_STEP_SUMMARY
+          fi
