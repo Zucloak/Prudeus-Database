@@ -95,7 +95,17 @@ def create_case_entry() -> Dict:
     # Basic information
     gr_number = get_input_with_default("G.R. Number (digits only, e.g., 165842)")
     title = get_input_with_default("Case Title (e.g., Manuel v. People)")
-    year = int(get_input_with_default("Year (e.g., 2005)"))
+    
+    while True:
+        try:
+            year_input = get_input_with_default("Year (e.g., 2005)")
+            year = int(year_input)
+            if 1900 <= year <= 2100:
+                break
+            else:
+                print("Please enter a valid year between 1900 and 2100")
+        except ValueError:
+            print("Please enter a valid year as a number")
     
     # Month
     print("\nMonth options:")
@@ -103,8 +113,18 @@ def create_case_entry() -> Dict:
               'july', 'august', 'september', 'october', 'november', 'december']
     for i, month in enumerate(months, 1):
         print(f"  {i}. {month}")
-    month_num = int(get_input_with_default("Select month number (1-12)"))
-    month = months[month_num - 1]
+    
+    while True:
+        try:
+            month_input = get_input_with_default("Select month number (1-12)")
+            month_num = int(month_input)
+            if 1 <= month_num <= 12:
+                month = months[month_num - 1]
+                break
+            else:
+                print("Please enter a number between 1 and 12")
+        except ValueError:
+            print("Please enter a valid number")
     
     # Decision date
     decision_date = get_input_with_default("Decision Date (e.g., November 29, 2005)", "")

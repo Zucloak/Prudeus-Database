@@ -247,9 +247,10 @@ def extract_case_content_from_html(html_content: str, source_url: str) -> Tuple[
     Extract case content and metadata from HTML.
     Returns (formatted_content, metadata_dict)
     """
-    # Remove script and style tags
-    text = re.sub(r'<script[^>]*>.*?</script>', '', html_content, flags=re.DOTALL | re.IGNORECASE)
-    text = re.sub(r'<style[^>]*>.*?</style>', '', text, flags=re.DOTALL | re.IGNORECASE)
+    # Remove script and style tags (handle various whitespace and attributes in closing tags)
+    # Note: This is for content extraction only, not for XSS prevention
+    text = re.sub(r'<script[^>]*>.*?</script[^>]*>', '', html_content, flags=re.DOTALL | re.IGNORECASE)
+    text = re.sub(r'<style[^>]*>.*?</style[^>]*>', '', text, flags=re.DOTALL | re.IGNORECASE)
     
     # Extract metadata
     metadata = {}
@@ -257,7 +258,11 @@ def extract_case_content_from_html(html_content: str, source_url: str) -> Tuple[
     # Extract G.R. number
     gr_match = re.search(r'G\.R\.\s+No\.?s?\s+(\d+(?:\s*&\s*\d+)?)', text, re.IGNORECASE)
     if gr_match:
-        metadata['gr_number'] = gr_match.group(1)
+        # Clean up - extract first number if multiple (e.g., "123 & 456" -> "123")
+        gr_text = gr_match.group(1)
+        first_num = re.search(r'(\d+)', gr_text)
+        if first_num:
+            metadata['gr_number'] = first_num.group(1)
     
     # Extract decision date
     date_patterns = [
