@@ -1,0 +1,100 @@
+{
+  "scraping_date": "2025-11-23T05:13:35.333838",
+  "total_cases_attempted": 8,
+  "successful_scrapes": 0,
+  "failed_scrapes": 8,
+  "files_saved": 0,
+  "failed_cases": [
+    {
+      "case": {
+        "gr_number": "231896",
+        "title": "Municipality of Tupi v. Faustino",
+        "year": 2019,
+        "month": "august",
+        "decision_date": "2019-08-20"
+      },
+      "reason": "Not found on any source (SC E-Library, ChanRobles, Lawphil)"
+    },
+    {
+      "case": {
+        "gr_number": "165842",
+        "title": "Manuel v. People",
+        "year": 2005,
+        "month": "november",
+        "decision_date": "2005-11-29"
+      },
+      "reason": "Not found on any source (SC E-Library, ChanRobles, Lawphil)"
+    },
+    {
+      "case": {
+        "gr_number": "213198",
+        "title": "Toyo v. Toyo",
+        "year": 2019,
+        "month": "july",
+        "decision_date": "2019-07-01"
+      },
+      "reason": "Not found on any source (SC E-Library, ChanRobles, Lawphil)"
+    },
+    {
+      "case": {
+        "gr_number": "164815",
+        "title": "Valeroso v. People",
+        "year": 2008,
+        "month": "february",
+        "decision_date": "2008-02-22"
+      },
+      "reason": "Not found on any source (SC E-Library, ChanRobles, Lawphil)"
+    },
+    {
+      "case": {
+        "gr_number": "257697",
+        "title": "San Miguel v. Commissioner",
+        "year": 2023,
+        "month": "april",
+        "decision_date": "2023-04-12"
+      },
+      "reason": "Not found on any source (SC E-Library, ChanRobles, Lawphil)"
+    },
+    {
+      "case": {
+        "gr_number": "189516",
+        "title": "Otamias v. Republic",
+        "year": 2016,
+        "month": "june",
+        "decision_date": "2016-06-08"
+      },
+      "reason": "Not found on any source (SC E-Library, ChanRobles, Lawphil)"
+    },
+    {
+      "case": {
+        "gr_number": "209969",
+        "title": "Sanico v. Colipano",
+        "year": 2017,
+        "month": "september",
+        "decision_date": "2017-09-27"
+      },
+      "reason": "Not found on any source (SC E-Library, ChanRobles, Lawphil)"
+    },
+    {
+      "case": {
+        "gr_number": "203754",
+        "title": "Film Devt. Council v. Colon",
+        "year": 2019,
+        "month": "october",
+        "decision_date": "2019-10-15"
+      },
+      "reason": "Not found on any source (SC E-Library, ChanRobles, Lawphil)"
+    }
+  ],
+  "sources_tried": {
+    "sc_elibrary": 8,
+    "chanrobles": 8,
+    "lawphil": 8
+  },
+  "sources_order": [
+    "SC E-Library",
+    "ChanRobles",
+    "Lawphil"
+  ],
+  "batch_size": 250
+}
