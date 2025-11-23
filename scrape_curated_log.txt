@@ -1,0 +1,77 @@
+2025-11-23 08:40:22,246 - INFO - ================================================================================
+2025-11-23 08:40:22,246 - INFO - SCRAPING DISCOVERED MISSING CASES
+2025-11-23 08:40:22,246 - INFO - ================================================================================
+2025-11-23 08:40:22,246 - INFO - Total cases available: 15
+2025-11-23 08:40:22,246 - INFO - Will process: 15 cases
+2025-11-23 08:40:22,246 - INFO - Database path: RESTRUCTURED_DB
+2025-11-23 08:40:22,246 - INFO - ================================================================================
+2025-11-23 08:40:22,246 - INFO - 
+[1/15] Processing G.R. No. 213893
+2025-11-23 08:40:22,246 - INFO -   Title: National Power Corporation & National Power Board vs. Emma Y...
+2025-11-23 08:40:23,724 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:23,724 - INFO - 
+[2/15] Processing G.R. No. 227993
+2025-11-23 08:40:23,724 - INFO -   Title: People of the Philippines vs. Benson Tulod Y Cuarte...
+2025-11-23 08:40:24,691 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:24,691 - INFO - 
+[3/15] Processing G.R. No. 220514
+2025-11-23 08:40:24,691 - INFO -   Title: Ruben T. Oclarino, Abbie S. Hilay, Custodio N. Nonaillada, J...
+2025-11-23 08:40:25,656 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:25,657 - INFO - 
+[4/15] Processing G.R. No. 220904
+2025-11-23 08:40:25,657 - INFO -   Title: Jebsens Maritime, Inc. and Hapag-Lloyd Aktiengesellschaft vs...
+2025-11-23 08:40:26,620 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:26,620 - INFO - 
+[5/15] Processing G.R. No. 239823
+2025-11-23 08:40:26,620 - INFO -   Title: Angelica Anzia Fajardo vs. People of the Philippines...
+2025-11-23 08:40:27,585 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:27,586 - INFO - 
+[6/15] Processing G.R. No. 205805
+2025-11-23 08:40:27,586 - INFO -   Title: Simeona, Gloria and Rodolfo (all Surnamed Prescilla), et al....
+2025-11-23 08:40:28,549 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:28,550 - INFO - 
+[7/15] Processing G.R. No. 242132
+2025-11-23 08:40:28,550 - INFO -   Title: Nor Jelamin Musa, et al. vs. People of the Philippines...
+2025-11-23 08:40:29,517 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:29,518 - INFO - 
+[8/15] Processing G.R. No. 213831
+2025-11-23 08:40:29,518 - INFO -   Title: The People of the Philippines vs. Adonis Cabales...
+2025-11-23 08:40:30,482 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:30,482 - INFO - 
+[9/15] Processing G.R. No. 208480
+2025-11-23 08:40:30,482 - INFO -   Title: Republic of the Philippines vs. National Commission on Indig...
+2025-11-23 08:40:31,448 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:31,448 - INFO - 
+[10/15] Processing G.R. No. 241774
+2025-11-23 08:40:31,448 - INFO -   Title: Francisco C. Delgado, represented by Jose Mari Delgado vs. G...
+2025-11-23 08:40:32,411 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:32,411 - INFO - 
+[11/15] Processing G.R. No. 235783
+2025-11-23 08:40:32,411 - INFO -   Title: People of the Philippines vs. Anthony Chavez y Villareal @ E...
+2025-11-23 08:40:33,375 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:33,376 - INFO - 
+[12/15] Processing G.R. No. 184389
+2025-11-23 08:40:33,376 - INFO -   Title: Allan Madrilejos, et al. vs. Lourdes Gatdula, et al.Dissenti...
+2025-11-23 08:40:34,339 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:34,339 - INFO - 
+[13/15] Processing G.R. No. 224186
+2025-11-23 08:40:34,339 - INFO -   Title: Spouses Emilio Mangaron. Jr. & Erlinda Mangaron vs. Hanna Vi...
+2025-11-23 08:40:35,304 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:35,304 - INFO - 
+[14/15] Processing G.R. No. 224511
+2025-11-23 08:40:35,304 - INFO -   Title: Exchange Capital Corporation vs. Bank of Commerce and Bancap...
+2025-11-23 08:40:36,269 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:36,270 - INFO - 
+[15/15] Processing G.R. No. 230356
+2025-11-23 08:40:36,270 - INFO -   Title: People of the Philippines vs. Eric Vargas Y Jaguarin & Gina ...
+2025-11-23 08:40:37,233 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:40:37,233 - INFO - 
+================================================================================
+2025-11-23 08:40:37,233 - INFO - SCRAPING COMPLETE
+2025-11-23 08:40:37,233 - INFO - ================================================================================
+2025-11-23 08:40:37,233 - INFO - Cases attempted: 15
+2025-11-23 08:40:37,233 - INFO - Successfully scraped: 0
+2025-11-23 08:40:37,233 - INFO - Already existed: 0
+2025-11-23 08:40:37,233 - INFO - Failed: 15
+2025-11-23 08:40:37,234 - INFO - Success rate: 0.0%
+2025-11-23 08:40:37,234 - INFO - ================================================================================

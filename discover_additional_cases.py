@@ -40,7 +40,7 @@ def get_existing_gr_numbers(year_start=2005, year_end=2024) -> Dict[int, Set[str
     return existing
 
 def scrape_lawphil_index() -> List[Dict]:
-    """Scrape lawphil judjuris main page to find available cases."""
+    """Scrape lawphil judjuris main page to find available cases with actual URLs."""
     url = "https://lawphil.net/judjuris/"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
@@ -52,44 +52,30 @@ def scrape_lawphil_index() -> List[Dict]:
         response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()
         
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
+        # Use regex to extract case information since BeautifulSoup might not be available
         cases = []
-        # Look for G.R. No. pattern with dates
-        for row in soup.find_all('tr', class_='xy'):
-            try:
-                cells = row.find_all('td')
-                if len(cells) >= 2:
-                    # First cell has GR number and date
-                    first_cell_text = cells[0].get_text()
-                    # Second cell has title
-                    title_text = cells[1].get_text()
-                    
-                    # Extract GR number
-                    gr_match = re.search(r'G\.R\.?\s*No\.?\s*(\d+)', first_cell_text)
-                    # Extract date
-                    date_match = re.search(r'(\w+ \d+, \d{4})', first_cell_text)
-                    
-                    if gr_match and date_match:
-                        gr_num = gr_match.group(1)
-                        date_str = date_match.group(1)
-                        
-                        # Extract year from date
-                        year_match = re.search(r'(\d{4})', date_str)
-                        if year_match:
-                            year = int(year_match.group(1))
-                            
-                            # Only include 2005-2024
-                            if 2005 <= year <= 2024:
-                                cases.append({
-                                    'gr_number': gr_num,
-                                    'title': title_text.strip(),
-                                    'date': date_str,
-                                    'year': year
-                                })
-            except Exception as e:
-                logger.debug(f"Error parsing row: {e}")
-                continue
+        
+        # Pattern to match table rows with cases
+        # Looking for: <td><a class="u">G.R. No. XXXXX</a> <br />Date</td><td>Title</td>
+        pattern = r'<a[^>]*class=["\']u["\'][^>]*>G\.R\.?\s*No\.?\s*(\d+)</a>\s*<br\s*/>\s*(\w+\s+\d+,\s*\d{4})</td><td>([^<]+)</td>'
+        
+        matches = re.findall(pattern, response.text, re.IGNORECASE)
+        
+        for gr_num, date_str, title_text in matches:
+            # Extract year from date
+            year_match = re.search(r'(\d{4})', date_str)
+            if year_match:
+                year = int(year_match.group(1))
+                
+                # Only include 2005-2024
+                if 2005 <= year <= 2024:
+                    cases.append({
+                        'gr_number': gr_num,
+                        'title': title_text.strip(),
+                        'date': date_str,
+                        'year': year,
+                        'url': None  # Will need to construct
+                    })
         
         logger.info(f"Found {len(cases)} cases from 2005-2024 on lawphil index")
         return cases

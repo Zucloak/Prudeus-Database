@@ -1,0 +1,57 @@
+2025-11-23 08:37:59,334 - INFO - ================================================================================
+2025-11-23 08:37:59,334 - INFO - SCRAPING DISCOVERED MISSING CASES
+2025-11-23 08:37:59,334 - INFO - ================================================================================
+2025-11-23 08:37:59,334 - INFO - Total cases available: 15038
+2025-11-23 08:37:59,334 - INFO - Will process: 10 cases
+2025-11-23 08:37:59,334 - INFO - Database path: RESTRUCTURED_DB
+2025-11-23 08:37:59,334 - INFO - ================================================================================
+2025-11-23 08:37:59,334 - INFO - 
+[1/10] Processing G.R. No. 255466
+2025-11-23 08:37:59,334 - INFO -   Title: BBB255466 vs. People of the Philippines...
+2025-11-23 08:38:00,834 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:38:00,834 - INFO - 
+[2/10] Processing G.R. No. 251518
+2025-11-23 08:38:00,834 - INFO -   Title: Del Monte Land Transport Bus Company vs. Romeo M. Jaranilla,...
+2025-11-23 08:38:01,797 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:38:01,797 - INFO - 
+[3/10] Processing G.R. No. 263047
+2025-11-23 08:38:01,797 - INFO -   Title: Spouses Noel John M. Kaw And Josephine Caseres-Kaw vs. Heirs...
+2025-11-23 08:38:02,760 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:38:02,760 - INFO - 
+[4/10] Processing G.R. No. 252944
+2025-11-23 08:38:02,761 - INFO -   Title: Commissioner of Internal Revenue vs. Pacific Hub Corporation...
+2025-11-23 08:38:03,723 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:38:03,723 - INFO - 
+[5/10] Processing G.R. No. 219686
+2025-11-23 08:38:03,723 - INFO -   Title: Gil Apolinario vs. Heirs of Francisco De Los Santos...
+2025-11-23 08:38:04,683 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:38:04,683 - INFO - 
+[6/10] Processing G.R. No. 254452
+2025-11-23 08:38:04,683 - INFO -   Title: Heirs of Ferdinand Roxas vs. Heirs of Melania RoxasConcurrin...
+2025-11-23 08:38:05,642 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:38:05,642 - INFO - 
+[7/10] Processing G.R. No. 271934
+2025-11-23 08:38:05,642 - INFO -   Title: Heirs of Aquilino Ramos vs. Prosalita BagaresConcurring Opin...
+2025-11-23 08:38:06,601 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:38:06,601 - INFO - 
+[8/10] Processing G.R. No. 263811
+2025-11-23 08:38:06,601 - INFO -   Title: Commissioner of Internal Revenue vs. Fort 1 Global City Cent...
+2025-11-23 08:38:07,563 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:38:07,563 - INFO - 
+[9/10] Processing G.R. No. 242255
+2025-11-23 08:38:07,563 - INFO -   Title: Province of Sulu vs. Hon. Salvador C. Medialdea...
+2025-11-23 08:38:08,522 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:38:08,523 - INFO - 
+[10/10] Processing G.R. No. 265579
+2025-11-23 08:38:08,523 - INFO -   Title: Joel Pancho Bigcas vs. Court of Appeals and People of the Ph...
+2025-11-23 08:38:09,484 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:38:09,484 - INFO - 
+================================================================================
+2025-11-23 08:38:09,484 - INFO - SCRAPING COMPLETE
+2025-11-23 08:38:09,484 - INFO - ================================================================================
+2025-11-23 08:38:09,484 - INFO - Cases attempted: 10
+2025-11-23 08:38:09,484 - INFO - Successfully scraped: 0
+2025-11-23 08:38:09,484 - INFO - Already existed: 0
+2025-11-23 08:38:09,484 - INFO - Failed: 10
+2025-11-23 08:38:09,484 - INFO - Success rate: 0.0%
+2025-11-23 08:38:09,484 - INFO - ================================================================================

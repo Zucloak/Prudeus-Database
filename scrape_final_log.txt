@@ -1,0 +1,79 @@
+2025-11-23 08:41:36,889 - INFO - ================================================================================
+2025-11-23 08:41:36,889 - INFO - SCRAPING DISCOVERED MISSING CASES
+2025-11-23 08:41:36,889 - INFO - ================================================================================
+2025-11-23 08:41:36,889 - INFO - Total cases available: 15
+2025-11-23 08:41:36,889 - INFO - Will process: 15 cases
+2025-11-23 08:41:36,889 - INFO - Database path: RESTRUCTURED_DB
+2025-11-23 08:41:36,889 - INFO - ================================================================================
+2025-11-23 08:41:36,889 - INFO - 
+[1/15] Processing G.R. No. 213893
+2025-11-23 08:41:36,889 - INFO -   Title: National Power Corporation & National Power Board vs. Emma Y...
+2025-11-23 08:41:37,811 - INFO -   Case already exists: RESTRUCTURED_DB/2019/sep/213893.json
+2025-11-23 08:41:38,311 - INFO - 
+[2/15] Processing G.R. No. 227993
+2025-11-23 08:41:38,311 - INFO -   Title: People of the Philippines vs. Benson Tulod Y Cuarte...
+2025-11-23 08:41:38,770 - INFO -   Case already exists: RESTRUCTURED_DB/2019/sep/227993.json
+2025-11-23 08:41:39,271 - INFO - 
+[3/15] Processing G.R. No. 220514
+2025-11-23 08:41:39,271 - INFO -   Title: Ruben T. Oclarino, Abbie S. Hilay, Custodio N. Nonaillada, J...
+2025-11-23 08:41:39,728 - INFO -   Case already exists: RESTRUCTURED_DB/2019/sep/220514.json
+2025-11-23 08:41:40,229 - INFO - 
+[4/15] Processing G.R. No. 220904
+2025-11-23 08:41:40,229 - INFO -   Title: Jebsens Maritime, Inc. and Hapag-Lloyd Aktiengesellschaft vs...
+2025-11-23 08:41:40,689 - INFO -   Case already exists: RESTRUCTURED_DB/2019/sep/220904.json
+2025-11-23 08:41:41,189 - INFO - 
+[5/15] Processing G.R. No. 239823
+2025-11-23 08:41:41,189 - INFO -   Title: Angelica Anzia Fajardo vs. People of the Philippines...
+2025-11-23 08:41:41,648 - INFO -   Case already exists: RESTRUCTURED_DB/2019/sep/239823.json
+2025-11-23 08:41:42,148 - INFO - 
+[6/15] Processing G.R. No. 205805
+2025-11-23 08:41:42,148 - INFO -   Title: Simeona, Gloria and Rodolfo (all Surnamed Prescilla), et al....
+/home/runner/work/Prudeus-Database/Prudeus-Database/scrape_discovered_cases.py:243: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  'metadata_extraction_date': datetime.utcnow().isoformat() + 'Z',
+2025-11-23 08:41:42,609 - INFO -   ✓ Saved: RESTRUCTURED_DB/2019/sep/205805.json
+2025-11-23 08:41:43,109 - INFO - 
+[7/15] Processing G.R. No. 242132
+2025-11-23 08:41:43,109 - INFO -   Title: Nor Jelamin Musa, et al. vs. People of the Philippines...
+2025-11-23 08:41:43,569 - INFO -   ✓ Saved: RESTRUCTURED_DB/2019/sep/242132.json
+2025-11-23 08:41:44,070 - INFO - 
+[8/15] Processing G.R. No. 213831
+2025-11-23 08:41:44,070 - INFO -   Title: The People of the Philippines vs. Adonis Cabales...
+2025-11-23 08:41:44,327 - INFO -   ✓ Saved: RESTRUCTURED_DB/2019/sep/213831.json
+2025-11-23 08:41:44,827 - INFO - 
+[9/15] Processing G.R. No. 208480
+2025-11-23 08:41:44,827 - INFO -   Title: Republic of the Philippines vs. National Commission on Indig...
+2025-11-23 08:41:45,289 - INFO -   ✓ Saved: RESTRUCTURED_DB/2019/sep/208480.json
+2025-11-23 08:41:45,789 - INFO - 
+[10/15] Processing G.R. No. 241774
+2025-11-23 08:41:45,789 - INFO -   Title: Francisco C. Delgado, represented by Jose Mari Delgado vs. G...
+2025-11-23 08:41:46,250 - INFO -   ✓ Saved: RESTRUCTURED_DB/2019/sep/241774.json
+2025-11-23 08:41:46,750 - INFO - 
+[11/15] Processing G.R. No. 235783
+2025-11-23 08:41:46,750 - INFO -   Title: People of the Philippines vs. Anthony Chavez y Villareal @ E...
+2025-11-23 08:41:47,214 - INFO -   ✓ Saved: RESTRUCTURED_DB/2019/sep/235783.json
+2025-11-23 08:41:47,714 - INFO - 
+[12/15] Processing G.R. No. 184389
+2025-11-23 08:41:47,714 - INFO -   Title: Allan Madrilejos, et al. vs. Lourdes Gatdula, et al.Dissenti...
+2025-11-23 08:41:48,177 - INFO -   ✓ Saved: RESTRUCTURED_DB/2019/sep/184389.json
+2025-11-23 08:41:48,677 - INFO - 
+[13/15] Processing G.R. No. 224186
+2025-11-23 08:41:48,677 - INFO -   Title: Spouses Emilio Mangaron. Jr. & Erlinda Mangaron vs. Hanna Vi...
+2025-11-23 08:41:48,921 - INFO -   ✓ Saved: RESTRUCTURED_DB/2019/sep/224186.json
+2025-11-23 08:41:49,421 - INFO - 
+[14/15] Processing G.R. No. 224511
+2025-11-23 08:41:49,421 - INFO -   Title: Exchange Capital Corporation vs. Bank of Commerce and Bancap...
+2025-11-23 08:41:49,882 - INFO -   ✓ Saved: RESTRUCTURED_DB/2019/sep/224511.json
+2025-11-23 08:41:50,382 - INFO - 
+[15/15] Processing G.R. No. 230356
+2025-11-23 08:41:50,382 - INFO -   Title: People of the Philippines vs. Eric Vargas Y Jaguarin & Gina ...
+2025-11-23 08:41:50,841 - INFO -   ✓ Saved: RESTRUCTURED_DB/2019/sep/230356.json
+2025-11-23 08:41:51,341 - INFO - 
+================================================================================
+2025-11-23 08:41:51,341 - INFO - SCRAPING COMPLETE
+2025-11-23 08:41:51,341 - INFO - ================================================================================
+2025-11-23 08:41:51,341 - INFO - Cases attempted: 15
+2025-11-23 08:41:51,341 - INFO - Successfully scraped: 10
+2025-11-23 08:41:51,341 - INFO - Already existed: 5
+2025-11-23 08:41:51,341 - INFO - Failed: 0
+2025-11-23 08:41:51,341 - INFO - Success rate: 66.7%
+2025-11-23 08:41:51,341 - INFO - ================================================================================
