@@ -4,13 +4,15 @@
 
 **Completed:**
 - 1,189 cases scraped and committed in batches
-- Database grew from ~41,375 to ~42,625 cases
+- Database grew from ~41,375 to ~42,625 cases  
 - Years covered: 2024, 2007, 2006, 2022, 2023
 
 **Remaining:**
-- ~13,621 cases still need to be scraped
-- Estimated time: ~3 hours of continuous running
-- Success rate: 85-93% average
+- ~13,621 cases in the discovery list
+- Many recent 2024 cases not yet published on lawphil (will fail to scrape)
+- Estimated viable cases: ~10,000-12,000
+- Estimated time: ~2.5-3 hours of continuous running
+- Success rate: 85-93% for older cases, 0% for very recent cases
 
 ## How to Continue
 
@@ -89,10 +91,14 @@ bash continuous_scrape.sh
 ### If scraper seems stuck or finds 0 cases:
 
 ```bash
-# Rebuild the missing cases list
+# Rebuild the missing cases list (filters out already-scraped cases)
 cd /home/runner/work/Prudeus-Database/Prudeus-Database
 python3 discover_additional_cases.py
 ```
+
+### If getting many "Could not fetch" errors:
+
+This is normal for very recent cases (especially 2024). Lawphil has a publishing delay of 2-3 months. The scraper will skip these and move to older cases that are available. Continue running - it will eventually reach years 2005-2021 where success rates are 90%+.
 
 ### If git push fails (too large):
 
