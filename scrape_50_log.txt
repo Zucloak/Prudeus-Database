@@ -1,0 +1,219 @@
+2025-11-23 08:42:56,164 - INFO - ================================================================================
+2025-11-23 08:42:56,164 - INFO - SCRAPING DISCOVERED MISSING CASES
+2025-11-23 08:42:56,164 - INFO - ================================================================================
+2025-11-23 08:42:56,164 - INFO - Total cases available: 15038
+2025-11-23 08:42:56,164 - INFO - Will process: 50 cases
+2025-11-23 08:42:56,164 - INFO - Database path: RESTRUCTURED_DB
+2025-11-23 08:42:56,164 - INFO - ================================================================================
+2025-11-23 08:42:56,164 - INFO - 
+[1/50] Processing G.R. No. 255466
+2025-11-23 08:42:56,164 - INFO -   Title: BBB255466 vs. People of the Philippines...
+2025-11-23 08:42:57,588 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:42:57,588 - INFO - 
+[2/50] Processing G.R. No. 251518
+2025-11-23 08:42:57,588 - INFO -   Title: Del Monte Land Transport Bus Company vs. Romeo M. Jaranilla,...
+/home/runner/work/Prudeus-Database/Prudeus-Database/scrape_discovered_cases.py:243: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  'metadata_extraction_date': datetime.utcnow().isoformat() + 'Z',
+2025-11-23 08:42:58,046 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/251518.json
+2025-11-23 08:42:58,546 - INFO - 
+[3/50] Processing G.R. No. 263047
+2025-11-23 08:42:58,546 - INFO -   Title: Spouses Noel John M. Kaw And Josephine Caseres-Kaw vs. Heirs...
+2025-11-23 08:42:59,504 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:42:59,504 - INFO - 
+[4/50] Processing G.R. No. 252944
+2025-11-23 08:42:59,504 - INFO -   Title: Commissioner of Internal Revenue vs. Pacific Hub Corporation...
+2025-11-23 08:42:59,963 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/252944.json
+2025-11-23 08:43:00,463 - INFO - 
+[5/50] Processing G.R. No. 219686
+2025-11-23 08:43:00,463 - INFO -   Title: Gil Apolinario vs. Heirs of Francisco De Los Santos...
+2025-11-23 08:43:00,923 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/219686.json
+2025-11-23 08:43:01,423 - INFO - 
+[6/50] Processing G.R. No. 254452
+2025-11-23 08:43:01,423 - INFO -   Title: Heirs of Ferdinand Roxas vs. Heirs of Melania RoxasConcurrin...
+2025-11-23 08:43:01,682 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/254452.json
+2025-11-23 08:43:02,182 - INFO - 
+[7/50] Processing G.R. No. 271934
+2025-11-23 08:43:02,182 - INFO -   Title: Heirs of Aquilino Ramos vs. Prosalita BagaresConcurring Opin...
+2025-11-23 08:43:02,428 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/271934.json
+2025-11-23 08:43:02,928 - INFO - 
+[8/50] Processing G.R. No. 263811
+2025-11-23 08:43:02,928 - INFO -   Title: Commissioner of Internal Revenue vs. Fort 1 Global City Cent...
+2025-11-23 08:43:03,386 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/263811.json
+2025-11-23 08:43:03,886 - INFO - 
+[9/50] Processing G.R. No. 242255
+2025-11-23 08:43:03,887 - INFO -   Title: Province of Sulu vs. Hon. Salvador C. Medialdea...
+2025-11-23 08:43:04,345 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/242255.json
+2025-11-23 08:43:04,845 - INFO - 
+[10/50] Processing G.R. No. 265579
+2025-11-23 08:43:04,846 - INFO -   Title: Joel Pancho Bigcas vs. Court of Appeals and People of the Ph...
+2025-11-23 08:43:05,090 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/265579.json
+2025-11-23 08:43:05,590 - INFO - 
+[11/50] Processing G.R. No. 254757
+2025-11-23 08:43:05,590 - INFO -   Title: Dominador T. Villanueva, Jr., Edmundo L. Yasay, Edgardo M. A...
+2025-11-23 08:43:06,058 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/254757.json
+2025-11-23 08:43:06,559 - INFO - 
+[12/50] Processing G.R. No. 254046
+2025-11-23 08:43:06,559 - INFO -   Title: Spouses Orencio S. Manalese and Eloisa B. Manalese, and Arie...
+2025-11-23 08:43:07,251 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/254046.json
+2025-11-23 08:43:07,752 - INFO - 
+[13/50] Processing G.R. No. 261627
+2025-11-23 08:43:07,752 - INFO -   Title: Godofredo V. Arquiza vs. People of the Philippines...
+2025-11-23 08:43:07,996 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/261627.json
+2025-11-23 08:43:08,496 - INFO - 
+[14/50] Processing G.R. No. 196517
+2025-11-23 08:43:08,496 - INFO -   Title: Heirs of Antonio Lopez vs. Spouses Felix and Marita Empaynad...
+2025-11-23 08:43:08,755 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/196517.json
+2025-11-23 08:43:09,255 - INFO - 
+[15/50] Processing G.R. No. 267580
+2025-11-23 08:43:09,255 - INFO -   Title: Catalino E. Fajardo, et al. vs. San Miguel Foods, Inc. (B­ M...
+2025-11-23 08:43:09,498 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/267580.json
+2025-11-23 08:43:09,999 - INFO - 
+[16/50] Processing G.R. No. 270870
+2025-11-23 08:43:09,999 - INFO -   Title: People of the Philippines vs. XXX270870 and YYY270870...
+2025-11-23 08:43:10,469 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/270870.json
+2025-11-23 08:43:10,970 - INFO - 
+[17/50] Processing G.R. No. 233909
+2025-11-23 08:43:10,970 - INFO -   Title: Ernesto M. Tellez vs. Spouses Jose Joson and Jovita Joson...
+2025-11-23 08:43:11,432 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/233909.json
+2025-11-23 08:43:11,932 - INFO - 
+[18/50] Processing G.R. No. 267140
+2025-11-23 08:43:11,932 - INFO -   Title: People of the Philippines vs. Larissa Nadel Dominguez...
+2025-11-23 08:43:12,390 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/267140.json
+2025-11-23 08:43:12,891 - INFO - 
+[19/50] Processing G.R. No. 263155
+2025-11-23 08:43:12,891 - INFO -   Title: Omercaliph M. Tiblani, et al. vs. Commission on Audit (COA)...
+2025-11-23 08:43:13,353 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/263155.json
+2025-11-23 08:43:13,853 - INFO - 
+[20/50] Processing G.R. No. 267310
+2025-11-23 08:43:13,853 - INFO -   Title: Fleet Marine Cable Solutions Inc. vs. Mjas Zenith Geomapping...
+2025-11-23 08:43:14,815 - WARNING -   ✗ Could not fetch case from any URL
+2025-11-23 08:43:14,815 - INFO - 
+[21/50] Processing G.R. No. 261113
+2025-11-23 08:43:14,815 - INFO -   Title: Hilario Cosme Y Terenal vs. People of the Philippines...
+2025-11-23 08:43:15,060 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/nov/261113.json
+2025-11-23 08:43:15,560 - INFO - 
+[22/50] Processing G.R. No. 270934
+2025-11-23 08:43:15,561 - INFO -   Title: People of the Philippines vs. Joemarie Ubanon Y Man-An Alias...
+2025-11-23 08:43:15,805 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/270934.json
+2025-11-23 08:43:16,305 - INFO - 
+[23/50] Processing G.R. No. 257483
+2025-11-23 08:43:16,305 - INFO -   Title: Sonia Balagtas vs. People of the Philippines...
+2025-11-23 08:43:16,764 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/257483.json
+2025-11-23 08:43:17,264 - INFO - 
+[24/50] Processing G.R. No. 264280
+2025-11-23 08:43:17,264 - INFO -   Title: Florsit a Rodeo, et al. vs. Heirs of Burgos Malaya...
+2025-11-23 08:43:17,508 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/264280.json
+2025-11-23 08:43:18,008 - INFO - 
+[25/50] Processing G.R. No. 236166
+2025-11-23 08:43:18,008 - INFO -   Title: Kenneth Karl Aspiras y Corpuz vs. People of the Philippines...
+2025-11-23 08:43:18,469 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/236166.json
+2025-11-23 08:43:18,970 - INFO - 
+[26/50] Processing G.R. No. 270003
+2025-11-23 08:43:18,970 - INFO -   Title: People of the Philippines vs. Ria Liza Bautista Cariaga...
+2025-11-23 08:43:19,441 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/270003.json
+2025-11-23 08:43:19,941 - INFO - 
+[27/50] Processing G.R. No. 267163
+2025-11-23 08:43:19,941 - INFO -   Title: People of the Philippines vs. Eduardo Dela Cruz y Tolentino,...
+2025-11-23 08:43:20,193 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/267163.json
+2025-11-23 08:43:20,693 - INFO - 
+[28/50] Processing G.R. No. 252171
+2025-11-23 08:43:20,693 - INFO -   Title: Edito A.G. Balintona vs. Hon. Michael G. Aguinaldo...
+2025-11-23 08:43:21,154 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/252171.json
+2025-11-23 08:43:21,654 - INFO - 
+[29/50] Processing G.R. No. 259982
+2025-11-23 08:43:21,654 - INFO -   Title: Pacific Ocean Manning, Inc. vs. Nicolas F. Bobiles...
+2025-11-23 08:43:22,112 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/259982.json
+2025-11-23 08:43:22,613 - INFO - 
+[30/50] Processing G.R. No. 230865
+2025-11-23 08:43:22,613 - INFO -   Title: Psupt. Job F. Marasigan vs. Office of the Deputy Ombudsman f...
+2025-11-23 08:43:23,082 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/230865.json
+2025-11-23 08:43:23,582 - INFO - 
+[31/50] Processing G.R. No. 270149
+2025-11-23 08:43:23,582 - INFO -   Title: People of the Philippines vs. XXX270149...
+2025-11-23 08:43:23,826 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/270149.json
+2025-11-23 08:43:24,326 - INFO - 
+[32/50] Processing G.R. No. 270317
+2025-11-23 08:43:24,326 - INFO -   Title: People of the Philippines vs. XXX270317...
+2025-11-23 08:43:24,797 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/270317.json
+2025-11-23 08:43:25,298 - INFO - 
+[33/50] Processing G.R. No. 255703
+2025-11-23 08:43:25,298 - INFO -   Title: People of the Philippines vs. Sim O. Mata, Jr....
+2025-11-23 08:43:25,551 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/255703.json
+2025-11-23 08:43:26,051 - INFO - 
+[34/50] Processing G.R. No. 261768
+2025-11-23 08:43:26,051 - INFO -   Title: People of the Philippines vs. Andre Gayanilo y Eleveran, et ...
+2025-11-23 08:43:26,510 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/261768.json
+2025-11-23 08:43:27,010 - INFO - 
+[35/50] Processing G.R. No. 263828
+2025-11-23 08:43:27,010 - INFO -   Title: Avelino C. Amangyen vs. the Commission on Elections and Fran...
+2025-11-23 08:43:27,470 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/263828.json
+2025-11-23 08:43:27,970 - INFO - 
+[36/50] Processing G.R. No. 268891
+2025-11-23 08:43:27,970 - INFO -   Title: Gerardo "Jerry" A. Noveras vs. Commission on Elections and N...
+2025-11-23 08:43:28,432 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/268891.json
+2025-11-23 08:43:28,932 - INFO - 
+[37/50] Processing G.R. No. 257683
+2025-11-23 08:43:28,932 - INFO -   Title: Jimmy B. Puguon, Jr. vs. People of the Philippines...
+2025-11-23 08:43:29,394 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/257683.json
+2025-11-23 08:43:29,894 - INFO - 
+[38/50] Processing G.R. No. 259861
+2025-11-23 08:43:29,894 - INFO -   Title: Resty Laconsay vs. People of the Philippines...
+2025-11-23 08:43:30,140 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/259861.json
+2025-11-23 08:43:30,640 - INFO - 
+[39/50] Processing G.R. No. 254639
+2025-11-23 08:43:30,640 - INFO -   Title: People of the Philippines vs. Amelia R. De Pano, et al....
+2025-11-23 08:43:31,100 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/254639.json
+2025-11-23 08:43:31,600 - INFO - 
+[40/50] Processing G.R. No. 273001
+2025-11-23 08:43:31,600 - INFO -   Title: Philippine Deposit Insurance Corporation vs. Apolonia L. Ili...
+2025-11-23 08:43:31,843 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/273001.json
+2025-11-23 08:43:32,343 - INFO - 
+[41/50] Processing G.R. No. 256137
+2025-11-23 08:43:32,343 - INFO -   Title: Maersk-Filipinas Crewing, Inc. and A.P. Moller A/S vs. Eugen...
+2025-11-23 08:43:32,802 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/256137.json
+2025-11-23 08:43:33,302 - INFO - 
+[42/50] Processing G.R. No. 273190
+2025-11-23 08:43:33,302 - INFO -   Title: People of the Philippines vs. XXX...
+2025-11-23 08:43:33,760 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/273190.json
+2025-11-23 08:43:34,260 - INFO - 
+[43/50] Processing G.R. No. 272689
+2025-11-23 08:43:34,260 - INFO -   Title: Fei Hua Finance and Leasing Service vs. Edilberto Castañeda...
+2025-11-23 08:43:34,720 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/272689.json
+2025-11-23 08:43:35,220 - INFO - 
+[44/50] Processing G.R. No. 262092
+2025-11-23 08:43:35,220 - INFO -   Title: Commissioner of Internal Revenue vs. Estate of Mr. Charles M...
+2025-11-23 08:43:35,465 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/262092.json
+2025-11-23 08:43:35,965 - INFO - 
+[45/50] Processing G.R. No. 244692
+2025-11-23 08:43:35,966 - INFO -   Title: Mare Claire Ruiz y Serrano vs. People of the Philippines...
+2025-11-23 08:43:36,431 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/244692.json
+2025-11-23 08:43:36,931 - INFO - 
+[46/50] Processing G.R. No. 271012
+2025-11-23 08:43:36,931 - INFO -   Title: Roel Gementiza Padillo vs. People of the Philippines...
+2025-11-23 08:43:37,175 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/aug/271012.json
+2025-11-23 08:43:37,676 - INFO - 
+[47/50] Processing G.R. No. 224581
+2025-11-23 08:43:37,676 - INFO -   Title: People of the Philippines vs. Diosdado Rebuton Y Melendez A....
+2025-11-23 08:43:37,921 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/224581.json
+2025-11-23 08:43:38,421 - INFO - 
+[48/50] Processing G.R. No. 272898
+2025-11-23 08:43:38,421 - INFO -   Title: Bernadette Lourdes B. Abejo vs. Commission on Audit...
+2025-11-23 08:43:39,793 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/272898.json
+2025-11-23 08:43:40,293 - INFO - 
+[49/50] Processing G.R. No. 259965
+2025-11-23 08:43:40,293 - INFO -   Title: Planters Development Bank (Now China Bank Savings, Inc.) vs....
+2025-11-23 08:43:40,969 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/259965.json
+2025-11-23 08:43:41,469 - INFO - 
+[50/50] Processing G.R. No. 258321
+2025-11-23 08:43:41,470 - INFO -   Title: People of the Philippines vs. Jomer Adona Y Llemo...
+2025-11-23 08:43:41,928 - INFO -   ✓ Saved: RESTRUCTURED_DB/2024/oct/258321.json
+2025-11-23 08:43:42,428 - INFO - 
+================================================================================
+2025-11-23 08:43:42,428 - INFO - SCRAPING COMPLETE
+2025-11-23 08:43:42,428 - INFO - ================================================================================
+2025-11-23 08:43:42,428 - INFO - Cases attempted: 50
+2025-11-23 08:43:42,428 - INFO - Successfully scraped: 47
+2025-11-23 08:43:42,428 - INFO - Already existed: 0
+2025-11-23 08:43:42,428 - INFO - Failed: 3
+2025-11-23 08:43:42,428 - INFO - Success rate: 94.0%
+2025-11-23 08:43:42,428 - INFO - ================================================================================

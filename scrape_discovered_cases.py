@@ -12,7 +12,7 @@ import re
 import time
 import os
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Dict, Optional, List
 import logging
 from html.parser import HTMLParser
@@ -240,7 +240,7 @@ def save_case_to_db(case_data: Dict, db_path: str) -> bool:
             'title_summary': case_data['title'][:200],
             'formatted_case_content': case_data['formatted_case_content'],
             'content_length': case_data['content_length'],
-            'metadata_extraction_date': datetime.utcnow().isoformat() + 'Z',
+            'metadata_extraction_date': datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z'),
             'extraction_version': '2.0-lawphil-bulk-scrape'
         }
         
