@@ -1,0 +1,152 @@
+2025-11-23 05:12:24,267 - INFO - ================================================================================
+2025-11-23 05:12:24,267 - INFO - ENHANCED SUPREME COURT CASE SCRAPER
+2025-11-23 05:12:24,268 - INFO - ================================================================================
+2025-11-23 05:12:24,268 - INFO - Database: RESTRUCTURED_DB
+2025-11-23 05:12:24,268 - INFO - Batch size: 250
+2025-11-23 05:12:24,268 - INFO - Cases to scrape: 8
+2025-11-23 05:12:24,268 - INFO - Sources: SC E-Library → ChanRobles → Lawphil
+2025-11-23 05:12:24,268 - INFO - 
+2025-11-23 05:12:24,268 - INFO - Starting scraping for 8 cases...
+2025-11-23 05:12:24,268 - INFO - Sources: SC E-Library → ChanRobles → Lawphil (fallback)
+2025-11-23 05:12:24,268 - INFO - 
+Progress: 1/8
+2025-11-23 05:12:24,268 - INFO - 
+================================================================================
+2025-11-23 05:12:24,268 - INFO - Scraping: Municipality of Tupi v. Faustino (G.R. No. 231896)
+2025-11-23 05:12:24,268 - INFO - ================================================================================
+2025-11-23 05:12:24,268 - INFO - Trying source: sc_elibrary
+2025-11-23 05:12:24,268 - INFO - Searching SC E-Library for G.R. No. 231896
+2025-11-23 05:12:24,273 - WARNING -   ✗ Not found on SC E-Library
+2025-11-23 05:12:25,273 - INFO - Trying source: chanrobles
+2025-11-23 05:12:25,273 - INFO - Searching ChanRobles for G.R. No. 231896
+2025-11-23 05:12:25,279 - WARNING -   ✗ Not found on ChanRobles
+2025-11-23 05:12:26,279 - INFO - Trying source: lawphil
+2025-11-23 05:12:26,279 - INFO - Searching lawphil.net for G.R. No. 231896
+2025-11-23 05:12:30,354 - WARNING -   ✗ Not found on lawphil.net
+2025-11-23 05:12:34,354 - INFO - 
+Progress: 2/8
+2025-11-23 05:12:34,355 - INFO - 
+================================================================================
+2025-11-23 05:12:34,355 - INFO - Scraping: Manuel v. People (G.R. No. 165842)
+2025-11-23 05:12:34,355 - INFO - ================================================================================
+2025-11-23 05:12:34,355 - INFO - Trying source: sc_elibrary
+2025-11-23 05:12:34,355 - INFO - Searching SC E-Library for G.R. No. 165842
+2025-11-23 05:12:34,360 - WARNING -   ✗ Not found on SC E-Library
+2025-11-23 05:12:35,360 - INFO - Trying source: chanrobles
+2025-11-23 05:12:35,360 - INFO - Searching ChanRobles for G.R. No. 165842
+2025-11-23 05:12:35,368 - WARNING -   ✗ Not found on ChanRobles
+2025-11-23 05:12:36,369 - INFO - Trying source: lawphil
+2025-11-23 05:12:36,369 - INFO - Searching lawphil.net for G.R. No. 165842
+2025-11-23 05:12:39,400 - WARNING -   ✗ Not found on lawphil.net
+2025-11-23 05:12:43,401 - INFO - 
+Progress: 3/8
+2025-11-23 05:12:43,401 - INFO - 
+================================================================================
+2025-11-23 05:12:43,401 - INFO - Scraping: Toyo v. Toyo (G.R. No. 213198)
+2025-11-23 05:12:43,401 - INFO - ================================================================================
+2025-11-23 05:12:43,401 - INFO - Trying source: sc_elibrary
+2025-11-23 05:12:43,401 - INFO - Searching SC E-Library for G.R. No. 213198
+2025-11-23 05:12:43,406 - WARNING -   ✗ Not found on SC E-Library
+2025-11-23 05:12:44,406 - INFO - Trying source: chanrobles
+2025-11-23 05:12:44,406 - INFO - Searching ChanRobles for G.R. No. 213198
+2025-11-23 05:12:44,411 - WARNING -   ✗ Not found on ChanRobles
+2025-11-23 05:12:45,411 - INFO - Trying source: lawphil
+2025-11-23 05:12:45,411 - INFO - Searching lawphil.net for G.R. No. 213198
+2025-11-23 05:12:48,595 - WARNING -   ✗ Not found on lawphil.net
+2025-11-23 05:12:52,596 - INFO - 
+Progress: 4/8
+2025-11-23 05:12:52,596 - INFO - 
+================================================================================
+2025-11-23 05:12:52,596 - INFO - Scraping: Valeroso v. People (G.R. No. 164815)
+2025-11-23 05:12:52,596 - INFO - ================================================================================
+2025-11-23 05:12:52,596 - INFO - Trying source: sc_elibrary
+2025-11-23 05:12:52,596 - INFO - Searching SC E-Library for G.R. No. 164815
+2025-11-23 05:12:52,600 - WARNING -   ✗ Not found on SC E-Library
+2025-11-23 05:12:53,600 - INFO - Trying source: chanrobles
+2025-11-23 05:12:53,601 - INFO - Searching ChanRobles for G.R. No. 164815
+2025-11-23 05:12:53,606 - WARNING -   ✗ Not found on ChanRobles
+2025-11-23 05:12:54,607 - INFO - Trying source: lawphil
+2025-11-23 05:12:54,607 - INFO - Searching lawphil.net for G.R. No. 164815
+2025-11-23 05:12:57,724 - WARNING -   ✗ Not found on lawphil.net
+2025-11-23 05:13:01,725 - INFO - 
+Progress: 5/8
+2025-11-23 05:13:01,725 - INFO - 
+================================================================================
+2025-11-23 05:13:01,725 - INFO - Scraping: San Miguel v. Commissioner (G.R. No. 257697)
+2025-11-23 05:13:01,725 - INFO - ================================================================================
+2025-11-23 05:13:01,725 - INFO - Trying source: sc_elibrary
+2025-11-23 05:13:01,725 - INFO - Searching SC E-Library for G.R. No. 257697
+2025-11-23 05:13:01,730 - WARNING -   ✗ Not found on SC E-Library
+2025-11-23 05:13:02,730 - INFO - Trying source: chanrobles
+2025-11-23 05:13:02,730 - INFO - Searching ChanRobles for G.R. No. 257697
+2025-11-23 05:13:02,735 - WARNING -   ✗ Not found on ChanRobles
+2025-11-23 05:13:03,736 - INFO - Trying source: lawphil
+2025-11-23 05:13:03,736 - INFO - Searching lawphil.net for G.R. No. 257697
+2025-11-23 05:13:06,895 - WARNING -   ✗ Not found on lawphil.net
+2025-11-23 05:13:10,895 - INFO - 
+Progress: 6/8
+2025-11-23 05:13:10,895 - INFO - 
+================================================================================
+2025-11-23 05:13:10,895 - INFO - Scraping: Otamias v. Republic (G.R. No. 189516)
+2025-11-23 05:13:10,895 - INFO - ================================================================================
+2025-11-23 05:13:10,895 - INFO - Trying source: sc_elibrary
+2025-11-23 05:13:10,896 - INFO - Searching SC E-Library for G.R. No. 189516
+2025-11-23 05:13:10,900 - WARNING -   ✗ Not found on SC E-Library
+2025-11-23 05:13:11,900 - INFO - Trying source: chanrobles
+2025-11-23 05:13:11,900 - INFO - Searching ChanRobles for G.R. No. 189516
+2025-11-23 05:13:11,906 - WARNING -   ✗ Not found on ChanRobles
+2025-11-23 05:13:12,906 - INFO - Trying source: lawphil
+2025-11-23 05:13:12,906 - INFO - Searching lawphil.net for G.R. No. 189516
+2025-11-23 05:13:16,069 - WARNING -   ✗ Not found on lawphil.net
+2025-11-23 05:13:20,069 - INFO - 
+Progress: 7/8
+2025-11-23 05:13:20,070 - INFO - 
+================================================================================
+2025-11-23 05:13:20,070 - INFO - Scraping: Sanico v. Colipano (G.R. No. 209969)
+2025-11-23 05:13:20,070 - INFO - ================================================================================
+2025-11-23 05:13:20,070 - INFO - Trying source: sc_elibrary
+2025-11-23 05:13:20,070 - INFO - Searching SC E-Library for G.R. No. 209969
+2025-11-23 05:13:20,074 - WARNING -   ✗ Not found on SC E-Library
+2025-11-23 05:13:21,075 - INFO - Trying source: chanrobles
+2025-11-23 05:13:21,075 - INFO - Searching ChanRobles for G.R. No. 209969
+2025-11-23 05:13:21,081 - WARNING -   ✗ Not found on ChanRobles
+2025-11-23 05:13:22,081 - INFO - Trying source: lawphil
+2025-11-23 05:13:22,081 - INFO - Searching lawphil.net for G.R. No. 209969
+2025-11-23 05:13:25,172 - WARNING -   ✗ Not found on lawphil.net
+2025-11-23 05:13:29,172 - INFO - 
+Progress: 8/8
+2025-11-23 05:13:29,172 - INFO - 
+================================================================================
+2025-11-23 05:13:29,172 - INFO - Scraping: Film Devt. Council v. Colon (G.R. No. 203754)
+2025-11-23 05:13:29,172 - INFO - ================================================================================
+2025-11-23 05:13:29,172 - INFO - Trying source: sc_elibrary
+2025-11-23 05:13:29,173 - INFO - Searching SC E-Library for G.R. No. 203754
+2025-11-23 05:13:29,177 - WARNING -   ✗ Not found on SC E-Library
+2025-11-23 05:13:30,177 - INFO - Trying source: chanrobles
+2025-11-23 05:13:30,177 - INFO - Searching ChanRobles for G.R. No. 203754
+2025-11-23 05:13:30,184 - WARNING -   ✗ Not found on ChanRobles
+2025-11-23 05:13:31,184 - INFO - Trying source: lawphil
+2025-11-23 05:13:31,184 - INFO - Searching lawphil.net for G.R. No. 203754
+2025-11-23 05:13:34,333 - WARNING -   ✗ Not found on lawphil.net
+2025-11-23 05:13:35,333 - INFO - 
+Scraping complete: 0/8 successful
+2025-11-23 05:13:35,334 - INFO - 
+================================================================================
+2025-11-23 05:13:35,334 - INFO - SCRAPING SUMMARY
+2025-11-23 05:13:35,334 - INFO - ================================================================================
+2025-11-23 05:13:35,334 - INFO - Total cases attempted: 8
+2025-11-23 05:13:35,334 - INFO - Successful scrapes: 0
+2025-11-23 05:13:35,334 - INFO - Failed scrapes: 8
+2025-11-23 05:13:35,334 - INFO - Sources tried: {'sc_elibrary': 8, 'chanrobles': 8, 'lawphil': 8}
+2025-11-23 05:13:35,334 - INFO - Report saved to: SCRAPING_REPORT_ENHANCED.json
+2025-11-23 05:13:35,334 - INFO - ================================================================================
+2025-11-23 05:13:35,334 - WARNING - 
+Failed cases:
+2025-11-23 05:13:35,334 - WARNING -   - G.R. 231896: Not found on any source (SC E-Library, ChanRobles, Lawphil)
+2025-11-23 05:13:35,334 - WARNING -   - G.R. 165842: Not found on any source (SC E-Library, ChanRobles, Lawphil)
+2025-11-23 05:13:35,334 - WARNING -   - G.R. 213198: Not found on any source (SC E-Library, ChanRobles, Lawphil)
+2025-11-23 05:13:35,334 - WARNING -   - G.R. 164815: Not found on any source (SC E-Library, ChanRobles, Lawphil)
+2025-11-23 05:13:35,334 - WARNING -   - G.R. 257697: Not found on any source (SC E-Library, ChanRobles, Lawphil)
+2025-11-23 05:13:35,334 - WARNING -   - G.R. 189516: Not found on any source (SC E-Library, ChanRobles, Lawphil)
+2025-11-23 05:13:35,334 - WARNING -   - G.R. 209969: Not found on any source (SC E-Library, ChanRobles, Lawphil)
+2025-11-23 05:13:35,334 - WARNING -   - G.R. 203754: Not found on any source (SC E-Library, ChanRobles, Lawphil)

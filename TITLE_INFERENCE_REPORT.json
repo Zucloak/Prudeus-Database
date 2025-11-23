@@ -1,0 +1,10 @@
+{
+  "processing_date": "2025-11-23T04:50:43.548693",
+  "total_fixed": 0,
+  "low_confidence_skipped": 73,
+  "failed": 64,
+  "fixed_cases": [],
+  "summary": {
+    "success_rate": "0.0%"
+  }
+}
