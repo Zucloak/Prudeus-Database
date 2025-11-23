@@ -178,13 +178,32 @@ def search_for_case_via_duckduckgo(case_info: Dict) -> List[str]:
         logger.info(f"  No search results, constructing direct URLs...")
         
         year_prefix = gr_number[:2] if len(gr_number) >= 2 else gr_number
+        month = case_info.get('month', '')
+        
+        # Month name mapping for URL patterns
+        month_names = {
+            'january': 'jan', 'february': 'feb', 'march': 'mar', 'april': 'apr',
+            'may': 'may', 'june': 'jun', 'july': 'jul', 'august': 'aug',
+            'september': 'sep', 'october': 'oct', 'november': 'nov', 'december': 'dec'
+        }
+        month_abbr = month_names.get(month.lower(), month[:3].lower()) if month else ''
         
         # E-Library patterns
         direct_urls = [
             # E-Library
             f"https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/{gr_number}",
             f"https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/{gr_number.lstrip('0')}",
-            # Lawphil patterns
+        ]
+        
+        # NEW PATTERN FOUND - judjuris directory with year and month (priority for recent cases)
+        if month_abbr:
+            direct_urls.extend([
+                f"https://lawphil.net/judjuris/juri{year}/{month_abbr}{year}/gr_{gr_number}_{year}.html",
+                f"https://www.lawphil.net/judjuris/juri{year}/{month_abbr}{year}/gr_{gr_number}_{year}.html",
+            ])
+        
+        # Standard Lawphil patterns
+        direct_urls.extend([
             f"https://lawphil.net/juris/juri{year_prefix}/juris_{gr_number}.html",
             f"https://lawphil.net/juris/juri{year_prefix}/gr_{gr_number}.html",
             f"https://www.lawphil.net/juris/juri{year_prefix}/gr_{gr_number}.html",
@@ -193,7 +212,7 @@ def search_for_case_via_duckduckgo(case_info: Dict) -> List[str]:
             f"https://www.chanrobles.com/scdecisions/jurisprudence{year[:2]}.php?gr={gr_number}",
             # Alternative lawphil patterns
             f"https://lawphil.net/juris/supreme/supdec/cases{year}/gr_{gr_number}.html",
-        ]
+        ])
         
         for url in direct_urls:
             if url not in seen_urls:

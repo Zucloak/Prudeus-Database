@@ -137,7 +137,7 @@ def try_elibrary_judiciary(gr_number: str, title: str) -> Optional[Tuple[str, st
     return None
 
 
-def try_lawphil(gr_number: str, title: str) -> Optional[Tuple[str, str]]:
+def try_lawphil(gr_number: str, title: str, year: int = None, month: str = None) -> Optional[Tuple[str, str]]:
     """
     Try to fetch case from lawphil.net.
     Returns (content, source_url) if found, None otherwise.
@@ -145,16 +145,33 @@ def try_lawphil(gr_number: str, title: str) -> Optional[Tuple[str, str]]:
     logger.info(f"  Trying lawphil.net for G.R. No. {gr_number}")
     
     # Try different URL patterns for lawphil
-    # lawphil uses patterns like juri16 for 16xxxx GR numbers
     year_prefix = gr_number[:2] if len(gr_number) >= 2 else gr_number
     
-    search_patterns = [
-        # Standard patterns
+    search_patterns = []
+    
+    # NEW PATTERN FOUND - judjuris directory with year and month (most likely for recent cases)
+    if year and month:
+        year_str = str(year)
+        month_names = {
+            'january': 'jan', 'february': 'feb', 'march': 'mar', 'april': 'apr',
+            'may': 'may', 'june': 'jun', 'july': 'jul', 'august': 'aug',
+            'september': 'sep', 'october': 'oct', 'november': 'nov', 'december': 'dec'
+        }
+        month_abbr = month_names.get(month.lower(), month[:3].lower())
+        
+        # Priority patterns - try these first
+        search_patterns.extend([
+            f"https://lawphil.net/judjuris/juri{year_str}/{month_abbr}{year_str}/gr_{gr_number}_{year_str}.html",
+            f"https://www.lawphil.net/judjuris/juri{year_str}/{month_abbr}{year_str}/gr_{gr_number}_{year_str}.html",
+        ])
+    
+    # Standard patterns
+    search_patterns.extend([
         f"https://lawphil.net/juris/juri{year_prefix}/juris_{gr_number}.html",
         f"https://lawphil.net/juris/juri{year_prefix}/gr_{gr_number}.html",
         f"https://www.lawphil.net/juris/juri{year_prefix}/gr_{gr_number}.html",
         f"https://www.lawphil.net/juris/juri{year_prefix}/juris_{gr_number}.html",
-    ]
+    ])
     
     # Alternative patterns - only add if gr_number is long enough
     if len(gr_number) >= 4:
@@ -386,13 +403,13 @@ def scrape_case(case_info: Dict, db_path: Path) -> bool:
     
     # Try sources in priority order
     sources = [
-        try_elibrary_judiciary,
-        try_lawphil,
+        (try_elibrary_judiciary, [case_info['gr_number'], case_info['title']]),
+        (try_lawphil, [case_info['gr_number'], case_info['title'], case_info['year'], case_info['month']]),
     ]
     
-    for source_func in sources:
+    for source_func, args in sources:
         try:
-            result = source_func(case_info['gr_number'], case_info['title'])
+            result = source_func(*args)
             if result:
                 html_content, source_url = result
                 
