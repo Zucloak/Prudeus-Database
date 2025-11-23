@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/runner/work/Prudeus-Database/Prudeus-Database/fix_untitled_cases.py", line 18, in <module>
+    class TitleInferencer:
+  File "/home/runner/work/Prudeus-Database/Prudeus-Database/fix_untitled_cases.py", line 195, in TitleInferencer
+    def generate_report(self) -> Dict:
+                                 ^^^^
+NameError: name 'Dict' is not defined. Did you mean: 'dict'?
