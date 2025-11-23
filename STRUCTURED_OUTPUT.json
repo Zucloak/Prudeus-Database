@@ -15,10 +15,21 @@
     "found_requested_cases": 1,
     "found_with_errors": 0,
     "total_requested_cases": 9,
-    "target_years": [2005, 2008, 2016, 2017, 2019, 2023, 2024],
+    "target_years": [
+      2005,
+      2008,
+      2016,
+      2017,
+      2019,
+      2023,
+      2024
+    ],
     "coverage_extremely_sparse": true,
     "batch_commit_infrastructure": "operational",
-    "scraping_tools_status": "ready_not_executed"
+    "scraping_tools_status": "executed_unsuccessful",
+    "scraping_attempted": true,
+    "scraping_date": "2025-11-23T05:03:32Z",
+    "scraping_success_rate": "0% (0/8)"
   },
   "priority_cases_status": [
     {
@@ -36,7 +47,9 @@
       "year": 2019,
       "status": "MISSING",
       "file_path": null,
-      "issues": ["Not in database"],
+      "issues": [
+        "Not in database"
+      ],
       "scraping_ready": true
     },
     {
@@ -45,7 +58,9 @@
       "year": 2005,
       "status": "MISSING",
       "file_path": null,
-      "issues": ["Not in database"],
+      "issues": [
+        "Not in database"
+      ],
       "scraping_ready": true
     },
     {
@@ -54,7 +69,9 @@
       "year": 2019,
       "status": "MISSING",
       "file_path": null,
-      "issues": ["Not in database"],
+      "issues": [
+        "Not in database"
+      ],
       "scraping_ready": true
     },
     {
@@ -63,7 +80,9 @@
       "year": 2008,
       "status": "MISSING",
       "file_path": null,
-      "issues": ["Not in database"],
+      "issues": [
+        "Not in database"
+      ],
       "scraping_ready": true
     },
     {
@@ -72,7 +91,9 @@
       "year": 2023,
       "status": "MISSING",
       "file_path": null,
-      "issues": ["Not in database"],
+      "issues": [
+        "Not in database"
+      ],
       "scraping_ready": true
     },
     {
@@ -81,7 +102,9 @@
       "year": 2016,
       "status": "MISSING",
       "file_path": null,
-      "issues": ["Not in database"],
+      "issues": [
+        "Not in database"
+      ],
       "scraping_ready": true
     },
     {
@@ -90,7 +113,9 @@
       "year": 2017,
       "status": "MISSING",
       "file_path": null,
-      "issues": ["Not in database"],
+      "issues": [
+        "Not in database"
+      ],
       "scraping_ready": true
     },
     {
@@ -99,7 +124,9 @@
       "year": 2019,
       "status": "MISSING",
       "file_path": null,
-      "issues": ["Not in database"],
+      "issues": [
+        "Not in database"
+      ],
       "scraping_ready": true
     }
   ],
@@ -249,13 +276,25 @@
   "recommended_actions": [
     {
       "priority": "HIGH",
+      "action": "Manual retrieval from Supreme Court E-Library",
+      "details": "All 8 priority cases unavailable on lawphil.net. Access official SC E-Library at https://elibrary.judiciary.gov.ph/ and manually retrieve cases.",
+      "estimated_duration": "2-3 hours for 8 cases",
+      "status": "recommended",
+      "blocking": false,
+      "impact": "Completes user request for specific missing cases"
+    },
+    {
+      "priority": "HIGH",
       "action": "Execute scraping for 8 missing priority cases",
       "details": "Run scrape_and_process_cases.py to retrieve missing cases from lawphil.net",
       "command": "python3 scrape_and_process_cases.py RESTRUCTURED_DB 250",
       "estimated_duration": "20-30 minutes",
-      "status": "ready_not_executed",
+      "status": "executed_unsuccessful",
       "blocking": false,
-      "impact": "Completes user request for specific cases"
+      "impact": "Completes user request for specific cases",
+      "execution_date": "2025-11-23T05:03:32Z",
+      "result": "0 of 8 cases found",
+      "next_step": "Manual retrieval from SC E-Library"
     },
     {
       "priority": "HIGH",
@@ -456,5 +495,16 @@
     "Scraping was not executed to avoid long-running network operations. Tools are ready for user to execute.",
     "Batch commit system was tested and successfully used for the 31 title updates.",
     "All tools include comprehensive error handling and logging."
-  ]
+  ],
+  "scraping_execution": {
+    "execution_date": "2025-11-23T05:03:32Z",
+    "total_cases_attempted": 8,
+    "successful_scrapes": 0,
+    "failed_scrapes": 8,
+    "duration_seconds": 44,
+    "source": "lawphil.net",
+    "result": "All cases not found on lawphil.net",
+    "reason": "Lawphil.net has incomplete coverage for 2005-2024 period",
+    "alternative_solution": "Manual retrieval from Supreme Court E-Library recommended"
+  }
 }
