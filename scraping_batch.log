@@ -39,3 +39,731 @@ Overall progress: 5/5 cases
 2025-12-05 18:42:36,405 - INFO - Success rate: 0.0%
 2025-12-05 18:42:36,405 - INFO - Time elapsed: 0.4 minutes
 2025-12-05 18:42:36,405 - INFO - ================================================================================
+2025-12-05 18:55:15,664 - INFO - Loading missing cases list...
+2025-12-05 18:55:15,678 - INFO - ================================================================================
+2025-12-05 18:55:15,678 - INFO - LAWPHIL BATCH SCRAPER
+2025-12-05 18:55:15,678 - INFO - ================================================================================
+2025-12-05 18:55:15,678 - INFO - Database path: RESTRUCTURED_DB
+2025-12-05 18:55:15,678 - INFO - Cases to scrape: 3
+2025-12-05 18:55:15,678 - INFO - Year range: 2005-2005
+2025-12-05 18:55:15,678 - INFO - Batch size: 100
+2025-12-05 18:55:15,678 - INFO - ================================================================================
+2025-12-05 18:55:15,679 - INFO - 
+================================================================================
+2025-12-05 18:55:15,679 - INFO - BATCH 1/1 (3 cases)
+2025-12-05 18:55:15,679 - INFO - ================================================================================
+2025-12-05 18:55:15,679 - INFO - Scraping G.R. No. 200553 (2005): Spouses Gildardo C. Loquellano and Roslina Juliet ...
+2025-12-05 18:55:24,005 - WARNING -   ✗ Not found for G.R. No. 200553
+2025-12-05 18:55:25,005 - INFO - Scraping G.R. No. 155879 (2005): Manila International Airport Authority vs. the Hon...
+2025-12-05 18:55:25,485 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_155879_2005.html
+2025-12-05 18:55:25,487 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/155879.json
+2025-12-05 18:55:26,487 - INFO - Scraping G.R. No. 156894 (2005): Guillermo A. Cruz vs. Hon. Court of Appeals, et al...
+2025-12-05 18:55:26,965 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_156894_2005.html
+2025-12-05 18:55:26,966 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/156894.json
+2025-12-05 18:55:27,967 - INFO - 
+Batch 1 complete:
+2025-12-05 18:55:27,967 - INFO -   Successful: 2
+2025-12-05 18:55:27,967 - INFO -   Failed: 1
+2025-12-05 18:55:27,967 - INFO -   Skipped: 0
+2025-12-05 18:55:27,967 - INFO - 
+Overall progress: 3/3 cases
+2025-12-05 18:55:27,967 - INFO - 
+================================================================================
+2025-12-05 18:55:27,967 - INFO - SCRAPING COMPLETE
+2025-12-05 18:55:27,967 - INFO - ================================================================================
+2025-12-05 18:55:27,967 - INFO - Total cases attempted: 3
+2025-12-05 18:55:27,967 - INFO - Successfully scraped: 2
+2025-12-05 18:55:27,967 - INFO - Failed: 1
+2025-12-05 18:55:27,967 - INFO - Skipped (already exist): 0
+2025-12-05 18:55:27,967 - INFO - Success rate: 66.7%
+2025-12-05 18:55:27,967 - INFO - Time elapsed: 0.2 minutes
+2025-12-05 18:55:27,967 - INFO - ================================================================================
+2025-12-05 18:55:47,697 - INFO - Loading missing cases list...
+2025-12-05 18:55:47,712 - INFO - ================================================================================
+2025-12-05 18:55:47,712 - INFO - LAWPHIL BATCH SCRAPER
+2025-12-05 18:55:47,712 - INFO - ================================================================================
+2025-12-05 18:55:47,712 - INFO - Database path: RESTRUCTURED_DB
+2025-12-05 18:55:47,712 - INFO - Cases to scrape: 20
+2025-12-05 18:55:47,712 - INFO - Year range: 2005-2005
+2025-12-05 18:55:47,712 - INFO - Batch size: 100
+2025-12-05 18:55:47,712 - INFO - ================================================================================
+2025-12-05 18:55:47,712 - INFO - 
+================================================================================
+2025-12-05 18:55:47,712 - INFO - BATCH 1/1 (20 cases)
+2025-12-05 18:55:47,712 - INFO - ================================================================================
+2025-12-05 18:55:47,712 - INFO - Scraping G.R. No. 200553 (2005): Spouses Gildardo C. Loquellano and Roslina Juliet ...
+2025-12-05 18:55:56,007 - WARNING -   ✗ Not found for G.R. No. 200553
+2025-12-05 18:55:56,808 - INFO - Scraping G.R. No. 157985 (2005): Zenaida Bugarin, et al. vs. Cecilia B. Palisoc, et...
+2025-12-05 18:55:57,285 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_157985_2005.html
+2025-12-05 18:55:57,287 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/157985.json
+2025-12-05 18:55:58,087 - INFO - Scraping G.R. No. 162277 (2005): Corazon Suyat, et al. vs. Hon. Annie Gonzales-Teso...
+2025-12-05 18:55:58,567 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_162277_2005.html
+2025-12-05 18:55:58,569 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/162277.json
+2025-12-05 18:55:59,369 - INFO - Scraping G.R. No. 129130 (2005): Far East Bank and Trust Company vs. Court of Appea...
+2025-12-05 18:55:59,847 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_129130_2005.html
+2025-12-05 18:55:59,849 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/129130.json
+2025-12-05 18:56:00,649 - INFO - Scraping G.R. No. 129807 (2005): Davao Light and Power Co., Inc., vs. Cristina Opeñ...
+2025-12-05 18:56:01,351 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_129807_2005.html
+2025-12-05 18:56:01,354 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/129807.json
+2025-12-05 18:56:02,154 - INFO - Scraping G.R. No. 132196 (2005): Spouses Segundo Ramos and Felisa Valdez vs. Hon. C...
+2025-12-05 18:56:02,631 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_132196_2005.html
+2025-12-05 18:56:02,633 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/132196.json
+2025-12-05 18:56:03,434 - INFO - Scraping G.R. No. 133154 (2005): Jowel Sales vs. Cyril A. Sabino....
+2025-12-05 18:56:03,913 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_133154_2005.html
+2025-12-05 18:56:03,914 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/133154.json
+2025-12-05 18:56:04,714 - INFO - Scraping G.R. No. 137337 (2005): Juan Padin, et al. vs. Heirs of Vivencio Obias, et...
+2025-12-05 18:56:05,191 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_137337_2005.html
+2025-12-05 18:56:05,192 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/137337.json
+2025-12-05 18:56:05,993 - INFO - Scraping G.R. No. 138348 (2005): Municipality of Butig, Lanao del Sur vs. Court of ...
+2025-12-05 18:56:06,694 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_138348_2005.html
+2025-12-05 18:56:06,696 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/138348.json
+2025-12-05 18:56:07,496 - INFO - Scraping G.R. No. 140305 (2005): Platon and Librada Ceruila vs. Rosilyn Delantar, e...
+2025-12-05 18:56:07,974 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_140305_2005.html
+2025-12-05 18:56:07,976 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/140305.json
+2025-12-05 18:56:08,776 - INFO - Scraping G.R. No. 141269 (2005): Bergesen D.Y. Philippines, Inc., et al. vs. Rizali...
+2025-12-05 18:56:09,254 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_141269_2005.html
+2025-12-05 18:56:09,255 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/141269.json
+2025-12-05 18:56:10,055 - INFO - Scraping G.R. No. 145379 (2005): Damiana Into vs. Mario Valle, et al....
+2025-12-05 18:56:10,533 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_145379_2005.html
+2025-12-05 18:56:10,535 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/145379.json
+2025-12-05 18:56:11,335 - INFO - Scraping G.R. No. 145470 (2005): Sps. Luis V. Cruz and Aida Cruz vs. Sps. Alejandro...
+2025-12-05 18:56:11,812 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_145470_2005.html
+2025-12-05 18:56:11,814 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/145470.json
+2025-12-05 18:56:12,614 - INFO - Scraping G.R. No. 147081 (2005): Planters Development Bank vs. Francisco Garcia....
+2025-12-05 18:56:13,316 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_147081_2005.html
+2025-12-05 18:56:13,318 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/147081.json
+2025-12-05 18:56:14,118 - INFO - Scraping G.R. No. 148380 (2005): Oceanic Wireless Network, Inc. vs. Commissioner In...
+2025-12-05 18:56:14,595 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_148380_2005.html
+2025-12-05 18:56:14,596 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/148380.json
+2025-12-05 18:56:15,397 - INFO - Scraping G.R. No. 152777 (2005): Lolita R. Lacuesta vs. Ateneo De Manila University...
+2025-12-05 18:56:15,874 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_152777_2005.html
+2025-12-05 18:56:15,875 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/152777.json
+2025-12-05 18:56:16,675 - INFO - Scraping G.R. No. 157701 (2005): Spouses Danilo and Alberta Domingo, et al. vs. Gui...
+2025-12-05 18:56:17,377 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_157701_2005.html
+2025-12-05 18:56:17,379 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/157701.json
+2025-12-05 18:56:18,179 - INFO - Scraping G.R. No. 158635 (2005): Magna Financial Services Group, Inc. vs. Elias Col...
+2025-12-05 18:56:18,656 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_158635_2005.html
+2025-12-05 18:56:18,657 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/158635.json
+2025-12-05 18:56:19,458 - INFO - 
+Batch 1 complete:
+2025-12-05 18:56:19,458 - INFO -   Successful: 17
+2025-12-05 18:56:19,458 - INFO -   Failed: 1
+2025-12-05 18:56:19,458 - INFO -   Skipped: 2
+2025-12-05 18:56:19,458 - INFO - 
+Overall progress: 20/20 cases
+2025-12-05 18:56:19,458 - INFO - 
+================================================================================
+2025-12-05 18:56:19,458 - INFO - SCRAPING COMPLETE
+2025-12-05 18:56:19,458 - INFO - ================================================================================
+2025-12-05 18:56:19,458 - INFO - Total cases attempted: 20
+2025-12-05 18:56:19,458 - INFO - Successfully scraped: 17
+2025-12-05 18:56:19,458 - INFO - Failed: 1
+2025-12-05 18:56:19,458 - INFO - Skipped (already exist): 2
+2025-12-05 18:56:19,458 - INFO - Success rate: 94.4%
+2025-12-05 18:56:19,459 - INFO - Time elapsed: 0.5 minutes
+2025-12-05 18:56:19,459 - INFO - ================================================================================
+2025-12-05 18:56:32,368 - INFO - Loading missing cases list...
+2025-12-05 18:56:32,384 - INFO - ================================================================================
+2025-12-05 18:56:32,384 - INFO - LAWPHIL BATCH SCRAPER
+2025-12-05 18:56:32,384 - INFO - ================================================================================
+2025-12-05 18:56:32,385 - INFO - Database path: RESTRUCTURED_DB
+2025-12-05 18:56:32,385 - INFO - Cases to scrape: 1009
+2025-12-05 18:56:32,385 - INFO - Year range: 2005-2005
+2025-12-05 18:56:32,385 - INFO - Batch size: 100
+2025-12-05 18:56:32,385 - INFO - ================================================================================
+2025-12-05 18:56:32,385 - INFO - 
+================================================================================
+2025-12-05 18:56:32,385 - INFO - BATCH 1/11 (100 cases)
+2025-12-05 18:56:32,385 - INFO - ================================================================================
+2025-12-05 18:56:32,385 - INFO - Scraping G.R. No. 200553 (2005): Spouses Gildardo C. Loquellano and Roslina Juliet ...
+2025-12-05 18:56:40,701 - WARNING -   ✗ Not found for G.R. No. 200553
+2025-12-05 18:56:41,202 - INFO - Scraping G.R. No. 159467 (2005): Spouses Nora Saguid and Rolando P. Saguid vs. Secu...
+2025-12-05 18:56:41,927 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_159467_2005.html
+2025-12-05 18:56:41,929 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/159467.json
+2025-12-05 18:56:42,429 - INFO - Scraping G.R. No. 159614 (2005): Republic of the Philippines vs. the Honorable Cour...
+2025-12-05 18:56:42,687 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_159614_2005.html
+2025-12-05 18:56:42,688 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/159614.json
+2025-12-05 18:56:43,189 - INFO - Scraping G.R. No. 161640 (2005): Samson B. Bedruz, et al. vs. the Honorable Sandiga...
+2025-12-05 18:56:43,675 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_161640_2005.html
+2025-12-05 18:56:43,677 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/161640.json
+2025-12-05 18:56:44,177 - INFO - Scraping G.R. No. 163569 (2005): Philippine Radiant Products, Inc., et al. vs. Metr...
+2025-12-05 18:56:44,664 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_163569_2005.html
+2025-12-05 18:56:44,667 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/163569.json
+2025-12-05 18:56:45,167 - INFO - Scraping G.R. No. 162335 (2005): Severino M. Manotok IV, et al. vs. Heirs of Homer ...
+2025-12-05 18:56:45,656 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_162335_2005.html
+2025-12-05 18:56:45,660 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/162335.json
+2025-12-05 18:56:46,161 - INFO - Scraping G.R. No. 123807 (2005): Pacific Mills Inc., et al. vs. the Hon. Court of A...
+2025-12-05 18:56:46,419 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_123807_2005.html
+2025-12-05 18:56:46,421 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/123807.json
+2025-12-05 18:56:46,921 - INFO - Scraping G.R. No. 128213 (2005): Avella Garcia vs. the Honorable Court of Appeals, ...
+2025-12-05 18:56:47,179 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_128213_2005.html
+2025-12-05 18:56:47,180 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/128213.json
+2025-12-05 18:56:47,681 - INFO - Scraping G.R. No. 129546 (2005): Province of Rizal, et al. vs. Executive Secretary,...
+2025-12-05 18:56:48,397 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_129546_2005.html
+2025-12-05 18:56:48,400 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/129546.json
+2025-12-05 18:56:48,900 - INFO - Scraping G.R. No. 140984 (2005): Emiliano D. Joven vs. Federico S. Calilung, et al....
+2025-12-05 18:56:49,158 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_140984_2005.html
+2025-12-05 18:56:49,160 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/140984.json
+2025-12-05 18:56:49,660 - INFO - Scraping G.R. No. 143372 (2005): Philippine Journalists Inc. (Peoples Journal), et...
+2025-12-05 18:56:50,146 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_143372_2005.html
+2025-12-05 18:56:50,148 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/143372.json
+2025-12-05 18:56:50,649 - INFO - Scraping G.R. No. 144895 (2005): Rustico C. Nazi vs. Gov. Antonio P. Calingin....
+2025-12-05 18:56:50,907 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_144895_2005.html
+2025-12-05 18:56:50,908 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/144895.json
+2025-12-05 18:56:51,408 - INFO - Scraping G.R. No. 146581 (2005): Land bank of the Philippines, et al. vs. the Honor...
+2025-12-05 18:56:51,667 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_146581_2005.html
+2025-12-05 18:56:51,667 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/146581.json
+2025-12-05 18:56:52,168 - INFO - Scraping G.R. No. 146708 (2005): Joel B. Bortikey vs. AFP Retirement and Separation...
+2025-12-05 18:56:52,426 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_146708_2005.html
+2025-12-05 18:56:52,427 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/146708.json
+2025-12-05 18:56:52,927 - INFO - Scraping G.R. No. 147623 (2005): Stolt-Nielsen Marine Services, Inc. (Now Stolt-Nie...
+2025-12-05 18:56:54,558 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_147623_2005.html
+2025-12-05 18:56:54,559 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/147623.json
+2025-12-05 18:56:55,060 - INFO - Scraping G.R. No. 147738 (2005): Phil-Ville Development and Housing Corporation, et...
+2025-12-05 18:56:55,317 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_147738_2005.html
+2025-12-05 18:56:55,318 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/147738.json
+2025-12-05 18:56:55,819 - INFO - Scraping G.R. No. 157605 (2005): Sps. Enriqueta Rasdas and Tomas Rasdas, et al. vs....
+2025-12-05 18:56:56,306 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_157605_2005.html
+2025-12-05 18:56:56,307 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/157605.json
+2025-12-05 18:56:56,808 - INFO - Scraping G.R. No. 158585 (2005): Amon Trading Corporation, et al. vs. Hon. Court of...
+2025-12-05 18:56:57,294 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_158585_2005.html
+2025-12-05 18:56:57,295 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/158585.json
+2025-12-05 18:56:57,796 - INFO - Scraping G.R. No. 159606 (2005): Marilyn Bunao vs. Social Security System, et al....
+2025-12-05 18:56:58,282 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_159606_2005.html
+2025-12-05 18:56:58,283 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/159606.json
+2025-12-05 18:56:58,784 - INFO - Scraping G.R. No. 166299 (2005): Aurelio K. Litonjua Jr., vs. Eduardo K. Litonjua, ...
+2025-12-05 18:57:06,600 - WARNING -   ✗ Not found for G.R. No. 166299
+2025-12-05 18:57:07,101 - INFO - Scraping G.R. No. 167385 (2005): Jesus B. Lopez vs. National Labor Relations Commis...
+2025-12-05 18:57:07,587 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_167385_2005.html
+2025-12-05 18:57:07,588 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/167385.json
+2025-12-05 18:57:08,089 - INFO - Scraping G.R. No. 168194 (2005): San Miguel Corporation vs. Caroline C. del Rosario...
+2025-12-05 18:57:08,575 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_168194_2005.html
+2025-12-05 18:57:08,577 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/168194.json
+2025-12-05 18:57:09,077 - INFO - Scraping G.R. No. 123672 (2005): Fernando Carrascoso Jr. vs. the Honorable Court of...
+2025-12-05 18:57:10,021 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_123672_2005.html
+2025-12-05 18:57:10,025 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/123672.json
+2025-12-05 18:57:10,525 - INFO - Scraping G.R. No. 127967 (2005): Federated Realty Corporation vs. Hon. Court of App...
+2025-12-05 18:57:11,012 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_127967_2005.html
+2025-12-05 18:57:11,014 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/127967.json
+2025-12-05 18:57:11,515 - INFO - Scraping G.R. No. 143217 (2005): Amando S. San Juan, et al. vs. Miguel L. Arambulo,...
+2025-12-05 18:57:12,001 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_143217_2005.html
+2025-12-05 18:57:12,002 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/143217.json
+2025-12-05 18:57:12,502 - INFO - Scraping G.R. No. 146367 (2005): Silverio Picar vs. Shangri-La Hotel....
+2025-12-05 18:57:12,989 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_146367_2005.html
+2025-12-05 18:57:12,990 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/146367.json
+2025-12-05 18:57:13,490 - INFO - Scraping G.R. No. 146635 (2005): Marcelo Macalinao, et al. vs. Eddie Medecielo Ong,...
+2025-12-05 18:57:14,206 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_146635_2005.html
+2025-12-05 18:57:14,208 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/146635.json
+2025-12-05 18:57:14,708 - INFO - Scraping G.R. No. 156637 (2005): Philam Asset Management Inc. vs. Commissioner of I...
+2025-12-05 18:57:15,423 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_156637_2005.html
+2025-12-05 18:57:15,425 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/156637.json
+2025-12-05 18:57:15,925 - INFO - Scraping G.R. No. 159750 (2005): Jehan Shipping Corporation vs. National Food Autho...
+2025-12-05 18:57:16,412 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_159750_2005.html
+2025-12-05 18:57:16,413 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/159750.json
+2025-12-05 18:57:16,914 - INFO - Scraping G.R. No. 165811 (2005): DAP Corporation, et al. vs. Court of Appeals, et a...
+2025-12-05 18:57:17,400 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_165811_2005.html
+2025-12-05 18:57:17,401 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/165811.json
+2025-12-05 18:57:17,902 - INFO - Scraping G.R. No. 167136 (2005): Durban Apartments Corporation, et al. vs. Miguel G...
+2025-12-05 18:57:18,388 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_167136_2005.html
+2025-12-05 18:57:18,389 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/167136.json
+2025-12-05 18:57:18,890 - INFO - Scraping G.R. No. 131547 (2005): Nicasio I. Alcantara, et al. vs. Vicente C. Ponce,...
+2025-12-05 18:57:19,844 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_131547_2005.html
+2025-12-05 18:57:19,847 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/131547.json
+2025-12-05 18:57:20,347 - INFO - Scraping G.R. No. 140230 (2005): Commissioner of Internal Revenue vs. Philippine Lo...
+2025-12-05 18:57:20,833 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_140230_2005.html
+2025-12-05 18:57:20,835 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/140230.json
+2025-12-05 18:57:21,335 - INFO - Scraping G.R. No. 141462 (2005): Danzas Corporation, et al. vs. Hon. Zeus C. Abroga...
+2025-12-05 18:57:21,595 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_141462_2005.html
+2025-12-05 18:57:21,596 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/141462.json
+2025-12-05 18:57:22,096 - INFO - Scraping G.R. No. 142541 (2005): Cathay Pacific Airways vs. Spouses Arnulfo and Eve...
+2025-12-05 18:57:22,354 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_142541_2005.html
+2025-12-05 18:57:22,355 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/142541.json
+2025-12-05 18:57:22,855 - INFO - Scraping G.R. No. 145901 (2005): Easycall Communications Phils., Inc., vs. Edward K...
+2025-12-05 18:57:23,342 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_145901_2005.html
+2025-12-05 18:57:23,343 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/145901.json
+2025-12-05 18:57:23,843 - INFO - Scraping G.R. No. 148420 (2005): Andrea Tan, et al. vs. Bausch & Lomb, Inc....
+2025-12-05 18:57:24,329 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_148420_2005.html
+2025-12-05 18:57:24,331 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/148420.json
+2025-12-05 18:57:24,831 - INFO - Scraping G.R. No. 150668 (2005): Fortuny Garments, et al. vs. Elena J. Castro....
+2025-12-05 18:57:25,318 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_150668_2005.html
+2025-12-05 18:57:25,319 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/150668.json
+2025-12-05 18:57:25,819 - INFO - Scraping G.R. No. 157029 (2005): Jimmy Kent Rambuyon, et al. vs. Fiesta Brands, Inc...
+2025-12-05 18:57:26,305 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_157029_2005.html
+2025-12-05 18:57:26,307 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/157029.json
+2025-12-05 18:57:26,807 - INFO - Scraping G.R. No. 167762 (2005): Batangas State University vs. Nestor Bonifacio....
+2025-12-05 18:57:27,295 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_167762_2005.html
+2025-12-05 18:57:27,297 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/167762.json
+2025-12-05 18:57:27,797 - INFO - Scraping G.R. No. 141277 (2005): Reynaldo Dela Cruz, et al. vs. Golar Maritime Serv...
+2025-12-05 18:57:28,283 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_141277_2005.html
+2025-12-05 18:57:28,285 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/141277.json
+2025-12-05 18:57:28,785 - INFO - Scraping G.R. No. 141613 (2005): Senen B. Aguilar vs. Virgilio B. Aguilar, et al....
+2025-12-05 18:57:29,043 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_141613_2005.html
+2025-12-05 18:57:29,044 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/141613.json
+2025-12-05 18:57:29,545 - INFO - Scraping G.R. No. 144652 (2005): Arcadio B. Dandoy, et al. vs. Zacarias Tongson, et...
+2025-12-05 18:57:30,031 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_144652_2005.html
+2025-12-05 18:57:30,032 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/144652.json
+2025-12-05 18:57:30,533 - INFO - Scraping G.R. No. 153166 (2005): Teresita L. Vertudes vs. Julie Buenaflor, et al....
+2025-12-05 18:57:31,249 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_153166_2005.html
+2025-12-05 18:57:31,251 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/153166.json
+2025-12-05 18:57:31,751 - INFO - Scraping G.R. No. 156311 (2005): Central Bank of the Philippines, vs. Aurora P. Cas...
+2025-12-05 18:57:32,237 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_156311_2005.html
+2025-12-05 18:57:32,238 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/156311.json
+2025-12-05 18:57:32,739 - INFO - Scraping G.R. No. 157451 (2005): Leticia Valmonte Ortega vs. Josefina C. Valmonte....
+2025-12-05 18:57:33,226 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_157451_2005.html
+2025-12-05 18:57:33,227 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/157451.json
+2025-12-05 18:57:33,728 - INFO - Scraping G.R. No. 157591 (2005): Antonio Chua Jr., et al. vs. Commissioner Titus Vi...
+2025-12-05 18:57:34,232 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_157591_2005.html
+2025-12-05 18:57:34,234 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/157591.json
+2025-12-05 18:57:34,734 - INFO - Scraping G.R. No. 158195 (2005): James L. King, et al. vs. Court of Appeals, et al....
+2025-12-05 18:57:34,992 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_158195_2005.html
+2025-12-05 18:57:34,993 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/158195.json
+2025-12-05 18:57:35,493 - INFO - Scraping G.R. No. 158904 (2005): Orlando Solis Ungsod vs. People of the Philippines...
+2025-12-05 18:57:35,982 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_158904_2005.html
+2025-12-05 18:57:35,984 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/158904.json
+2025-12-05 18:57:36,484 - INFO - Scraping G.R. No. 159293 (2005): Veterans Security Agency Inc., et al. vs. Felipe G...
+2025-12-05 18:57:36,972 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_159293_2005.html
+2025-12-05 18:57:36,973 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/159293.json
+2025-12-05 18:57:37,474 - INFO - Scraping G.R. No. 159448 (2005): Wah Yuen Restaurant vs. Primo Jayona....
+2025-12-05 18:57:37,959 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_159448_2005.html
+2025-12-05 18:57:37,961 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/159448.json
+2025-12-05 18:57:38,461 - INFO - Scraping G.R. No. 159521 (2005): Francisco L. Gonzales vs. Erminda F. Gonzales....
+2025-12-05 18:57:38,947 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_159521_2005.html
+2025-12-05 18:57:38,948 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/159521.json
+2025-12-05 18:57:39,448 - INFO - Scraping G.R. No. 160214 (2005): Gaudencia Navarro Vda. De Taroma, et al. vs. Sps. ...
+2025-12-05 18:57:39,934 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_160214_2005.html
+2025-12-05 18:57:39,935 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/160214.json
+2025-12-05 18:57:40,436 - INFO - Scraping G.R. No. 160577 (2005): Gregorio Singian, Jr. vs. the Honorable Sandiganba...
+2025-12-05 18:57:48,248 - WARNING -   ✗ Not found for G.R. No. 160577
+2025-12-05 18:57:48,749 - INFO - Scraping G.R. No. 161756 (2005): Victoria J. Ilano, et al. vs. Hon. Dolores L. Espa...
+2025-12-05 18:57:49,236 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_161756_2005.html
+2025-12-05 18:57:49,237 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/161756.json
+2025-12-05 18:57:49,737 - INFO - Scraping G.R. No. 162850 (2005): Maxi Security and Detective Agency, et al. vs. Nat...
+2025-12-05 18:57:50,224 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_162850_2005.html
+2025-12-05 18:57:50,225 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/162850.json
+2025-12-05 18:57:50,726 - INFO - Scraping G.R. No. 163593 (2005): Preferred Home Specialties Inc., et al. vs. Court ...
+2025-12-05 18:57:51,449 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_163593_2005.html
+2025-12-05 18:57:51,452 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/163593.json
+2025-12-05 18:57:51,952 - INFO - Scraping G.R. No. 163994 (2005): Eastworld Motor Industries Corporation, et al. vs....
+2025-12-05 18:57:52,211 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_163994_2005.html
+2025-12-05 18:57:52,212 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/163994.json
+2025-12-05 18:57:52,712 - INFO - Scraping G.R. No. 167631 (2005): Jenette Marie B. Crisologo vs. Globe Telecom Inc.,...
+2025-12-05 18:57:52,970 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_167631_2005.html
+2025-12-05 18:57:52,972 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/167631.json
+2025-12-05 18:57:53,472 - INFO - Scraping G.R. No. 122463 (2005): Rudolf Lietz, Inc., vs. the Court of Appeals, et a...
+2025-12-05 18:57:53,962 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_122463_2005.html
+2025-12-05 18:57:53,963 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/122463.json
+2025-12-05 18:57:54,463 - INFO - Scraping G.R. No. 152335 (2005): Romeo G. Lorenzo vs. the People of the Philippines...
+2025-12-05 18:57:54,963 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_152335_2005.html
+2025-12-05 18:57:54,964 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/152335.json
+2025-12-05 18:57:55,465 - INFO - Scraping G.R. No. 166429 (2005): Republic of the Philippines, et al. vs. Hon. Henri...
+2025-12-05 18:57:56,640 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_166429_2005.html
+2025-12-05 18:57:56,653 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/166429.json
+2025-12-05 18:57:57,153 - INFO - Scraping G.R. No. 166993 (2005): DSM Construction and Development Corporation vs. C...
+2025-12-05 18:57:58,344 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_166993_2005.html
+2025-12-05 18:57:58,346 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/166993.json
+2025-12-05 18:57:58,846 - INFO - Scraping G.R. No. 167025 (2005): Herminio C. Principio vs. the Hon. Oscar Barriento...
+2025-12-05 18:57:59,324 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_167025_2005.html
+2025-12-05 18:57:59,325 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/167025.json
+2025-12-05 18:57:59,826 - INFO - Scraping G.R. No. 161629 (2005): Atty. Ronaldo P. Ledesma vs. Hon. Court of Appeals...
+2025-12-05 18:58:00,079 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_161629_2005.html
+2025-12-05 18:58:00,080 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/161629.json
+2025-12-05 18:58:00,580 - INFO - Scraping G.R. No. 165268 (2005): Challenge Socks Corporation vs. Court of Appeals, ...
+2025-12-05 18:58:01,058 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_165268_2005.html
+2025-12-05 18:58:01,059 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/165268.json
+2025-12-05 18:58:01,559 - INFO - Scraping G.R. No. 167748 (2005): Heirs of Rafael Magpily vs. Herminigildo de Jesus,...
+2025-12-05 18:58:02,037 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_167748_2005.html
+2025-12-05 18:58:02,039 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/167748.json
+2025-12-05 18:58:02,539 - INFO - Scraping G.R. No. 154554 (2005): Goodyear Philippines, Inc. vs. Anthony Sy, et al....
+2025-12-05 18:58:03,022 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_154554_2005.html
+2025-12-05 18:58:03,023 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/154554.json
+2025-12-05 18:58:03,524 - INFO - Scraping G.R. No. 118757 (2005): Roberto Brillante vs. Court of Appeals, et al....
+2025-12-05 18:58:03,778 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_118757_2005.html
+2025-12-05 18:58:03,778 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/118757.json
+2025-12-05 18:58:04,279 - INFO - Scraping G.R. No. 136371 (2005): Prudential Bank vs. Chonney Lim....
+2025-12-05 18:58:04,764 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_136371_2005.html
+2025-12-05 18:58:04,766 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/136371.json
+2025-12-05 18:58:05,266 - INFO - Scraping G.R. No. 139233 (2005): Spouses Alfredo and Brigida Rosario vs. PCI Leasin...
+2025-12-05 18:58:05,745 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_139233_2005.html
+2025-12-05 18:58:05,747 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/139233.json
+2025-12-05 18:58:06,247 - INFO - Scraping G.R. No. 139290 (2005): Trade and Investment Development Corporation of th...
+2025-12-05 18:58:06,949 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_139290_2005.html
+2025-12-05 18:58:06,952 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/139290.json
+2025-12-05 18:58:07,452 - INFO - Scraping G.R. No. 141484 (2005): GCP-Manny Transport Services, Inc. vs. Hon. Abraha...
+2025-12-05 18:58:07,707 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_141484_2005.html
+2025-12-05 18:58:07,708 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/141484.json
+2025-12-05 18:58:08,209 - INFO - Scraping G.R. No. 143647 (2005): Yusuke Fukuzume vs. People of the Philippines....
+2025-12-05 18:58:08,690 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_143647_2005.html
+2025-12-05 18:58:08,692 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/143647.json
+2025-12-05 18:58:09,192 - INFO - Scraping G.R. No. 144244 (2005): Ester Deloso vs. Sps. Alfonso Marapao, et al....
+2025-12-05 18:58:09,447 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_144244_2005.html
+2025-12-05 18:58:09,449 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/144244.json
+2025-12-05 18:58:09,949 - INFO - Scraping G.R. No. 144374 (2005): Romeo Teston, et al. vs. Development Bank of the P...
+2025-12-05 18:58:10,205 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_144374_2005.html
+2025-12-05 18:58:10,206 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/144374.json
+2025-12-05 18:58:10,706 - INFO - Scraping G.R. No. 144619 (2005): C. Planas Commercial, et al. vs. National Labor Re...
+2025-12-05 18:58:11,184 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_144619_2005.html
+2025-12-05 18:58:11,186 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/144619.json
+2025-12-05 18:58:11,686 - INFO - Scraping G.R. No. 155014 (2005): Crescent Petroleum, Ltd. vs. M/V "LoK Maheshwari, ...
+2025-12-05 18:58:12,164 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_155014_2005.html
+2025-12-05 18:58:12,166 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/155014.json
+2025-12-05 18:58:12,666 - INFO - Scraping G.R. No. 156969 (2005): Baron Express, et al. vs. Roberto F. Umanito, et a...
+2025-12-05 18:58:12,920 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_156969_2005.html
+2025-12-05 18:58:12,921 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/156969.json
+2025-12-05 18:58:13,422 - INFO - Scraping G.R. No. 157656 (2005): Arnulfo C. Acevedo vs. Advanstar Company, Inc., et...
+2025-12-05 18:58:13,899 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_157656_2005.html
+2025-12-05 18:58:13,901 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/157656.json
+2025-12-05 18:58:14,401 - INFO - Scraping G.R. No. 158857 (2005): Pfeger R. Dulay, et al. vs. Rodrigo S. Dulay....
+2025-12-05 18:58:14,669 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_158857_2005.html
+2025-12-05 18:58:14,670 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/158857.json
+2025-12-05 18:58:15,171 - INFO - 
+Batch 1 complete:
+2025-12-05 18:58:15,171 - INFO -   Successful: 78
+2025-12-05 18:58:15,171 - INFO -   Failed: 3
+2025-12-05 18:58:15,171 - INFO -   Skipped: 19
+2025-12-05 18:58:15,171 - INFO - 
+Overall progress: 100/1009 cases
+2025-12-05 18:58:15,171 - INFO - 
+================================================================================
+2025-12-05 18:58:15,171 - INFO - BATCH 2/11 (100 cases)
+2025-12-05 18:58:15,171 - INFO - ================================================================================
+2025-12-05 18:58:15,171 - INFO - Scraping G.R. No. 160032 (2005): Estela L. Berba vs. Josephine Pablo, et al....
+2025-12-05 18:58:15,649 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_160032_2005.html
+2025-12-05 18:58:15,650 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/160032.json
+2025-12-05 18:58:16,151 - INFO - Scraping G.R. No. 160145 (2005): Republic of the Philippines vs. Pedro O. Enciso....
+2025-12-05 18:58:16,629 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_160145_2005.html
+2025-12-05 18:58:16,630 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/160145.json
+2025-12-05 18:58:17,130 - INFO - Scraping G.R. No. 160315 (2005): Lourdes D. Rivera vs. Wallem Maritime Services, In...
+2025-12-05 18:58:17,384 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_160315_2005.html
+2025-12-05 18:58:17,386 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/160315.json
+2025-12-05 18:58:17,886 - INFO - Scraping G.R. No. 161973 (2005): Francisco Ramos vs. Stateland Investment Corporati...
+2025-12-05 18:58:18,364 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_161973_2005.html
+2025-12-05 18:58:18,366 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/161973.json
+2025-12-05 18:58:18,866 - INFO - Scraping G.R. No. 162934 (2005): Heirs of Belinda Dahlia A. Castillo, et al. vs. Do...
+2025-12-05 18:58:19,120 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_162934_2005.html
+2025-12-05 18:58:19,122 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/162934.json
+2025-12-05 18:58:19,622 - INFO - Scraping G.R. No. 164684 (2005): Philippine Long Distance Telephone Company, Inc., ...
+2025-12-05 18:58:27,376 - WARNING -   ✗ Not found for G.R. No. 164684
+2025-12-05 18:58:27,877 - INFO - Scraping G.R. No. 164865 (2005): Roberto P. Fuentes Jr., vs. Office of the Ombudsma...
+2025-12-05 18:58:28,579 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_164865_2005.html
+2025-12-05 18:58:28,581 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/164865.json
+2025-12-05 18:58:29,082 - INFO - Scraping G.R. No. 168445 (2005): People of the Philippines vs. Capt. Florencio O. G...
+2025-12-05 18:58:29,336 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_168445_2005.html
+2025-12-05 18:58:29,337 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/168445.json
+2025-12-05 18:58:29,837 - INFO - Scraping G.R. No. 134787 (2005): Nicanor T. Santos vs. Court of Appeals, et al....
+2025-12-05 18:58:30,092 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_134787_2005.html
+2025-12-05 18:58:30,093 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/134787.json
+2025-12-05 18:58:30,593 - INFO - Scraping G.R. No. 142308 (2005): Sps. Rev. Elmer J. Bañes, et al. vs. Lutheran Chur...
+2025-12-05 18:58:31,071 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_142308_2005.html
+2025-12-05 18:58:31,074 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/142308.json
+2025-12-05 18:58:31,574 - INFO - Scraping G.R. No. 142937 (2005): Philippine Amusement and Gaming Corporation vs. Ma...
+2025-12-05 18:58:32,052 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_142937_2005.html
+2025-12-05 18:58:32,054 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/142937.json
+2025-12-05 18:58:32,555 - INFO - Scraping G.R. No. 144705 (2005): Nancy L. Ty vs. Banco Filipino Savings and Mortgag...
+2025-12-05 18:58:32,809 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_144705_2005.html
+2025-12-05 18:58:32,811 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/144705.json
+2025-12-05 18:58:33,311 - INFO - Scraping G.R. No. 152545 (2005): R-II Builders, Inc., vs. Construction Industry Arb...
+2025-12-05 18:58:33,789 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_152545_2005.html
+2025-12-05 18:58:33,791 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/152545.json
+2025-12-05 18:58:34,291 - INFO - Scraping G.R. No. 155309 (2005): Josephine M. Sanchez vs. Far East Bank and Trust C...
+2025-12-05 18:58:34,770 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_155309_2005.html
+2025-12-05 18:58:34,772 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/155309.json
+2025-12-05 18:58:35,272 - INFO - Scraping G.R. No. 160324 (2005): International Finance Corporation vs. Imperial tex...
+2025-12-05 18:58:35,526 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_160324_2005.html
+2025-12-05 18:58:35,527 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/160324.json
+2025-12-05 18:58:36,028 - INFO - Scraping G.R. No. 167474 (2005): Conrado Banal III vs. Hon. Delia H. Panganiban, in...
+2025-12-05 18:58:36,282 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_167474_2005.html
+2025-12-05 18:58:36,283 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/167474.json
+2025-12-05 18:58:36,784 - INFO - Scraping G.R. No. 143803 (2005): Creser Precision Systems, Inc., vs. Commission on ...
+2025-12-05 18:58:37,262 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_143803_2005.html
+2025-12-05 18:58:37,263 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/143803.json
+2025-12-05 18:58:37,764 - INFO - Scraping G.R. No. 145568 (2005): Heirs of Enrique Tan Sr., et al., vs. Reynalda Pol...
+2025-12-05 18:58:38,246 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_145568_2005.html
+2025-12-05 18:58:38,247 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/145568.json
+2025-12-05 18:58:38,747 - INFO - Scraping G.R. No. 151373 (2005): Department of Health vs. C.V. Canchela and Associa...
+2025-12-05 18:58:46,501 - WARNING -   ✗ Not found for G.R. No. 151373
+2025-12-05 18:58:47,002 - INFO - Scraping G.R. No. 157399 (2005): People of the Philippines vs. Jose Ting Lan Uy (Ac...
+2025-12-05 18:58:47,480 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_157399_2005.html
+2025-12-05 18:58:47,481 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/157399.json
+2025-12-05 18:58:47,982 - INFO - Scraping G.R. No. 157830 (2005): Dante M. Pascual, et al., vs. Marilou M. Pascual....
+2025-12-05 18:58:48,235 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_157830_2005.html
+2025-12-05 18:58:48,236 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/157830.json
+2025-12-05 18:58:48,736 - INFO - Scraping G.R. No. 159696 (2005): Civil Service Commission vs. Court of Appeals, et ...
+2025-12-05 18:58:49,214 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_159696_2005.html
+2025-12-05 18:58:49,215 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/159696.json
+2025-12-05 18:58:49,716 - INFO - Scraping G.R. No. 163619 (2005): In the Matter of the Petition for Disqualification...
+2025-12-05 18:58:57,468 - WARNING -   ✗ Not found for G.R. No. 163619
+2025-12-05 18:58:57,969 - INFO - Scraping G.R. No. 163988 (2005): Valentina A. Nuñez, et al., vs. GSIS Family Bank, ...
+2025-12-05 18:58:58,447 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_163988_2005.html
+2025-12-05 18:58:58,449 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/163988.json
+2025-12-05 18:58:58,949 - INFO - Scraping G.R. No. 164635 (2005): Majurine L. Mauricio vs. National Labor Relations ...
+2025-12-05 18:58:59,203 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_164635_2005.html
+2025-12-05 18:58:59,204 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/164635.json
+2025-12-05 18:58:59,704 - INFO - Scraping G.R. No. 164798 (2005): China Banking Corporation vs. Mondragon Internatio...
+2025-12-05 18:58:59,958 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_164798_2005.html
+2025-12-05 18:58:59,959 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/164798.json
+2025-12-05 18:59:00,459 - INFO - Scraping G.R. No. 144900 (2005): Domingo Marcial vs. Hi-Cement Corporation, et al....
+2025-12-05 18:59:00,937 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_144900_2005.html
+2025-12-05 18:59:00,938 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/144900.json
+2025-12-05 18:59:01,439 - INFO - Scraping G.R. No. 145578 (2005): Jose C. Tupaz IV, et al., vs. the Court of Appeals...
+2025-12-05 18:59:01,916 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_145578_2005.html
+2025-12-05 18:59:01,918 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/145578.json
+2025-12-05 18:59:02,418 - INFO - Scraping G.R. No. 146424 (2005): Albino Josef vs. People of the Philippines, et al....
+2025-12-05 18:59:02,687 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_146424_2005.html
+2025-12-05 18:59:02,688 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/146424.json
+2025-12-05 18:59:03,189 - INFO - Scraping G.R. No. 147861 (2005): Philippine Ports Authority vs. Pier 8 Arrastre and...
+2025-12-05 18:59:03,667 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_147861_2005.html
+2025-12-05 18:59:03,669 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/147861.json
+2025-12-05 18:59:04,169 - INFO - Scraping G.R. No. 148152 (2005): International Broadcasting Corporation vs. Jose T....
+2025-12-05 18:59:04,423 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_148152_2005.html
+2025-12-05 18:59:04,425 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/148152.json
+2025-12-05 18:59:04,925 - INFO - Scraping G.R. No. 152663 (2005): Edgardo D. Dolar vs. Barangay Lublub (Now P.D. Mon...
+2025-12-05 18:59:05,403 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_152663_2005.html
+2025-12-05 18:59:05,405 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/152663.json
+2025-12-05 18:59:05,905 - INFO - Scraping G.R. No. 160893 (2005): Sonia P. Ruiz vs. People of the Philippines....
+2025-12-05 18:59:06,384 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_160893_2005.html
+2025-12-05 18:59:06,386 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/160893.json
+2025-12-05 18:59:06,886 - INFO - Scraping G.R. No. 162727 (2005): Ssangyong Corporation vs. Unimarine Shipping Lines...
+2025-12-05 18:59:07,141 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_162727_2005.html
+2025-12-05 18:59:07,142 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/162727.json
+2025-12-05 18:59:07,643 - INFO - Scraping G.R. No. 165125 (2005): Cesar T. Villanueva, et al., vs. Mayor Felix V. Op...
+2025-12-05 18:59:08,120 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_165125_2005.html
+2025-12-05 18:59:08,122 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/165125.json
+2025-12-05 18:59:08,623 - INFO - Scraping G.R. No. 166550 (2005): Robert C. Casol, et al., vs. Purefoods Corporation...
+2025-12-05 18:59:08,877 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_166550_2005.html
+2025-12-05 18:59:08,878 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/166550.json
+2025-12-05 18:59:09,378 - INFO - Scraping G.R. No. 166755 (2005): Elmer F. Cervantes vs. the Honorable Court of Appe...
+2025-12-05 18:59:09,856 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_166755_2005.html
+2025-12-05 18:59:09,857 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/166755.json
+2025-12-05 18:59:10,358 - INFO - Scraping G.R. No. 167206 (2005): Jaime F. Villalon vs. Ma. Corazon N. Villalon....
+2025-12-05 18:59:10,836 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_167206_2005.html
+2025-12-05 18:59:10,837 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/167206.json
+2025-12-05 18:59:11,338 - INFO - Scraping G.R. No. 136897 (2005): Private Development Corporation of the Philippines...
+2025-12-05 18:59:11,816 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_136897_2005.html
+2025-12-05 18:59:11,818 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/136897.json
+2025-12-05 18:59:12,318 - INFO - Scraping G.R. No. 141241 (2005): Republic of the Philippines, through its trustee, ...
+2025-12-05 18:59:12,572 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_141241_2005.html
+2025-12-05 18:59:12,573 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/141241.json
+2025-12-05 18:59:13,073 - INFO - Scraping G.R. No. 143772 (2005): Development Bank of the Philippines vs. Prudential...
+2025-12-05 18:59:13,552 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_143772_2005.html
+2025-12-05 18:59:13,553 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/143772.json
+2025-12-05 18:59:14,053 - INFO - Scraping G.R. No. 149628 (2005): Edgardo B. Alcazaren vs. Univet Agricultural Produ...
+2025-12-05 18:59:14,756 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_149628_2005.html
+2025-12-05 18:59:14,758 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/149628.json
+2025-12-05 18:59:15,258 - INFO - Scraping G.R. No. 154185 (2005): Amelia J. Delos Santos vs. Jebsen Maritime, Inc....
+2025-12-05 18:59:15,736 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_154185_2005.html
+2025-12-05 18:59:15,738 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/154185.json
+2025-12-05 18:59:16,238 - INFO - Scraping G.R. No. 154460 (2005): Lauro C. Degamo vs. Avant Garde Shipping Corporati...
+2025-12-05 18:59:17,284 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_154460_2005.html
+2025-12-05 18:59:17,285 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/154460.json
+2025-12-05 18:59:17,785 - INFO - Scraping G.R. No. 157812 (2005): Rodolfo Santos vs. Ronald C. Manalili, et al....
+2025-12-05 18:59:18,263 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_157812_2005.html
+2025-12-05 18:59:18,264 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/157812.json
+2025-12-05 18:59:18,764 - INFO - Scraping G.R. No. 160109 (2005): Spouses German and Elisa Balanoba, et al., vs. Man...
+2025-12-05 18:59:19,242 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_160109_2005.html
+2025-12-05 18:59:19,243 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/160109.json
+2025-12-05 18:59:19,744 - INFO - Scraping G.R. No. 160118 (2005): Norberto Rimasug, et al., vs. Melencio Martin, et ...
+2025-12-05 18:59:20,222 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_160118_2005.html
+2025-12-05 18:59:20,224 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/160118.json
+2025-12-05 18:59:20,724 - INFO - Scraping G.R. No. 160892 (2005): Spouses Antonio and Lolita Tan vs. Carmelito Villa...
+2025-12-05 18:59:20,978 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_160892_2005.html
+2025-12-05 18:59:20,979 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/160892.json
+2025-12-05 18:59:21,480 - INFO - Scraping G.R. No. 161720 (2005): Heirs of Flores Restar, et al., vs. Heirs of Dolor...
+2025-12-05 18:59:21,734 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_161720_2005.html
+2025-12-05 18:59:21,735 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/161720.json
+2025-12-05 18:59:22,235 - INFO - Scraping G.R. No. 162890 (2005): Heirs of Julian Dela Cruz, et al., vs. Heirs of Al...
+2025-12-05 18:59:22,713 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_162890_2005.html
+2025-12-05 18:59:22,715 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/162890.json
+2025-12-05 18:59:23,216 - INFO - Scraping G.R. No. 143510 (2005): Roman Catholic Archbishop of Caceres vs. Heirs of ...
+2025-12-05 18:59:23,476 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_143510_2005.html
+2025-12-05 18:59:23,478 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/143510.json
+2025-12-05 18:59:23,978 - INFO - Scraping G.R. No. 151326 (2005): St. James School of Quezon City vs. Samahang Mangg...
+2025-12-05 18:59:24,232 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_151326_2005.html
+2025-12-05 18:59:24,233 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/151326.json
+2025-12-05 18:59:24,734 - INFO - Scraping G.R. No. 152578 (2005): Republic of the Philippines, et al., vs. Estate of...
+2025-12-05 18:59:25,437 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_152578_2005.html
+2025-12-05 18:59:25,440 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/152578.json
+2025-12-05 18:59:25,941 - INFO - Scraping G.R. No. 162461 (2005): Amos P. Francia, Jr., et al., vs. Power Merge Corp...
+2025-12-05 18:59:26,207 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_162461_2005.html
+2025-12-05 18:59:26,208 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/162461.json
+2025-12-05 18:59:26,709 - INFO - Scraping G.R. No. 166883 (2005): Angela Taguinod, et al. vs. Maximino Dalupang, et ...
+2025-12-05 18:59:27,186 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_166883_2005.html
+2025-12-05 18:59:27,188 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/166883.json
+2025-12-05 18:59:27,688 - INFO - Scraping G.R. No. 133640 (2005): Rodolfo S. Beltran, et al., vs. the Secretary of H...
+2025-12-05 18:59:28,167 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_133640_2005.html
+2025-12-05 18:59:28,169 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/133640.json
+2025-12-05 18:59:28,670 - INFO - Scraping G.R. No. 141675 (2005): Jesus T. Tanchanco, et al., vs. the Honorable Sand...
+2025-12-05 18:59:36,425 - WARNING -   ✗ Not found for G.R. No. 141675
+2025-12-05 18:59:36,925 - INFO - Scraping G.R. No. 150920 (2005): Child Learning Center, Inc., et al., vs. Timothy T...
+2025-12-05 18:59:37,404 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_150920_2005.html
+2025-12-05 18:59:37,405 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/150920.json
+2025-12-05 18:59:37,905 - INFO - Scraping G.R. No. 152346 (2005): Isaias F. Fabregas, et al. vs. San Francisco Del M...
+2025-12-05 18:59:38,393 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_152346_2005.html
+2025-12-05 18:59:38,394 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/152346.json
+2025-12-05 18:59:38,895 - INFO - Scraping G.R. No. 157306 (2005): Republic of the Philippines vs. Anatalia Actub Tiu...
+2025-12-05 18:59:39,379 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_157306_2005.html
+2025-12-05 18:59:39,381 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/157306.json
+2025-12-05 18:59:39,881 - INFO - Scraping G.R. No. 166333 (2005): Jose E. Honrado vs. Court of Appeals, et al....
+2025-12-05 18:59:40,136 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_166333_2005.html
+2025-12-05 18:59:40,137 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/166333.json
+2025-12-05 18:59:40,637 - INFO - Scraping G.R. No. 52341 (2005): Delia Preagido et al. vs. Sandiganbayan, et al....
+2025-12-05 18:59:48,400 - WARNING -   ✗ Not found for G.R. No. 52341
+2025-12-05 18:59:48,901 - INFO - Scraping G.R. No. 124779 (2005): Danilo Antonio, et al., vs. Hon. Isagani A. Geroni...
+2025-12-05 18:59:49,379 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_124779_2005.html
+2025-12-05 18:59:49,381 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/124779.json
+2025-12-05 18:59:49,881 - INFO - Scraping G.R. No. 135507 (2005): Philippine Rabbit Bus Lines, Inc., vs. Nelson Goim...
+2025-12-05 18:59:50,135 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_135507_2005.html
+2025-12-05 18:59:50,136 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/135507.json
+2025-12-05 18:59:50,637 - INFO - Scraping G.R. No. 139158 (2005): Chandra O. Cacho vs. Joaquin O. Bonifacio, et al....
+2025-12-05 18:59:51,115 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_139158_2005.html
+2025-12-05 18:59:51,116 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/139158.json
+2025-12-05 18:59:51,616 - INFO - Scraping G.R. No. 142729 (2005): Mamsar Enterprises Agro-Industrial Corporation vs....
+2025-12-05 18:59:51,870 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_142729_2005.html
+2025-12-05 18:59:51,871 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/142729.json
+2025-12-05 18:59:52,371 - INFO - Scraping G.R. No. 143023 (2005): Eastern Overseas Employment Center, Inc., vs. Ceci...
+2025-12-05 18:59:52,849 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_143023_2005.html
+2025-12-05 18:59:52,850 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/143023.json
+2025-12-05 18:59:53,350 - INFO - Scraping G.R. No. 145276 (2005): Rolando Agulto, et al. vs. William Z. Tecson....
+2025-12-05 18:59:53,829 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_145276_2005.html
+2025-12-05 18:59:53,830 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/145276.json
+2025-12-05 18:59:54,330 - INFO - Scraping G.R. No. 148361 (2005): Rafael Bautista, et al., vs. Maya-Maya Cottages, I...
+2025-12-05 18:59:54,597 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_148361_2005.html
+2025-12-05 18:59:54,597 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/148361.json
+2025-12-05 18:59:55,098 - INFO - Scraping G.R. No. 148411 (2005): Martha R. Horrigan vs. Troika Commercial, Inc....
+2025-12-05 18:59:55,352 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_148411_2005.html
+2025-12-05 18:59:55,352 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/148411.json
+2025-12-05 18:59:55,853 - INFO - Scraping G.R. No. 151266 (2005): Spouses Raymundo and Marilyn Calo vs. Spouses Reyn...
+2025-12-05 18:59:56,331 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_151266_2005.html
+2025-12-05 18:59:56,333 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/151266.json
+2025-12-05 18:59:56,833 - INFO - Scraping G.R. No. 154115 (2005): Philip S. Yu vs. Hon. Court of Appeals, et al....
+2025-12-05 18:59:57,094 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_154115_2005.html
+2025-12-05 18:59:57,095 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/154115.json
+2025-12-05 18:59:57,596 - INFO - Scraping G.R. No. 165767 (2005): Spouses William G. Friend and Maria Renee Friend, ...
+2025-12-05 18:59:57,858 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_165767_2005.html
+2025-12-05 18:59:57,859 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/165767.json
+2025-12-05 18:59:58,360 - INFO - Scraping G.R. No. 166606 (2005): Guillermo T. Domondon, et al., vs. Hon. First Divi...
+2025-12-05 18:59:58,838 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_166606_2005.html
+2025-12-05 18:59:58,839 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/166606.json
+2025-12-05 18:59:59,340 - INFO - Scraping G.R. No. 166753 (2005): Angelita Morcal vs. Antonio Laviña, et al....
+2025-12-05 18:59:59,596 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_166753_2005.html
+2025-12-05 18:59:59,597 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/166753.json
+2025-12-05 19:00:00,097 - INFO - Scraping G.R. No. 148682 (2005): People of the Philippines vs. Angel A. Enfermo....
+2025-12-05 19:00:08,278 - WARNING -   ✗ Not found for G.R. No. 148682
+2025-12-05 19:00:08,779 - INFO - Scraping G.R. No. 161357 (2005): Elena P. Dycaico vs. Social Security Commission, e...
+2025-12-05 19:00:09,707 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/nov2005/gr_161357_2005.html
+2025-12-05 19:00:09,709 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/november/161357.json
+2025-12-05 19:00:10,209 - INFO - Scraping G.R. No. 156887 (2005): Philippine National Construction Corporation vs. H...
+2025-12-05 19:00:10,686 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_156887_2005.html
+2025-12-05 19:00:10,688 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/156887.json
+2025-12-05 19:00:11,188 - INFO - Scraping G.R. No. 163099 (2005): Amadeo Fishing Corporation, et al. vs. Romeo Nierr...
+2025-12-05 19:00:12,115 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_163099_2005.html
+2025-12-05 19:00:12,117 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/163099.json
+2025-12-05 19:00:12,617 - INFO - Scraping G.R. No. 166152 (2005): Villamor Golf Club, et al. vs. Rodolfo F. Pehid....
+2025-12-05 19:00:13,094 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_166152_2005.html
+2025-12-05 19:00:13,096 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/166152.json
+2025-12-05 19:00:13,596 - INFO - Scraping G.R. No. 142664 (2005): Leoncio Ho, et al. vs. Pedro S. Lacsa....
+2025-12-05 19:00:14,074 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_142664_2005.html
+2025-12-05 19:00:14,075 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/142664.json
+2025-12-05 19:00:14,575 - INFO - Scraping G.R. No. 154380 (2005): Republic of the Philippines vs. Cipriano Orbecido ...
+2025-12-05 19:00:15,053 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_154380_2005.html
+2025-12-05 19:00:15,054 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/154380.json
+2025-12-05 19:00:15,554 - INFO - Scraping G.R. No. 154629 (2005): SPO4 Marino Soberano, et al. vs. the People of the...
+2025-12-05 19:00:16,259 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_154629_2005.html
+2025-12-05 19:00:16,261 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/154629.json
+2025-12-05 19:00:16,761 - INFO - Scraping G.R. No. 157044 (2005): Rodolfo V. Rosales, et al. vs. Miguel Castelltort,...
+2025-12-05 19:00:17,464 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_157044_2005.html
+2025-12-05 19:00:17,466 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/157044.json
+2025-12-05 19:00:17,966 - INFO - Scraping G.R. No. 158812 (2005): Public Estates Authority, et al. vs. Bolinao Secur...
+2025-12-05 19:00:18,669 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_158812_2005.html
+2025-12-05 19:00:18,671 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/158812.json
+2025-12-05 19:00:19,172 - INFO - Scraping G.R. No. 164914 (2005): Natalia Realty, Inc. vs. Hon. Mauricio M. Rivera, ...
+2025-12-05 19:00:19,650 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_164914_2005.html
+2025-12-05 19:00:19,652 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/164914.json
+2025-12-05 19:00:20,152 - INFO - Scraping G.R. No. 165282 (2005): Electro System Industries Corporation vs. National...
+2025-12-05 19:00:20,631 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_165282_2005.html
+2025-12-05 19:00:20,632 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/165282.json
+2025-12-05 19:00:21,132 - INFO - Scraping G.R. No. 151040 (2005): Allied Banking Corporation vs. Cheng Yong, et al....
+2025-12-05 19:00:21,623 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_151040_2005.html
+2025-12-05 19:00:21,624 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/151040.json
+2025-12-05 19:00:22,124 - INFO - Scraping G.R. No. 125254 (2005): Spouses Samuel Ulep, et al. vs. Honorable Court of...
+2025-12-05 19:00:22,603 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_125254_2005.html
+2025-12-05 19:00:22,605 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/125254.json
+2025-12-05 19:00:23,106 - INFO - Scraping G.R. No. 139448 (2005): Jacinto Galang, et al. vs. Hon. Court of Appeals, ...
+2025-12-05 19:00:23,585 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_139448_2005.html
+2025-12-05 19:00:23,586 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/139448.json
+2025-12-05 19:00:24,087 - INFO - Scraping G.R. No. 148574 (2005): Eugenio G. Palileo, et al. vs. National Irrigation...
+2025-12-05 19:00:24,565 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_148574_2005.html
+2025-12-05 19:00:24,567 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/148574.json
+2025-12-05 19:00:25,067 - INFO - Scraping G.R. No. 154126 (2005): Allied Banking Corporation vs. the Quezon City Gov...
+2025-12-05 19:00:25,770 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_154126_2005.html
+2025-12-05 19:00:25,772 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/154126.json
+2025-12-05 19:00:26,273 - INFO - Scraping G.R. No. 155279 (2005): Micro Sales Operation Network, et al. vs. the Nati...
+2025-12-05 19:00:26,750 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_155279_2005.html
+2025-12-05 19:00:26,752 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/155279.json
+2025-12-05 19:00:27,252 - INFO - Scraping G.R. No. 159048 (2005): Benny Go vs. Eliodoro Bacaron....
+2025-12-05 19:00:27,730 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_159048_2005.html
+2025-12-05 19:00:27,732 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/159048.json
+2025-12-05 19:00:28,232 - INFO - Scraping G.R. No. 160966 (2005): Pagoda Philippines, Inc. vs. Universal Canning, In...
+2025-12-05 19:00:28,487 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_160966_2005.html
+2025-12-05 19:00:28,488 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/160966.json
+2025-12-05 19:00:28,988 - INFO - Scraping G.R. No. 161733 (2005): Civil Service Commission vs. Arnulfo A. Sebastian....
+2025-12-05 19:00:29,466 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_161733_2005.html
+2025-12-05 19:00:29,468 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/161733.json
+2025-12-05 19:00:29,968 - INFO - Scraping G.R. No. 164922 (2005): Raymond P. Espidol vs. Commission on Elections, et...
+2025-12-05 19:00:30,671 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_164922_2005.html
+2025-12-05 19:00:30,674 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/164922.json
+2025-12-05 19:00:31,175 - INFO - Scraping G.R. No. 166964 (2005): Patricia L. Tiongson, et al. vs. National Housing ...
+2025-12-05 19:00:31,429 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_166964_2005.html
+2025-12-05 19:00:31,430 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/166964.json
+2025-12-05 19:00:31,930 - INFO - Scraping G.R. No. 134113 (2005): Air France Philippines vs. the Honorable Judge Emi...
+2025-12-05 19:00:32,184 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_134113_2005.html
+2025-12-05 19:00:32,185 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/134113.json
+2025-12-05 19:00:32,686 - INFO - Scraping G.R. No. 141715 (2005): Local Superior of the Servants of Charity, Inc., e...
+2025-12-05 19:00:33,164 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_141715_2005.html
+2025-12-05 19:00:33,165 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/141715.json
+2025-12-05 19:00:33,665 - INFO - 
+Batch 2 complete:
+2025-12-05 19:00:33,665 - INFO -   Successful: 94
+2025-12-05 19:00:33,665 - INFO -   Failed: 6
+2025-12-05 19:00:33,665 - INFO -   Skipped: 0
+2025-12-05 19:00:33,666 - INFO - 
+Overall progress: 200/1009 cases
+2025-12-05 19:00:33,666 - INFO - 
+================================================================================
+2025-12-05 19:00:33,666 - INFO - BATCH 3/11 (100 cases)
+2025-12-05 19:00:33,666 - INFO - ================================================================================
+2025-12-05 19:00:33,666 - INFO - Scraping G.R. No. 152689 (2005): Philippine Long Distance Telephone Company, Inc., ...
+2025-12-05 19:00:34,150 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_152689_2005.html
+2025-12-05 19:00:34,151 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/152689.json
+2025-12-05 19:00:34,651 - INFO - Scraping G.R. No. 164282 (2005): Teresita M. Yujuico vs. Hon. Jose L. Atienza, Jr.,...
+2025-12-05 19:00:35,354 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_164282_2005.html
+2025-12-05 19:00:35,356 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/164282.json
+2025-12-05 19:00:35,856 - INFO - Scraping G.R. No. 106064 (2005): Spouses Renato Constanino, Jr., et al. vs. Hon. Jo...
+2025-12-05 19:00:36,559 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_106064_2005.html
+2025-12-05 19:00:36,562 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/106064.json
+2025-12-05 19:00:37,063 - INFO - Scraping G.R. No. 155784 (2005): Civil Service Commission vs. Ranulfo P. Albao....
+2025-12-05 19:00:37,316 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_155784_2005.html
+2025-12-05 19:00:37,317 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/155784.json
+2025-12-05 19:00:37,818 - INFO - Scraping G.R. No. 156652 (2005): Dr. Benita F. Osorio vs. Hon. Aniano A. Desierto, ...
+2025-12-05 19:00:38,295 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_156652_2005.html
+2025-12-05 19:00:38,297 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/156652.json
+2025-12-05 19:00:38,797 - INFO - Scraping G.R. No. 161942 (2005): Jose M. Caringal vs. Philippine Charity Sweepstake...
+2025-12-05 19:00:39,845 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_161942_2005.html
+2025-12-05 19:00:39,846 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/161942.json
+2025-12-05 19:00:40,347 - INFO - Scraping G.R. No. 164978 (2005): Aquilino Q. Pimentel, Jr., et al. vs. Exec. Secret...
+2025-12-05 19:00:40,832 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_164978_2005.html
+2025-12-05 19:00:40,834 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/164978.json
+2025-12-05 19:00:41,334 - INFO - Scraping G.R. No. 138550 (2005): American Express International Inc., vs. Noel Cord...
+2025-12-05 19:00:41,591 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_138550_2005.html
+2025-12-05 19:00:41,592 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/138550.json
+2025-12-05 19:00:42,093 - INFO - Scraping G.R. No. 142411 (2005): Winifreda Ursal vs. Court of Appeals, et al....
+2025-12-05 19:00:42,578 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_142411_2005.html
+2025-12-05 19:00:42,580 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/142411.json
+2025-12-05 19:00:43,080 - INFO - Scraping G.R. No. 143439 (2005): Maximo Alvarez vs. Susan Ramirez....
+2025-12-05 19:00:43,338 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_143439_2005.html
+2025-12-05 19:00:43,339 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/143439.json
+2025-12-05 19:00:43,839 - INFO - Scraping G.R. No. 145330 (2005): Spouses Gomer Ramos, et al. vs. Spouses Santiago H...
+2025-12-05 19:00:44,331 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_145330_2005.html
+2025-12-05 19:00:44,332 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/145330.json
+2025-12-05 19:00:44,832 - INFO - Scraping G.R. No. 147911 (2005): Federico B. Diamante III vs. Honorable Sandiganbay...
+2025-12-05 19:00:45,091 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/oct2005/gr_147911_2005.html
+2025-12-05 19:00:45,092 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/october/147911.json

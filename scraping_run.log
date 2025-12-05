@@ -1,0 +1,84 @@
+2025-12-05 18:55:47,697 - INFO - Loading missing cases list...
+2025-12-05 18:55:47,712 - INFO - ================================================================================
+2025-12-05 18:55:47,712 - INFO - LAWPHIL BATCH SCRAPER
+2025-12-05 18:55:47,712 - INFO - ================================================================================
+2025-12-05 18:55:47,712 - INFO - Database path: RESTRUCTURED_DB
+2025-12-05 18:55:47,712 - INFO - Cases to scrape: 20
+2025-12-05 18:55:47,712 - INFO - Year range: 2005-2005
+2025-12-05 18:55:47,712 - INFO - Batch size: 100
+2025-12-05 18:55:47,712 - INFO - ================================================================================
+2025-12-05 18:55:47,712 - INFO - 
+================================================================================
+2025-12-05 18:55:47,712 - INFO - BATCH 1/1 (20 cases)
+2025-12-05 18:55:47,712 - INFO - ================================================================================
+2025-12-05 18:55:47,712 - INFO - Scraping G.R. No. 200553 (2005): Spouses Gildardo C. Loquellano and Roslina Juliet ...
+2025-12-05 18:55:56,007 - WARNING -   ✗ Not found for G.R. No. 200553
+2025-12-05 18:55:56,808 - INFO - Scraping G.R. No. 157985 (2005): Zenaida Bugarin, et al. vs. Cecilia B. Palisoc, et...
+2025-12-05 18:55:57,285 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_157985_2005.html
+2025-12-05 18:55:57,287 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/157985.json
+2025-12-05 18:55:58,087 - INFO - Scraping G.R. No. 162277 (2005): Corazon Suyat, et al. vs. Hon. Annie Gonzales-Teso...
+2025-12-05 18:55:58,567 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_162277_2005.html
+2025-12-05 18:55:58,569 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/162277.json
+2025-12-05 18:55:59,369 - INFO - Scraping G.R. No. 129130 (2005): Far East Bank and Trust Company vs. Court of Appea...
+2025-12-05 18:55:59,847 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_129130_2005.html
+2025-12-05 18:55:59,849 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/129130.json
+2025-12-05 18:56:00,649 - INFO - Scraping G.R. No. 129807 (2005): Davao Light and Power Co., Inc., vs. Cristina Opeñ...
+2025-12-05 18:56:01,351 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_129807_2005.html
+2025-12-05 18:56:01,354 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/129807.json
+2025-12-05 18:56:02,154 - INFO - Scraping G.R. No. 132196 (2005): Spouses Segundo Ramos and Felisa Valdez vs. Hon. C...
+2025-12-05 18:56:02,631 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_132196_2005.html
+2025-12-05 18:56:02,633 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/132196.json
+2025-12-05 18:56:03,434 - INFO - Scraping G.R. No. 133154 (2005): Jowel Sales vs. Cyril A. Sabino....
+2025-12-05 18:56:03,913 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_133154_2005.html
+2025-12-05 18:56:03,914 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/133154.json
+2025-12-05 18:56:04,714 - INFO - Scraping G.R. No. 137337 (2005): Juan Padin, et al. vs. Heirs of Vivencio Obias, et...
+2025-12-05 18:56:05,191 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_137337_2005.html
+2025-12-05 18:56:05,192 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/137337.json
+2025-12-05 18:56:05,993 - INFO - Scraping G.R. No. 138348 (2005): Municipality of Butig, Lanao del Sur vs. Court of ...
+2025-12-05 18:56:06,694 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_138348_2005.html
+2025-12-05 18:56:06,696 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/138348.json
+2025-12-05 18:56:07,496 - INFO - Scraping G.R. No. 140305 (2005): Platon and Librada Ceruila vs. Rosilyn Delantar, e...
+2025-12-05 18:56:07,974 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_140305_2005.html
+2025-12-05 18:56:07,976 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/140305.json
+2025-12-05 18:56:08,776 - INFO - Scraping G.R. No. 141269 (2005): Bergesen D.Y. Philippines, Inc., et al. vs. Rizali...
+2025-12-05 18:56:09,254 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_141269_2005.html
+2025-12-05 18:56:09,255 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/141269.json
+2025-12-05 18:56:10,055 - INFO - Scraping G.R. No. 145379 (2005): Damiana Into vs. Mario Valle, et al....
+2025-12-05 18:56:10,533 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_145379_2005.html
+2025-12-05 18:56:10,535 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/145379.json
+2025-12-05 18:56:11,335 - INFO - Scraping G.R. No. 145470 (2005): Sps. Luis V. Cruz and Aida Cruz vs. Sps. Alejandro...
+2025-12-05 18:56:11,812 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_145470_2005.html
+2025-12-05 18:56:11,814 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/145470.json
+2025-12-05 18:56:12,614 - INFO - Scraping G.R. No. 147081 (2005): Planters Development Bank vs. Francisco Garcia....
+2025-12-05 18:56:13,316 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_147081_2005.html
+2025-12-05 18:56:13,318 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/147081.json
+2025-12-05 18:56:14,118 - INFO - Scraping G.R. No. 148380 (2005): Oceanic Wireless Network, Inc. vs. Commissioner In...
+2025-12-05 18:56:14,595 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_148380_2005.html
+2025-12-05 18:56:14,596 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/148380.json
+2025-12-05 18:56:15,397 - INFO - Scraping G.R. No. 152777 (2005): Lolita R. Lacuesta vs. Ateneo De Manila University...
+2025-12-05 18:56:15,874 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_152777_2005.html
+2025-12-05 18:56:15,875 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/152777.json
+2025-12-05 18:56:16,675 - INFO - Scraping G.R. No. 157701 (2005): Spouses Danilo and Alberta Domingo, et al. vs. Gui...
+2025-12-05 18:56:17,377 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_157701_2005.html
+2025-12-05 18:56:17,379 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/157701.json
+2025-12-05 18:56:18,179 - INFO - Scraping G.R. No. 158635 (2005): Magna Financial Services Group, Inc. vs. Elias Col...
+2025-12-05 18:56:18,656 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2005/dec2005/gr_158635_2005.html
+2025-12-05 18:56:18,657 - INFO -   ✓ Saved: RESTRUCTURED_DB/2005/december/158635.json
+2025-12-05 18:56:19,458 - INFO - 
+Batch 1 complete:
+2025-12-05 18:56:19,458 - INFO -   Successful: 17
+2025-12-05 18:56:19,458 - INFO -   Failed: 1
+2025-12-05 18:56:19,458 - INFO -   Skipped: 2
+2025-12-05 18:56:19,458 - INFO - 
+Overall progress: 20/20 cases
+2025-12-05 18:56:19,458 - INFO - 
+================================================================================
+2025-12-05 18:56:19,458 - INFO - SCRAPING COMPLETE
+2025-12-05 18:56:19,458 - INFO - ================================================================================
+2025-12-05 18:56:19,458 - INFO - Total cases attempted: 20
+2025-12-05 18:56:19,458 - INFO - Successfully scraped: 17
+2025-12-05 18:56:19,458 - INFO - Failed: 1
+2025-12-05 18:56:19,458 - INFO - Skipped (already exist): 2
+2025-12-05 18:56:19,458 - INFO - Success rate: 94.4%
+2025-12-05 18:56:19,459 - INFO - Time elapsed: 0.5 minutes
+2025-12-05 18:56:19,459 - INFO - ================================================================================

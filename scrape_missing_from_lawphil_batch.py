@@ -52,34 +52,60 @@ class LawphilBatchScraper:
             'skipped': 0,
         }
         
-    def construct_lawphil_urls(self, gr_number: str, year: int) -> List[str]:
+    def construct_lawphil_urls(self, gr_number: str, year: int, date_str: str = '') -> List[str]:
         """
         Construct possible lawphil.net URLs for a case.
-        Tries multiple URL patterns based on historical observation.
+        Uses the judjuris structure: https://lawphil.net/judjuris/juri{YYYY}/{month}{YYYY}/
         """
-        yy = str(year)[-2:]  # Last 2 digits of year
+        # Extract month from date string
+        month_abbrev = self.extract_month_abbrev(date_str)
         
-        urls = [
-            # Pattern 1: jurisYY/jurisprudence/jurisYYYY/MONTH/gr_NUMBER_YEAR.html
+        # Determine case type prefix (gr, ac, am, etc.)
+        # Most cases are G.R., but we'll try multiple prefixes
+        case_prefixes = ['gr', 'ac', 'am', 'am_rtj', 'am_mtj', 'am_p']
+        
+        urls = []
+        
+        # Primary pattern: judjuris/juriYYYY/monthYYYY/{prefix}_{number}_{year}.html
+        for prefix in case_prefixes:
+            if month_abbrev:
+                urls.append(
+                    f"https://lawphil.net/judjuris/juri{year}/{month_abbrev}{year}/{prefix}_{gr_number}_{year}.html"
+                )
+        
+        # Also try without month (some cases may be organized differently)
+        for prefix in case_prefixes:
+            urls.append(
+                f"https://lawphil.net/judjuris/juri{year}/{prefix}_{gr_number}_{year}.html"
+            )
+        
+        # Fallback: old juris structure
+        yy = str(year)[-2:]
+        urls.extend([
             f"https://lawphil.net/juris/juri{yy}/gr_{gr_number}_{year}.html",
-            
-            # Pattern 2: juris/jurisYY/gr_NUMBER.html
             f"https://lawphil.net/juris/juri{yy}/gr_{gr_number}.html",
-            
-            # Pattern 3: www.lawphil.net variant
-            f"https://www.lawphil.net/juris/juri{yy}/gr_{gr_number}_{year}.html",
-            
-            # Pattern 4: jurisYYYY folder
-            f"https://lawphil.net/juris/juri{year}/gr_{gr_number}.html",
-            
-            # Pattern 5: supreme/supdec/casesYYYY
-            f"https://lawphil.net/juris/supreme/supdec/cases{year}/gr_{gr_number}_{year}.html",
-            
-            # Pattern 6: juris with jurisprudence subfolder
-            f"https://lawphil.net/juris/jurisprudence/juri{year}/gr_{gr_number}.html",
-        ]
+        ])
         
         return urls
+    
+    def extract_month_abbrev(self, date_str: str) -> str:
+        """Extract 3-letter month abbreviation from date string"""
+        if not date_str:
+            return ''
+        
+        month_map = {
+            'january': 'jan', 'february': 'feb', 'march': 'mar',
+            'april': 'apr', 'may': 'may', 'june': 'jun',
+            'july': 'jul', 'august': 'aug', 'september': 'sep',
+            'october': 'oct', 'november': 'nov', 'december': 'dec'
+        }
+        
+        date_lower = date_str.lower()
+        for month_full, month_short in month_map.items():
+            if month_full in date_lower:
+                return month_short
+        
+        return ''
     
     def fetch_case_from_url(self, url: str, timeout: int = 15) -> Optional[str]:
         """Fetch case content from a URL"""
@@ -112,11 +138,12 @@ class LawphilBatchScraper:
         gr_number = case_info['gr_number']
         year = case_info['year']
         title = case_info.get('title', '')
+        date_str = case_info.get('date', '')
         
         logger.info(f"Scraping G.R. No. {gr_number} ({year}): {title[:50]}...")
         
         # Construct possible URLs
-        urls = self.construct_lawphil_urls(gr_number, year)
+        urls = self.construct_lawphil_urls(gr_number, year, date_str)
         
         # Try each URL
         for url in urls:
