@@ -1521,3 +1521,48 @@ Overall progress: 400/499 cases
 2025-12-05 19:25:53,319 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2017/apr2017/gr_201530_2017.html
 2025-12-05 19:25:53,320 - INFO -   ✓ Saved: RESTRUCTURED_DB/2017/april/201530.json
 2025-12-05 19:25:53,820 - INFO - Scraping G.R. No. 217189 (2017): Nini A. Lanto, in Her Capacity as Then Director II...
+2025-12-05 19:25:54,279 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2017/apr2017/gr_217189_2017.html
+2025-12-05 19:25:54,281 - INFO -   ✓ Saved: RESTRUCTURED_DB/2017/april/217189.json
+2025-12-05 19:25:54,782 - INFO - Scraping G.R. No. 216015 (2017): People of the Philippines vs. Jesusano Arcenal y A...
+2025-12-05 19:25:55,040 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2017/mar2017/gr_216015_2017.html
+2025-12-05 19:25:55,041 - INFO -   ✓ Saved: RESTRUCTURED_DB/2017/march/216015.json
+2025-12-05 19:25:55,541 - INFO - Scraping G.R. No. 224943 (2017): Jorge B. Navarra vs. People of the Philippines...
+2025-12-05 19:25:56,004 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2017/mar2017/gr_224943_2017.html
+2025-12-05 19:25:56,008 - INFO -   ✓ Saved: RESTRUCTURED_DB/2017/march/224943.json
+2025-12-05 19:25:56,509 - INFO - Scraping G.R. No. 200369 (2017): Union Bank of the Philippines vs. the Honorable Re...
+2025-12-05 19:25:56,770 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2017/mar2017/gr_200369_2017.html
+2025-12-05 19:25:56,772 - INFO -   ✓ Saved: RESTRUCTURED_DB/2017/march/200369.json
+2025-12-05 19:25:57,275 - INFO - Scraping G.R. No. 204990 (2017): Ramon Amparo y Ibañez vs. People of the Philippine...
+2025-12-05 19:25:57,764 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2017/feb2017/gr_204990_2017.html
+2025-12-05 19:25:57,766 - INFO -   ✓ Saved: RESTRUCTURED_DB/2017/february/204990.json
+2025-12-05 19:25:58,269 - INFO - Scraping G.R. No. 210307 (2017): Tradephil Shipping Agencies, Inc.,/Gregorio F. Ort...
+2025-12-05 19:25:58,544 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2017/feb2017/gr_210307_2017.html
+2025-12-05 19:25:58,546 - INFO -   ✓ Saved: RESTRUCTURED_DB/2017/february/210307.json
+2025-12-05 19:25:59,049 - INFO - Scraping G.R. No. 215705 (2017): Commissioner of Internal Revenue and Commissioner ...
+2025-12-05 19:25:59,321 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2017/feb2017/gr_215705_2017.html
+2025-12-05 19:25:59,324 - INFO -   ✓ Saved: RESTRUCTURED_DB/2017/february/215705.json
+2025-12-05 19:25:59,824 - INFO - Scraping G.R. No. 189714 (2017): Tpg Corporation (Formerly the Professional Group P...
+2025-12-05 19:26:00,142 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2017/jan2017/gr_189714_2017.html
+2025-12-05 19:26:00,143 - INFO -   ✓ Saved: RESTRUCTURED_DB/2017/january/189714.json
+2025-12-05 19:26:00,644 - INFO - Scraping G.R. No. 200920 (2017): People of the Philippines vs. Jerusalem Esteban y ...
+2025-12-05 19:26:08,858 - WARNING -   ✗ Not found for G.R. No. 200920
+2025-12-05 19:26:09,359 - INFO - Scraping G.R. No. 2017 (2017): Municipality of Oas vs. Bartolome Roa...
+2025-12-05 19:26:17,492 - WARNING -   ✗ Not found for G.R. No. 2017
+2025-12-05 19:26:17,992 - INFO - 
+Batch 5 complete:
+2025-12-05 19:26:17,992 - INFO -   Successful: 96
+2025-12-05 19:26:17,993 - INFO -   Failed: 3
+2025-12-05 19:26:17,993 - INFO -   Skipped: 0
+2025-12-05 19:26:17,993 - INFO - 
+Overall progress: 499/499 cases
+2025-12-05 19:26:17,993 - INFO - 
+================================================================================
+2025-12-05 19:26:17,993 - INFO - SCRAPING COMPLETE
+2025-12-05 19:26:17,993 - INFO - ================================================================================
+2025-12-05 19:26:17,993 - INFO - Total cases attempted: 499
+2025-12-05 19:26:17,993 - INFO - Successfully scraped: 494
+2025-12-05 19:26:17,993 - INFO - Failed: 5
+2025-12-05 19:26:17,993 - INFO - Skipped (already exist): 0
+2025-12-05 19:26:17,993 - INFO - Success rate: 99.0%
+2025-12-05 19:26:17,993 - INFO - Time elapsed: 8.4 minutes
+2025-12-05 19:26:17,993 - INFO - ================================================================================
