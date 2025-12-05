@@ -94,3 +94,26 @@ nohup: ignoring input
 2025-12-05 19:21:05,726 - INFO - Scraping G.R. No. 202430 (2024): Metro Bottled Water Corporation vs. Andrada Constr...
 2025-12-05 19:21:14,613 - WARNING -   ✗ Not found for G.R. No. 202430
 2025-12-05 19:21:15,114 - INFO - Scraping G.R. No. 202448 (2024): Joseph O. Regalado vs. Emma Dela Rama Vda. Dela Pe...
+2025-12-05 19:21:23,484 - WARNING -   ✗ Not found for G.R. No. 202448
+2025-12-05 19:21:23,984 - INFO - Scraping G.R. No. 202454 (2024): California Manufacturing Compnay, Inc. vs. Advance...
+2025-12-05 19:21:32,327 - WARNING -   ✗ Not found for G.R. No. 202454
+2025-12-05 19:21:32,828 - INFO - Scraping G.R. No. 2024 (2024): United States vs. W. W. Richards...
+2025-12-05 19:21:41,190 - WARNING -   ✗ Not found for G.R. No. 2024
+2025-12-05 19:21:41,691 - INFO - 
+Batch 1 complete:
+2025-12-05 19:21:41,691 - INFO -   Successful: 13
+2025-12-05 19:21:41,691 - INFO -   Failed: 24
+2025-12-05 19:21:41,691 - INFO -   Skipped: 0
+2025-12-05 19:21:41,691 - INFO - 
+Overall progress: 37/37 cases
+2025-12-05 19:21:41,691 - INFO - 
+================================================================================
+2025-12-05 19:21:41,691 - INFO - SCRAPING COMPLETE
+2025-12-05 19:21:41,691 - INFO - ================================================================================
+2025-12-05 19:21:41,691 - INFO - Total cases attempted: 37
+2025-12-05 19:21:41,691 - INFO - Successfully scraped: 13
+2025-12-05 19:21:41,691 - INFO - Failed: 24
+2025-12-05 19:21:41,691 - INFO - Skipped (already exist): 0
+2025-12-05 19:21:41,691 - INFO - Success rate: 35.1%
+2025-12-05 19:21:41,691 - INFO - Time elapsed: 3.7 minutes
+2025-12-05 19:21:41,691 - INFO - ================================================================================

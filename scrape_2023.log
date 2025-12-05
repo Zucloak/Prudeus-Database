@@ -522,3 +522,150 @@ Overall progress: 100/210 cases
 2025-12-05 19:21:06,451 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/march/243368.json
 2025-12-05 19:21:06,952 - INFO - Scraping G.R. No. 215527 (2023): Presidential Commission on Good Government, Juliet...
 2025-12-05 19:21:15,526 - WARNING -   ✗ Not found for G.R. No. 215527
+2025-12-05 19:21:16,027 - INFO - Scraping G.R. No. 238798 (2023): CICL XXX vs. People of the PhilippinesConcurring O...
+2025-12-05 19:21:16,292 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/mar2023/gr_238798_2023.html
+2025-12-05 19:21:16,295 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/march/238798.json
+2025-12-05 19:21:16,795 - INFO - Scraping G.R. No. 252092 (2023): Sophia T. Borja, et al. vs. Commission on Audit (C...
+2025-12-05 19:21:17,375 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/mar2023/gr_252092_2023.html
+2025-12-05 19:21:17,384 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/march/252092.json
+2025-12-05 19:21:17,884 - INFO - Scraping G.R. No. 190266 (2023): City of Batangas, Represented By Hon. Eduardo B. D...
+2025-12-05 19:21:26,448 - WARNING -   ✗ Not found for G.R. No. 190266
+2025-12-05 19:21:26,949 - INFO - Scraping G.R. No. 257849 (2023): Philippine Charity Sweepstakes Office vs. Antonio ...
+2025-12-05 19:21:27,416 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/mar2023/gr_257849_2023.html
+2025-12-05 19:21:27,418 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/march/257849.json
+2025-12-05 19:21:27,918 - INFO - Scraping G.R. No. 230013 (2023): 4E Steel Builders Corporation and Spouses Filomeno...
+2025-12-05 19:21:28,176 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/mar2023/gr_230013_2023.html
+2025-12-05 19:21:28,179 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/march/230013.json
+2025-12-05 19:21:28,680 - INFO - Scraping G.R. No. 249387 (2023): Rehman Sabir vs. Department of Justice-Refugees an...
+2025-12-05 19:21:29,144 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/mar2023/gr_249387_2023.html
+2025-12-05 19:21:29,146 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/march/249387.json
+2025-12-05 19:21:29,646 - INFO - Scraping G.R. No. 253312 (2023): Rodrigo Conche Y Obilo vs. People of the Philippin...
+2025-12-05 19:21:29,892 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/mar2023/gr_253312_2023.html
+2025-12-05 19:21:29,894 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/march/253312.json
+2025-12-05 19:21:30,394 - INFO - Scraping G.R. No. 256301 (2023): People of the Philippines vs. Joel Gabisay, Jr. Y ...
+2025-12-05 19:21:30,716 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/mar2023/gr_256301_2023.html
+2025-12-05 19:21:30,718 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/march/256301.json
+2025-12-05 19:21:31,218 - INFO - Scraping G.R. No. 258914 (2023): Jocelyn Eleazar Monteros vs. Task Force Abono-Fiel...
+2025-12-05 19:21:31,597 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_258914_2023.html
+2025-12-05 19:21:31,600 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/258914.json
+2025-12-05 19:21:32,100 - INFO - Scraping G.R. No. 222897 (2023): Sta. Lucia Realty and Development, in Corpora Ted ...
+2025-12-05 19:21:32,778 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_222897_2023.html
+2025-12-05 19:21:32,780 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/222897.json
+2025-12-05 19:21:33,280 - INFO - Scraping G.R. No. 211363 (2023): Estrella Pabalan vs. Vasabude SabnaniConcurring Op...
+2025-12-05 19:21:33,744 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_211363_2023.html
+2025-12-05 19:21:33,748 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/211363.json
+2025-12-05 19:21:34,248 - INFO - Scraping G.R. No. 256907 (2023): Chamber of Customs, Inc. (CCBI) vs. Commissioner o...
+2025-12-05 19:21:36,084 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_256907_2023.html
+2025-12-05 19:21:36,086 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/256907.json
+2025-12-05 19:21:36,586 - INFO - Scraping G.R. No. 203353 (2023): Universal Robina Corporation vs. Department of Tra...
+2025-12-05 19:21:37,421 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_203353_2023.html
+2025-12-05 19:21:37,424 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/203353.json
+2025-12-05 19:21:37,924 - INFO - Scraping G.R. No. 230818 (2023): Efraim C. Genuino vs. Commision on Audit, et al,Co...
+2025-12-05 19:21:38,186 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_230818_2023.html
+2025-12-05 19:21:38,189 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/230818.json
+2025-12-05 19:21:38,690 - INFO - Scraping G.R. No. 200224 (2023): Globe Telecom, Inc. and Innove Communications Inc....
+2025-12-05 19:21:38,970 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_200224_2023.html
+2025-12-05 19:21:38,972 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/200224.json
+2025-12-05 19:21:39,473 - INFO - Scraping G.R. No. 259309 (2023): Commissioner of Internal Revenue vs. Toledo Power ...
+2025-12-05 19:21:39,719 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_259309_2023.html
+2025-12-05 19:21:39,721 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/259309.json
+2025-12-05 19:21:40,221 - INFO - Scraping G.R. No. 257151 (2023): Banco De Oro Universal Inc vs. Liza A. Seastres an...
+2025-12-05 19:21:40,469 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_257151_2023.html
+2025-12-05 19:21:40,472 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/257151.json
+2025-12-05 19:21:40,973 - INFO - Scraping G.R. No. 257675 (2023): People of the Philippines vs. Cherrylyn Ramos y Ga...
+2025-12-05 19:21:41,218 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_257675_2023.html
+2025-12-05 19:21:41,220 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/257675.json
+2025-12-05 19:21:41,721 - INFO - Scraping G.R. No. 220500 (2023): Cristina Amposta-Mortel vs. People of the Philippi...
+2025-12-05 19:21:42,867 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_220500_2023.html
+2025-12-05 19:21:42,873 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/220500.json
+2025-12-05 19:21:43,373 - INFO - Scraping G.R. No. 242957 (2023): The Board of Commisioners of the Bureau of Immigra...
+2025-12-05 19:21:43,909 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_242957_2023.html
+2025-12-05 19:21:43,915 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/242957.json
+2025-12-05 19:21:44,415 - INFO - Scraping G.R. No. 214148 (2023): Phillips Seafood Philippines Corporation vs. Tuna ...
+2025-12-05 19:21:44,659 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_214148_2023.html
+2025-12-05 19:21:44,664 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/214148.json
+2025-12-05 19:21:45,164 - INFO - Scraping G.R. No. 257134 (2023): XXX257134 vs. People of the Philippines...
+2025-12-05 19:21:45,411 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_257134_2023.html
+2025-12-05 19:21:45,413 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/257134.json
+2025-12-05 19:21:45,913 - INFO - Scraping G.R. No. 246710 (2023): Quezon City Eye Center vs. Philippine Health Insur...
+2025-12-05 19:21:54,060 - WARNING -   ✗ Not found for G.R. No. 246710
+2025-12-05 19:21:54,561 - INFO - Scraping G.R. No. 234435 (2023): Tahira S. Ismael and Aida U. Ajijon vs. People of ...
+2025-12-05 19:22:02,915 - WARNING -   ✗ Not found for G.R. No. 234435
+2025-12-05 19:22:03,415 - INFO - Scraping G.R. No. 230260 (2023): Department of Finance-Revenue Integrity Protection...
+2025-12-05 19:22:04,089 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_230260_2023.html
+2025-12-05 19:22:04,092 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/230260.json
+2025-12-05 19:22:04,593 - INFO - Scraping G.R. No. 254267 (2023): Far East Fuel Corporation vs. Airtropolis Consolid...
+2025-12-05 19:22:05,126 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/feb2023/gr_254267_2023.html
+2025-12-05 19:22:05,128 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/february/254267.json
+2025-12-05 19:22:05,628 - INFO - Scraping G.R. No. 240542 (2023): People of the Philippines vs. Baltazar Achay, Jr. ...
+2025-12-05 19:22:06,305 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_240542_2023.html
+2025-12-05 19:22:06,307 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/240542.json
+2025-12-05 19:22:06,807 - INFO - Scraping G.R. No. 258894 (2023): Glen Orda y Loyola vs. People of the PhilippinesCo...
+2025-12-05 19:22:07,066 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_258894_2023.html
+2025-12-05 19:22:07,067 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/258894.json
+2025-12-05 19:22:07,567 - INFO - Scraping G.R. No. 255470 (2023): Commissioner of Internal Revenue vs. Cargill Phili...
+2025-12-05 19:22:15,871 - WARNING -   ✗ Not found for G.R. No. 255470
+2025-12-05 19:22:16,372 - INFO - Scraping G.R. No. 221553 (2023): In Re: Petition for Registration and Issuance of T...
+2025-12-05 19:22:16,625 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_221553_2023.html
+2025-12-05 19:22:16,627 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/221553.json
+2025-12-05 19:22:17,127 - INFO - Scraping G.R. No. 255538 (2023): Elene Gaerlan-Ostonal vs. Romeo Flores, Et Al....
+2025-12-05 19:22:17,382 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_255538_2023.html
+2025-12-05 19:22:17,384 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/255538.json
+2025-12-05 19:22:17,884 - INFO - Scraping G.R. No. 236118 (2023): Act Teachers Rep. Antonio Tinio, et al. vs. Presid...
+2025-12-05 19:22:18,355 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_236118_2023.html
+2025-12-05 19:22:18,360 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/236118.json
+2025-12-05 19:22:18,860 - INFO - 
+Batch 2 complete:
+2025-12-05 19:22:18,860 - INFO -   Successful: 92
+2025-12-05 19:22:18,860 - INFO -   Failed: 8
+2025-12-05 19:22:18,860 - INFO -   Skipped: 0
+2025-12-05 19:22:18,860 - INFO - 
+Overall progress: 200/210 cases
+2025-12-05 19:22:18,860 - INFO - 
+================================================================================
+2025-12-05 19:22:18,860 - INFO - BATCH 3/3 (10 cases)
+2025-12-05 19:22:18,861 - INFO - ================================================================================
+2025-12-05 19:22:18,861 - INFO - Scraping G.R. No. 257610 (2023): Glen Quintos Albano vs. Commission on ElectionsCon...
+2025-12-05 19:22:19,546 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_257610_2023.html
+2025-12-05 19:22:19,550 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/257610.json
+2025-12-05 19:22:20,050 - INFO - Scraping G.R. No. 251978 (2023): Anecita C. Suyat, Asano E. Aban, and Marcelino P. ...
+2025-12-05 19:22:28,336 - WARNING -   ✗ Not found for G.R. No. 251978
+2025-12-05 19:22:28,837 - INFO - Scraping G.R. No. 261882 (2023): Arturo Realiza y Valenton vs. People of the Philip...
+2025-12-05 19:22:29,135 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_261882_2023.html
+2025-12-05 19:22:29,136 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/261882.json
+2025-12-05 19:22:29,636 - INFO - Scraping G.R. No. 246318 (2023): Arthur Cua Yap vs. Sandiganbayan (Sixth Division) ...
+2025-12-05 19:22:30,169 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_246318_2023.html
+2025-12-05 19:22:30,170 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/246318.json
+2025-12-05 19:22:30,670 - INFO - Scraping G.R. No. 236282 (2023): Piolito C. Santos vs. the Honorable Commission on ...
+2025-12-05 19:22:31,339 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_236282_2023.html
+2025-12-05 19:22:31,345 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/236282.json
+2025-12-05 19:22:31,845 - INFO - Scraping G.R. No. 248890 (2023): Ma. Cecilia P. Ngo vs. Fortune Medicare, Inc....
+2025-12-05 19:22:32,270 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_248890_2023.html
+2025-12-05 19:22:32,272 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/248890.json
+2025-12-05 19:22:32,772 - INFO - Scraping G.R. No. 258526 (2023): Manila Credit Corporation vs. Ramon S. Viroomal an...
+2025-12-05 19:22:33,018 - INFO -   ✓ Found at: https://lawphil.net/judjuris/juri2023/jan2023/gr_258526_2023.html
+2025-12-05 19:22:33,020 - INFO -   ✓ Saved: RESTRUCTURED_DB/2023/january/258526.json
+2025-12-05 19:22:33,520 - INFO - Scraping G.R. No. 245982 (2023): Philippine Pizza, Inc. vs. Michael A. Oraa, Bernar...
+2025-12-05 19:22:41,750 - WARNING -   ✗ Not found for G.R. No. 245982
+2025-12-05 19:22:42,251 - INFO - Scraping G.R. No. 202305 (2023): Cagayan De Oro City Water District, represented by...
+2025-12-05 19:22:50,279 - WARNING -   ✗ Not found for G.R. No. 202305
+2025-12-05 19:22:50,780 - INFO - Scraping G.R. No. 202374 (2023): Abelardo Salazar, Petitioner, vs. Albina Simbajon,...
+2025-12-05 19:22:58,911 - WARNING -   ✗ Not found for G.R. No. 202374
+2025-12-05 19:22:59,411 - INFO - 
+Batch 3 complete:
+2025-12-05 19:22:59,412 - INFO -   Successful: 6
+2025-12-05 19:22:59,412 - INFO -   Failed: 4
+2025-12-05 19:22:59,412 - INFO -   Skipped: 0
+2025-12-05 19:22:59,412 - INFO - 
+Overall progress: 210/210 cases
+2025-12-05 19:22:59,412 - INFO - 
+================================================================================
+2025-12-05 19:22:59,412 - INFO - SCRAPING COMPLETE
+2025-12-05 19:22:59,412 - INFO - ================================================================================
+2025-12-05 19:22:59,412 - INFO - Total cases attempted: 210
+2025-12-05 19:22:59,412 - INFO - Successfully scraped: 197
+2025-12-05 19:22:59,412 - INFO - Failed: 13
+2025-12-05 19:22:59,412 - INFO - Skipped (already exist): 0
+2025-12-05 19:22:59,412 - INFO - Success rate: 93.8%
+2025-12-05 19:22:59,412 - INFO - Time elapsed: 5.1 minutes
+2025-12-05 19:22:59,412 - INFO - ================================================================================
