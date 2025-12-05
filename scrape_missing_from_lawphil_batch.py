@@ -37,9 +37,10 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 class LawphilBatchScraper:
     """Scraper for missing cases from lawphil.net with batch processing"""
     
-    def __init__(self, db_path: Path, batch_size: int = 100):
+    def __init__(self, db_path: Path, batch_size: int = 100, rate_limit: float = 2.0):
         self.db_path = db_path
         self.batch_size = batch_size
+        self.rate_limit = rate_limit  # Configurable delay between requests
         self.session = requests.Session()
         self.session.headers.update({'User-Agent': USER_AGENT})
         
@@ -86,8 +87,16 @@ class LawphilBatchScraper:
             response = self.session.get(url, timeout=timeout, allow_redirects=True)
             
             if response.status_code == 200 and len(response.text) > 500:
-                # Check if it's actually a case (not an error page)
-                if 'G.R.' in response.text or 'SUPREME COURT' in response.text.upper():
+                # More robust content validation - check for multiple indicators
+                text = response.text.upper()
+                has_gr = 'G.R. NO' in text or 'G.R.NO' in text
+                has_court = 'SUPREME COURT' in text or 'REPUBLIC OF THE PHILIPPINES' in text
+                has_decision = 'DECISION' in text or 'RESOLUTION' in text
+                not_error = '404' not in text and 'NOT FOUND' not in text[:500]
+                
+                # Must have at least 2 indicators and not be an error page
+                indicators = sum([has_gr, has_court, has_decision, not_error])
+                if indicators >= 2:
                     return response.text
             
             return None
@@ -311,8 +320,8 @@ class LawphilBatchScraper:
                 batch_stats['failed'] += 1
                 self.stats['failed'] += 1
             
-            # Rate limiting - be nice to the server
-            time.sleep(2)
+            # Rate limiting - be nice to the server (configurable)
+            time.sleep(self.rate_limit)
         
         return batch_stats
 
@@ -324,6 +333,7 @@ def main():
     parser.add_argument('--start-year', type=int, default=2005, help='Starting year')
     parser.add_argument('--end-year', type=int, default=2024, help='Ending year')
     parser.add_argument('--max-cases', type=int, help='Maximum number of cases to scrape (for testing)')
+    parser.add_argument('--rate-limit', type=float, default=2.0, help='Delay in seconds between requests (default: 2.0)')
     
     args = parser.parse_args()
     
@@ -355,7 +365,7 @@ def main():
     logger.info("="*80)
     
     # Initialize scraper
-    scraper = LawphilBatchScraper(args.db_path, args.batch_size)
+    scraper = LawphilBatchScraper(args.db_path, args.batch_size, args.rate_limit)
     scraper.stats['total'] = len(missing_cases)
     
     # Process in batches
