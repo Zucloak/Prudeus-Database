@@ -128,8 +128,15 @@ for batch_file in "${BATCH_DIR}"/batch_*; do
             fi
         done < "${batch_file}"
         
-        # Check if there are staged changes
-        if git diff --cached --quiet; then
+        # Check if there are staged changes using safe wrapper
+        # First verify we're in a git repo and have staged changes
+        if [ ! -d .git ]; then
+            log_warn "Batch ${BATCH_NUM}: Not in a git repository, skipping"
+            continue
+        fi
+        
+        staged_files="$(git diff --cached --name-only 2>/dev/null || true)"
+        if [ -z "$staged_files" ]; then
             log_warn "Batch ${BATCH_NUM}: No changes to commit (files may have been deleted or unchanged)"
             continue
         fi

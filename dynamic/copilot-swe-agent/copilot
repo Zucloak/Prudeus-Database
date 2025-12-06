@@ -40,6 +40,11 @@ jobs:
           git config --global user.email "198982749+Copilot@users.noreply.github.com"
           git config --global core.pager cat
           export GIT_PAGER=cat
+          
+          # Verify git repository setup
+          echo "Git repository check:"
+          git status || echo "Warning: git status failed"
+          git remote -v || echo "Warning: git remote failed"
       
       - name: Run Agent Task
         env:
@@ -50,8 +55,9 @@ jobs:
           echo "Running agent task: ${{ inputs.task }}"
           
           # Ensure scripts are executable
-          chmod +x scripts/batch-commit.sh
-          chmod +x scripts/extract_and_remove_html_metadata.py
+          chmod +x scripts/batch-commit.sh 2>/dev/null || true
+          chmod +x scripts/extract_and_remove_html_metadata.py 2>/dev/null || true
+          chmod +x .github/scripts/safe-git-diff.sh 2>/dev/null || true
           
           # Agent tasks should use the batch commit infrastructure
           # to avoid git operation failures with large file counts
