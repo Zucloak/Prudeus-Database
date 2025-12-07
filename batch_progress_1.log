@@ -1,0 +1,2017 @@
+2025-12-06 10:52:08,659 - INFO - ================================================================================
+2025-12-06 10:52:08,660 - INFO - CONTINUOUS SCRAPING SESSION
+2025-12-06 10:52:08,660 - INFO - ================================================================================
+2025-12-06 10:52:08,660 - INFO - Total cases remaining: 13663
+2025-12-06 10:52:08,660 - INFO - Will process: 500 cases
+2025-12-06 10:52:08,660 - INFO - Database path: RESTRUCTURED_DB
+2025-12-06 10:52:08,660 - INFO - ================================================================================
+2025-12-06 10:52:08,660 - INFO - 
+[1/500] Processing G.R. No. 255466
+2025-12-06 10:52:08,660 - INFO -   Title: BBB255466 vs. People of the Philippines...
+2025-12-06 10:52:10,291 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:10,291 - INFO - 
+[2/500] Processing G.R. No. 263047
+2025-12-06 10:52:10,291 - INFO -   Title: Spouses Noel John M. Kaw And Josephine Caseres-Kaw vs. Heirs...
+2025-12-06 10:52:11,836 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:11,836 - INFO - 
+[3/500] Processing G.R. No. 267310
+2025-12-06 10:52:11,836 - INFO -   Title: Fleet Marine Cable Solutions Inc. vs. Mjas Zenith Geomapping...
+2025-12-06 10:52:12,821 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:12,821 - INFO - 
+[4/500] Processing G.R. No. 261123
+2025-12-06 10:52:12,821 - INFO -   Title: Duty to Energize The Republic Through the Enlightenment of t...
+2025-12-06 10:52:13,808 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:13,808 - INFO - 
+[5/500] Processing G.R. No. 254976
+2025-12-06 10:52:13,809 - INFO -   Title: Marcelino Dela Cruz Lingganay vs. Del Monte Land Transport B...
+2025-12-06 10:52:14,792 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:14,793 - INFO - 
+[6/500] Processing G.R. No. 260973
+2025-12-06 10:52:14,793 - INFO -   Title: Benjamin Togado y Pailan vs. People of the PhilippinesSepara...
+2025-12-06 10:52:15,776 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:15,777 - INFO - 
+[7/500] Processing G.R. No. 214042
+2025-12-06 10:52:15,777 - INFO -   Title: Foundation for Economic Freedom vs. Energy Regulatory Commis...
+2025-12-06 10:52:16,760 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:16,760 - INFO - 
+[8/500] Processing G.R. No. 270257
+2025-12-06 10:52:16,760 - INFO -   Title: XXX270257 vs. People of the Philippines and AAAConcurring Op...
+2025-12-06 10:52:17,745 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:17,746 - INFO - 
+[9/500] Processing G.R. No. 256720
+2025-12-06 10:52:17,746 - INFO -   Title: Maibarara Geothermal, Inc. vs. Commissioner of Internal Reve...
+2025-12-06 10:52:18,729 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:18,730 - INFO - 
+[10/500] Processing G.R. No. 239983
+2025-12-06 10:52:18,730 - INFO -   Title: Republic of the Philippines vs. Spouses Johnny and Chona Yu...
+2025-12-06 10:52:19,712 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:19,712 - INFO - 
+[11/500] Processing G.R. No. 221043
+2025-12-06 10:52:19,712 - INFO -   Title: Nozomi Fortune Services, Inc. vs. Celestino A. Naredo...
+2025-12-06 10:52:20,697 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:20,697 - INFO - 
+[12/500] Processing G.R. No. 264260
+2025-12-06 10:52:20,697 - INFO -   Title: Iloilo I Electric Cooperative, Inc. (ILLECO I), et al. vs. E...
+2025-12-06 10:52:21,681 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:21,682 - INFO - 
+[13/500] Processing G.R. No. 258449
+2025-12-06 10:52:21,682 - INFO -   Title: Juan Juan Olila Ollesca vs. Commission on Elections...
+2025-12-06 10:52:22,665 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:22,665 - INFO - 
+[14/500] Processing G.R. No. 268457
+2025-12-06 10:52:22,665 - INFO -   Title: XXX vs. People of the Philippines...
+2025-12-06 10:52:23,656 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:23,657 - INFO - 
+[15/500] Processing G.R. No. 237120
+2025-12-06 10:52:23,657 - INFO -   Title: Alex Besenio y Cledoro vs. People of the Philippines...
+2025-12-06 10:52:24,640 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:24,640 - INFO - 
+[16/500] Processing G.R. No. 267609
+2025-12-06 10:52:24,640 - INFO -   Title: People of the Philippines vs. Wilfreda Laput Campos A.K.A. "...
+2025-12-06 10:52:25,625 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:25,625 - INFO - 
+[17/500] Processing G.R. No. 254838
+2025-12-06 10:52:25,625 - INFO -   Title: Jessica Lucila G. Reyes vs. Director or Whoever Is in Charge...
+2025-12-06 10:52:26,612 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:26,612 - INFO - 
+[18/500] Processing G.R. No. 262749
+2025-12-06 10:52:26,612 - INFO -   Title: People of the Philippines vs. JJJ...
+2025-12-06 10:52:27,601 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:27,601 - INFO - 
+[19/500] Processing G.R. No. 258269
+2025-12-06 10:52:27,601 - INFO -   Title: Jose Antonio Paulo I. Reyes vs. Samsung Electronic Phils. Co...
+2025-12-06 10:52:28,587 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:28,587 - INFO - 
+[20/500] Processing G.R. No. 199479
+2025-12-06 10:52:28,587 - INFO -   Title: Napoleon Sanota, Bambi Magno Purisima, et al. vs. Bureau of ...
+2025-12-06 10:52:29,571 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:29,571 - INFO - 
+[21/500] Processing G.R. No. 198425
+2025-12-06 10:52:29,571 - INFO -   Title: Securities and Exchange Commission vs. Hon. Rodolfo R. Bonif...
+2025-12-06 10:52:31,349 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/198425.json
+2025-12-06 10:52:31,849 - INFO - 
+[22/500] Processing G.R. No. 261107
+2025-12-06 10:52:31,849 - INFO -   Title: Ana Liza Arriola Peralta vs. Commission on Elections...
+2025-12-06 10:52:33,463 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/261107.json
+2025-12-06 10:52:33,963 - INFO - 
+[23/500] Processing G.R. No. 266754
+2025-12-06 10:52:33,963 - INFO -   Title: People of the Philippines vs. Marivic Saldivar y Regatcho...
+2025-12-06 10:52:34,648 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/266754.json
+2025-12-06 10:52:35,149 - INFO - 
+[24/500] Processing G.R. No. 258417
+2025-12-06 10:52:35,149 - INFO -   Title: Rommel Z. Borja vs. People of the Philippines...
+2025-12-06 10:52:35,834 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/258417.json
+2025-12-06 10:52:36,335 - INFO - 
+[25/500] Processing G.R. No. 246489
+2025-12-06 10:52:36,335 - INFO -   Title: Spouses Christopher and Carmen Nunez vs. Dr. Henry Daz...
+2025-12-06 10:52:37,020 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/246489.json
+2025-12-06 10:52:37,520 - INFO - 
+[26/500] Processing G.R. No. 246434
+2025-12-06 10:52:37,520 - INFO -   Title: Herald Bermillo y De Vera vs. People of the Philippines...
+2025-12-06 10:52:37,986 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/246434.json
+2025-12-06 10:52:38,487 - INFO - 
+[27/500] Processing G.R. No. 267265
+2025-12-06 10:52:38,487 - INFO -   Title: People of the Philippines vs. Edwin Cordova y Manalastas, et...
+2025-12-06 10:52:39,391 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/267265.json
+2025-12-06 10:52:39,891 - INFO - 
+[28/500] Processing G.R. No. 268399
+2025-12-06 10:52:39,891 - INFO -   Title: Francheska Aleen Balaba Buban vs. Nilo Dela Peña...
+2025-12-06 10:52:40,576 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/268399.json
+2025-12-06 10:52:41,077 - INFO - 
+[29/500] Processing G.R. No. 253450
+2025-12-06 10:52:41,077 - INFO -   Title: Lani Nayve-Pua vs. Union Bank of the PhilippinesDissenting O...
+2025-12-06 10:52:41,762 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/253450.json
+2025-12-06 10:52:42,262 - INFO - 
+[30/500] Processing G.R. No. 266552
+2025-12-06 10:52:42,262 - INFO -   Title: Rico B. Escauriaga, Et Al. vs. Fitness First, Phil., Lnc., a...
+2025-12-06 10:52:43,168 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/266552.json
+2025-12-06 10:52:43,668 - INFO - 
+[31/500] Processing G.R. No. 266921
+2025-12-06 10:52:43,668 - INFO -   Title: National Transmission Corporation vs. Spouses Louis Marco S....
+2025-12-06 10:52:44,135 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/266921.json
+2025-12-06 10:52:44,635 - INFO - 
+[32/500] Processing G.R. No. 258182
+2025-12-06 10:52:44,635 - INFO -   Title: People of the Philippines vs. Romeo Chan RealesDissenting Op...
+2025-12-06 10:52:45,539 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/258182.json
+2025-12-06 10:52:46,039 - INFO - 
+[33/500] Processing G.R. No. 242353
+2025-12-06 10:52:46,039 - INFO -   Title: Cecilia Que Yabut, et al. vs. Carolina Que Villongco, et al....
+2025-12-06 10:52:46,725 - INFO -   Case already exists: RESTRUCTURED_DB/2024/jan/242353.json
+2025-12-06 10:52:47,226 - INFO - 
+[34/500] Processing G.R. No. 252396
+2025-12-06 10:52:47,226 - INFO -   Title: Angelito Ridon y Guevarra vs. People of the Philippines...
+2025-12-06 10:52:47,692 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/252396.json
+2025-12-06 10:52:48,193 - INFO - 
+[35/500] Processing G.R. No. 253026
+2025-12-06 10:52:48,193 - INFO -   Title: Aaron Christopher Mejia vs. People of the Philippines...
+2025-12-06 10:52:48,659 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/253026.json
+2025-12-06 10:52:49,159 - INFO - 
+[36/500] Processing G.R. No. 264237
+2025-12-06 10:52:49,159 - INFO -   Title: Pasda, Inc. vs. Court of Appeals...
+2025-12-06 10:52:49,625 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/264237.json
+2025-12-06 10:52:50,125 - INFO - 
+[37/500] Processing G.R. No. 254695
+2025-12-06 10:52:50,126 - INFO -   Title: Nelfa Delfin Trinidad, et al. vs. Salvador G. Trinidad, et a...
+2025-12-06 10:52:50,593 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/254695.json
+2025-12-06 10:52:51,093 - INFO - 
+[38/500] Processing G.R. No. 246824
+2025-12-06 10:52:51,093 - INFO -   Title: Argelyn M. Labargan vs. People of the Philippines...
+2025-12-06 10:52:52,078 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:52:52,078 - INFO - 
+[39/500] Processing G.R. No. 262938
+2025-12-06 10:52:52,078 - INFO -   Title: Walter Manuel F. Prescott vs. Bureau of ImmigrationConcurrin...
+2025-12-06 10:52:53,285 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/262938.json
+2025-12-06 10:52:53,785 - INFO - 
+[40/500] Processing G.R. No. 216603
+2025-12-06 10:52:53,785 - INFO -   Title: Jaime Manuel N. Legarda vs. Clerk of Court of the Regional T...
+2025-12-06 10:52:54,033 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/216603.json
+2025-12-06 10:52:54,534 - INFO - 
+[41/500] Processing G.R. No. 252658
+2025-12-06 10:52:54,534 - INFO -   Title: Tiburcio L. Canlas vs. Commission on Audit...
+2025-12-06 10:52:54,780 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/252658.json
+2025-12-06 10:52:55,280 - INFO - 
+[42/500] Processing G.R. No. 261532
+2025-12-06 10:52:55,280 - INFO -   Title: Rosalie Pineda y Padilla vs. People of the Philippines...
+2025-12-06 10:52:55,742 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/261532.json
+2025-12-06 10:52:56,242 - INFO - 
+[43/500] Processing G.R. No. 214743
+2025-12-06 10:52:56,242 - INFO -   Title: The Consortium of Hyundai Engineering Co., Ltd. and Hyundai ...
+2025-12-06 10:52:56,706 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/214743.json
+2025-12-06 10:52:57,206 - INFO - 
+[44/500] Processing G.R. No. 268672
+2025-12-06 10:52:57,206 - INFO -   Title: Vicente Suarez Jr. y Banua vs. People of the Philippines...
+2025-12-06 10:52:57,452 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/268672.json
+2025-12-06 10:52:57,953 - INFO - 
+[45/500] Processing G.R. No. 261491
+2025-12-06 10:52:57,953 - INFO -   Title: Candelario S. Dela Cruz vs. Alejandro Dumasig and Rosalinda ...
+2025-12-06 10:52:58,199 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/261491.json
+2025-12-06 10:52:58,699 - INFO - 
+[46/500] Processing G.R. No. 255252
+2025-12-06 10:52:58,700 - INFO -   Title: Governor Gwendolyn Garcia-Codilla vs. Hongkong and Shanghai ...
+2025-12-06 10:52:59,161 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/255252.json
+2025-12-06 10:52:59,661 - INFO - 
+[47/500] Processing G.R. No. 259827
+2025-12-06 10:52:59,661 - INFO -   Title: Felix Mariano y Pilapil vs. People of the Philippines...
+2025-12-06 10:53:00,122 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/259827.json
+2025-12-06 10:53:00,622 - INFO - 
+[48/500] Processing G.R. No. 256269
+2025-12-06 10:53:00,622 - INFO -   Title: People of the Philippines vs. XXX...
+2025-12-06 10:53:00,868 - INFO -   Case already exists: RESTRUCTURED_DB/2023/dec/263603.json
+2025-12-06 10:53:01,369 - INFO - 
+[49/500] Processing G.R. No. 241844
+2025-12-06 10:53:01,369 - INFO -   Title: Ethyl Huiso Ebal & Her Minor Child vs. Thenamaris Philippine...
+2025-12-06 10:53:01,835 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/241844.json
+2025-12-06 10:53:02,336 - INFO - 
+[50/500] Processing G.R. No. 262812
+2025-12-06 10:53:02,336 - INFO -   Title: People of the Philippines vs. XXX...
+2025-12-06 10:53:02,583 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/262812.json
+2025-12-06 10:53:03,083 - INFO - 
+[51/500] Processing G.R. No. 263553
+2025-12-06 10:53:03,083 - INFO -   Title: People of the Philippines vs. XXX263553...
+2025-12-06 10:53:03,330 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/263553.json
+2025-12-06 10:53:03,830 - INFO - 
+[52/500] Processing G.R. No. 262732
+2025-12-06 10:53:03,830 - INFO -   Title: People of the Philippines vs. Mongcao Basaula Sabino A.K.A. ...
+2025-12-06 10:53:04,077 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/262732.json
+2025-12-06 10:53:04,577 - INFO - 
+[53/500] Processing G.R. No. 259877
+2025-12-06 10:53:04,577 - INFO -   Title: Arturo Peralta y Villanueva vs. People of the Philippines...
+2025-12-06 10:53:05,039 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/259877.json
+2025-12-06 10:53:05,539 - INFO - 
+[54/500] Processing G.R. No. 259868
+2025-12-06 10:53:05,539 - INFO -   Title: Main Shipping Pte. Ltd vs. Century Peak Corporation...
+2025-12-06 10:53:06,001 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/259868.json
+2025-12-06 10:53:06,501 - INFO - 
+[55/500] Processing G.R. No. 255286
+2025-12-06 10:53:06,501 - INFO -   Title: Civil Service Commission vs. Epifany Alonzo...
+2025-12-06 10:53:06,963 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/255286.json
+2025-12-06 10:53:07,463 - INFO - 
+[56/500] Processing G.R. No. 263449
+2025-12-06 10:53:07,463 - INFO -   Title: XXX vs. People of the PhilippinesDissenting OpinionJustice M...
+2025-12-06 10:53:07,710 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/263449.json
+2025-12-06 10:53:08,210 - INFO - 
+[57/500] Processing G.R. No. 256759
+2025-12-06 10:53:08,210 - INFO -   Title: XXX vs. People of the Philippines...
+2025-12-06 10:53:08,672 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/256759.json
+2025-12-06 10:53:09,172 - INFO - 
+[58/500] Processing G.R. No. 220087
+2025-12-06 10:53:09,172 - INFO -   Title: Hacienda San Isidro/Silos Farms and Rey Silos Llamado vs. Lu...
+2025-12-06 10:53:09,635 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/220087.json
+2025-12-06 10:53:10,135 - INFO - 
+[59/500] Processing G.R. No. 265117
+2025-12-06 10:53:10,135 - INFO -   Title: Antonio Abiang y Cabonce vs. People of the Philippines...
+2025-12-06 10:53:10,596 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/265117.json
+2025-12-06 10:53:11,096 - INFO - 
+[60/500] Processing G.R. No. 265439
+2025-12-06 10:53:11,096 - INFO -   Title: People of the Philippines vs. XXX265439...
+2025-12-06 10:53:11,343 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/265439.json
+2025-12-06 10:53:11,843 - INFO - 
+[61/500] Processing G.R. No. 260504
+2025-12-06 10:53:11,844 - INFO -   Title: XXX260504 vs. AAA260504...
+2025-12-06 10:53:12,305 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/260504.json
+2025-12-06 10:53:12,805 - INFO - 
+[62/500] Processing G.R. No. 262889
+2025-12-06 10:53:12,805 - INFO -   Title: Sps. Buenaventura Balucan, Jr.And Yolanda Y. Balucan, et al....
+2025-12-06 10:53:13,268 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/262889.json
+2025-12-06 10:53:13,768 - INFO - 
+[63/500] Processing G.R. No. 188655
+2025-12-06 10:53:13,768 - INFO -   Title: Next Mobile, Inc vs. National Telecommunications Commission...
+2025-12-06 10:53:14,238 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/188655.json
+2025-12-06 10:53:14,738 - INFO - 
+[64/500] Processing G.R. No. 256393
+2025-12-06 10:53:14,738 - INFO -   Title: Nueva Ecija II Electric Coop., Inc. vs. Wilfredo S. Palma...
+2025-12-06 10:53:14,984 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/256393.json
+2025-12-06 10:53:15,484 - INFO - 
+[65/500] Processing G.R. No. 227932
+2025-12-06 10:53:15,485 - INFO -   Title: Mindanao II Geothermal Partnership vs. Commissioner of Inter...
+2025-12-06 10:53:15,947 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/227932.json
+2025-12-06 10:53:16,447 - INFO - 
+[66/500] Processing G.R. No. 229190
+2025-12-06 10:53:16,447 - INFO -   Title: Manuel G. Suniga. Jr. vs. Rolanda Molina, et al....
+2025-12-06 10:53:16,913 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/229190.json
+2025-12-06 10:53:17,413 - INFO - 
+[67/500] Processing G.R. No. 223270
+2025-12-06 10:53:17,413 - INFO -   Title: Lacoste S.A. vs. Crocodile International PTE LTD....
+2025-12-06 10:53:17,660 - INFO -   Case already exists: RESTRUCTURED_DB/2023/nov/223270.json
+2025-12-06 10:53:18,160 - INFO - 
+[68/500] Processing G.R. No. 260361
+2025-12-06 10:53:18,160 - INFO -   Title: Pedro Viernes, vs. Pines Commercial Corp....
+2025-12-06 10:53:18,407 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/260361.json
+2025-12-06 10:53:18,907 - INFO - 
+[69/500] Processing G.R. No. 268176
+2025-12-06 10:53:18,907 - INFO -   Title: Invictus Food Products Corporation, Romulo H. Espiritu, Ma. ...
+2025-12-06 10:53:19,154 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/268176.json
+2025-12-06 10:53:19,654 - INFO - 
+[70/500] Processing G.R. No. 269249
+2025-12-06 10:53:19,654 - INFO -   Title: Jonila F. Castro and Jhed Reiyana C. Tamano vs. Lieutenant C...
+2025-12-06 10:53:20,117 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/269249.json
+2025-12-06 10:53:20,617 - INFO - 
+[71/500] Processing G.R. No. 253940
+2025-12-06 10:53:20,617 - INFO -   Title: Belinda D.R. Do Lera vs. Social Security System.Concurring O...
+2025-12-06 10:53:21,079 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/253940.json
+2025-12-06 10:53:21,579 - INFO - 
+[72/500] Processing G.R. No. 254881
+2025-12-06 10:53:21,579 - INFO -   Title: People of the Philippines vs. Rafael Rey Malate @ "Ar-Ar"...
+2025-12-06 10:53:21,826 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/254881.json
+2025-12-06 10:53:22,327 - INFO - 
+[73/500] Processing G.R. No. 244724
+2025-12-06 10:53:22,327 - INFO -   Title: Roque T. Tabaosares vs. Barko International Inc....
+2025-12-06 10:53:22,573 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/244724.json
+2025-12-06 10:53:23,073 - INFO - 
+[74/500] Processing G.R. No. 254646
+2025-12-06 10:53:23,074 - INFO -   Title: Aiko Yokogawa-Tan vs. Jonnell Tan and the Republic of the Ph...
+2025-12-06 10:53:23,536 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/254646.json
+2025-12-06 10:53:24,036 - INFO - 
+[75/500] Processing G.R. No. 244737
+2025-12-06 10:53:24,036 - INFO -   Title: Andre Charles Nagel vs. the Board of Commissioners, Bureau o...
+2025-12-06 10:53:24,282 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/244737.json
+2025-12-06 10:53:24,783 - INFO - 
+[76/500] Processing G.R. No. 262122
+2025-12-06 10:53:24,783 - INFO -   Title: Rowena B. Plasan vs. People of the Philippines...
+2025-12-06 10:53:25,029 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/262122.json
+2025-12-06 10:53:25,529 - INFO - 
+[77/500] Processing G.R. No. 258557
+2025-12-06 10:53:25,530 - INFO -   Title: Pedro De Belen and Bejan Mora Semilla vs. Virginia Gebe Fuch...
+2025-12-06 10:53:25,992 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/258557.json
+2025-12-06 10:53:26,492 - INFO - 
+[78/500] Processing G.R. No. 254886
+2025-12-06 10:53:26,492 - INFO -   Title: People of the Philippines vs. Robert G. Lala, et al.Concurri...
+2025-12-06 10:53:26,956 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/254886.json
+2025-12-06 10:53:27,456 - INFO - 
+[79/500] Processing G.R. No. 262686
+2025-12-06 10:53:27,456 - INFO -   Title: People of the Philippines vs. Gerald Flores Y Alagdon, Harro...
+2025-12-06 10:53:27,922 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/262686.json
+2025-12-06 10:53:28,422 - INFO - 
+[80/500] Processing G.R. No. 261134
+2025-12-06 10:53:28,422 - INFO -   Title: People of the Philippines vs. Anabelle Yamson y Montero A.Le...
+2025-12-06 10:53:28,671 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/261134.json
+2025-12-06 10:53:29,172 - INFO - 
+[81/500] Processing G.R. No. 203386
+2025-12-06 10:53:29,172 - INFO -   Title: Metropolitan Manila Development Authority (MMDA) vs.  Diamon...
+2025-12-06 10:53:29,419 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/203386.json
+2025-12-06 10:53:29,919 - INFO - 
+[82/500] Processing G.R. No. 259511
+2025-12-06 10:53:29,919 - INFO -   Title: Nhorkayam Tumog y Cajatol vs. People of the Philippines...
+2025-12-06 10:53:30,166 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/259511.json
+2025-12-06 10:53:30,667 - INFO - 
+[83/500] Processing G.R. No. 258805
+2025-12-06 10:53:30,667 - INFO -   Title: St. Anthony College of Roxas City, Inc vs. Commission on Ele...
+2025-12-06 10:53:31,777 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/258805.json
+2025-12-06 10:53:32,278 - INFO - 
+[84/500] Processing G.R. No. 233461
+2025-12-06 10:53:32,278 - INFO -   Title: Vicente Atlas R. Catalan and Maryrose T. Diaz vs. Cristina B...
+2025-12-06 10:53:32,742 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/233461.json
+2025-12-06 10:53:33,242 - INFO - 
+[85/500] Processing G.R. No. 246231
+2025-12-06 10:53:33,242 - INFO -   Title: Allan De Vera y Ante vs. People of the PhilippinesDissenting...
+2025-12-06 10:53:33,922 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/246231.json
+2025-12-06 10:53:34,422 - INFO - 
+[86/500] Processing G.R. No. 246531
+2025-12-06 10:53:34,422 - INFO -   Title: Benedict Princer San Juan vs. Regus Service Centre Philippin...
+2025-12-06 10:53:34,884 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/246531.json
+2025-12-06 10:53:35,384 - INFO - 
+[87/500] Processing G.R. No. 261171
+2025-12-06 10:53:35,384 - INFO -   Title: Commissiner of Internal Revenue vs. BW Shipping Philippines,...
+2025-12-06 10:53:35,845 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/261171.json
+2025-12-06 10:53:36,345 - INFO - 
+[88/500] Processing G.R. No. 185184
+2025-12-06 10:53:36,345 - INFO -   Title: Metropolitan Waterworks and Sewerage System vs. Provincial G...
+2025-12-06 10:53:36,809 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/185184.json
+2025-12-06 10:53:37,309 - INFO - 
+[89/500] Processing G.R. No. 262664
+2025-12-06 10:53:37,310 - INFO -   Title: Manuel Lopez Bason vs. People of the PhilippinesSeparate Con...
+2025-12-06 10:53:37,771 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/262664.json
+2025-12-06 10:53:38,271 - INFO - 
+[90/500] Processing G.R. No. 261280
+2025-12-06 10:53:38,271 - INFO -   Title: Incumbent and Former Employees of the National Economic and ...
+2025-12-06 10:53:38,733 - INFO -   Case already exists: RESTRUCTURED_DB/2023/oct/261280.json
+2025-12-06 10:53:39,234 - INFO - 
+[91/500] Processing G.R. No. 258873
+2025-12-06 10:53:39,234 - INFO -   Title: People of the Philippines vs. Abdul Azis y Sampaco A.K.A. "M...
+2025-12-06 10:53:39,696 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/258873.json
+2025-12-06 10:53:40,196 - INFO - 
+[92/500] Processing G.R. No. 267487
+2025-12-06 10:53:40,196 - INFO -   Title: Jose P. Singh vs. Perfecto S. Corpus, Jr. and Marlene S. Cor...
+2025-12-06 10:53:40,443 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/267487.json
+2025-12-06 10:53:40,943 - INFO - 
+[93/500] Processing G.R. No. 220145
+2025-12-06 10:53:40,943 - INFO -   Title: People of the Philippines vs. XXXConcurring and Dissenting O...
+2025-12-06 10:53:41,624 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/220145.json
+2025-12-06 10:53:42,125 - INFO - 
+[94/500] Processing G.R. No. 259469
+2025-12-06 10:53:42,125 - INFO -   Title: Buyayo Aligayon vs. Jeffrey A.K.A 'Napadawan' Dummang, Johnn...
+2025-12-06 10:53:42,371 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/259469.json
+2025-12-06 10:53:42,871 - INFO - 
+[95/500] Processing G.R. No. 260912
+2025-12-06 10:53:42,872 - INFO -   Title: The Department of Energy vs. Commissioner of Internal Revenu...
+2025-12-06 10:53:43,117 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/260912.json
+2025-12-06 10:53:43,617 - INFO - 
+[96/500] Processing G.R. No. 244017
+2025-12-06 10:53:43,617 - INFO -   Title: Rosalia T. Caballero vs. La Verne Real Ty & Development Corp...
+2025-12-06 10:53:44,296 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/244017.json
+2025-12-06 10:53:44,796 - INFO - 
+[97/500] Processing G.R. No. 266439
+2025-12-06 10:53:44,796 - INFO -   Title: Teresito Radonis Quiqui vs. People of the Philippines...
+2025-12-06 10:53:45,043 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/266439.json
+2025-12-06 10:53:45,543 - INFO - 
+[98/500] Processing G.R. No. 249274
+2025-12-06 10:53:45,543 - INFO -   Title: Syrus J. Aluzan, Jose Henry L. Arellano and Ferdinand M. La ...
+2025-12-06 10:53:46,005 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/249274.json
+2025-12-06 10:53:46,505 - INFO - 
+[99/500] Processing G.R. No. 259709
+2025-12-06 10:53:46,505 - INFO -   Title: Pilipinas Shell Petroleum Corporation vs. Angel Y. Pobre and...
+2025-12-06 10:53:46,966 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/259709.json
+2025-12-06 10:53:47,467 - INFO - 
+[100/500] Processing G.R. No. 259282
+2025-12-06 10:53:47,467 - INFO -   Title: Spouses Antonio and Monette Prieto vs. Bank of the Philippin...
+2025-12-06 10:53:47,936 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/259282.json
+2025-12-06 10:53:48,436 - INFO - 
+[101/500] Processing G.R. No. 238714
+2025-12-06 10:53:48,436 - INFO -   Title: Annaliza C. Singson vs. Spouses Nar Christian Carpio and Cec...
+2025-12-06 10:53:48,900 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/238714.json
+2025-12-06 10:53:49,400 - INFO - 
+[102/500] Processing G.R. No. 261972
+2025-12-06 10:53:49,400 - INFO -   Title: People of the Philippines vs. Mark Angelo Concepcion y Bacun...
+2025-12-06 10:53:49,862 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/261972.json
+2025-12-06 10:53:50,363 - INFO - 
+[103/500] Processing G.R. No. 228919
+2025-12-06 10:53:50,363 - INFO -   Title: Luzviminda Palo vs. Spouses Rey C. Baquirquir...
+2025-12-06 10:53:50,825 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/228919.json
+2025-12-06 10:53:51,326 - INFO - 
+[104/500] Processing G.R. No. 254206
+2025-12-06 10:53:51,326 - INFO -   Title: People of the Philippines vs. Tito P Ajarillay Alas...
+2025-12-06 10:53:51,787 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/254206.json
+2025-12-06 10:53:52,288 - INFO - 
+[105/500] Processing G.R. No. 261670
+2025-12-06 10:53:52,288 - INFO -   Title: Allann Gacasan y Langamin vs. People of the Philippines...
+2025-12-06 10:53:52,751 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/261670.json
+2025-12-06 10:53:53,251 - INFO - 
+[106/500] Processing G.R. No. 247439
+2025-12-06 10:53:53,251 - INFO -   Title: Sheriff Albert A. Dela Cruz of the Sandiganbayan Security an...
+2025-12-06 10:53:53,930 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/247439.json
+2025-12-06 10:53:54,431 - INFO - 
+[107/500] Processing G.R. No. 232778
+2025-12-06 10:53:54,431 - INFO -   Title: Republic of the Philippines vs. Spouses Rolly D. Tan and Gra...
+2025-12-06 10:53:55,109 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/232778.json
+2025-12-06 10:53:55,609 - INFO - 
+[108/500] Processing G.R. No. 240632
+2025-12-06 10:53:55,609 - INFO -   Title: Librado C. Navarro vs. Commission on AuditConcurring Opinion...
+2025-12-06 10:53:56,071 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/240632.json
+2025-12-06 10:53:56,572 - INFO - 
+[109/500] Processing G.R. No. 261207
+2025-12-06 10:53:56,572 - INFO -   Title: Topbest Printing Corporation vs. Sofia C. GemoraConcurring a...
+2025-12-06 10:53:57,034 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/261207.json
+2025-12-06 10:53:57,534 - INFO - 
+[110/500] Processing G.R. No. 239350
+2025-12-06 10:53:57,534 - INFO -   Title: J. Paul Q. Octaviano vs. Board of Architecture of the Profes...
+2025-12-06 10:53:58,215 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/239350.json
+2025-12-06 10:53:58,715 - INFO - 
+[111/500] Processing G.R. No. 262581
+2025-12-06 10:53:58,715 - INFO -   Title: People of the Philippine vs. Sps. XXX262581 and YYY262581...
+2025-12-06 10:53:59,177 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/262581.json
+2025-12-06 10:53:59,677 - INFO - 
+[112/500] Processing G.R. No. 245855
+2025-12-06 10:53:59,677 - INFO -   Title: Romeo DC. Resulta vs. Public Assistance and Corruption Preve...
+2025-12-06 10:54:00,139 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/245855.json
+2025-12-06 10:54:00,639 - INFO - 
+[113/500] Processing G.R. No. 255740
+2025-12-06 10:54:00,639 - INFO -   Title: Pastor Corpus, Jr. y Belmoro vs. People of the Philippines...
+2025-12-06 10:54:01,100 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/255740.json
+2025-12-06 10:54:01,601 - INFO - 
+[114/500] Processing G.R. No. 246942
+2025-12-06 10:54:01,601 - INFO -   Title: People of the Philippines vs. Josephine Angsico, et al....
+2025-12-06 10:54:02,062 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/246942.json
+2025-12-06 10:54:02,563 - INFO - 
+[115/500] Processing G.R. No. 263706
+2025-12-06 10:54:02,563 - INFO -   Title: People of the Philippines vs. Annie Frency Nuñez y Adolfo A....
+2025-12-06 10:54:05,062 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/263706.json
+2025-12-06 10:54:05,563 - INFO - 
+[116/500] Processing G.R. No. 264958
+2025-12-06 10:54:05,563 - INFO -   Title: People of the Philippines vs. Jonnel Delos Reyes y Tungol...
+2025-12-06 10:54:06,023 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/264958.json
+2025-12-06 10:54:06,524 - INFO - 
+[117/500] Processing G.R. No. 258694
+2025-12-06 10:54:06,524 - INFO -   Title: People of the Philippines vs. YYY258694 and XXX258694...
+2025-12-06 10:54:07,201 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/258694.json
+2025-12-06 10:54:07,702 - INFO - 
+[118/500] Processing G.R. No. 261610
+2025-12-06 10:54:07,702 - INFO -   Title: Jarosla V Dobes, Barbo Ra Plaskov A, and Bono Lukas Plasek (...
+2025-12-06 10:54:08,380 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/261610.json
+2025-12-06 10:54:08,880 - INFO - 
+[119/500] Processing G.R. No. 247737
+2025-12-06 10:54:08,880 - INFO -   Title: Mcdonald'S Philippines Realty Corporation vs. Commisioner of...
+2025-12-06 10:54:10,855 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/247737.json
+2025-12-06 10:54:11,355 - INFO - 
+[120/500] Processing G.R. No. 264029
+2025-12-06 10:54:11,355 - INFO -   Title: Joenar Vargas Agravante vs. Commission on Elections, Municip...
+2025-12-06 10:54:12,032 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/264029.json
+2025-12-06 10:54:12,532 - INFO - 
+[121/500] Processing G.R. No. 255981
+2025-12-06 10:54:12,532 - INFO -   Title: XXX vs. People of the Philippines...
+2025-12-06 10:54:13,208 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/255981.json
+2025-12-06 10:54:13,708 - INFO - 
+[122/500] Processing G.R. No. 217417
+2025-12-06 10:54:13,708 - INFO -   Title: People of the Philippines vs. Development Bank of the Philip...
+2025-12-06 10:54:14,601 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/243897.json
+2025-12-06 10:54:15,101 - INFO - 
+[123/500] Processing G.R. No. 256022
+2025-12-06 10:54:15,101 - INFO -   Title: Pedro J. Amarille vs. People of the PhilippinesConcurring Op...
+2025-12-06 10:54:15,564 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/256022.json
+2025-12-06 10:54:16,064 - INFO - 
+[124/500] Processing G.R. No. 261084
+2025-12-06 10:54:16,064 - INFO -   Title: Leo I. Gerundo vs. People of the Philippines...
+2025-12-06 10:54:16,525 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/261084.json
+2025-12-06 10:54:17,025 - INFO - 
+[125/500] Processing G.R. No. 255583
+2025-12-06 10:54:17,025 - INFO -   Title: Axel Tria y Cipriano vs. People of the Philippines...
+2025-12-06 10:54:17,486 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/255583.json
+2025-12-06 10:54:17,987 - INFO - 
+[126/500] Processing G.R. No. 263227
+2025-12-06 10:54:17,987 - INFO -   Title: People of the Philippines vs. XXX...
+2025-12-06 10:54:18,667 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/263227.json
+2025-12-06 10:54:19,167 - INFO - 
+[127/500] Processing G.R. No. 249121
+2025-12-06 10:54:19,167 - INFO -   Title: Felix Nathaniel "Angel" Villanueva Manalo II vs. People of t...
+2025-12-06 10:54:19,844 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/249121.json
+2025-12-06 10:54:20,344 - INFO - 
+[128/500] Processing G.R. No. 251350
+2025-12-06 10:54:20,345 - INFO -   Title: Isabel Cojuangco-Suntay and Emilio Cojuangco-Suntay, Jr. vs....
+2025-12-06 10:54:21,021 - INFO -   Case already exists: RESTRUCTURED_DB/2023/aug/251350.json
+2025-12-06 10:54:21,521 - INFO - 
+[129/500] Processing G.R. No. 258887
+2025-12-06 10:54:21,521 - INFO -   Title: Luz Delos Santos vs. Demy Alma M. Delos Santos, et al....
+2025-12-06 10:54:21,982 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/258887.json
+2025-12-06 10:54:22,482 - INFO - 
+[130/500] Processing G.R. No. 263264
+2025-12-06 10:54:22,482 - INFO -   Title: People of the Philippines vs. Karen Aquino y Gabriel @ Mama ...
+2025-12-06 10:54:23,159 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/263264.json
+2025-12-06 10:54:23,660 - INFO - 
+[131/500] Processing G.R. No. 250486
+2025-12-06 10:54:23,660 - INFO -   Title: Tagumpay Realty Corporation vs. Empire East Land Holding,Inc...
+2025-12-06 10:54:24,121 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/250486.json
+2025-12-06 10:54:24,621 - INFO - 
+[132/500] Processing G.R. No. 256624
+2025-12-06 10:54:24,621 - INFO -   Title: Joy Batislaon y Balicbalic vs. People of the Philippines...
+2025-12-06 10:54:25,082 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/256624.json
+2025-12-06 10:54:25,582 - INFO - 
+[133/500] Processing G.R. No. 261125
+2025-12-06 10:54:25,582 - INFO -   Title: Peter Paul G. Marasigan vs. Benito G. Marasigan, Et Al....
+2025-12-06 10:54:26,261 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/261125.json
+2025-12-06 10:54:26,761 - INFO - 
+[134/500] Processing G.R. No. 202417
+2025-12-06 10:54:26,761 - INFO -   Title: Hon. Corazon J. Soliman vs. Carlos T. Santos...
+2025-12-06 10:54:27,223 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/202417.json
+2025-12-06 10:54:27,723 - INFO - 
+[135/500] Processing G.R. No. 255632
+2025-12-06 10:54:27,723 - INFO -   Title: Danica L. Medina vs. People of the Philippines...
+2025-12-06 10:54:28,186 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/255632.json
+2025-12-06 10:54:28,686 - INFO - 
+[136/500] Processing G.R. No. 245926
+2025-12-06 10:54:28,687 - INFO -   Title: People of the Philippines vs. Accused-Appellant...
+2025-12-06 10:54:29,365 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/245926.json
+2025-12-06 10:54:29,866 - INFO - 
+[137/500] Processing G.R. No. 258925
+2025-12-06 10:54:29,866 - INFO -   Title: People of the Philippines vs. Mark John Maantos y Velasco...
+2025-12-06 10:54:30,327 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/258925.json
+2025-12-06 10:54:30,828 - INFO - 
+[138/500] Processing G.R. No. 254001
+2025-12-06 10:54:30,828 - INFO -   Title: Bayyo Association, Inc. and Anselmo D. Perweg vs. Secretary ...
+2025-12-06 10:54:31,290 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/254001.json
+2025-12-06 10:54:31,790 - INFO - 
+[139/500] Processing G.R. No. 209479
+2025-12-06 10:54:31,790 - INFO -   Title: Federation of Jeepney Operators and Drivers Association of t...
+2025-12-06 10:54:32,472 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/209479.json
+2025-12-06 10:54:32,973 - INFO - 
+[140/500] Processing G.R. No. 260116
+2025-12-06 10:54:32,973 - INFO -   Title: Mayor Agnes Villanueva vs. Honorable Commision on Elections...
+2025-12-06 10:54:34,186 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/260116.json
+2025-12-06 10:54:34,686 - INFO - 
+[141/500] Processing G.R. No. 229471
+2025-12-06 10:54:34,686 - INFO -   Title: Pacific Cement Company vs. Oil and Natural Gas Commission...
+2025-12-06 10:54:35,370 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/229471.json
+2025-12-06 10:54:35,870 - INFO - 
+[142/500] Processing G.R. No. 233930
+2025-12-06 10:54:35,871 - INFO -   Title: Anna May V. Baquirin, et al. vs. Ronald M. Dela RosaSeparate...
+2025-12-06 10:54:36,118 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/233930.json
+2025-12-06 10:54:36,618 - INFO - 
+[143/500] Processing G.R. No. 250610
+2025-12-06 10:54:36,618 - INFO -   Title: People of the Philippines vs. Francis Lorenzo -Versus Valenc...
+2025-12-06 10:54:37,085 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/250610.json
+2025-12-06 10:54:37,585 - INFO - 
+[144/500] Processing G.R. No. 254586
+2025-12-06 10:54:37,585 - INFO -   Title: Rosell R. Arguilles vs. Wilhelmsen Smith Bell Manning, Inc....
+2025-12-06 10:54:38,051 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/254586.json
+2025-12-06 10:54:38,551 - INFO - 
+[145/500] Processing G.R. No. 244202
+2025-12-06 10:54:38,551 - INFO -   Title: Mannasofttechnology Corporation vs. Commissioner of Internal...
+2025-12-06 10:54:38,800 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/244202.json
+2025-12-06 10:54:39,300 - INFO - 
+[146/500] Processing G.R. No. 256798
+2025-12-06 10:54:39,300 - INFO -   Title: Jerry Dean A. Palaoag vs. People of the Philippines...
+2025-12-06 10:54:39,548 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/256798.json
+2025-12-06 10:54:40,048 - INFO - 
+[147/500] Processing G.R. No. 251732
+2025-12-06 10:54:40,048 - INFO -   Title: Julius Enrico Tijam y Noche and Kenneth Bacsid y Ruiz  vs. P...
+2025-12-06 10:54:40,296 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/251732.json
+2025-12-06 10:54:40,796 - INFO - 
+[148/500] Processing G.R. No. 237277
+2025-12-06 10:54:40,797 - INFO -   Title: Alaska Milk Corporation vs. Ruben P. Paez, Florentino M. Com...
+2025-12-06 10:54:41,265 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/237277.json
+2025-12-06 10:54:41,765 - INFO - 
+[149/500] Processing G.R. No. 253716
+2025-12-06 10:54:41,765 - INFO -   Title: Platinum Group Metals Corporation vs. the Mercatile Insuranc...
+2025-12-06 10:54:42,232 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/253716.json
+2025-12-06 10:54:42,732 - INFO - 
+[150/500] Processing G.R. No. 261065
+2025-12-06 10:54:42,732 - INFO -   Title: Commissioner of Internal Revenue vs. Maxicare Healthcare Cor...
+2025-12-06 10:54:42,981 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/261065.json
+2025-12-06 10:54:43,482 - INFO - 
+[151/500] Processing G.R. No. 253531
+2025-12-06 10:54:43,482 - INFO -   Title: Elizabeth Vidal- Plucena vs. Hon. Fla Viano Balgos, Jr., Har...
+2025-12-06 10:54:43,729 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/253531.json
+2025-12-06 10:54:44,229 - INFO - 
+[152/500] Processing G.R. No. 254753
+2025-12-06 10:54:44,229 - INFO -   Title: Siegfred D. Deduro vs. Maj. Gen. Eric C. VinoyaConcurring Op...
+2025-12-06 10:54:44,914 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/254753.json
+2025-12-06 10:54:45,414 - INFO - 
+[153/500] Processing G.R. No. 217862
+2025-12-06 10:54:45,414 - INFO -   Title: Camilo L. Sabio vs. Alain Baguisi, Ma. Kristina C. Ponti, an...
+2025-12-06 10:54:45,670 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jul/217862.json
+2025-12-06 10:54:46,170 - INFO - 
+[154/500] Processing G.R. No. 256060
+2025-12-06 10:54:46,170 - INFO -   Title: Poro Exim Corporation vs. Office of the Ombudsman...
+2025-12-06 10:54:46,418 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/256060.json
+2025-12-06 10:54:46,918 - INFO - 
+[155/500] Processing G.R. No. 182734
+2025-12-06 10:54:46,918 - INFO -   Title: Bayan Muna Party-List Representatives Satur C. Ocampo vs. Pr...
+2025-12-06 10:54:47,383 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/182734.json
+2025-12-06 10:54:47,883 - INFO - 
+[156/500] Processing G.R. No. 246126
+2025-12-06 10:54:47,883 - INFO -   Title: Patricia Marie I. Ranada, et al. vs. Office of the President...
+2025-12-06 10:54:48,348 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/246126.json
+2025-12-06 10:54:48,848 - INFO - 
+[157/500] Processing G.R. No. 218008
+2025-12-06 10:54:48,848 - INFO -   Title: Maria Josephine Praxedes Octaviano vs. Karl Heinz Ruthe and ...
+2025-12-06 10:54:49,096 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/218008.json
+2025-12-06 10:54:49,596 - INFO - 
+[158/500] Processing G.R. No. 253069
+2025-12-06 10:54:49,596 - INFO -   Title: Republic of the Philippines vs. Spouses Roberto and Rosemari...
+2025-12-06 10:54:50,060 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/253069.json
+2025-12-06 10:54:50,560 - INFO - 
+[159/500] Processing G.R. No. 234203
+2025-12-06 10:54:50,560 - INFO -   Title: The Heirs of Loreto San Jose Ferrer vs. Rosita San Jose Ferr...
+2025-12-06 10:54:51,024 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/234203.json
+2025-12-06 10:54:51,524 - INFO - 
+[160/500] Processing G.R. No. 205074
+2025-12-06 10:54:51,524 - INFO -   Title: Joel Cordero, et al. vs. Gutierrez Development Co., Inc....
+2025-12-06 10:54:51,988 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/205074.json
+2025-12-06 10:54:52,488 - INFO - 
+[161/500] Processing G.R. No. 231145
+2025-12-06 10:54:52,488 - INFO -   Title: Social Security System vs. Hon. Gina M. Bibat-Palamos, in He...
+2025-12-06 10:54:52,735 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/231145.json
+2025-12-06 10:54:53,236 - INFO - 
+[162/500] Processing G.R. No. 234660
+2025-12-06 10:54:53,236 - INFO -   Title: Spouses Magdalino Gabun and Carol Gabun, Nora A. Lopez, and ...
+2025-12-06 10:54:53,702 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/234660.json
+2025-12-06 10:54:54,202 - INFO - 
+[163/500] Processing G.R. No. 243864
+2025-12-06 10:54:54,202 - INFO -   Title: Integrated Supervisors Union-Apsoteu-Tucp and Emmanuelbaltaz...
+2025-12-06 10:54:54,667 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/243864.json
+2025-12-06 10:54:55,167 - INFO - 
+[164/500] Processing G.R. No. 246081
+2025-12-06 10:54:55,167 - INFO -   Title: Ignacio Balicanta III y Cuatro vs. People of the Philippines...
+2025-12-06 10:54:55,415 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/246081.json
+2025-12-06 10:54:55,916 - INFO - 
+[165/500] Processing G.R. No. 231395
+2025-12-06 10:54:55,916 - INFO -   Title: AFP Retirement and Separation Benefits System (AFP-RSBS) vs....
+2025-12-06 10:54:56,381 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/231395.json
+2025-12-06 10:54:56,881 - INFO - 
+[166/500] Processing G.R. No. 260823
+2025-12-06 10:54:56,881 - INFO -   Title: People of the Philippines vs. Rizalina Janario Gumba A.K.A "...
+2025-12-06 10:54:57,350 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/260823.json
+2025-12-06 10:54:57,850 - INFO - 
+[167/500] Processing G.R. No. 234614
+2025-12-06 10:54:57,850 - INFO -   Title: Oceanagold (Philippines), Inc. vs. Commissioner of Internal ...
+2025-12-06 10:54:58,098 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/234614.json
+2025-12-06 10:54:58,599 - INFO - 
+[168/500] Processing G.R. No. 257427
+2025-12-06 10:54:58,599 - INFO -   Title: Florida P. Robes vs. Commission on ElectionsSeparate Concurr...
+2025-12-06 10:54:59,063 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/257427.json
+2025-12-06 10:54:59,564 - INFO - 
+[169/500] Processing G.R. No. 223865
+2025-12-06 10:54:59,564 - INFO -   Title: Silahis International Hotel, Inc. vs. Court of Appeals and P...
+2025-12-06 10:55:00,036 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/223865.json
+2025-12-06 10:55:00,536 - INFO - 
+[170/500] Processing G.R. No. 184635
+2025-12-06 10:55:00,536 - INFO -   Title: Initiative for Dialogue and Empowerment Through Alternative ...
+2025-12-06 10:55:01,454 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/184635.json
+2025-12-06 10:55:01,955 - INFO - 
+[171/500] Processing G.R. No. 259354
+2025-12-06 10:55:01,955 - INFO -   Title: National Press Club of the Philippines, Automated Election S...
+2025-12-06 10:55:02,205 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/259354.json
+2025-12-06 10:55:02,705 - INFO - 
+[172/500] Processing G.R. No. 217064
+2025-12-06 10:55:02,705 - INFO -   Title: Naomi Lourdes A. Herrera vs. Sandiganbayan of the Philippine...
+2025-12-06 10:55:02,955 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jun/217064.json
+2025-12-06 10:55:03,455 - INFO - 
+[173/500] Processing G.R. No. 249283
+2025-12-06 10:55:03,455 - INFO -   Title: PO2 Ireneo M. Sosas, Jr. vs. People of the Philippines...
+2025-12-06 10:55:03,704 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/249283.json
+2025-12-06 10:55:04,204 - INFO - 
+[174/500] Processing G.R. No. 198609
+2025-12-06 10:55:04,204 - INFO -   Title: Department of Finance and Department of Energy vs. Philippin...
+2025-12-06 10:55:04,886 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/229812.json
+2025-12-06 10:55:05,386 - INFO - 
+[175/500] Processing G.R. No. 244054
+2025-12-06 10:55:05,386 - INFO -   Title: Gloria F. Quiroz vs. Ramon R. Nalus...
+2025-12-06 10:55:05,632 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/244054.json
+2025-12-06 10:55:06,132 - INFO - 
+[176/500] Processing G.R. No. 237558
+2025-12-06 10:55:06,132 - INFO -   Title: Margarito B. Teves vs. Office of the Ombudsman...
+2025-12-06 10:55:06,815 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/237558.json
+2025-12-06 10:55:07,316 - INFO - 
+[177/500] Processing G.R. No. 201914
+2025-12-06 10:55:07,316 - INFO -   Title: Josechito B. Gonzaga, Ruel A. Magsino, and Alfredo B. Santos...
+2025-12-06 10:55:08,300 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:55:08,300 - INFO - 
+[178/500] Processing G.R. No. 204568
+2025-12-06 10:55:08,300 - INFO -   Title: Herman G. Limbo vs. People of the Philippines/Cecilia Li vs....
+2025-12-06 10:55:09,279 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:55:09,279 - INFO - 
+[179/500] Processing G.R. No. 257342
+2025-12-06 10:55:09,279 - INFO -   Title: Mary Elizabeth Ortiga Ty vs. House of Representatives Electo...
+2025-12-06 10:55:09,749 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/257342.json
+2025-12-06 10:55:10,250 - INFO - 
+[180/500] Processing G.R. No. 228234
+2025-12-06 10:55:10,250 - INFO -   Title: Jovencio H. Evangelista vs. Philippine Amusement and Gaming ...
+2025-12-06 10:55:10,932 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/228234.json
+2025-12-06 10:55:11,432 - INFO - 
+[181/500] Processing G.R. No. 227004
+2025-12-06 10:55:11,432 - INFO -   Title: ABS-CBN Corporation and Jorge Cariño vs. Datu Andal Ampatuan...
+2025-12-06 10:55:13,863 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/227004.json
+2025-12-06 10:55:14,363 - INFO - 
+[182/500] Processing G.R. No. 256700
+2025-12-06 10:55:14,363 - INFO -   Title: People of the Philippines vs. Jomerito S. SolimanConcurring ...
+2025-12-06 10:55:14,827 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/256700.json
+2025-12-06 10:55:15,328 - INFO - 
+[183/500] Processing G.R. No. 204687
+2025-12-06 10:55:15,328 - INFO -   Title: United Coconut Planters Bank vs. Commissioner of Internal Re...
+2025-12-06 10:55:15,791 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/204687.json
+2025-12-06 10:55:16,291 - INFO - 
+[184/500] Processing G.R. No. 236140
+2025-12-06 10:55:16,291 - INFO -   Title: Josefina C. Billote vs. Spouses Victor and Remedios T. Badar...
+2025-12-06 10:55:16,976 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/236140.json
+2025-12-06 10:55:17,476 - INFO - 
+[185/500] Processing G.R. No. 258126
+2025-12-06 10:55:17,476 - INFO -   Title: Jonathan Gabriel Biron, Et Al. vs. People of the Philippines...
+2025-12-06 10:55:17,939 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/258126.json
+2025-12-06 10:55:18,439 - INFO - 
+[186/500] Processing G.R. No. 201944
+2025-12-06 10:55:18,439 - INFO -   Title: Bonifacio Communications Corporation and Philippine Long Dis...
+2025-12-06 10:55:19,419 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:55:19,419 - INFO - 
+[187/500] Processing G.R. No. 211772
+2025-12-06 10:55:19,419 - INFO -   Title: Integrated Bar of the Philippines vs. Secretary Cesar V. Pur...
+2025-12-06 10:55:20,538 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/211772.json
+2025-12-06 10:55:21,039 - INFO - 
+[188/500] Processing G.R. No. 225774
+2025-12-06 10:55:21,039 - INFO -   Title: Jessie Javier Carlos vs. Department of Finance - Revenue Int...
+2025-12-06 10:55:21,503 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/225774.json
+2025-12-06 10:55:22,003 - INFO - 
+[189/500] Processing G.R. No. 249715
+2025-12-06 10:55:22,003 - INFO -   Title: M.Y. Intercontinental Trading Corporation, Tedwin T. Uy, and...
+2025-12-06 10:55:22,688 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/249715.json
+2025-12-06 10:55:23,188 - INFO - 
+[190/500] Processing G.R. No. 252790
+2025-12-06 10:55:23,189 - INFO -   Title: Malayan Bank Savings and Mortgage Bank vs. Holcim Philippine...
+2025-12-06 10:55:23,653 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/252790.json
+2025-12-06 10:55:24,153 - INFO - 
+[191/500] Processing G.R. No. 260109
+2025-12-06 10:55:24,153 - INFO -   Title: Rochard Balsalvio y Dominguez vs. People of the Phillppines...
+2025-12-06 10:55:24,616 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/260109.json
+2025-12-06 10:55:25,116 - INFO - 
+[192/500] Processing G.R. No. 240126
+2025-12-06 10:55:25,116 - INFO -   Title: Jamel M. Adoma vs. People of the Philippines...
+2025-12-06 10:55:25,581 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/240126.json
+2025-12-06 10:55:26,081 - INFO - 
+[193/500] Processing G.R. No. 257805
+2025-12-06 10:55:26,081 - INFO -   Title: Lee Saking y Anniban @ Lee Saking Sanniban vs. People of the...
+2025-12-06 10:55:26,546 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/257805.json
+2025-12-06 10:55:27,046 - INFO - 
+[194/500] Processing G.R. No. 236173
+2025-12-06 10:55:27,046 - INFO -   Title: Heirs of Nicanor Garcia vs. Spouses Dominador J. Burgos and ...
+2025-12-06 10:55:27,511 - INFO -   Case already exists: RESTRUCTURED_DB/2023/apr/236173.json
+2025-12-06 10:55:28,012 - INFO - 
+[195/500] Processing G.R. No. 254194
+2025-12-06 10:55:28,012 - INFO -   Title: Rosita V. Zamora vs. Ramon Bagatsing, Jr., et al....
+2025-12-06 10:55:28,259 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/254194.json
+2025-12-06 10:55:28,760 - INFO - 
+[196/500] Processing G.R. No. 236525
+2025-12-06 10:55:28,760 - INFO -   Title: Chevron Philippines, Inc. vs. Alberto T. Looyuko...
+2025-12-06 10:55:29,443 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/236525.json
+2025-12-06 10:55:29,943 - INFO - 
+[197/500] Processing G.R. No. 249684
+2025-12-06 10:55:29,943 - INFO -   Title: Spouses Eloisa Clarito Aba Yon and Rommil Regenio Abayon vs....
+2025-12-06 10:55:30,191 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/249684.json
+2025-12-06 10:55:30,691 - INFO - 
+[198/500] Processing G.R. No. 225204
+2025-12-06 10:55:30,692 - INFO -   Title: F/Dir. Rogelio F.Asignado (Ret.), F/Dir. Jose E. Collado (Re...
+2025-12-06 10:55:31,670 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:55:31,670 - INFO - 
+[199/500] Processing G.R. No. 244214
+2025-12-06 10:55:31,670 - INFO -   Title: Republic of the Philippines, Represented By the Department o...
+2025-12-06 10:55:32,647 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:55:32,648 - INFO - 
+[200/500] Processing G.R. No. 215650
+2025-12-06 10:55:32,648 - INFO -   Title: Augusto L. Syjuco, Jr. vs. Joseph Emilio AbayaConcurring Opi...
+2025-12-06 10:55:33,555 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/215650.json
+2025-12-06 10:55:34,055 - INFO - 
+[201/500] Processing G.R. No. 257401
+2025-12-06 10:55:34,055 - INFO -   Title: Linconn Uy Ong vs. the Senate of the PhilippinesConcurring O...
+2025-12-06 10:55:34,527 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/257401.json
+2025-12-06 10:55:35,027 - INFO - 
+[202/500] Processing G.R. No. 243368
+2025-12-06 10:55:35,027 - INFO -   Title: Paranaque Industry Owners Association vs. James Paul G. Reci...
+2025-12-06 10:55:35,276 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/243368.json
+2025-12-06 10:55:35,776 - INFO - 
+[203/500] Processing G.R. No. 215527
+2025-12-06 10:55:35,776 - INFO -   Title: Presidential Commission on Good Government, Julieta C. Bertu...
+2025-12-06 10:55:36,754 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:55:36,754 - INFO - 
+[204/500] Processing G.R. No. 238798
+2025-12-06 10:55:36,754 - INFO -   Title: CICL XXX vs. People of the PhilippinesConcurring OpinionChie...
+2025-12-06 10:55:37,220 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/238798.json
+2025-12-06 10:55:37,721 - INFO - 
+[205/500] Processing G.R. No. 252092
+2025-12-06 10:55:37,721 - INFO -   Title: Sophia T. Borja, et al. vs. Commission on Audit (COA)...
+2025-12-06 10:55:38,186 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/252092.json
+2025-12-06 10:55:38,686 - INFO - 
+[206/500] Processing G.R. No. 190266
+2025-12-06 10:55:38,686 - INFO -   Title: City of Batangas, Represented By Hon. Eduardo B. Dimacuha, i...
+2025-12-06 10:55:39,664 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:55:39,664 - INFO - 
+[207/500] Processing G.R. No. 257849
+2025-12-06 10:55:39,664 - INFO -   Title: Philippine Charity Sweepstakes Office vs. Antonio F. Mendoza...
+2025-12-06 10:55:39,913 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/257849.json
+2025-12-06 10:55:40,413 - INFO - 
+[208/500] Processing G.R. No. 230013
+2025-12-06 10:55:40,413 - INFO -   Title: 4E Steel Builders Corporation and Spouses Filomeno G. Ecrael...
+2025-12-06 10:55:40,883 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/230013.json
+2025-12-06 10:55:41,383 - INFO - 
+[209/500] Processing G.R. No. 249387
+2025-12-06 10:55:41,383 - INFO -   Title: Rehman Sabir vs. Department of Justice-Refugees and Stateles...
+2025-12-06 10:55:41,631 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/249387.json
+2025-12-06 10:55:42,131 - INFO - 
+[210/500] Processing G.R. No. 253312
+2025-12-06 10:55:42,131 - INFO -   Title: Rodrigo Conche Y Obilo vs. People of the Philippines...
+2025-12-06 10:55:42,596 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/253312.json
+2025-12-06 10:55:43,096 - INFO - 
+[211/500] Processing G.R. No. 256301
+2025-12-06 10:55:43,096 - INFO -   Title: People of the Philippines vs. Joel Gabisay, Jr. Y Elpa and R...
+2025-12-06 10:55:43,561 - INFO -   Case already exists: RESTRUCTURED_DB/2023/mar/256301.json
+2025-12-06 10:55:44,061 - INFO - 
+[212/500] Processing G.R. No. 258914
+2025-12-06 10:55:44,061 - INFO -   Title: Jocelyn Eleazar Monteros vs. Task Force Abono-Field Investig...
+2025-12-06 10:55:44,526 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/258914.json
+2025-12-06 10:55:45,027 - INFO - 
+[213/500] Processing G.R. No. 222897
+2025-12-06 10:55:45,027 - INFO -   Title: Sta. Lucia Realty and Development, in Corpora Ted vs. Edsel ...
+2025-12-06 10:55:45,491 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/222897.json
+2025-12-06 10:55:45,991 - INFO - 
+[214/500] Processing G.R. No. 211363
+2025-12-06 10:55:45,991 - INFO -   Title: Estrella Pabalan vs. Vasabude SabnaniConcurring OpinionJusti...
+2025-12-06 10:55:46,460 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/211363.json
+2025-12-06 10:55:46,961 - INFO - 
+[215/500] Processing G.R. No. 256907
+2025-12-06 10:55:46,961 - INFO -   Title: Chamber of Customs, Inc. (CCBI) vs. Commissioner of Customs...
+2025-12-06 10:55:47,209 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/256907.json
+2025-12-06 10:55:47,709 - INFO - 
+[216/500] Processing G.R. No. 203353
+2025-12-06 10:55:47,709 - INFO -   Title: Universal Robina Corporation vs. Department of Trade and Ind...
+2025-12-06 10:55:48,176 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/203353.json
+2025-12-06 10:55:48,677 - INFO - 
+[217/500] Processing G.R. No. 230818
+2025-12-06 10:55:48,677 - INFO -   Title: Efraim C. Genuino vs. Commision on Audit, et al,Concurring a...
+2025-12-06 10:55:49,143 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/230818.json
+2025-12-06 10:55:49,643 - INFO - 
+[218/500] Processing G.R. No. 200224
+2025-12-06 10:55:49,643 - INFO -   Title: Globe Telecom, Inc. and Innove Communications Inc. vs. Natio...
+2025-12-06 10:55:50,110 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/200224.json
+2025-12-06 10:55:50,610 - INFO - 
+[219/500] Processing G.R. No. 259309
+2025-12-06 10:55:50,610 - INFO -   Title: Commissioner of Internal Revenue vs. Toledo Power Company...
+2025-12-06 10:55:50,859 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/259309.json
+2025-12-06 10:55:51,360 - INFO - 
+[220/500] Processing G.R. No. 257151
+2025-12-06 10:55:51,360 - INFO -   Title: Banco De Oro Universal Inc vs. Liza A. Seastres and Annabell...
+2025-12-06 10:55:52,519 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/257151.json
+2025-12-06 10:55:53,020 - INFO - 
+[221/500] Processing G.R. No. 257675
+2025-12-06 10:55:53,020 - INFO -   Title: People of the Philippines vs. Cherrylyn Ramos y Garcia A.K.A...
+2025-12-06 10:55:53,487 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/257675.json
+2025-12-06 10:55:53,987 - INFO - 
+[222/500] Processing G.R. No. 220500
+2025-12-06 10:55:53,987 - INFO -   Title: Cristina Amposta-Mortel vs. People of the Philippines/Theron...
+2025-12-06 10:55:54,676 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/220500.json
+2025-12-06 10:55:55,176 - INFO - 
+[223/500] Processing G.R. No. 242957
+2025-12-06 10:55:55,176 - INFO -   Title: The Board of Commisioners of the Bureau of Immigration and t...
+2025-12-06 10:55:55,649 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/242957.json
+2025-12-06 10:55:56,149 - INFO - 
+[224/500] Processing G.R. No. 214148
+2025-12-06 10:55:56,149 - INFO -   Title: Phillips Seafood Philippines Corporation vs. Tuna Processors...
+2025-12-06 10:55:56,403 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/214148.json
+2025-12-06 10:55:56,903 - INFO - 
+[225/500] Processing G.R. No. 257134
+2025-12-06 10:55:56,903 - INFO -   Title: XXX257134 vs. People of the Philippines...
+2025-12-06 10:55:57,151 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/257134.json
+2025-12-06 10:55:57,651 - INFO - 
+[226/500] Processing G.R. No. 246710
+2025-12-06 10:55:57,651 - INFO -   Title: Quezon City Eye Center vs. Philippine Health Insurance Corpo...
+2025-12-06 10:55:58,626 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:55:58,626 - INFO - 
+[227/500] Processing G.R. No. 234435
+2025-12-06 10:55:58,626 - INFO -   Title: Tahira S. Ismael and Aida U. Ajijon vs. People of the Philip...
+2025-12-06 10:55:59,601 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:55:59,601 - INFO - 
+[228/500] Processing G.R. No. 230260
+2025-12-06 10:55:59,601 - INFO -   Title: Department of Finance-Revenue Integrity Protection Service v...
+2025-12-06 10:56:00,065 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/230260.json
+2025-12-06 10:56:00,566 - INFO - 
+[229/500] Processing G.R. No. 254267
+2025-12-06 10:56:00,566 - INFO -   Title: Far East Fuel Corporation vs. Airtropolis Consolidators Phil...
+2025-12-06 10:56:00,815 - INFO -   Case already exists: RESTRUCTURED_DB/2023/feb/254267.json
+2025-12-06 10:56:01,315 - INFO - 
+[230/500] Processing G.R. No. 240542
+2025-12-06 10:56:01,315 - INFO -   Title: People of the Philippines vs. Baltazar Achay, Jr. y Docil...
+2025-12-06 10:56:01,563 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/240542.json
+2025-12-06 10:56:02,063 - INFO - 
+[231/500] Processing G.R. No. 258894
+2025-12-06 10:56:02,063 - INFO -   Title: Glen Orda y Loyola vs. People of the PhilippinesConcurring a...
+2025-12-06 10:56:02,311 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/258894.json
+2025-12-06 10:56:02,811 - INFO - 
+[232/500] Processing G.R. No. 255470
+2025-12-06 10:56:02,812 - INFO -   Title: Commissioner of Internal Revenue vs. Cargill Philippines, In...
+2025-12-06 10:56:03,787 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:56:03,787 - INFO - 
+[233/500] Processing G.R. No. 221553
+2025-12-06 10:56:03,787 - INFO -   Title: In Re: Petition for Registration and Issuance of Title for L...
+2025-12-06 10:56:04,250 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/221553.json
+2025-12-06 10:56:04,750 - INFO - 
+[234/500] Processing G.R. No. 255538
+2025-12-06 10:56:04,750 - INFO -   Title: Elene Gaerlan-Ostonal vs. Romeo Flores, Et Al....
+2025-12-06 10:56:05,213 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/255538.json
+2025-12-06 10:56:05,713 - INFO - 
+[235/500] Processing G.R. No. 236118
+2025-12-06 10:56:05,713 - INFO -   Title: Act Teachers Rep. Antonio Tinio, et al. vs. President Rodrig...
+2025-12-06 10:56:06,399 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/236118.json
+2025-12-06 10:56:06,899 - INFO - 
+[236/500] Processing G.R. No. 257610
+2025-12-06 10:56:06,899 - INFO -   Title: Glen Quintos Albano vs. Commission on ElectionsConcurring Op...
+2025-12-06 10:56:07,150 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/257610.json
+2025-12-06 10:56:07,650 - INFO - 
+[237/500] Processing G.R. No. 251978
+2025-12-06 10:56:07,650 - INFO -   Title: Anecita C. Suyat, Asano E. Aban, and Marcelino P. Endi vs. C...
+2025-12-06 10:56:08,625 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:56:08,625 - INFO - 
+[238/500] Processing G.R. No. 261882
+2025-12-06 10:56:08,625 - INFO -   Title: Arturo Realiza y Valenton vs. People of the Philippines...
+2025-12-06 10:56:08,871 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/261882.json
+2025-12-06 10:56:09,371 - INFO - 
+[239/500] Processing G.R. No. 246318
+2025-12-06 10:56:09,371 - INFO -   Title: Arthur Cua Yap vs. Sandiganbayan (Sixth Division) and People...
+2025-12-06 10:56:09,833 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/237997.json
+2025-12-06 10:56:10,333 - INFO - 
+[240/500] Processing G.R. No. 236282
+2025-12-06 10:56:10,333 - INFO -   Title: Piolito C. Santos vs. the Honorable Commission on Audit...
+2025-12-06 10:56:11,030 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/236282.json
+2025-12-06 10:56:11,530 - INFO - 
+[241/500] Processing G.R. No. 248890
+2025-12-06 10:56:11,530 - INFO -   Title: Ma. Cecilia P. Ngo vs. Fortune Medicare, Inc....
+2025-12-06 10:56:11,778 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/248890.json
+2025-12-06 10:56:12,278 - INFO - 
+[242/500] Processing G.R. No. 258526
+2025-12-06 10:56:12,278 - INFO -   Title: Manila Credit Corporation vs. Ramon S. Viroomal and Anita S....
+2025-12-06 10:56:12,529 - INFO -   Case already exists: RESTRUCTURED_DB/2023/jan/258526.json
+2025-12-06 10:56:13,029 - INFO - 
+[243/500] Processing G.R. No. 245982
+2025-12-06 10:56:13,030 - INFO -   Title: Philippine Pizza, Inc. vs. Michael A. Oraa, Bernardito R. Ga...
+2025-12-06 10:56:14,008 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:56:14,009 - INFO - 
+[244/500] Processing G.R. No. 232798
+2025-12-06 10:56:14,009 - INFO -   Title: Advan Motor, Inc. vs. Lila R. Saavedra...
+2025-12-06 10:56:14,256 - INFO -   Case already exists: RESTRUCTURED_DB/2022/dec/232798.json
+2025-12-06 10:56:14,756 - INFO - 
+[245/500] Processing G.R. No. 258095
+2025-12-06 10:56:14,756 - INFO -   Title: Leilani Lim Go vs. Hendrick N. Go...
+2025-12-06 10:56:15,221 - INFO -   Case already exists: RESTRUCTURED_DB/2022/dec/258095.json
+2025-12-06 10:56:15,721 - INFO - 
+[246/500] Processing G.R. No. 248505
+2025-12-06 10:56:15,721 - INFO -   Title: Rodolfo Serapion, Sr. and Rodolfo Serapion, Jr., vs. Napoleo...
+2025-12-06 10:56:15,969 - INFO -   Case already exists: RESTRUCTURED_DB/2022/dec/248505.json
+2025-12-06 10:56:16,469 - INFO - 
+[247/500] Processing G.R. No. 204868
+2025-12-06 10:56:16,469 - INFO -   Title: Toledo Construction Corp. Employees vs. Toledo Construction ...
+2025-12-06 10:56:16,937 - INFO -   Case already exists: RESTRUCTURED_DB/2022/dec/204868.json
+2025-12-06 10:56:17,437 - INFO - 
+[248/500] Processing G.R. No. 238581
+2025-12-06 10:56:17,437 - INFO -   Title: Steven Rouche vs. French Chamber Commerce in the Phillipines...
+2025-12-06 10:56:17,687 - INFO -   Case already exists: RESTRUCTURED_DB/2022/dec/238581.json
+2025-12-06 10:56:18,187 - INFO - 
+[249/500] Processing G.R. No. 257358
+2025-12-06 10:56:18,187 - INFO -   Title: Atty. Moises De Guia vs. Office of the Ombudsman...
+2025-12-06 10:56:18,434 - INFO -   Case already exists: RESTRUCTURED_DB/2022/dec/257358.json
+2025-12-06 10:56:18,934 - INFO - 
+[250/500] Processing G.R. No. 250736
+2025-12-06 10:56:18,934 - INFO -   Title: People of the Philippines vs. Court of Tax Appeals - Third D...
+2025-12-06 10:56:19,910 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:56:19,910 - INFO - 
+[251/500] Processing G.R. No. 253426
+2025-12-06 10:56:19,910 - INFO -   Title: Ana Maria C. Manguerra vs. Ma. Patricia Concepcion E. Mangue...
+2025-12-06 10:56:20,373 - INFO -   Case already exists: RESTRUCTURED_DB/2022/nov/253426.json
+2025-12-06 10:56:20,873 - INFO - 
+[252/500] Processing G.R. No. 192836
+2025-12-06 10:56:20,874 - INFO -   Title: The Philippine Ports Authority vs. Pambangsang Tinig at Laka...
+2025-12-06 10:56:21,339 - INFO -   Case already exists: RESTRUCTURED_DB/2022/nov/192836.json
+2025-12-06 10:56:21,840 - INFO - 
+[253/500] Processing G.R. No. 212971
+2025-12-06 10:56:21,840 - INFO -   Title: Republic of the Philippines vs. John Arnel H. Amata...
+2025-12-06 10:56:22,303 - INFO -   Case already exists: RESTRUCTURED_DB/2022/nov/212971.json
+2025-12-06 10:56:22,803 - INFO - 
+[254/500] Processing G.R. No. 214259
+2025-12-06 10:56:22,803 - INFO -   Title: Leodegario D. Boongaling vs. Banco San Juan, represented by ...
+2025-12-06 10:56:23,049 - INFO -   Case already exists: RESTRUCTURED_DB/2022/nov/214259.json
+2025-12-06 10:56:23,550 - INFO - 
+[255/500] Processing G.R. No. 230352
+2025-12-06 10:56:23,550 - INFO -   Title: Career Philippines Shipmanagement Inc., Columbia Shipmanagem...
+2025-12-06 10:56:24,012 - INFO -   Case already exists: RESTRUCTURED_DB/2022/nov/230352.json
+2025-12-06 10:56:24,512 - INFO - 
+[256/500] Processing G.R. No. 258328
+2025-12-06 10:56:24,512 - INFO -   Title: People of the Philippines vs. Jose Vastine y Gibson @ Jimmy...
+2025-12-06 10:56:24,974 - INFO -   Case already exists: RESTRUCTURED_DB/2022/nov/258328.json
+2025-12-06 10:56:25,474 - INFO - 
+[257/500] Processing G.R. No. 245918
+2025-12-06 10:56:25,475 - INFO -   Title: Mindanao International Container Terminal Services, Inc. vs....
+2025-12-06 10:56:25,941 - INFO -   Case already exists: RESTRUCTURED_DB/2022/nov/245918.json
+2025-12-06 10:56:26,441 - INFO - 
+[258/500] Processing G.R. No. 258187
+2025-12-06 10:56:26,441 - INFO -   Title: People of the Philippines vs. Raymund Camarse y Gimotea...
+2025-12-06 10:56:26,688 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/258187.json
+2025-12-06 10:56:27,188 - INFO - 
+[259/500] Processing G.R. No. 249754
+2025-12-06 10:56:27,188 - INFO -   Title: The Heirs of Teodoro Ribac (Deceased), Represented By His He...
+2025-12-06 10:56:27,651 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/249754.json
+2025-12-06 10:56:28,151 - INFO - 
+[260/500] Processing G.R. No. 238859
+2025-12-06 10:56:28,152 - INFO -   Title: Elba J. Caballero vs. Vikings Commissary and/or Jackson Go, ...
+2025-12-06 10:56:28,617 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/238859.json
+2025-12-06 10:56:29,117 - INFO - 
+[261/500] Processing G.R. No. 223611
+2025-12-06 10:56:29,117 - INFO -   Title: Marcos Antonio Morales, Georgina D. Tribujenia, Cicero A. Ca...
+2025-12-06 10:56:29,365 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/223611.json
+2025-12-06 10:56:29,866 - INFO - 
+[262/500] Processing G.R. No. 237369
+2025-12-06 10:56:29,866 - INFO -   Title: Land Bank of the Philippines vs. Albrando R. Abellana...
+2025-12-06 10:56:30,115 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/237369.json
+2025-12-06 10:56:30,615 - INFO - 
+[263/500] Processing G.R. No. 255258
+2025-12-06 10:56:30,615 - INFO -   Title: Heirs of Arturo E. Bandoy and Heirs of Angelita E. Bandoy vs...
+2025-12-06 10:56:31,080 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/255258.json
+2025-12-06 10:56:31,580 - INFO - 
+[264/500] Processing G.R. No. 232168
+2025-12-06 10:56:31,580 - INFO -   Title: Civil Service Commission vs. Jejomar Erwin S. Bina Y, Jr. an...
+2025-12-06 10:56:31,827 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/232168.json
+2025-12-06 10:56:32,328 - INFO - 
+[265/500] Processing G.R. No. 222259
+2025-12-06 10:56:32,328 - INFO -   Title: Lowella Yap vs. Almeda Yap, Hearty Yap-Dybongco and Diosdado...
+2025-12-06 10:56:32,793 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/222259.json
+2025-12-06 10:56:33,293 - INFO - 
+[266/500] Processing G.R. No. 255802
+2025-12-06 10:56:33,293 - INFO -   Title: One Shipping Corporation vs. Heirs of the Late Ricardo R. Ab...
+2025-12-06 10:56:33,757 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/255802.json
+2025-12-06 10:56:34,257 - INFO - 
+[267/500] Processing G.R. No. 211478
+2025-12-06 10:56:34,257 - INFO -   Title: Zenaida O. Duhay, et al. vs. Hon. Office of the Ombudsman...
+2025-12-06 10:56:35,233 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:56:35,233 - INFO - 
+[268/500] Processing G.R. No. 237815
+2025-12-06 10:56:35,233 - INFO -   Title: Orlando A. Fua, Jr. vs. People of the Philippines...
+2025-12-06 10:56:36,618 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/237815.json
+2025-12-06 10:56:37,118 - INFO - 
+[269/500] Processing G.R. No. 235033
+2025-12-06 10:56:37,118 - INFO -   Title: Kristine Calubaquib-Diaz vs. Dino Lopez Diaz...
+2025-12-06 10:56:37,582 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/235033.json
+2025-12-06 10:56:38,082 - INFO - 
+[270/500] Processing G.R. No. 257446
+2025-12-06 10:56:38,082 - INFO -   Title: Jhon Kenneth M. Porto, Chennie Ann Rose Elca, and Jomar Jonh...
+2025-12-06 10:56:38,546 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/257446.json
+2025-12-06 10:56:39,046 - INFO - 
+[271/500] Processing G.R. No. 247868
+2025-12-06 10:56:39,046 - INFO -   Title: Land Bank of the Philippines vs. Arturo L. Ramos, Josepine R...
+2025-12-06 10:56:39,508 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/247868.json
+2025-12-06 10:56:40,009 - INFO - 
+[272/500] Processing G.R. No. 232755
+2025-12-06 10:56:40,009 - INFO -   Title: Merlita Janeo Ramos vs. Emelita Janeo Sol...
+2025-12-06 10:56:40,473 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/232755.json
+2025-12-06 10:56:40,973 - INFO - 
+[273/500] Processing G.R. No. 252715
+2025-12-06 10:56:40,973 - INFO -   Title: Joel G. Nolasco vs. Purence Realty Corporation...
+2025-12-06 10:56:41,220 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/252715.json
+2025-12-06 10:56:41,720 - INFO - 
+[274/500] Processing G.R. No. 259728
+2025-12-06 10:56:41,720 - INFO -   Title: People of the Philippines vs. Darwin Reyes y Cabornay...
+2025-12-06 10:56:42,182 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/259728.json
+2025-12-06 10:56:42,682 - INFO - 
+[275/500] Processing G.R. No. 232029
+2025-12-06 10:56:42,682 - INFO -   Title: Grace T. Chingkoe vs. Sandiganbayan (First Division) and the...
+2025-12-06 10:56:43,658 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:56:43,658 - INFO - 
+[276/500] Processing G.R. No. 238308
+2025-12-06 10:56:43,658 - INFO -   Title: Republic of the Philippines vs. Teresita I. Salinas...
+2025-12-06 10:56:43,904 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/238308.json
+2025-12-06 10:56:44,404 - INFO - 
+[277/500] Processing G.R. No. 224945
+2025-12-06 10:56:44,404 - INFO -   Title: Girlie J. Lingad vs. People of the PhilippineSeparate Opinio...
+2025-12-06 10:56:45,085 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/224945.json
+2025-12-06 10:56:45,585 - INFO - 
+[278/500] Processing G.R. No. 190980
+2025-12-06 10:56:45,586 - INFO -   Title: Stradcom Corporation vs. Mario Teodoro Failon Etong A.K.A. T...
+2025-12-06 10:56:46,561 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:56:46,561 - INFO - 
+[279/500] Processing G.R. No. 198083
+2025-12-06 10:56:46,561 - INFO -   Title: Bai Sandra Sinsuat A. Sema vs. Republic of the Philippines...
+2025-12-06 10:56:47,880 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/198083.json
+2025-12-06 10:56:48,381 - INFO - 
+[280/500] Processing G.R. No. 250852
+2025-12-06 10:56:48,381 - INFO -   Title: People of the Philippines vs.  John Francis Sualog...
+2025-12-06 10:56:49,907 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/250852.json
+2025-12-06 10:56:50,408 - INFO - 
+[281/500] Processing G.R. No. 248821
+2025-12-06 10:56:50,408 - INFO -   Title: Philippine National Bank vs. Sps. Pedro Caguimbal and Vivian...
+2025-12-06 10:56:51,085 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/248821.json
+2025-12-06 10:56:51,585 - INFO - 
+[282/500] Processing G.R. No. 200403
+2025-12-06 10:56:51,585 - INFO -   Title: Municipality of Biñan, Laguna, Rogelio V. Lee, Antonio P. Ag...
+2025-12-06 10:56:52,264 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/200403.json
+2025-12-06 10:56:52,764 - INFO - 
+[283/500] Processing G.R. No. 227775
+2025-12-06 10:56:52,764 - INFO -   Title: Eleanor Reyno and Elsa De Vera vs. George Baltazar and Joel ...
+2025-12-06 10:56:53,876 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/227775.json
+2025-12-06 10:56:54,376 - INFO - 
+[284/500] Processing G.R. No. 242722
+2025-12-06 10:56:54,376 - INFO -   Title: Carlos Cereza, Roger Estolonillo, Raymundo Lopez, Yolanda Pa...
+2025-12-06 10:56:55,270 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/242722.json
+2025-12-06 10:56:55,770 - INFO - 
+[285/500] Processing G.R. No. 255264
+2025-12-06 10:56:55,770 - INFO -   Title: Manuel Ong vs. Spouses Rowelito and Amelita Villorente...
+2025-12-06 10:56:56,234 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/255264.json
+2025-12-06 10:56:56,734 - INFO - 
+[286/500] Processing G.R. No. 205641
+2025-12-06 10:56:56,734 - INFO -   Title: Superior General of the Religious of the Virgin Mary (R.V.M....
+2025-12-06 10:56:57,630 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/205641.json
+2025-12-06 10:56:58,130 - INFO - 
+[287/500] Processing G.R. No. 241067
+2025-12-06 10:56:58,130 - INFO -   Title: Raegar B. Ledesma vs. C.F. Sharp Crew Management, Inc. and/o...
+2025-12-06 10:56:59,027 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/241067.json
+2025-12-06 10:56:59,528 - INFO - 
+[288/500] Processing G.R. No. 252230
+2025-12-06 10:56:59,528 - INFO -   Title: People of the Philippines vs. XXX...
+2025-12-06 10:57:00,209 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/252230.json
+2025-12-06 10:57:00,709 - INFO - 
+[289/500] Processing G.R. No. 242837
+2025-12-06 10:57:00,709 - INFO -   Title: Eufrocina Rivera vs. Rolando G. Velasco...
+2025-12-06 10:57:01,173 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/242837.json
+2025-12-06 10:57:01,673 - INFO - 
+[290/500] Processing G.R. No. 260261
+2025-12-06 10:57:01,674 - INFO -   Title: Republic of the Philippines vs. Robiegie Corporation...
+2025-12-06 10:57:02,354 - INFO -   Case already exists: RESTRUCTURED_DB/2022/oct/260261.json
+2025-12-06 10:57:02,855 - INFO - 
+[291/500] Processing G.R. No. 235725
+2025-12-06 10:57:02,855 - INFO -   Title: Joel A. Tapia vs. Ga2 Pharmaceutical, Inc.,...
+2025-12-06 10:57:03,317 - INFO -   Case already exists: RESTRUCTURED_DB/2022/sep/235725.json
+2025-12-06 10:57:03,817 - INFO - 
+[292/500] Processing G.R. No. 227728
+2025-12-06 10:57:03,817 - INFO -   Title: Cesar D. Taruc vs. Angelina D. Maximo, Maricel Buenaventura,...
+2025-12-06 10:57:04,280 - INFO -   Case already exists: RESTRUCTURED_DB/2022/sep/227728.json
+2025-12-06 10:57:04,781 - INFO - 
+[293/500] Processing G.R. No. 219986
+2025-12-06 10:57:04,781 - INFO -   Title: Lawrence Lluch-Cruz Vs Robert L. Ong...
+2025-12-06 10:57:06,187 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:57:06,187 - INFO - 
+[294/500] Processing G.R. No. 202131
+2025-12-06 10:57:06,187 - INFO -   Title: ABS-CBN Ijm Workers Union vs. ABS-CBN Corporation...
+2025-12-06 10:57:06,849 - INFO -   Case already exists: RESTRUCTURED_DB/2022/sep/202131.json
+2025-12-06 10:57:07,349 - INFO - 
+[295/500] Processing G.R. No. 201147
+2025-12-06 10:57:07,350 - INFO -   Title: People of the Philippines vs. Freddie SernadillaConcurring O...
+2025-12-06 10:57:08,312 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:57:08,312 - INFO - 
+[296/500] Processing G.R. No. 242506
+2025-12-06 10:57:08,312 - INFO -   Title: Luis Ramon P. Lorenzo vs. Hon. Sandiganbayan (Sixth Division...
+2025-12-06 10:57:09,263 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:57:09,264 - INFO - 
+[297/500] Processing G.R. No. 225293
+2025-12-06 10:57:09,264 - INFO -   Title: Pioneer Float Glass Manufacturing Inc. vs. Ma. Cecilia G. Na...
+2025-12-06 10:57:09,716 - INFO -   Case already exists: RESTRUCTURED_DB/2022/sep/225293.json
+2025-12-06 10:57:10,216 - INFO - 
+[298/500] Processing G.R. No. 238545
+2025-12-06 10:57:10,217 - INFO -   Title: Unitra Maritime Manila, Inc., Vt Maritime Inc., And/Or Capt....
+2025-12-06 10:57:10,667 - INFO -   Case already exists: RESTRUCTURED_DB/2022/sep/238545.json
+2025-12-06 10:57:11,167 - INFO - 
+[299/500] Processing G.R. No. 251270
+2025-12-06 10:57:11,167 - INFO -   Title: People of the Philippines vs. Third Division, L.M. Camus Eng...
+2025-12-06 10:57:11,620 - INFO -   Case already exists: RESTRUCTURED_DB/2022/sep/251270.json
+2025-12-06 10:57:12,120 - INFO - 
+[300/500] Processing G.R. No. 236659
+2025-12-06 10:57:12,120 - INFO -   Title: Bernard B. Benasa vs. Presentacion R. MahorSeparate Concurri...
+2025-12-06 10:57:12,363 - INFO -   Case already exists: RESTRUCTURED_DB/2022/aug/236659.json
+2025-12-06 10:57:12,863 - INFO - 
+[301/500] Processing G.R. No. 208183
+2025-12-06 10:57:12,863 - INFO -   Title: People of the Philippines vs. Lt. Col. George Abonito Rabusa...
+2025-12-06 10:57:13,317 - INFO -   Case already exists: RESTRUCTURED_DB/2022/aug/208183.json
+2025-12-06 10:57:13,817 - INFO - 
+[302/500] Processing G.R. No. 250367
+2025-12-06 10:57:13,817 - INFO -   Title: People of the Philippines vs. Sulpicio P. Legaspi, Moises R....
+2025-12-06 10:57:14,270 - INFO -   Case already exists: RESTRUCTURED_DB/2022/aug/250367.json
+2025-12-06 10:57:14,770 - INFO - 
+[303/500] Processing G.R. No. 243029
+2025-12-06 10:57:14,770 - INFO -   Title: Tito S. Sarion vs. People of the PhilippinesDissenting Opini...
+2025-12-06 10:57:15,723 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:57:15,723 - INFO - 
+[304/500] Processing G.R. No. 252720
+2025-12-06 10:57:15,723 - INFO -   Title: Rico Palic Conjusta vs. PPI Holdings, Inc. (Formerly Philipp...
+2025-12-06 10:57:15,965 - INFO -   Case already exists: RESTRUCTURED_DB/2022/aug/252720.json
+2025-12-06 10:57:16,465 - INFO - 
+[305/500] Processing G.R. No. 191039
+2025-12-06 10:57:16,465 - INFO -   Title: Arlene Homol y Romorosa vs. People of the Philippines...
+2025-12-06 10:57:16,706 - INFO -   Case already exists: RESTRUCTURED_DB/2022/aug/191039.json
+2025-12-06 10:57:17,206 - INFO - 
+[306/500] Processing G.R. No. 203992
+2025-12-06 10:57:17,206 - INFO -   Title: Antonio S. Quiogue, Jr. vs. Maria Bel B. Quiogue and the Rep...
+2025-12-06 10:57:17,657 - INFO -   Case already exists: RESTRUCTURED_DB/2022/aug/203992.json
+2025-12-06 10:57:18,157 - INFO - 
+[307/500] Processing G.R. No. 230711
+2025-12-06 10:57:18,157 - INFO -   Title: Carolyn T. Mutya-Sumilhig vs. Joselito T. Sumilhig...
+2025-12-06 10:57:18,398 - INFO -   Case already exists: RESTRUCTURED_DB/2022/aug/230711.json
+2025-12-06 10:57:18,899 - INFO - 
+[308/500] Processing G.R. No. 200544
+2025-12-06 10:57:18,899 - INFO -   Title: Ilocos Norte Electric Cooperative vs. Gynthia Gertrudes Andr...
+2025-12-06 10:57:19,355 - INFO -   Case already exists: RESTRUCTURED_DB/2022/aug/200544.json
+2025-12-06 10:57:19,855 - INFO - 
+[309/500] Processing G.R. No. 232600
+2025-12-06 10:57:19,855 - INFO -   Title: China Banking Corporation vs. St. Francis Square Realty Corp...
+2025-12-06 10:57:20,809 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:57:20,809 - INFO - 
+[310/500] Processing G.R. No. 249414
+2025-12-06 10:57:20,809 - INFO -   Title: People of the Philippines vs. Benny Dalaguet...
+2025-12-06 10:57:21,265 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/249414.json
+2025-12-06 10:57:21,766 - INFO - 
+[311/500] Processing G.R. No. 232600
+2025-12-06 10:57:21,766 - INFO -   Title: China Banking Corporation vs. St. Francis Square Realty Corp...
+2025-12-06 10:57:22,717 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:57:22,717 - INFO - 
+[312/500] Processing G.R. No. 234868
+2025-12-06 10:57:22,717 - INFO -   Title: Mario L. Relampagos vs. Office of the Ombudsman...
+2025-12-06 10:57:23,667 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:57:23,667 - INFO - 
+[313/500] Processing G.R. No. 233678
+2025-12-06 10:57:23,667 - INFO -   Title: Cecilia Yulo Locsin substituted by Mr. Leandro Y. Locsin vs....
+2025-12-06 10:57:23,908 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/233678.json
+2025-12-06 10:57:24,409 - INFO - 
+[314/500] Processing G.R. No. 238304
+2025-12-06 10:57:24,409 - INFO -   Title: Charita M. Chan vs. People of the Philippines...
+2025-12-06 10:57:24,650 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/238304.json
+2025-12-06 10:57:25,150 - INFO - 
+[315/500] Processing G.R. No. 207377
+2025-12-06 10:57:25,150 - INFO -   Title: Philippine National Bank vs. Spouses Nestor and Felicidad Vi...
+2025-12-06 10:57:25,392 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/207377.json
+2025-12-06 10:57:25,892 - INFO - 
+[316/500] Processing G.R. No. 191997
+2025-12-06 10:57:25,892 - INFO -   Title: Spouses Marcial Vargas and Elizabeth Vargas vs. Sta. Lucia R...
+2025-12-06 10:57:26,355 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/191997.json
+2025-12-06 10:57:26,855 - INFO - 
+[317/500] Processing G.R. No. 190517
+2025-12-06 10:57:26,855 - INFO -   Title: Metropolitan Bank and Trust Co., vs. Radio Philippines Netwo...
+2025-12-06 10:57:27,098 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/190517.json
+2025-12-06 10:57:27,598 - INFO - 
+[318/500] Processing G.R. No. 254564
+2025-12-06 10:57:27,598 - INFO -   Title: People of the Philippines vs. Erick Montierro y Ventocilla/C...
+2025-12-06 10:57:28,891 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/254564.json
+2025-12-06 10:57:29,392 - INFO - 
+[319/500] Processing G.R. No. 258456
+2025-12-06 10:57:29,392 - INFO -   Title: Giorgidi B. Aggabao and Amelita S. Navarro vs. Commission on...
+2025-12-06 10:57:30,054 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/258456.json
+2025-12-06 10:57:30,554 - INFO - 
+[320/500] Processing G.R. No. 209099
+2025-12-06 10:57:30,554 - INFO -   Title: Gil A. Valera vs. People of the Philippines...
+2025-12-06 10:57:31,505 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:57:31,505 - INFO - 
+[321/500] Processing G.R. No. 254552
+2025-12-06 10:57:31,505 - INFO -   Title: People of the Philippines vs. Rico P. Valdellon, Lorenzo L. ...
+2025-12-06 10:57:32,170 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/254552.json
+2025-12-06 10:57:32,670 - INFO - 
+[322/500] Processing G.R. No. 190509
+2025-12-06 10:57:32,670 - INFO -   Title: Peak Ventures Corporation vs. Secretary of Labor and Employm...
+2025-12-06 10:57:33,122 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/190509.json
+2025-12-06 10:57:33,622 - INFO - 
+[323/500] Processing G.R. No. 250287
+2025-12-06 10:57:33,622 - INFO -   Title: Zeth D. Fepolan vs. Neil F. Fepolan...
+2025-12-06 10:57:34,285 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/250287.json
+2025-12-06 10:57:34,785 - INFO - 
+[324/500] Processing G.R. No. 250618
+2025-12-06 10:57:34,785 - INFO -   Title: Jennifer A. Dedicatoria vs. Ferdinand M. Dedicatoria and Rep...
+2025-12-06 10:57:35,236 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/250618.json
+2025-12-06 10:57:35,736 - INFO - 
+[325/500] Processing G.R. No. 248675
+2025-12-06 10:57:35,737 - INFO -   Title: Claudine Monette Baldovino-Torres vs. Jasper A. Torres...
+2025-12-06 10:57:36,188 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/248675.json
+2025-12-06 10:57:36,688 - INFO - 
+[326/500] Processing G.R. No. 250981
+2025-12-06 10:57:36,688 - INFO -   Title: National Steel Corporation, represented by its duty appointe...
+2025-12-06 10:57:37,139 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/250981.json
+2025-12-06 10:57:37,639 - INFO - 
+[327/500] Processing G.R. No. 238910
+2025-12-06 10:57:37,639 - INFO -   Title: People of the Philippines vs. Perlita Castro Urquico @ Fhey,...
+2025-12-06 10:57:38,092 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/238910.json
+2025-12-06 10:57:38,593 - INFO - 
+[328/500] Processing G.R. No. 226887
+2025-12-06 10:57:38,593 - INFO -   Title: Mariano Malones y Malificio and Edna M. Madarico vs. Sandiga...
+2025-12-06 10:57:39,545 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:57:39,545 - INFO - 
+[329/500] Processing G.R. No. 256141
+2025-12-06 10:57:39,545 - INFO -   Title: Belinda Alexander vs. Spouses Jorge and Hilaria Escalona and...
+2025-12-06 10:57:40,206 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/256141.json
+2025-12-06 10:57:40,706 - INFO - 
+[330/500] Processing G.R. No. 236263
+2025-12-06 10:57:40,706 - INFO -   Title: Oceanmarine Resources Corporation vs. Jenny Rose G. Nedic, o...
+2025-12-06 10:57:41,589 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/236263.json
+2025-12-06 10:57:42,089 - INFO - 
+[331/500] Processing G.R. No. 202897
+2025-12-06 10:57:42,089 - INFO -   Title: Maynilad Water Services, Inc. vs. the Secretary of the Depar...
+2025-12-06 10:57:42,541 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/202897.json
+2025-12-06 10:57:43,041 - INFO - 
+[332/500] Processing G.R. No. 214747
+2025-12-06 10:57:43,041 - INFO -   Title: Nemia T. Magaluna, Anecia C. Pore, Edelyn D. Espejon, Hermes...
+2025-12-06 10:57:43,493 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/214747.json
+2025-12-06 10:57:43,993 - INFO - 
+[333/500] Processing G.R. No. 250479
+2025-12-06 10:57:43,993 - INFO -   Title: Maibarara Geothermal, Inc. vs. Commissioner of Internal Reve...
+2025-12-06 10:57:44,443 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/250479.json
+2025-12-06 10:57:44,943 - INFO - 
+[334/500] Processing G.R. No. 254747
+2025-12-06 10:57:44,943 - INFO -   Title: People of the Philippines vs. Rod Angeles y Manlapaz @ Uro...
+2025-12-06 10:57:45,396 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/254747.json
+2025-12-06 10:57:45,896 - INFO - 
+[335/500] Processing G.R. No. 249178
+2025-12-06 10:57:45,896 - INFO -   Title: Aida Egmalis-Ke-Eg vs. Republic of the Philippines...
+2025-12-06 10:57:46,347 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/249178.json
+2025-12-06 10:57:46,847 - INFO - 
+[336/500] Processing G.R. No. 253930
+2025-12-06 10:57:46,847 - INFO -   Title: Paulo Castil y Alvero vs. People of the Philippines...
+2025-12-06 10:57:47,298 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/253930.json
+2025-12-06 10:57:47,798 - INFO - 
+[337/500] Processing G.R. No. 255934
+2025-12-06 10:57:47,798 - INFO -   Title: Deanna Du vs. Ronald A. Oritle in his capacity as Deputy Adm...
+2025-12-06 10:57:48,249 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/255934.json
+2025-12-06 10:57:48,749 - INFO - 
+[338/500] Processing G.R. No. 249668
+2025-12-06 10:57:48,750 - INFO -   Title: City of Davao and Bella Linda N. Tanjili, in her Official Ca...
+2025-12-06 10:57:49,200 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/249668.json
+2025-12-06 10:57:49,700 - INFO - 
+[339/500] Processing G.R. No. 257450
+2025-12-06 10:57:49,700 - INFO -   Title: Ian Agravante y De Ocavs.People of the Philippines...
+2025-12-06 10:57:50,150 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/257450.json
+2025-12-06 10:57:50,650 - INFO - 
+[340/500] Processing G.R. No. 205836
+2025-12-06 10:57:50,650 - INFO -   Title: Bureau of Customs Employees Association (BOCEA), Represented...
+2025-12-06 10:57:51,100 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/205836.json
+2025-12-06 10:57:51,600 - INFO - 
+[341/500] Processing G.R. No. 247414
+2025-12-06 10:57:51,600 - INFO -   Title: Rolando Magaña Pacuribot vs. Honorable Sandiganbayan(Second ...
+2025-12-06 10:57:52,052 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/245862.json
+2025-12-06 10:57:52,552 - INFO - 
+[342/500] Processing G.R. No. 253287
+2025-12-06 10:57:52,552 - INFO -   Title: People of the Philippines vs. Kenneth John Graham and Jocely...
+2025-12-06 10:57:53,215 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/253287.json
+2025-12-06 10:57:53,716 - INFO - 
+[343/500] Processing G.R. No. 255864
+2025-12-06 10:57:53,716 - INFO -   Title: Universal Robina Corporation vs. Roberto De Guzman Maglalang...
+2025-12-06 10:57:53,957 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/255864.json
+2025-12-06 10:57:54,457 - INFO - 
+[344/500] Processing G.R. No. 187175
+2025-12-06 10:57:54,457 - INFO -   Title: XXX vs. AAA,BBB, and Minor CCC...
+2025-12-06 10:57:55,123 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/187175.json
+2025-12-06 10:57:55,624 - INFO - 
+[345/500] Processing G.R. No. 247414
+2025-12-06 10:57:55,624 - INFO -   Title: Rolando Magaña Pacuribot vs. Honorable Sandiganbayan (Second...
+2025-12-06 10:57:56,074 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/245862.json
+2025-12-06 10:57:56,574 - INFO - 
+[346/500] Processing G.R. No. 249606
+2025-12-06 10:57:56,574 - INFO -   Title: Alicia O. Fernandez, Anthony Joey S. Tan, Reynaldo V. Cesa a...
+2025-12-06 10:57:57,027 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/249606.json
+2025-12-06 10:57:57,527 - INFO - 
+[347/500] Processing G.R. No. 248495
+2025-12-06 10:57:57,527 - INFO -   Title: Engr. Ruben Y. Yu, doing business under the name and style R...
+2025-12-06 10:57:57,978 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/248495.json
+2025-12-06 10:57:58,478 - INFO - 
+[348/500] Processing G.R. No. 235086
+2025-12-06 10:57:58,478 - INFO -   Title: Department of Agrarian Reform vs. Justiniana Itliong, David ...
+2025-12-06 10:57:58,928 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/235086.json
+2025-12-06 10:57:59,428 - INFO - 
+[349/500] Processing G.R. No. 252353
+2025-12-06 10:57:59,428 - INFO -   Title: People of the Philippines vs. Jerrie Arraz y Rodriguez...
+2025-12-06 10:57:59,882 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/252353.json
+2025-12-06 10:58:00,382 - INFO - 
+[350/500] Processing G.R. No. 246780
+2025-12-06 10:58:00,382 - INFO -   Title: People of the Philippines vs. Luisito Enriquez Marty...
+2025-12-06 10:58:01,335 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:01,335 - INFO - 
+[351/500] Processing G.R. No. 238468
+2025-12-06 10:58:01,335 - INFO -   Title: Perlita Mabalo vs. Heirs of Roman Babuyo, represented by Vir...
+2025-12-06 10:58:01,789 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/238468.json
+2025-12-06 10:58:02,289 - INFO - 
+[352/500] Processing G.R. No. 239010
+2025-12-06 10:58:02,289 - INFO -   Title: Securities and Exchange Commission vs. AZ 17/31 Realty, Inc....
+2025-12-06 10:58:02,741 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/239010.json
+2025-12-06 10:58:03,242 - INFO - 
+[353/500] Processing G.R. No. 254412
+2025-12-06 10:58:03,242 - INFO -   Title: People of the Philippines vs. Joel Fandialan y Bernaldez...
+2025-12-06 10:58:03,483 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/254412.json
+2025-12-06 10:58:03,983 - INFO - 
+[354/500] Processing G.R. No. 234365
+2025-12-06 10:58:03,983 - INFO -   Title: Philippine Transmarine Carriers, Inc. and/or Seaspan Crew Ma...
+2025-12-06 10:58:04,435 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/234365.json
+2025-12-06 10:58:04,935 - INFO - 
+[355/500] Processing G.R. No. 212670
+2025-12-06 10:58:04,935 - INFO -   Title: Movie and Television Review and Classfication Board (MTRCB) ...
+2025-12-06 10:58:05,176 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/212670.json
+2025-12-06 10:58:05,677 - INFO - 
+[356/500] Processing G.R. No. 242892
+2025-12-06 10:58:05,677 - INFO -   Title: Apolinario T. Camsol, Anecita C. Suyat, Marcelino Endi, and ...
+2025-12-06 10:58:06,127 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/242892.json
+2025-12-06 10:58:06,628 - INFO - 
+[357/500] Processing G.R. No. 218087
+2025-12-06 10:58:06,628 - INFO -   Title: People of the Philippines vs. XXX...
+2025-12-06 10:58:07,580 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:07,580 - INFO - 
+[358/500] Processing G.R. No. 214290
+2025-12-06 10:58:07,580 - INFO -   Title: Crown Shipping Services/Dolphin Shipmanagement Inc. and/or C...
+2025-12-06 10:58:08,536 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:08,536 - INFO - 
+[359/500] Processing G.R. No. 249410
+2025-12-06 10:58:08,536 - INFO -   Title: Maria Teresa Dino Basa-Egami vs. Dr. Lisa Grace Bersales, in...
+2025-12-06 10:58:09,703 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/249410.json
+2025-12-06 10:58:10,204 - INFO - 
+[360/500] Processing G.R. No. 242866
+2025-12-06 10:58:10,204 - INFO -   Title: Albert K.S. Tan II vs. People of the Philippines...
+2025-12-06 10:58:10,671 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/242866.json
+2025-12-06 10:58:11,172 - INFO - 
+[361/500] Processing G.R. No. 233679
+2025-12-06 10:58:11,172 - INFO -   Title: Adstratworld Holdings, Inc. Judito B. Callao and Judito Dei ...
+2025-12-06 10:58:11,422 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/233679.json
+2025-12-06 10:58:11,922 - INFO - 
+[362/500] Processing G.R. No. 240184
+2025-12-06 10:58:11,922 - INFO -   Title: Musahamat Workers Labor Union-1-Alu vs. Musahamat Farms, Inc...
+2025-12-06 10:58:12,391 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/240184.json
+2025-12-06 10:58:12,891 - INFO - 
+[363/500] Processing G.R. No. 257608
+2025-12-06 10:58:12,891 - INFO -   Title: The Senate of the Philippines vs. the Executive SecretaryCon...
+2025-12-06 10:58:13,359 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/257608.json
+2025-12-06 10:58:13,859 - INFO - 
+[364/500] Processing G.R. No. 213860
+2025-12-06 10:58:13,859 - INFO -   Title: The Philippine Stock Exchange, Inc., Bankers Association of ...
+2025-12-06 10:58:14,333 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/213860.json
+2025-12-06 10:58:14,833 - INFO - 
+[365/500] Processing G.R. No. 215159
+2025-12-06 10:58:14,833 - INFO -   Title: Chevron Holdings, Inc. (formerly Caltex Asia Limited) vs. Co...
+2025-12-06 10:58:15,089 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/215159.json
+2025-12-06 10:58:15,589 - INFO - 
+[366/500] Processing G.R. No. 241348
+2025-12-06 10:58:15,589 - INFO -   Title: Loreto A. Cañaveras and Ofelia B. Cañaveras vs. Judge Jocely...
+2025-12-06 10:58:15,840 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/241348.json
+2025-12-06 10:58:16,340 - INFO - 
+[367/500] Processing G.R. No. 258448
+2025-12-06 10:58:16,340 - INFO -   Title: Wilson Caritero Amad vs. Commission on Elections...
+2025-12-06 10:58:16,590 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/258448.json
+2025-12-06 10:58:17,090 - INFO - 
+[368/500] Processing G.R. No. 243163
+2025-12-06 10:58:17,090 - INFO -   Title: International Exchange Bank (Now Unionbank of the Philippine...
+2025-12-06 10:58:18,076 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:18,076 - INFO - 
+[369/500] Processing G.R. No. 255157
+2025-12-06 10:58:18,076 - INFO -   Title: Onesimo Agapito vs. Marilyn F. Agapito...
+2025-12-06 10:58:19,061 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:19,061 - INFO - 
+[370/500] Processing G.R. No. 249815
+2025-12-06 10:58:19,061 - INFO -   Title: Gloria A. Chico vs. Elsie Ciudadano...
+2025-12-06 10:58:19,528 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/249815.json
+2025-12-06 10:58:20,028 - INFO - 
+[371/500] Processing G.R. No. 206042
+2025-12-06 10:58:20,028 - INFO -   Title: Amalgamated Motors Philippines, Inc. vs. Secretary of the De...
+2025-12-06 10:58:20,497 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jul/206042.json
+2025-12-06 10:58:20,997 - INFO - 
+[372/500] Processing G.R. No. 240202
+2025-12-06 10:58:20,997 - INFO -   Title: Susan B. Villafuerte, Elenita P. Eroy, Larraine L. Abellar, ...
+2025-12-06 10:58:21,983 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:21,983 - INFO - 
+[373/500] Processing G.R. No. 254830
+2025-12-06 10:58:21,983 - INFO -   Title: Engr. Jose S. Dela Cruz vs. First Bukidnon Electric Cooperat...
+2025-12-06 10:58:22,232 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jun/254830.json
+2025-12-06 10:58:22,732 - INFO - 
+[374/500] Processing G.R. No. 242928
+2025-12-06 10:58:22,732 - INFO -   Title: Loue B. Mutia vs. C.F. Sharp Crew Mgt....
+2025-12-06 10:58:23,200 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jun/242928.json
+2025-12-06 10:58:23,700 - INFO - 
+[375/500] Processing G.R. No. 251587
+2025-12-06 10:58:23,700 - INFO -   Title: People of the Philippines vs. Rogelio M. Pimentel and Hermin...
+2025-12-06 10:58:24,685 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:24,685 - INFO - 
+[376/500] Processing G.R. No. 252214
+2025-12-06 10:58:24,685 - INFO -   Title: People of the Philippines vs. Bbb...
+2025-12-06 10:58:24,935 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jun/252214.json
+2025-12-06 10:58:25,435 - INFO - 
+[377/500] Processing G.R. No. 252252
+2025-12-06 10:58:25,435 - INFO -   Title: People of the Philippines vs. Eduardo M. Paguio...
+2025-12-06 10:58:25,684 - INFO -   Case already exists: RESTRUCTURED_DB/2022/jun/252252.json
+2025-12-06 10:58:26,184 - INFO - 
+[378/500] Processing G.R. No. 243477
+2025-12-06 10:58:26,184 - INFO -   Title: Asec Development and Construction Corporation vs. Toyota Ala...
+2025-12-06 10:58:27,170 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:27,170 - INFO - 
+[379/500] Processing G.R. No. 214590
+2025-12-06 10:58:27,170 - INFO -   Title: Estate of Susano J. Rodriguez, represented by its Attorney-i...
+2025-12-06 10:58:27,638 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/214590.json
+2025-12-06 10:58:28,139 - INFO - 
+[380/500] Processing G.R. No. 227655
+2025-12-06 10:58:28,139 - INFO -   Title: Skanfil Maritime Services, Inc., and/or Crown Shipmanagement...
+2025-12-06 10:58:28,606 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/227655.json
+2025-12-06 10:58:29,106 - INFO - 
+[381/500] Processing G.R. No. 229026
+2025-12-06 10:58:29,107 - INFO -   Title: Task Force Abono-Field Investigation Office, Office of the O...
+2025-12-06 10:58:30,091 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:30,091 - INFO - 
+[382/500] Processing G.R. No. 238282
+2025-12-06 10:58:30,091 - INFO -   Title: Joseph T. Soriano vs. People of the Philippines...
+2025-12-06 10:58:30,558 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/238282.json
+2025-12-06 10:58:31,059 - INFO - 
+[383/500] Processing G.R. No. 255656
+2025-12-06 10:58:31,059 - INFO -   Title: Jules King M. Paiton, James C. Adriatico, Isagani M. Ubalde,...
+2025-12-06 10:58:31,308 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/255656.json
+2025-12-06 10:58:31,808 - INFO - 
+[384/500] Processing G.R. No. 217119
+2025-12-06 10:58:31,809 - INFO -   Title: Systems and Plan Integrator and Development Corporation and/...
+2025-12-06 10:58:32,276 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/217119.json
+2025-12-06 10:58:32,776 - INFO - 
+[385/500] Processing G.R. No. 245931
+2025-12-06 10:58:32,776 - INFO -   Title: People of the Philippines vs. Rene Mondejar, et al....
+2025-12-06 10:58:33,762 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:33,762 - INFO - 
+[386/500] Processing G.R. No. 213888
+2025-12-06 10:58:33,762 - INFO -   Title: Heirs of Procopio Borras, namely: Victoriano Borras, Lorenzo...
+2025-12-06 10:58:34,011 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/213888.json
+2025-12-06 10:58:34,511 - INFO - 
+[387/500] Processing G.R. No. 248304
+2025-12-06 10:58:34,511 - INFO -   Title: Marlon Butial Agapito vs. Aeroplus Milti-Services, Inc. and ...
+2025-12-06 10:58:34,979 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/248304.json
+2025-12-06 10:58:35,480 - INFO - 
+[388/500] Processing G.R. No. 241370
+2025-12-06 10:58:35,480 - INFO -   Title: Municipality of Bakun, Benguet, herein represented by Mayor ...
+2025-12-06 10:58:35,729 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/241370.json
+2025-12-06 10:58:36,229 - INFO - 
+[389/500] Processing G.R. No. 213954
+2025-12-06 10:58:36,229 - INFO -   Title: Hannamer C. Pugoy-Solidum vs. Republic of the Philippines...
+2025-12-06 10:58:36,696 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/213954.json
+2025-12-06 10:58:37,196 - INFO - 
+[390/500] Processing G.R. No. 247916
+2025-12-06 10:58:37,196 - INFO -   Title: Radm Cecil R. Chen PCG (Ret.) vs. Field Investigation Bureau...
+2025-12-06 10:58:37,665 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/247916.json
+2025-12-06 10:58:38,165 - INFO - 
+[391/500] Processing G.R. No. 238940
+2025-12-06 10:58:38,165 - INFO -   Title: Antoneita Abella, Mancio Danilo Alegado, Alberto Buca, Auror...
+2025-12-06 10:58:38,633 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/238940.json
+2025-12-06 10:58:39,133 - INFO - 
+[392/500] Processing G.R. No. 244433
+2025-12-06 10:58:39,133 - INFO -   Title: Antonio R. Cruz and Loreto Teresita Cruz-Dimayacyac, as heir...
+2025-12-06 10:58:39,605 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/244433.json
+2025-12-06 10:58:40,105 - INFO - 
+[393/500] Processing G.R. No. 236827
+2025-12-06 10:58:40,105 - INFO -   Title: Elizabeth A. Alberto vs. Jose Luis R. Alberto and Republic o...
+2025-12-06 10:58:40,358 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/236827.json
+2025-12-06 10:58:40,858 - INFO - 
+[394/500] Processing G.R. No. 219755
+2025-12-06 10:58:40,858 - INFO -   Title: Richard N. Wahing, Ronald L. Calago and Pablo P. Mait vs. Sp...
+2025-12-06 10:58:41,326 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/219755.json
+2025-12-06 10:58:41,826 - INFO - 
+[395/500] Processing G.R. No. 201700
+2025-12-06 10:58:41,826 - INFO -   Title: Deutsche Bank AG London, substituted by A & L Fishpond and H...
+2025-12-06 10:58:42,075 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/201700.json
+2025-12-06 10:58:42,576 - INFO - 
+[396/500] Processing G.R. No. 236075
+2025-12-06 10:58:42,576 - INFO -   Title: Marilyn L. Go Ramos-Yeo, Laurence L. Go, and Montgomery L. G...
+2025-12-06 10:58:42,824 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/236075.json
+2025-12-06 10:58:43,325 - INFO - 
+[397/500] Processing G.R. No. 255491
+2025-12-06 10:58:43,325 - INFO -   Title: People of the Philippines vs. XXX...
+2025-12-06 10:58:43,793 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/255491.json
+2025-12-06 10:58:44,293 - INFO - 
+[398/500] Processing G.R. No. 204226
+2025-12-06 10:58:44,293 - INFO -   Title: Bureau of Internal Revenue vs. Tico Insurance Company, Inc.,...
+2025-12-06 10:58:44,762 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/204226.json
+2025-12-06 10:58:45,262 - INFO - 
+[399/500] Processing G.R. No. 197510
+2025-12-06 10:58:45,262 - INFO -   Title: Province of Bataan vs. Hon. Orlando C. Casimiro, in his capa...
+2025-12-06 10:58:46,248 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:46,248 - INFO - 
+[400/500] Processing G.R. No. 252507
+2025-12-06 10:58:46,248 - INFO -   Title: People of the Philippines vs. BBB and XXX...
+2025-12-06 10:58:46,715 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/252507.json
+2025-12-06 10:58:47,215 - INFO - 
+[401/500] Processing G.R. No. 250366
+2025-12-06 10:58:47,215 - INFO -   Title: People of the Philippines vs. Carlos Racadio Asuncion, Mamel...
+2025-12-06 10:58:47,685 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/248701.json
+2025-12-06 10:58:48,185 - INFO - 
+[402/500] Processing G.R. No. 236619
+2025-12-06 10:58:48,185 - INFO -   Title: Heirs of Manuel Eñano, represented by Virgilio A. Bote vs. S...
+2025-12-06 10:58:48,436 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/236619.json
+2025-12-06 10:58:48,937 - INFO - 
+[403/500] Processing G.R. No. 252258
+2025-12-06 10:58:48,937 - INFO -   Title: People of the Philippines vs. Richard R. Enojo...
+2025-12-06 10:58:49,404 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/252258.json
+2025-12-06 10:58:49,904 - INFO - 
+[404/500] Processing G.R. No. 245938
+2025-12-06 10:58:49,904 - INFO -   Title: Cattleya R. Cambil vs. Kabalikat Para Maunlad na Buhay, Inc....
+2025-12-06 10:58:50,373 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/245938.json
+2025-12-06 10:58:50,873 - INFO - 
+[405/500] Processing G.R. No. 254394
+2025-12-06 10:58:50,873 - INFO -   Title: Libertad O. Alameda, D.M.D., Municipal Mayor, Maria Lourdes ...
+2025-12-06 10:58:51,123 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/254394.json
+2025-12-06 10:58:51,624 - INFO - 
+[406/500] Processing G.R. No. 249344
+2025-12-06 10:58:51,624 - INFO -   Title: Westminster Seafarer Management Philippines, Inc. vs. Arnulf...
+2025-12-06 10:58:51,873 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/249344.json
+2025-12-06 10:58:52,374 - INFO - 
+[407/500] Processing G.R. No. 198629
+2025-12-06 10:58:52,374 - INFO -   Title: Republic of the Philippines vs. Efren S. Buenaventura...
+2025-12-06 10:58:52,841 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/198629.json
+2025-12-06 10:58:53,341 - INFO - 
+[408/500] Processing G.R. No. 191611
+2025-12-06 10:58:53,342 - INFO -   Title: Librado M. Cabrera and Fe M. Cabrera vs. People of the Phili...
+2025-12-06 10:58:54,326 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:54,327 - INFO - 
+[409/500] Processing G.R. No. 252940
+2025-12-06 10:58:54,327 - INFO -   Title: Central Bay Reclamation and Development Corporationvs. Commi...
+2025-12-06 10:58:54,794 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/252940.json
+2025-12-06 10:58:55,294 - INFO - 
+[410/500] Processing G.R. No. 230735
+2025-12-06 10:58:55,294 - INFO -   Title: Edgardo M. Paglinawan vs. DOHLE Philman Agency, Inc., and/or...
+2025-12-06 10:58:55,545 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/230735.json
+2025-12-06 10:58:56,045 - INFO - 
+[411/500] Processing G.R. No. 221978
+2025-12-06 10:58:56,045 - INFO -   Title: DMCI Project Developers, Inc. vs. Nelia Bernadas, Noel Batan...
+2025-12-06 10:58:56,513 - INFO -   Case already exists: RESTRUCTURED_DB/2022/apr/221978.json
+2025-12-06 10:58:57,013 - INFO - 
+[412/500] Processing G.R. No. 249351
+2025-12-06 10:58:57,013 - INFO -   Title: Edna Luisa B. Simon vs. the Results Companies and Joselito S...
+2025-12-06 10:58:57,999 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:57,999 - INFO - 
+[413/500] Processing G.R. No. 240187
+2025-12-06 10:58:57,999 - INFO -   Title: Martin R. Buenaflor vs. Federated Distributors, Inc. and Peo...
+2025-12-06 10:58:58,984 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:58:58,984 - INFO - 
+[414/500] Processing G.R. No. 249564
+2025-12-06 10:58:58,984 - INFO -   Title: People of the Philippines vs. Ma. Consuelo Toroba Palma Gil-...
+2025-12-06 10:58:59,454 - INFO -   Case already exists: RESTRUCTURED_DB/2022/mar/239188.json
+2025-12-06 10:58:59,954 - INFO - 
+[415/500] Processing G.R. No. 207853
+2025-12-06 10:58:59,954 - INFO -   Title: Clark Development Corporation, Petitioner, and Governance Co...
+2025-12-06 10:59:00,203 - INFO -   Case already exists: RESTRUCTURED_DB/2022/mar/207853.json
+2025-12-06 10:59:00,703 - INFO - 
+[416/500] Processing G.R. No. 250100
+2025-12-06 10:59:00,703 - INFO -   Title: People of the Philippines vs. Rommel C. Arnado...
+2025-12-06 10:59:01,689 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:01,689 - INFO - 
+[417/500] Processing G.R. No. 207220
+2025-12-06 10:59:01,689 - INFO -   Title: Eric Wu a.k.a. Wu Chun and Daphny Chen vs. People of the Phi...
+2025-12-06 10:59:02,674 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:02,674 - INFO - 
+[418/500] Processing G.R. No. 218068
+2025-12-06 10:59:02,674 - INFO -   Title: Philippine Deposit Insurance Corporation vs. Commission on A...
+2025-12-06 10:59:03,142 - INFO -   Case already exists: RESTRUCTURED_DB/2022/mar/218068.json
+2025-12-06 10:59:03,642 - INFO - 
+[419/500] Processing G.R. No. 214336
+2025-12-06 10:59:03,642 - INFO -   Title: Quirino M. Libunao vs. People of the Philippines...
+2025-12-06 10:59:05,085 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:05,085 - INFO - 
+[420/500] Processing G.R. No. 202029
+2025-12-06 10:59:05,085 - INFO -   Title: Isabelo Cabalhin vs. Spouses Bonifacio Lansuela and Isidra L...
+2025-12-06 10:59:06,060 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:06,060 - INFO - 
+[421/500] Processing G.R. No. 225568
+2025-12-06 10:59:06,060 - INFO -   Title: Lilybeth R. Perez vs. Office of the Ombudsman...
+2025-12-06 10:59:07,035 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:07,035 - INFO - 
+[422/500] Processing G.R. No. 235965
+2025-12-06 10:59:07,035 - INFO -   Title: Rene C. Figueroa vs. Sandiganbayan, Special Third Division, ...
+2025-12-06 10:59:08,012 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:08,013 - INFO - 
+[423/500] Processing G.R. No. 181764
+2025-12-06 10:59:08,013 - INFO -   Title: Maynilad Water Services, Inc. vs.  National Water and Resour...
+2025-12-06 10:59:08,991 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:08,991 - INFO - 
+[424/500] Processing G.R. No. 252965
+2025-12-06 10:59:08,991 - INFO -   Title: Saint Wealth Ltd., as represented by David Buenaventura & An...
+2025-12-06 10:59:09,889 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/252965.json
+2025-12-06 10:59:10,390 - INFO - 
+[425/500] Processing G.R. No. 252007
+2025-12-06 10:59:10,390 - INFO -   Title: Hon. Zaldy Uy Ampatuan, former Regional Governor, Autonomous...
+2025-12-06 10:59:10,638 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/252007.json
+2025-12-06 10:59:11,138 - INFO - 
+[426/500] Processing G.R. No. 219630
+2025-12-06 10:59:11,138 - INFO -   Title: Commissioner of Internal Revenue vs. Taganito Mining Corpora...
+2025-12-06 10:59:12,113 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:12,113 - INFO - 
+[427/500] Processing G.R. No. 196199
+2025-12-06 10:59:12,113 - INFO -   Title: Manila International Ports Terminal, Inc. vs. Philippine Por...
+2025-12-06 10:59:12,580 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/196199.json
+2025-12-06 10:59:13,080 - INFO - 
+[428/500] Processing G.R. No. 251669
+2025-12-06 10:59:13,080 - INFO -   Title: Spouses Marcelo G. Flores and Madelyn Flores vs. Spouses Leo...
+2025-12-06 10:59:13,329 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/251669.json
+2025-12-06 10:59:13,829 - INFO - 
+[429/500] Processing G.R. No. 248643
+2025-12-06 10:59:13,829 - INFO -   Title: Lovelle S. Cariaga vs. the Republic of the Philippines and H...
+2025-12-06 10:59:14,294 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/248643.json
+2025-12-06 10:59:14,794 - INFO - 
+[430/500] Processing G.R. No. 248518
+2025-12-06 10:59:14,794 - INFO -   Title: Janice Maristela-Cuan vs. Marcelino A. Cuan, Jr., and the Re...
+2025-12-06 10:59:15,043 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/248518.json
+2025-12-06 10:59:15,543 - INFO - 
+[431/500] Processing G.R. No. 242087
+2025-12-06 10:59:15,543 - INFO -   Title: Ma. Julieta B. Bendecio and Merlyn Mascariñas vs. Virginia B...
+2025-12-06 10:59:15,792 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/242087.json
+2025-12-06 10:59:16,292 - INFO - 
+[432/500] Processing G.R. No. 217148
+2025-12-06 10:59:16,292 - INFO -   Title: Rapid City Realty and Development Corporation vs. Lourdes Es...
+2025-12-06 10:59:16,540 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/217148.json
+2025-12-06 10:59:17,041 - INFO - 
+[433/500] Processing G.R. No. 252578
+2025-12-06 10:59:17,041 - INFO -   Title: Atty. Howard M. Calleja, et al. vs. Executive Secretary, et ...
+2025-12-06 10:59:18,397 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/252578.json
+2025-12-06 10:59:18,897 - INFO - 
+[434/500] Processing G.R. No. 201631
+2025-12-06 10:59:18,898 - INFO -   Title: Angelina Dayrit, represented by Julie E. Dayrit vs. Jose I. ...
+2025-12-06 10:59:19,147 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/201631.json
+2025-12-06 10:59:19,647 - INFO - 
+[435/500] Processing G.R. No. 246816
+2025-12-06 10:59:19,647 - INFO -   Title: ANGKLA: Ang Partido ng mga Marinong Pilipino, Inc. (ANGKLA),...
+2025-12-06 10:59:19,894 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/246816.json
+2025-12-06 10:59:20,395 - INFO - 
+[436/500] Processing G.R. No. 208912
+2025-12-06 10:59:20,395 - INFO -   Title: Amadea Angela K. Aquino vs. Rodolfo C. Aquino and Abdulah C....
+2025-12-06 10:59:21,080 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/208912.json
+2025-12-06 10:59:21,580 - INFO - 
+[437/500] Processing G.R. No. 200070
+2025-12-06 10:59:21,580 - INFO -   Title: Total Office Products and Services (TOPROS), Inc. vs. John C...
+2025-12-06 10:59:22,556 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:22,556 - INFO - 
+[438/500] Processing G.R. No. 211376
+2025-12-06 10:59:22,556 - INFO -   Title: Power Sector Assets and Liabilities Management Corporation, ...
+2025-12-06 10:59:22,804 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/211376.json
+2025-12-06 10:59:23,304 - INFO - 
+[439/500] Processing G.R. No. 182630
+2025-12-06 10:59:23,304 - INFO -   Title: City of Bacolod City, City Engineering and the Sangguniang P...
+2025-12-06 10:59:23,552 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/182630.json
+2025-12-06 10:59:24,052 - INFO - 
+[440/500] Processing G.R. No. 200434
+2025-12-06 10:59:24,052 - INFO -   Title: Carmela C. Tiangco vs. ABS-CBN Broadcasting Corporation...
+2025-12-06 10:59:24,515 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/200434.json
+2025-12-06 10:59:25,015 - INFO - 
+[441/500] Processing G.R. No. 249500
+2025-12-06 10:59:25,016 - INFO -   Title: People of the Philippines vs. PO2 Rhyan Concepcion y Arguell...
+2025-12-06 10:59:25,264 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/249500.json
+2025-12-06 10:59:25,764 - INFO - 
+[442/500] Processing G.R. No. 249131
+2025-12-06 10:59:25,764 - INFO -   Title: Titus A. Barona vs. People of the Philippines and AAA...
+2025-12-06 10:59:26,012 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/249131.json
+2025-12-06 10:59:26,512 - INFO - 
+[443/500] Processing G.R. No. 191867
+2025-12-06 10:59:26,512 - INFO -   Title: Amlayon Ende and Quezon Ende, Surviving Children and Legitim...
+2025-12-06 10:59:27,194 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/191867.json
+2025-12-06 10:59:27,694 - INFO - 
+[444/500] Processing G.R. No. 219715
+2025-12-06 10:59:27,694 - INFO -   Title: Edward Cumigad y De Castro vs. AAA...
+2025-12-06 10:59:27,944 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/219715.json
+2025-12-06 10:59:28,444 - INFO - 
+[445/500] Processing G.R. No. 213287
+2025-12-06 10:59:28,444 - INFO -   Title: Metropolitan Manila Development Authority, represented by it...
+2025-12-06 10:59:28,691 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/213287.json
+2025-12-06 10:59:29,191 - INFO - 
+[446/500] Processing G.R. No. 211122
+2025-12-06 10:59:29,191 - INFO -   Title: Harbour Centre Port Terminal, Inc. vs. Hon. Armand C. Arreza...
+2025-12-06 10:59:29,658 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/211122.json
+2025-12-06 10:59:30,158 - INFO - 
+[447/500] Processing G.R. No. 222908
+2025-12-06 10:59:30,158 - INFO -   Title: Patricia Q. Austria-Carreon vs. Luis Emmanuel G. Carreon and...
+2025-12-06 10:59:30,406 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/222908.json
+2025-12-06 10:59:30,907 - INFO - 
+[448/500] Processing G.R. No. 224052
+2025-12-06 10:59:30,907 - INFO -   Title: Agdao Landless Residents Association, Inc. vs. Jimmy Eugenio...
+2025-12-06 10:59:31,155 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/224052.json
+2025-12-06 10:59:31,655 - INFO - 
+[449/500] Processing G.R. No. 240671
+2025-12-06 10:59:31,655 - INFO -   Title: Eastern Heights Investment and Development Corporation vs. T...
+2025-12-06 10:59:32,117 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/240671.json
+2025-12-06 10:59:32,617 - INFO - 
+[450/500] Processing G.R. No. 204778
+2025-12-06 10:59:32,617 - INFO -   Title: Khoo Boo Boon, Petitioner, vs. Belle Corporation, Respondent...
+2025-12-06 10:59:33,081 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/204778.json
+2025-12-06 10:59:33,581 - INFO - 
+[451/500] Processing G.R. No. 233839
+2025-12-06 10:59:33,581 - INFO -   Title: People of the Philippines vs. Zulkifli/Julkifi @ Donis/Doni ...
+2025-12-06 10:59:34,044 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/233839.json
+2025-12-06 10:59:34,544 - INFO - 
+[452/500] Processing G.R. No. 254328
+2025-12-06 10:59:34,544 - INFO -   Title: Andrew N. Baysa vs. Marietta V. Santos...
+2025-12-06 10:59:34,791 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/254328.json
+2025-12-06 10:59:35,292 - INFO - 
+[453/500] Processing G.R. No. 229506
+2025-12-06 10:59:35,292 - INFO -   Title: People of the Philippines vs. Sonny Encinas y Salinas...
+2025-12-06 10:59:35,753 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/229506.json
+2025-12-06 10:59:36,253 - INFO - 
+[454/500] Processing G.R. No. 214426
+2025-12-06 10:59:36,253 - INFO -   Title: Rolen Peñaranda vs. People of the Philippines...
+2025-12-06 10:59:36,715 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/214426.json
+2025-12-06 10:59:37,215 - INFO - 
+[455/500] Processing G.R. No. 220674
+2025-12-06 10:59:37,215 - INFO -   Title: Sefyan Abdelhakim Mohamed a.k.a. Sefyan Abdelhakim Mohamed H...
+2025-12-06 10:59:37,678 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/220674.json
+2025-12-06 10:59:38,178 - INFO - 
+[456/500] Processing G.R. No. 211443
+2025-12-06 10:59:38,178 - INFO -   Title: East Asia Utilities Corp., Rogelio Q. Lim, Macario P. Balali...
+2025-12-06 10:59:38,424 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/211443.json
+2025-12-06 10:59:38,924 - INFO - 
+[457/500] Processing G.R. No. 210488
+2025-12-06 10:59:38,924 - INFO -   Title: Jose Miguel T. Arroyo vs. the Hon. Sandiganbayan  Fifth Div...
+2025-12-06 10:59:39,388 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/210488.json
+2025-12-06 10:59:39,888 - INFO - 
+[458/500] Processing G.R. No. 206579
+2025-12-06 10:59:39,888 - INFO -   Title: People of the Philippines vs. Gloria F. Tuyay...
+2025-12-06 10:59:40,136 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/206579.json
+2025-12-06 10:59:40,636 - INFO - 
+[459/500] Processing G.R. No. 240163
+2025-12-06 10:59:40,636 - INFO -   Title: Department of Finance (DOF), represented by its Secretary an...
+2025-12-06 10:59:41,099 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/238263.json
+2025-12-06 10:59:41,599 - INFO - 
+[460/500] Processing G.R. No. 221347
+2025-12-06 10:59:41,599 - INFO -   Title: Kolin Electronics Cp., Inc. vs. Taiwan Kolin Corp. Ltd./Taiw...
+2025-12-06 10:59:42,063 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/221347.json
+2025-12-06 10:59:42,563 - INFO - 
+[461/500] Processing G.R. No. 235316
+2025-12-06 10:59:42,563 - INFO -   Title: Municipality of Makati (Now City of Makati) vs. Municipality...
+2025-12-06 10:59:43,032 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/235316.json
+2025-12-06 10:59:43,532 - INFO - 
+[462/500] Processing G.R. No. 231538
+2025-12-06 10:59:43,532 - INFO -   Title: Judith B. Cardenas, Jimmy L. Clerigo, Diego E. Santiago, Jos...
+2025-12-06 10:59:44,506 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:44,506 - INFO - 
+[463/500] Processing G.R. No. 225299
+2025-12-06 10:59:44,507 - INFO -   Title: Bank of Commerce, vs. DHN Consturction and Development Corpo...
+2025-12-06 10:59:44,754 - INFO -   Case already exists: RESTRUCTURED_DB/2021/dec/225299.json
+2025-12-06 10:59:45,254 - INFO - 
+[464/500] Processing G.R. No. 250128
+2025-12-06 10:59:45,254 - INFO -   Title: People of the Philippines vs. Jay Cordial Y Brez...
+2025-12-06 10:59:45,502 - INFO -   Case already exists: RESTRUCTURED_DB/2021/nov/250128.json
+2025-12-06 10:59:46,003 - INFO - 
+[465/500] Processing G.R. No. 225154
+2025-12-06 10:59:46,003 - INFO -   Title: J.R. Nereus O. Acosta and Socorro O. Acosta vs. People of th...
+2025-12-06 10:59:46,978 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:46,978 - INFO - 
+[466/500] Processing G.R. No. 254596
+2025-12-06 10:59:46,978 - INFO -   Title: Lesther S. Barretto, Ronn Vincent H. Arevalo, Richard Irish ...
+2025-12-06 10:59:47,952 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:47,952 - INFO - 
+[467/500] Processing G.R. No. 202177
+2025-12-06 10:59:47,952 - INFO -   Title: BW Shipping Philippines, Inc., BW Gas ASA/Norway and/or Rola...
+2025-12-06 10:59:48,199 - INFO -   Case already exists: RESTRUCTURED_DB/2021/nov/202177.json
+2025-12-06 10:59:48,699 - INFO - 
+[468/500] Processing G.R. No. 202305
+2025-12-06 10:59:48,699 - INFO -   Title: Cagayan De Oro City Water District, represented by its Gener...
+2025-12-06 10:59:49,674 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:49,675 - INFO - 
+[469/500] Processing G.R. No. 230642
+2025-12-06 10:59:49,675 - INFO -   Title: Oscar B. Pimentel, Errol B. Comafay, Jr., Rene B. Gorospe, e...
+2025-12-06 10:59:50,357 - INFO -   Case already exists: RESTRUCTURED_DB/2021/nov/230642.json
+2025-12-06 10:59:50,857 - INFO - 
+[470/500] Processing G.R. No. 231495
+2025-12-06 10:59:50,857 - INFO -   Title: Bcd Foreign Exchange Corp. vs. Republic of the Philippines, ...
+2025-12-06 10:59:51,104 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/231495.json
+2025-12-06 10:59:51,604 - INFO - 
+[471/500] Processing G.R. No. 241872
+2025-12-06 10:59:51,604 - INFO -   Title: Mark Anthony Nieto and Filemon Vicente, Petitioners, vs. Peo...
+2025-12-06 10:59:51,851 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/241872.json
+2025-12-06 10:59:52,351 - INFO - 
+[472/500] Processing G.R. No. 193728
+2025-12-06 10:59:52,352 - INFO -   Title: Patria C. Gutierrez, Petitioner, vs. Flo Water Resources [Il...
+2025-12-06 10:59:52,599 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/193728.json
+2025-12-06 10:59:53,099 - INFO - 
+[473/500] Processing G.R. No. 238322
+2025-12-06 10:59:53,099 - INFO -   Title: Metro Iloilo Water District, Petitioner, vs. Flo Water Resou...
+2025-12-06 10:59:53,346 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/238322.json
+2025-12-06 10:59:53,846 - INFO - 
+[474/500] Processing G.R. No. 227403
+2025-12-06 10:59:53,846 - INFO -   Title: People of the Philippines, Plaintiff-appellee, vs. Chih Chie...
+2025-12-06 10:59:54,308 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/227403.json
+2025-12-06 10:59:54,808 - INFO - 
+[475/500] Processing G.R. No. 199284
+2025-12-06 10:59:54,808 - INFO -   Title: Jose S. Ramiscal, Jr. vs. People of the Philippines/Manuel S...
+2025-12-06 10:59:55,782 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:55,782 - INFO - 
+[476/500] Processing G.R. No. 233892
+2025-12-06 10:59:55,782 - INFO -   Title: SPO4 Ma. Linda A. Padojinog vs. Field Investigation Office-O...
+2025-12-06 10:59:56,245 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/233892.json
+2025-12-06 10:59:56,745 - INFO - 
+[477/500] Processing G.R. No. 254269
+2025-12-06 10:59:56,745 - INFO -   Title: PO2 Randolph Cambe vs. People of the Philippines/Anthony Cac...
+2025-12-06 10:59:57,211 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/254269.json
+2025-12-06 10:59:57,711 - INFO - 
+[478/500] Processing G.R. No. 248202
+2025-12-06 10:59:57,711 - INFO -   Title: People of the Philippines vs. Leonardo Macalindong y Andallo...
+2025-12-06 10:59:58,173 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/248202.json
+2025-12-06 10:59:58,673 - INFO - 
+[479/500] Processing G.R. No. 235274
+2025-12-06 10:59:58,673 - INFO -   Title: Humphrey T. Moteroso vs. Special Panel No. 13-01-IAB, repres...
+2025-12-06 10:59:59,648 - WARNING -   ✗ Could not fetch case from any URL
+2025-12-06 10:59:59,648 - INFO - 
+[480/500] Processing G.R. No. 219876
+2025-12-06 10:59:59,648 - INFO -   Title: Jaime V. Serrano vs. Fact-Finding Investigation Bureau, Offi...
+2025-12-06 11:00:00,110 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/219876.json
+2025-12-06 11:00:00,610 - INFO - 
+[481/500] Processing G.R. No. 247985
+2025-12-06 11:00:00,610 - INFO -   Title: Raphy Valdez De Silva vs. Donald De Silva and Republic of th...
+2025-12-06 11:00:01,073 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/247985.json
+2025-12-06 11:00:01,574 - INFO - 
+[482/500] Processing G.R. No. 222822
+2025-12-06 11:00:01,574 - INFO -   Title: Stefani C. Saño vs. Subic Bay Metropolitan Authority...
+2025-12-06 11:00:01,821 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/222822.json
+2025-12-06 11:00:02,321 - INFO - 
+[483/500] Processing G.R. No. 213499
+2025-12-06 11:00:02,321 - INFO -   Title: Santos Ventura Hocorma Foundation, Inc. vs. Domingo M. Manal...
+2025-12-06 11:00:03,570 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/213499.json
+2025-12-06 11:00:04,070 - INFO - 
+[484/500] Processing G.R. No. 228904
+2025-12-06 11:00:04,070 - INFO -   Title: Philippine National Bank vs. AIC Construction Corporation, S...
+2025-12-06 11:00:04,533 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/228904.json
+2025-12-06 11:00:05,033 - INFO - 
+[485/500] Processing G.R. No. 224610
+2025-12-06 11:00:05,033 - INFO -   Title: Vines Realty Corporation vs. Rodel Ret...
+2025-12-06 11:00:05,496 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/224610.json
+2025-12-06 11:00:05,996 - INFO - 
+[486/500] Processing G.R. No. 242977
+2025-12-06 11:00:05,996 - INFO -   Title: Jose Apolinario, Jr. y Llauder vs. People of the Philippines...
+2025-12-06 11:00:06,461 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/242977.json
+2025-12-06 11:00:06,961 - INFO - 
+[487/500] Processing G.R. No. 193728
+2025-12-06 11:00:06,962 - INFO -   Title: Patria C. Gutierrez vs. People of the Philippines...
+2025-12-06 11:00:07,212 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/193728.json
+2025-12-06 11:00:07,712 - INFO - 
+[488/500] Processing G.R. No. 217915
+2025-12-06 11:00:07,712 - INFO -   Title: The National Tobacco Administration (NTA), represented by Ms...
+2025-12-06 11:00:08,176 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/217915.json
+2025-12-06 11:00:08,677 - INFO - 
+[489/500] Processing G.R. No. 210314
+2025-12-06 11:00:08,677 - INFO -   Title: Bangko Sentral ng Pilipinas vs. the Commission on AuditConcu...
+2025-12-06 11:00:09,144 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/210314.json
+2025-12-06 11:00:09,644 - INFO - 
+[490/500] Processing G.R. No. 247677
+2025-12-06 11:00:09,644 - INFO -   Title: Belina A. Concepcion vs. the Field Investigation Office, Off...
+2025-12-06 11:00:09,891 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/247677.json
+2025-12-06 11:00:10,392 - INFO - 
+[491/500] Processing G.R. No. 246356
+2025-12-06 11:00:10,392 - INFO -   Title: Republic of the Philippines, represented by the Department o...
+2025-12-06 11:00:10,639 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/246356.json
+2025-12-06 11:00:11,139 - INFO - 
+[492/500] Processing G.R. No. 249616
+2025-12-06 11:00:11,139 - INFO -   Title: Roberto M. Mecaydor, et al. vs. Saekyung Realty Corporation/...
+2025-12-06 11:00:11,602 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/249616.json
+2025-12-06 11:00:12,102 - INFO - 
+[493/500] Processing G.R. No. 247501
+2025-12-06 11:00:12,102 - INFO -   Title: People of the Philippines vs. Romeo Carcueva Togon, Jr....
+2025-12-06 11:00:12,565 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/247501.json
+2025-12-06 11:00:13,065 - INFO - 
+[494/500] Processing G.R. No. 226167
+2025-12-06 11:00:13,065 - INFO -   Title: Dominador G. Marzan vs. People of the Philippines...
+2025-12-06 11:00:13,312 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/226167.json
+2025-12-06 11:00:13,812 - INFO - 
+[495/500] Processing G.R. No. 218311
+2025-12-06 11:00:13,812 - INFO -   Title: Dolores Gallevo Rodriguez, substituting her late husband Edg...
+2025-12-06 11:00:14,276 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/218311.json
+2025-12-06 11:00:14,777 - INFO - 
+[496/500] Processing G.R. No. 230648
+2025-12-06 11:00:14,777 - INFO -   Title: National Power Corporation vs. the Province of Pampanga and ...
+2025-12-06 11:00:15,239 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/230648.json
+2025-12-06 11:00:15,739 - INFO - 
+[497/500] Processing G.R. No. 249843
+2025-12-06 11:00:15,739 - INFO -   Title: Ascent Skills Human Resources Services, Inc., Priscilla K. V...
+2025-12-06 11:00:15,987 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/249843.json
+2025-12-06 11:00:16,487 - INFO - 
+[498/500] Processing G.R. No. 194931
+2025-12-06 11:00:16,487 - INFO -   Title: FLB Construction, Fidel Bermudez, and Marly Bermudez vs. Sus...
+2025-12-06 11:00:16,733 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/194931.json
+2025-12-06 11:00:17,233 - INFO - 
+[499/500] Processing G.R. No. 243874
+2025-12-06 11:00:17,233 - INFO -   Title: Evangeline C. Descallar, Patricia Marie C. Descallar, and Al...
+2025-12-06 11:00:17,697 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/243874.json
+2025-12-06 11:00:18,197 - INFO - 
+[500/500] Processing G.R. No. 242017
+2025-12-06 11:00:18,197 - INFO -   Title: People of the Philippines vs. Jr S. Macarona and Meloy M. Ma...
+2025-12-06 11:00:18,659 - INFO -   Case already exists: RESTRUCTURED_DB/2021/oct/242017.json
+2025-12-06 11:00:19,159 - INFO - 
+================================================================================
+2025-12-06 11:00:19,159 - INFO - BATCH COMPLETE
+2025-12-06 11:00:19,159 - INFO - ================================================================================
+2025-12-06 11:00:19,159 - INFO - Cases attempted: 500
+2025-12-06 11:00:19,159 - INFO - Successfully scraped: 0
+2025-12-06 11:00:19,160 - INFO - Already existed: 425
+2025-12-06 11:00:19,160 - INFO - Failed: 75
+2025-12-06 11:00:19,160 - INFO - Success rate: 0.0%
+2025-12-06 11:00:19,160 - INFO - ================================================================================
