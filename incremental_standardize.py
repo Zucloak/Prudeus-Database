@@ -10,27 +10,48 @@ logging.basicConfig(level=logging.INFO, format='%(message)s')
 logger = logging.getLogger(__name__)
 
 DB_DIR = "RESTRUCTURED_DB"
-LIMIT = 80  # Safe limit per run
+LIMIT = 50  # Safe limit per run
 
 def clean_gr_number_for_filename(gr_number):
+    # Try to extract number from patterns like gr_l-1441_1903 or L-1441
+
+    # Pattern 1: gr_l-1441_1903 -> 1441
+    match = re.search(r'gr_l-(\d+)_', gr_number, re.IGNORECASE)
+    if match:
+        return match.group(1)
+
+    # Pattern 2: L-1441 -> 1441
+    match = re.search(r'\bL-(\d+)\b', gr_number, re.IGNORECASE)
+    if match:
+        return match.group(1)
+
+    # Pattern 3: Just remove G.R. No. and cleanup
     gr_number = re.sub(r'G\.?R\.? ?No\.? ?', '', gr_number, flags=re.IGNORECASE)
     gr_number = gr_number.replace('/', '_')
     gr_number = re.sub(r'[<>:"\\|?*]', '', gr_number)
     gr_number = gr_number.strip()
+
+    # If it ends up as just digits, great. If it has suffix, keep it.
     return gr_number
 
 def standardize_title(title):
     if not title:
         return ""
     title = title.strip()
+    # Remove prefix like G.R. No. ...
     match = re.match(r'^G\.?R\.? ?No\.? ?[\w\d\-\/_\.]+[ ,]+(.*)', title, re.IGNORECASE)
     if match:
         title = match.group(1).strip()
+
+    # Clean whitespace
     title = re.sub(r'\s+', ' ', title)
+
+    # Standardize vs.
     title = re.sub(r'\s+vs\.?\s+', ' vs. ', title, flags=re.IGNORECASE)
     title = re.sub(r'\s+v\.?\s+', ' vs. ', title, flags=re.IGNORECASE)
     title = re.sub(r'\s+versus\s+', ' vs. ', title, flags=re.IGNORECASE)
 
+    # Uppercase parties
     parts = title.split(" vs. ")
     parts = [p.upper() for p in parts]
     title = " vs. ".join(parts)
@@ -54,22 +75,41 @@ def process_file(filepath, year, month):
             modified = True
 
         # 2. Fix GR Number and Filename
-        gr_number = data.get("gr_number")
-        if not gr_number:
-            if data.get("case_number"):
+        gr_number = data.get("gr_number", "")
+
+        # Infer GR number if missing or looks like a raw filename
+        if not gr_number or "gr_l-" in gr_number.lower():
+            if data.get("case_number") and "gr_l-" not in data["case_number"].lower():
                 gr_number = clean_gr_number_for_filename(data["case_number"])
             else:
+                # Try from filename
                 base_name = os.path.splitext(os.path.basename(filepath))[0]
-                if base_name.startswith("G_R_No"):
-                    gr_number = base_name.replace("G_R_No__", "").replace("_", "")
-                else:
-                    gr_number = base_name
-            data["gr_number"] = gr_number
-            modified = True
+                gr_number = clean_gr_number_for_filename(base_name)
 
-        if not data.get("case_number"):
-            data["case_number"] = f"G.R. No. {gr_number}"
-            modified = True
+            # If still bad, try extraction from content
+            if not gr_number or "gr_l-" in gr_number.lower():
+                content = data.get("formatted_case_content", "")
+                match = re.search(r'G\.?R\.? ?No\.? ?(L-)?(\d+)', content, re.IGNORECASE)
+                if match:
+                    gr_number = match.group(2)
+
+            if gr_number:
+                data["gr_number"] = gr_number
+                modified = True
+        else:
+            # Even if it exists, maybe clean it?
+            clean = clean_gr_number_for_filename(gr_number)
+            if clean != gr_number:
+                data["gr_number"] = clean
+                modified = True
+
+        # Ensure case_number
+        if not data.get("case_number") or data["case_number"] == data.get("gr_number"):
+             # If case_number is just the number, maybe add prefix?
+             # User example had "G.R. No. 1114".
+             if data["gr_number"] and str(data["gr_number"]).isdigit():
+                 data["case_number"] = f"G.R. No. {data['gr_number']}"
+                 modified = True
 
         # 3. Standardize Title
         title = data.get("title", "")
@@ -101,10 +141,12 @@ def process_file(filepath, year, month):
             modified = True
 
         # 5. Filename check
-        clean_gr = clean_gr_number_for_filename(data["gr_number"])
-        if data["gr_number"] != clean_gr:
-             data["gr_number"] = clean_gr
-             modified = True
+        # Use the (potentially updated) gr_number for filename
+        clean_gr = clean_gr_number_for_filename(data.get("gr_number", ""))
+
+        # Make sure we have a valid filename
+        if not clean_gr:
+             clean_gr = f"unknown_{os.path.basename(filepath)}"
 
         expected_filename = f"{clean_gr}.json"
 
@@ -122,7 +164,9 @@ def process_file(filepath, year, month):
                 os.rename(filepath, new_filepath)
                 renamed = True
             else:
-                pass
+                # collision, don't overwrite if it's a different file
+                if new_filepath != filepath:
+                    pass
 
         return modified or renamed
     except Exception as e:
